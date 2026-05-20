@@ -1,0 +1,35 @@
+name: Tự động cập nhật Link Bóng Đá
+
+on:
+  schedule:
+    # Cứ mỗi 30 phút hệ thống sẽ tự chạy (Tính theo giờ UTC)
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Nút bấm để bạn có thể kích hoạt chạy bằng tay bất cứ lúc nào
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout mã nguồn
+      uses: actions/checkout@v3
+
+    - name: Cài đặt Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Cài đặt thư viện cần thiết
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Chạy file cào dữ liệu
+      run: python crawl.py
+
+    - name: Tự động Lưu và Đẩy file channels.json mới lên Github
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add channels.json
+        git commit -m "Cập nhật link mới tự động [Skip CI]" || exit 0
+        git push

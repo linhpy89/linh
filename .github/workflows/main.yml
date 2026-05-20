@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Chạy file cào dữ liệu
-      run: python crawl.py
+      run: python craw.py
 
     - name: Tự động Lưu và Đẩy file channels.json mới lên Github
       run: |

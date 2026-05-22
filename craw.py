@@ -14,7 +14,7 @@ session.headers.update(HEADERS)
 
 def fetch_json(url):
     try:
-        r = session.get(url, timeout=10)
+        r = session.get(url, timeout=12) # Tăng timeout lên 12s để tránh mất cấu trúc API khi mạng chậm
         if r.status_code == 200:
             return r.json()
     except Exception as e:
@@ -63,7 +63,7 @@ def pick_stream(streams):
                 m3u8 = url
     return m3u8_hd or m3u8
 
-# ================= API STANDARD (HỘI QUÁN, THIÊN ĐÌNH, XAY CON) =================
+# ================= API STANDARD =================
 def process_standard(url, group):
     out = []
     data = fetch_json(url)
@@ -80,16 +80,14 @@ def process_standard(url, group):
             if not stream:
                 continue
             
-            # Lấy tên BLV từ API nguồn Standard
             blv_name = comm.get("name") or "Đang cập nhật"
-
             out.append({
                 "time": dt,
                 "group": group,
                 "title": f'{dt.strftime("%H:%M")} | {item.get("title")}',
                 "logo": item.get("homeTeam", {}).get("logoUrl", ""),
                 "url": stream,
-                "commentator": blv_name # Thêm trường lưu tên BLV
+                "commentator": blv_name
             })
             break
     return out
@@ -104,9 +102,7 @@ def process_vongcam():
         if not url or ".m3u8" not in url:
             continue
         
-        # Lấy tên BLV từ API Vòng Cấm
         blv_name = comm.get("name") or "VÒNG CẤM TV"
-
         out.append({
             "time": datetime.now(),
             "group": "VÒNG CẤM TV",
@@ -133,7 +129,6 @@ def process_cala_tv():
         for s in streams:
             if s.get("playStreamAddress2") and ".m3u8" in s["playStreamAddress2"]:
                 stream_url = s["playStreamAddress2"]
-                # Lấy nickName của BLV đang live trận này
                 blv_name = s.get("nickName") or "CO LA TV"
                 break
         if not stream_url:
@@ -174,9 +169,7 @@ def process_tamquoc_tv():
         if not stream_url or ".m3u8" not in stream_url:
             continue
             
-        # Lấy tên BLV từ API Tam Quốc
         blv_name = commentator.get("name") or "TAM QUOC TV"
-
         out.append({
             "time": dt,
             "group": "TAM QUOC TV",
@@ -212,9 +205,7 @@ def process_chuoichien_tv():
         away = item.get("teams", {}).get("away", {})
         for group_key in ["blvs", "blvs_bonglau"]:
             for c in item.get(group_key, []):
-                # Lấy tên BLV từ Chuối Chiên TV
                 blv_name = c.get("name") or "CHUOI CHIEN TV"
-                
                 for s in c.get("streams", []):
                     url = s.get("url")
                     label = s.get("label", "").upper()
@@ -249,7 +240,7 @@ def load_fpt_sport(url):
                     "title": title if title else "FPT SPORT",
                     "logo": "",
                     "url": line.strip(),
-                    "commentator": "FPT SPORT" # Nguồn sạch không có tên BLV riêng lẻ
+                    "commentator": "FPT SPORT"
                 })
     except Exception as e:
         print(f"Error loading FPT Sport: {e}")
@@ -273,7 +264,7 @@ def write_m3u_files(full_data, working_data):
 
     print(f"[+] M3U Exported - Full: {len(full_data)} channels | Live TV: {len(working_data)} channels")
 
-# ================= CONVERT TO JSON (FIXED BLV) =================
+# ================= CONVERT TO JSON (FIXED ORDER) =================
 def write_json(valid_data):
     output = {
         "id": "channels",
@@ -295,9 +286,35 @@ def write_json(valid_data):
         "groups": []
     }
 
+    # ĐỊNH NGHĨA THỨ TỰ NHÓM XUẤT HIỆN THEO ĐÚNG Ý BẠN
+    # Bạn muốn đưa nhà đài nào lên trước chỉ cần thay đổi vị trí chuỗi trong list này:
+    ORDERED_GROUPS = [
+        "HỘI QUÁN",
+        "XAY CON",
+        "THIÊN ĐÌNH",
+        "VÒNG CẤM TV",
+        "TAM QUỐC TV",
+        "COLA TV",
+        "CHUOICHIEN TV",
+        "FPT SPORT"
+    ]
+
     groups_map = {}
+    # Khởi tạo sẵn cấu trúc group dựa trên danh sách thứ tự cố định ở trên
+    for group_id in ORDERED_GROUPS:
+        groups_map[group_id] = {
+            "id": group_id.lower().replace(" ", "-"),
+            "name": f"🔴 {group_id}",
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": False,
+            "channels": []
+        }
+
     for item in valid_data:
         group_id = item["group"]
+        
+        # Nếu có group lạ nằm ngoài danh sách định sẵn thì tạo mới tạm thời ở dưới cùng
         if group_id not in groups_map:
             groups_map[group_id] = {
                 "id": group_id.lower().replace(" ", "-"),
@@ -311,8 +328,6 @@ def write_json(valid_data):
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
         channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
-        
-        # Lấy tên BLV từ dữ liệu đã cào để đưa vào JSON thay cho chữ "F" cũ
         blv_display_name = item.get("commentator", "Đang Live")
 
         channel = {
@@ -343,7 +358,7 @@ def write_json(valid_data):
                     "name": item["title"],
                     "streams": [{
                         "id": channel_id,
-                        "name": blv_display_name,  # <--- ĐÃ FIX: Chữ "F" được thay bằng tên BLV cụ thể (Ví dụ: "BLV Captain", "BLV Sương"...)
+                        "name": blv_display_name,
                         "stream_links": [{
                             "id": "lnk-1",
                             "name": "Link 1",
@@ -357,12 +372,23 @@ def write_json(valid_data):
         }
         groups_map[group_id]["channels"].append(channel)
 
-    output["groups"] = list(groups_map.values())
+    # Lọc bỏ các group trống (không cào được trận nào tại thời điểm chạy) để file JSON luôn sạch
+    final_groups = []
+    for group_id in ORDERED_GROUPS:
+        if groups_map[group_id]["channels"]:
+            final_groups.append(groups_map[group_id])
+            
+    # Thêm nốt các group phát sinh (nếu có)
+    for group_id, group_data in groups_map.items():
+        if group_id not in ORDERED_GROUPS and group_data["channels"]:
+            final_groups.append(group_data)
+
+    output["groups"] = final_groups
 
     with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("[+] JSON file channels.json đã được cập nhật tên BLV thành công ✔")
+    print("[+] JSON file channels.json đã được thiết lập đúng thứ tự ưu tiên ✔")
 
 # ================= MAIN =================
 if __name__ == "__main__":

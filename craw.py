@@ -272,7 +272,7 @@ def write_files(data):
 # ================= CONVERT TO JSON=================
 def write_json(data):
     output = {
-        "id": "tonghop",
+        "id": "channels",
         "url": "https://tinyurl.com/thapcam",
         "name": "Tổng Hợp TV",
         "color": "#1cb57a",
@@ -354,7 +354,7 @@ def write_json(data):
 
     output["groups"] = list(groups_map.values())
 
-    with open("tonghop.json", "w", encoding="utf-8") as f:
+    with open("channels.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("JSON file channels.json đã được tạo ✔")

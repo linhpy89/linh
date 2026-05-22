@@ -277,8 +277,8 @@ def write_m3u_files(full_data, working_data):
 def write_json(valid_data):
     output = {
         "id": "channels",
-        "url": "https://tinyurl.com/thapcam",
-        "name": "Tổng Hợp TV",
+        "url": "https://vanlinh.io.vn",
+        "name": "VLINH-TV",
         "color": "#1cb57a",
         "grid_number": 3,
         "image": {
@@ -289,7 +289,7 @@ def write_json(valid_data):
             "closeable": True,
             "icon": "https://kaytee1012.github.io/pngegg.png",
             "id": "notice",
-            "link": "https://t.me/dqstore1",
+            "link": "https://t.me/",
             "text": "Nhóm Tele"
         },
         "groups": []

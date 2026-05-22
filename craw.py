@@ -273,8 +273,8 @@ def write_files(data):
 def write_json(data):
     output = {
         "id": "channels",
-        "url": "https://tinyurl.com/thapcam",
-        "name": "Tổng Hợp TV",
+        "url": "https://vanlinh.io.vn",
+        "name": "ALL-TV",
         "color": "#1cb57a",
         "grid_number": 3,
         "image": {
@@ -285,7 +285,7 @@ def write_json(data):
             "closeable": True,
             "icon": "https://kaytee1012.github.io/pngegg.png",
             "id": "notice",
-            "link": "https://t.me/dqstore1",
+            "link": "https://t.me/",
             "text": "Nhóm Tele"
         },
         "groups": []

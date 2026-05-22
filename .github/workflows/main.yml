@@ -27,7 +27,7 @@ jobs:
           pip install aiohttp requests
 
       - name: Run Python script
-        run: python main.py
+        run: python craw.py
 
       - name: Commit and Push changes
         run: |

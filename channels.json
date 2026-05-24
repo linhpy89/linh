@@ -17,15 +17,15 @@
   },
   "groups": [
     {
-      "id": "xay-con",
-      "name": "🔴 XAY CON",
+      "id": "hội-quán",
+      "name": "🔴 HỘI QUÁN",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "XAY CON-070000",
-          "name": "⚽ 07:00 | Flamengo vs Palmeiras",
+          "id": "HỘI QUÁN-220000",
+          "name": "⚽ 22:00 | Brighton vs Manchester United",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png",
+            "url": "https://media.api-sports.io/football/teams/51.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,74 @@
           ],
           "sources": [
             {
-              "id": "XAY CON-070000",
+              "id": "HỘI QUÁN-220000",
+              "name": "HỘI QUÁN",
+              "contents": [
+                {
+                  "id": "HỘI QUÁN-220000",
+                  "name": "22:00 | Brighton vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "HỘI QUÁN-220000",
+                      "name": "BLV PHAN BÁCH",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xay-con",
+      "name": "🔴 XAY CON",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "XAY CON-093000",
+          "name": "⚽ 09:30 | Los Angeles Galaxy vs Houston Dynamo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1605.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "XAY CON-093000",
               "name": "XAY CON",
               "contents": [
                 {
-                  "id": "XAY CON-070000",
-                  "name": "07:00 | Flamengo vs Palmeiras",
+                  "id": "XAY CON-093000",
+                  "name": "09:30 | Los Angeles Galaxy vs Houston Dynamo",
                   "streams": [
                     {
-                      "id": "XAY CON-070000",
+                      "id": "XAY CON-093000",
                       "name": "Đang cập nhật",
                       "stream_links": [
                         {
@@ -83,8 +142,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV CHIVAS] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h40 ngày 24/05 Colorado Rapids vs FC Dallas (Lương Sơn) BLV PELE m3u",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -106,15 +165,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV CHIVAS] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h40 ngày 24/05 Colorado Rapids vs FC Dallas (Lương Sơn) BLV PELE m3u",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -122,7 +181,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a75ad7430071fcd7cdbcfd2943c277d4&txTime=6a128fa3"
+                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         }
                       ]
                     }
@@ -133,8 +192,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV CHIVAS] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h40 ngày 24/05 San Diego FC vs Vancouver Whitecaps (Lương Sơn) BLV SHIN m3u",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -156,15 +215,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV CHIVAS] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h40 ngày 24/05 San Diego FC vs Vancouver Whitecaps (Lương Sơn) BLV SHIN m3u",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -172,7 +231,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=8b36c0bc610f31b60a7f4a10bed72f0a&txTime=6a128fa3"
+                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
                         }
                       ]
                     }
@@ -183,8 +242,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Gremio (RS) vs Santos (Lương Sơn) BLV VÕ TÒNG m3u",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets (Lương Sơn) BLV YẾN THANH m3u",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -206,15 +265,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Gremio (RS) vs Santos (Lương Sơn) BLV VÕ TÒNG m3u",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets (Lương Sơn) BLV YẾN THANH m3u",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -222,7 +281,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                          "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
                         }
                       ]
                     }
@@ -233,8 +292,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 Charlotte FC vs New England Revolution [BLV GÔN] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h40 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo (Lương Sơn) BLV KEVILL m3u",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -256,15 +315,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 Charlotte FC vs New England Revolution [BLV GÔN] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h40 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo (Lương Sơn) BLV KEVILL m3u",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -272,7 +331,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b8150732fc4d2d3bde3c953cc269f3c8&txTime=6a12910b"
+                          "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799"
                         }
                       ]
                     }
@@ -283,8 +342,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 Charlotte FC vs New England Revolution [BLV GÔN] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h40 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo (Lương Sơn) BLV KAKA m3u",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -306,15 +365,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 Charlotte FC vs New England Revolution [BLV GÔN] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h40 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo (Lương Sơn) BLV KAKA m3u",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -322,7 +381,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=4a258f97c88236b0cd8a17302fd1cb95&txTime=6a12910b"
+                          "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
                         }
                       ]
                     }
@@ -333,8 +392,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [BLV THÓC] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [CHAN SENA] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -356,15 +415,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [BLV THÓC] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [CHAN SENA] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -372,7 +431,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779583675-0-0-d816f2bae75fc9aeb7d2b616ca7c2c70"
+                          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779595915-0-0-fe87ab30ef27df3bf9c7b2d43bd9efc7"
                         }
                       ]
                     }
@@ -383,8 +442,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [A PÁO] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV MESSI] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -406,15 +465,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [A PÁO] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV MESSI] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -422,7 +481,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779583315-0-0-5981f7e459641db9b4485c45c7e28d2a"
+                          "url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1779596275-0-0-332a0a308afb040c35afa7692b0138e3"
                         }
                       ]
                     }
@@ -433,8 +492,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 DC United vs Montreal Impact [BLV RYO] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [CHAN SENA] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -456,15 +515,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 DC United vs Montreal Impact [BLV RYO] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [CHAN SENA] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -472,7 +531,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779583675-0-0-d3cd204fc22169f24a574cb64ca62875"
+                          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779595915-0-0-139883d45b62bb07320abf45fcd05c4d"
                         }
                       ]
                     }
@@ -483,8 +542,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 DC United vs Montreal Impact [BLV HÚP] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV CÁO] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -506,15 +565,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 DC United vs Montreal Impact [BLV HÚP] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV CÁO] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -522,7 +581,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1779583675-0-0-6f98e1450a51403e05cd4c56e30fec65"
+                          "url": "https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779595915-0-0-3b51f4d43209c6a050ff3c819f6f5f40"
                         }
                       ]
                     }
@@ -533,8 +592,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [BLV THÓC] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV ENZO] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -556,15 +615,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [BLV THÓC] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV ENZO] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -572,7 +631,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779583675-0-0-ff101cd2d3cf1fed865771c5e341030a"
+                          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779596275-0-0-818c524e9579b3a8ae379d3e5af75a8d"
                         }
                       ]
                     }
@@ -583,8 +642,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [HÀ DUY KIÊN] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [KING] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -606,15 +665,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [HÀ DUY KIÊN] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [KING] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -622,7 +681,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1779583315-0-0-5dd6f94aa312523d05cc9dac6ee9752e"
+                          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779595915-0-0-eb7c3b9ed6af882c1c6ac609ceaa5eb2"
                         }
                       ]
                     }
@@ -633,8 +692,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV ENZO] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -656,15 +715,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV ENZO] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -672,7 +731,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779583315-0-0-598870de63f8b5c8716db21e0e4dc3f6"
+                          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779596275-0-0-415678e669e77619e217b0f0e02298b5"
                         }
                       ]
                     }
@@ -683,8 +742,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV SATIVA] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV 7UP] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -706,15 +765,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV SATIVA] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV 7UP] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -722,7 +781,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1779583315-0-0-12fe55f880c493edb802d7ab22b36b94"
+                          "url": "https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779596275-0-0-29bb15d881601bdb6abfa488bc3b1c92"
                         }
                       ]
                     }
@@ -733,8 +792,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV FIREMAN] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [A CHÈ] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -756,15 +815,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV FIREMAN] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [A CHÈ] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -772,7 +831,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779583315-0-0-7c2b85ed1f4de018a379ae8fe916d423"
+                          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779595915-0-0-4accf37ed6b8bbb689ff861b4c9b17a2"
                         }
                       ]
                     }
@@ -783,8 +842,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [HÀ DUY KIÊN] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV ĐỐM] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -806,15 +865,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [HÀ DUY KIÊN] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV ĐỐM] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -822,7 +881,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1779583315-0-0-8280fba590b4560d0d559e7a4c802579"
+                          "url": "https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1779596275-0-0-5f7547bc0cd44a7fb62baba0c6e13e7e"
                         }
                       ]
                     }
@@ -833,8 +892,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [A PÁO] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [DECO] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -856,15 +915,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Grêmio - RS vs Santos Fc - SP [A PÁO] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [DECO] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -872,7 +931,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779583315-0-0-0cd023a0f3c5953622c197ac3ae9b311"
+                          "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1779596275-0-0-69daca4624fea1a6a1e5e1265258cc48"
                         }
                       ]
                     }
@@ -883,8 +942,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [CHAN SENA] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BRIAN] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -906,15 +965,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [CHAN SENA] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BRIAN] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -922,7 +981,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779583675-0-0-32cac47234c42a251d925026df1df175"
+                          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779595915-0-0-72ff4e2184ed085844b9619d63fd6785"
                         }
                       ]
                     }
@@ -933,8 +992,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV SATIVA] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV Củ Cải] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -956,15 +1015,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV SATIVA] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV Củ Cải] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -972,7 +1031,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779583315-0-0-7cb76bf6254b57b585ce9c7502334cf8"
+                          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1779595915-0-0-d3c15bb8ecd2d314a4c76bf10539aff1"
                         }
                       ]
                     }
@@ -983,8 +1042,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [DECO] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1006,15 +1065,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [DECO] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1022,7 +1081,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=8f24cff5291bf6680bd18f504cce600b&txTime=6a129273"
+                          "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1779596275-0-0-406d3667770b8b1ecf174e0cdac00555"
                         }
                       ]
                     }
@@ -1033,8 +1092,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV Củ Cải] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1056,15 +1115,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [XUÂN SON] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV Củ Cải] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1072,7 +1131,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=faea3fd9f3c2c7472797a9d6fd5ca108&txTime=6a129273"
+                          "url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1779595915-0-0-231eb1fc37052e72f1733b5b3064ee5a"
                         }
                       ]
                     }
@@ -1083,8 +1142,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 DC United vs Montreal Impact [BLV HÚP] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV ĐỐM] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1106,15 +1165,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 DC United vs Montreal Impact [BLV HÚP] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV ĐỐM] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1122,7 +1181,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779583675-0-0-5650d80a2f95979c9c6092fa000f3262"
+                          "url": "https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1779596275-0-0-bcbb8cfb348a033a8e54d95a4a4982c5"
                         }
                       ]
                     }
@@ -1133,8 +1192,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 DC United vs Montreal Impact [BLV RYO] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV THÓC] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1156,15 +1215,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 DC United vs Montreal Impact [BLV RYO] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV THÓC] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1172,7 +1231,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779583675-0-0-67bb2172cb6558346abec077604e6f4f"
+                          "url": "https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779596275-0-0-51e65cfddf2272b9fbdd742a95f00402"
                         }
                       ]
                     }
@@ -1183,8 +1242,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV LUCAS] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV RÔSI] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1206,15 +1265,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV LUCAS] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV RÔSI] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1222,7 +1281,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779583675-0-0-45272e3da4440dde331aa7cb03ea1ee2"
+                          "url": "https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779595915-0-0-81914c2bc2f72e7e718973e1cd5a8736"
                         }
                       ]
                     }
@@ -1233,8 +1292,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV LUCAS] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [A CHÈ] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1256,15 +1315,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 ngày 24/05 Mirassol - SP vs Fluminense - RJ [BLV LUCAS] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [A CHÈ] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1272,7 +1331,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779583675-0-0-fd091590d703a9d3d7109e15d1528e15"
+                          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779595915-0-0-cd47e5ccf20a4c4a94bb6296cc781e0d"
                         }
                       ]
                     }
@@ -1283,8 +1342,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV NẤM] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [LOGAN] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1306,15 +1365,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV NẤM] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [LOGAN] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1322,7 +1381,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779584035-0-0-a6a49278f2b788beef8994c10d259527"
+                          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779595915-0-0-8483db71bd02a2066379a0756ae74c07"
                         }
                       ]
                     }
@@ -1333,8 +1392,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV NẤM] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [LOGAN] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1356,15 +1415,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h30 ngày 24/05 FC Cincinnati vs Orlando City [BLV NẤM] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [LOGAN] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1372,7 +1431,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779584035-0-0-5b4bc78d96f370d9b89e9c9f805e9c6e"
+                          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779595915-0-0-069406334a0f4f165d432d2b5180b551"
                         }
                       ]
                     }
@@ -1383,8 +1442,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 24/05 Gremio vs Santos (Hội Quán) HD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BRIAN] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1406,15 +1465,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 24/05 Gremio vs Santos (Hội Quán) HD",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BRIAN] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1422,7 +1481,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
+                          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779595915-0-0-9635fb845e4487f9aa818a1f8d897481"
                         }
                       ]
                     }
@@ -1433,8 +1492,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 24/05 Gremio vs Santos (Hội Quán) FHD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [KING] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1456,15 +1515,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 24/05 Gremio vs Santos (Hội Quán) FHD",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [KING] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1472,7 +1531,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779595915-0-0-d31d2e5a42dbb5e4c21a2a9a7c807919"
                         }
                       ]
                     }
@@ -1483,8 +1542,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) HD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV THÓC] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1506,15 +1565,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) HD",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV THÓC] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1522,7 +1581,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8"
+                          "url": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779596275-0-0-6e3afa927150e221c098090f16647a22"
                         }
                       ]
                     }
@@ -1533,8 +1592,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) SD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV RÔSI] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1556,15 +1615,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) SD",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV RÔSI] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1572,7 +1631,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8"
+                          "url": "https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1779595915-0-0-cb6c085cf3d29881efc509d767c52d53"
                         }
                       ]
                     }
@@ -1583,8 +1642,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 24/05 Gremio vs Santos (Hội Quán) SD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV CÁO] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1606,15 +1665,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 24/05 Gremio vs Santos (Hội Quán) SD",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [BLV CÁO] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1622,7 +1681,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8"
+                          "url": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779595915-0-0-c53adf6d12d6793fdfde2b6e9d4c11f1"
                         }
                       ]
                     }
@@ -1633,8 +1692,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV ANH TÀI] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV MESSI] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1656,15 +1715,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV ANH TÀI] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV MESSI] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1672,7 +1731,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1779584035-0-0-c85f4e0c13e0ba7b23e579d016234c69"
+                          "url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779596275-0-0-5da271256aab67b4ac3bb0e2c634b78a"
                         }
                       ]
                     }
@@ -1683,8 +1742,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV NẤM] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1706,15 +1765,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV NẤM] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1722,7 +1781,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1779584035-0-0-495a131a27f821c28c9c210b3bd02c31"
+                          "url": "https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779596275-0-0-b1b24d1357d32742fb8fcd4228b59f03"
                         }
                       ]
                     }
@@ -1733,8 +1792,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TOMMY] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1756,15 +1815,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TOMMY] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1772,7 +1831,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779583315-0-0-ba025e2886412adf6966da7bf4ea2d87"
+                          "url": "https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779596635-0-0-a7c1cbf19a81c92a7a8b77d6f8b8e2e3"
                         }
                       ]
                     }
@@ -1783,8 +1842,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) FHD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV A TÚ] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1806,15 +1865,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Cleveland Cavaliers vs New York Knicks (Hội Quán) FHD",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV A TÚ] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1822,7 +1881,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                          "url": "https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1779596635-0-0-10bec822e99fc0171399c8187d53c1b9"
                         }
                       ]
                     }
@@ -1833,8 +1892,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [A CHÈ] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TOMMY] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1856,15 +1915,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [A CHÈ] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TOMMY] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1872,7 +1931,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779584035-0-0-5045ce5cb3fca8c48885d7d1eecde8eb"
+                          "url": "https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1779596635-0-0-5998b748378aa0c88b6c4828b97d5643"
                         }
                       ]
                     }
@@ -1883,8 +1942,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV ANH TÀI] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV COCA] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1906,15 +1965,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV ANH TÀI] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV COCA] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1922,7 +1981,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779584035-0-0-494bf145b5f2dfb66d2e65c5fad5a265"
+                          "url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1779596635-0-0-93a08e73b510c9f62763717bbeed758e"
                         }
                       ]
                     }
@@ -1933,8 +1992,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV COCA] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1956,15 +2015,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BLV HENRY] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV COCA] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -1972,7 +2031,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779583315-0-0-05483e0d94b78d7bdb443d1e7dc7ab69"
+                          "url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1779596635-0-0-117da1ee5ca8f5b68cadcbe544435b0d"
                         }
                       ]
                     }
@@ -1983,8 +2042,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV FIREMAN] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV 7UP] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2006,15 +2065,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Flamengo - RJ vs Palmeiras - SP [BLV FIREMAN] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV 7UP] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -2022,7 +2081,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779583315-0-0-29bbc42ea9dc75c5e1596242347d9032"
+                          "url": "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1779596275-0-0-bf54a283bc3d05b0db9e4ca987d9c97c"
                         }
                       ]
                     }
@@ -2033,8 +2092,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) m3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h55 ngày 24/05 Fagiano Okayama vs Cerezo Osaka [BLV TOMIA] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2056,15 +2115,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) m3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h55 ngày 24/05 Fagiano Okayama vs Cerezo Osaka [BLV TOMIA] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -2072,7 +2131,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779583675-0-0-2d6096bd174060ca5e1062e86bf4d421"
+                          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779596635-0-0-5bd3e6b05bc00cd1c4862b46515844e5"
                         }
                       ]
                     }
@@ -2083,8 +2142,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) hdM3u8",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV NẤM] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2106,15 +2165,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [HUNTER] (Socolive) hdM3u8",
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV NẤM] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -2122,7 +2181,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779583675-0-0-3243501f3773812d77a81351f73c3fe7"
+                          "url": "https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779596275-0-0-2d78329fee63dd6b33f4d41147e5a34c"
                         }
                       ]
                     }
@@ -2133,8 +2192,8 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Flamengo vs Palmeiras (Hội Quán) SD",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h55 ngày 24/05 Fagiano Okayama vs Cerezo Osaka [BLV TOMIA] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2156,15 +2215,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Flamengo vs Palmeiras (Hội Quán) SD",
+                  "id": "FPT SPORT-033204",
+                  "name": "10h55 ngày 24/05 Fagiano Okayama vs Cerezo Osaka [BLV TOMIA] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -2172,7 +2231,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8"
+                          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1779596635-0-0-0a97f06bfd156d8caf6311c4120081ee"
                         }
                       ]
                     }
@@ -2183,7 +2242,657 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BLV HENRY] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BLV HENRY] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779596635-0-0-2765bbc8a7068888066d0fe31e347217"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BLV HENRY] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [BLV HENRY] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779596635-0-0-f77482c89383d1e936849b33fb91f178"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV A TÚ] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Portland Timbers vs San Jose Earthquakes [BLV A TÚ] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1779596635-0-0-1eaeea5fafaa6989e554368fa46713f6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TAP] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TAP] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=dd82fcf76e71ffc3492839e3b0d4d12c&txTime=6a12c243"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [RICKHANTER] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [RICKHANTER] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6240a40f12b604d5f0149657930de352&txTime=6a12c243"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [HUNTER] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [HUNTER] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779596635-0-0-734368589247208bcb067484256a565d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TAP] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "09h30 ngày 24/05 Los Angeles Galaxy vs Houston Dynamo [BLV TAP] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c8a011db8143d03fd6b6f146ab9f2d03&txTime=6a12c243"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [RICKHANTER] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 San Diego FC vs Vancouver Whitecaps [RICKHANTER] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0eaefcab63b77841f838d576ba34f5e8&txTime=6a12c243"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV GÔN] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV GÔN] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=af6a1b6c3ac5e49b0f19ab1bf897035a&txTime=6a12c3ab"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV GÔN] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "08h30 ngày 24/05 Colorado Rapids vs FC Dallas [BLV GÔN] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=494d39464546d61e138c38c7ced5c022&txTime=6a12c3ab"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [HUNTER] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "10h00 ngày 24/05 Nelson Giants vs Otago Nuggets [HUNTER] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779596635-0-0-d5fd04b5191c7d2d26776ed9633b3b0e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 08h40 24/05 San Diego FC vs Vancouver Whitecaps",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "08h40 24/05 San Diego FC vs Vancouver Whitecaps",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live5.msrktz.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
+          "name": "⚽ 09h40 24/05 Los Angeles Galaxy vs Houston Dynamo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-033204",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-033204",
+                  "name": "09h40 24/05 Los Angeles Galaxy vs Houston Dynamo",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-033204",
+                      "name": "FPT SPORT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live5.msrktz.app/live/88508431.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-033204",
           "name": "⚽ BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -2206,15 +2915,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
+                  "id": "FPT SPORT-033204",
                   "name": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -2222,7 +2931,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779583315-0-0-01a373b70ff9ee1329cb5c36546adb14"
+                          "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779596275-0-0-da1b8e5cfe66da27070918d141cad75e"
                         }
                       ]
                     }
@@ -2233,57 +2942,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Flamengo vs Palmeiras (Hội Quán) HD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Flamengo vs Palmeiras (Hội Quán) HD",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
+          "id": "FPT SPORT-033204",
           "name": "⚽ BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -2306,15 +2965,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-235533",
+              "id": "FPT SPORT-033204",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-235533",
+                  "id": "FPT SPORT-033204",
                   "name": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-235533",
+                      "id": "FPT SPORT-033204",
                       "name": "FPT SPORT",
                       "stream_links": [
                         {
@@ -2322,666 +2981,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779583315-0-0-c941560fe4b93d1c03536405bac8cbb4"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [KING] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779583315-0-0-04e748d5b5ab4b3674ea7e78371d4030"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [CHAN SENA] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [CHAN SENA] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779583675-0-0-5d3c066454c450f634ece953db8a925a"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Las Vegas Aces vs Los Angeles Sparks",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Las Vegas Aces vs Los Angeles Sparks",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live5.msrktz.app/live/82054853.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 05h00 24/05 Mirassol vs Fluminense RJ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "05h00 24/05 Mirassol vs Fluminense RJ",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live5.msrktz.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 06h40 24/05 Charlotte FC vs New England Revolution",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "06h40 24/05 Charlotte FC vs New England Revolution",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live5.msrktz.app/live/88508431.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Flamengo vs Palmeiras",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Flamengo vs Palmeiras",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live5.msrktz.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Cleveland Cavaliers vs New York Knicks",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Cleveland Cavaliers vs New York Knicks",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live5.msrktz.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h30 ngày 24/05 Chicago Fire vs Toronto FC [BLV XO] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h30 ngày 24/05 Chicago Fire vs Toronto FC [BLV XO] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779584035-0-0-888646da76b3dc5c3e10e7cde22cc36e"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h30 ngày 24/05 Chicago Fire vs Toronto FC [BLV XO] (Socolive) hdM3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h30 ngày 24/05 Chicago Fire vs Toronto FC [BLV XO] (Socolive) hdM3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779584035-0-0-944826226b29a9b65d22e5daa384dd32"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 24/05 Flamengo vs Palmeiras (Hội Quán) FHD",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 24/05 Flamengo vs Palmeiras (Hội Quán) FHD",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [A CHÈ] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [A CHÈ] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779584035-0-0-b781a49a98ffc27a714f44f9e8bcb3e2"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-235533",
-          "name": "⚽ 07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-235533",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-235533",
-                  "name": "07h00 ngày 24/05 Cleveland Cavaliers vs New York Knicks [BRIAN] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-235533",
-                      "name": "FPT SPORT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1779584035-0-0-8788acbd747b3347a4c591f906bde7cf"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "co-la-tv",
-      "name": "🔴 CO LA TV",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | Nashville vs New York City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.colatv88xd.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | Nashville vs New York City",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "BLV C2",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live5.msrktz.app/live/08552895.m3u8"
+                          "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779596275-0-0-09e4accf8aec7aaabdf048d9bd68a934"
                         }
                       ]
                     }

@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0"
 }
 
 # ================= HTTP =================
@@ -14,11 +14,11 @@ session.headers.update(HEADERS)
 
 def fetch_json(url):
     try:
-        r = session.get(url, timeout=12) # Tăng timeout lên 12s để tránh mất cấu trúc API khi mạng chậm
+        r = session.get(url, timeout=15)
         if r.status_code == 200:
             return r.json()
     except Exception as e:
-        print(f"[-] Error fetching JSON from {url}: {e}")
+        print(f"Error fetching {url}: {e}")
     return {}
 
 # ================= STREAM CHECK =================
@@ -38,13 +38,9 @@ def is_valid_tv(url):
         return False
     return True
 
-def check_stream(item):
-    url = item.get("url", "")
-    if item["group"] == "CHUOI CHIEN TV":
-        return item
-    
-    if is_valid_tv(url) and is_working_m3u8(url):
-        return item
+def check_stream(url):
+    if is_valid_tv(url):
+        return url if is_working_m3u8(url) else None
     return None
 
 # ================= PICK STREAM =================
@@ -79,17 +75,36 @@ def process_standard(url, group):
             stream = pick_stream(comm.get("streams", []))
             if not stream:
                 continue
-            
-            blv_name = comm.get("name") or "Đang cập nhật"
             out.append({
                 "time": dt,
                 "group": group,
                 "title": f'{dt.strftime("%H:%M")} | {item.get("title")}',
                 "logo": item.get("homeTeam", {}).get("logoUrl", ""),
-                "url": stream,
-                "commentator": blv_name
+                "url": stream
             })
             break
+    return out
+# ================= HỘI QUÁN 2 =================
+def process_hoiquan2(url):
+    out = []
+    data = fetch_json(url)
+    for group in data.get("groups", []):
+        for ch in group.get("channels", []):
+            dt = datetime.now()
+            # lấy stream link đầu tiên nếu có
+            streams = ch.get("sources", [])[0].get("contents", [])[0].get("streams", [])
+            stream_url = None
+            if streams:
+                links = streams[0].get("stream_links", [])
+                if links:
+                    stream_url = links[0].get("url")
+            out.append({
+                "time": dt,
+                "group": "HỘI QUÁN 2",
+                "title": ch.get("name"),
+                "logo": ch.get("image", {}).get("url", ""),
+                "url": stream_url
+            })
     return out
 
 # ================= VONG CAM =================
@@ -97,19 +112,15 @@ def process_vongcam():
     out = []
     data = fetch_json("https://sv.bugiotv.xyz/internal/api/matches")
     for item in data.get("data", []):
-        comm = item.get("commentator", {})
-        url = comm.get("streamSourceFhd")
+        url = item.get("commentator", {}).get("streamSourceFhd")
         if not url or ".m3u8" not in url:
             continue
-        
-        blv_name = comm.get("name") or "VÒNG CẤM TV"
         out.append({
             "time": datetime.now(),
             "group": "VÒNG CẤM TV",
             "title": item.get("title"),
             "logo": item.get("homeClub", {}).get("logoUrl", ""),
-            "url": url,
-            "commentator": blv_name
+            "url": url
         })
     return out
 
@@ -122,25 +133,20 @@ def process_cala_tv():
         home = item.get("home_team", {})
         away = item.get("away_team", {})
         streams = item.get("anchorAppointmentVoList", [])
-        
         stream_url = None
-        blv_name = "CO LA TV"
-        
         for s in streams:
-            if s.get("playStreamAddress2") and ".m3u8" in s["playStreamAddress2"]:
-                stream_url = s["playStreamAddress2"]
-                blv_name = s.get("nickName") or "CO LA TV"
+            for key in ["playStreamAddress2", "playStreamAddress1", "playStreamAddress3"]:
+                if s.get(key) and ".m3u8" in s[key]:
+                    stream_url = s[key]
+                    break
+            if stream_url:
                 break
-        if not stream_url:
-            continue
-            
         out.append({
             "time": dt,
             "group": "CO LA TV",
             "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
             "logo": home.get("logo", ""),
-            "url": stream_url,
-            "commentator": blv_name
+            "url": stream_url
         })
     return out
 
@@ -168,66 +174,68 @@ def process_tamquoc_tv():
         )
         if not stream_url or ".m3u8" not in stream_url:
             continue
-            
-        blv_name = commentator.get("name") or "TAM QUOC TV"
         out.append({
             "time": dt,
             "group": "TAM QUOC TV",
             "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
             "logo": home.get("logoUrl", ""),
-            "url": stream_url,
-            "commentator": blv_name
+            "url": stream_url
         })
     return out
-
-# ================= CHUOI CHIEN TV =================
-def get_chuoichien_token():
-    data = fetch_json("https://api.chuoichientv.com/v1/encrypted/token")
-    if data.get("success"):
-        return data.get("token")
-    return None
-
-def process_chuoichien_tv():
+# ================= LUONG SON TV =================
+def process_luongson_tv(url):
     out = []
-    token = get_chuoichien_token()
-    if not token:
-        print("Không lấy được token từ chuoichienTV")
-        return out
-    data = fetch_json("https://api-v2.chuoichientv.com/v2/matches?type=live&page=1&limit=1000")
-    for item in data.get("matches", []):
-        dt = datetime.now()
-        if item.get("matchTime"):
-            try:
-                dt = datetime.strptime(item["matchTime"][:19], "%Y-%m-%dT%H:%M:%S") + timedelta(hours=7)
-            except:
-                pass
-        home = item.get("teams", {}).get("home", {})
-        away = item.get("teams", {}).get("away", {})
-        for group_key in ["blvs", "blvs_bonglau"]:
-            for c in item.get(group_key, []):
-                blv_name = c.get("name") or "CHUOI CHIEN TV"
-                for s in c.get("streams", []):
-                    url = s.get("url")
-                    label = s.get("label", "").upper()
-                    if url and url.endswith(".m3u8") and ("HD" in label or "FHD" in label):
-                        url_with_headers = (
-                            f'{url}|User-Agent=Mozilla/5.0&Referer=https://chuoichientv.com/&Authorization=Bearer {token}'
-                        )
-                        out.append({
-                            "time": dt,
-                            "group": "CHUOI CHIEN TV",
-                            "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
-                            "logo": home.get("logo", ""),
-                            "url": url_with_headers,
-                            "commentator": blv_name
-                        })
+    data = fetch_json(url)
+    for group in data.get("groups", []):
+        for ch in group.get("channels", []):
+            dt = datetime.now()
+            logo = ch.get("image", {}).get("url", "")
+            title = ch.get("name", "")
+            # duyệt qua tất cả sources (BLV)
+            for src in ch.get("sources", []):
+                for content in src.get("contents", []):
+                    for stream in content.get("streams", []):
+                        links = stream.get("stream_links", [])
+                        if links:
+                            stream_url = links[0].get("url")
+                            out.append({
+                                "time": dt,
+                                "group": "LƯƠNG SƠN TV",
+                                "title": title,
+                                "logo": logo,
+                                "url": stream_url
+                            })
+    return out
+# ================= QUE CHOA TV =================
+def process_quechoa_tv(url):
+    out = []
+    data = fetch_json(url)
+    for group in data.get("groups", []):
+        for ch in group.get("channels", []):
+            dt = datetime.now()
+            logo = ch.get("image", {}).get("url", "")
+            title = ch.get("name", "")
+            # duyệt qua tất cả sources (BLV)
+            for src in ch.get("sources", []):
+                for content in src.get("contents", []):
+                    for stream in content.get("streams", []):
+                        links = stream.get("stream_links", [])
+                        if links:
+                            stream_url = links[0].get("url")
+                            out.append({
+                                "time": dt,
+                                "group": "QUECHOA TV",
+                                "title": title,
+                                "logo": logo,
+                                "url": stream_url
+                            })
     return out
 
 # ================= LOAD FPT SPORT =================
 def load_fpt_sport(url):
     out = []
     try:
-        r = session.get(url, timeout=10)
+        r = session.get(url, timeout=15)
         lines = r.text.splitlines()
         title = ""
         for line in lines:
@@ -239,35 +247,67 @@ def load_fpt_sport(url):
                     "group": "FPT SPORT",
                     "title": title if title else "FPT SPORT",
                     "logo": "",
-                    "url": line.strip(),
-                    "commentator": "FPT SPORT"
+                    "url": line.strip()
                 })
     except Exception as e:
         print(f"Error loading FPT Sport: {e}")
     return out
 
-# ================= WRITE M3U FILES =================
-def write_m3u_files(full_data, working_data):
-    full_m3u = "#EXTM3U\n"
-    tv_m3u = "#EXTM3U\n"
+# ================= WRITE FILE =================
+def write_files(data):
+    seen = set()
+    tv = "#EXTM3U\n"
+    full = "#EXTM3U\n"
+    live_items = []
 
-    for item in full_data:
-        full_m3u += f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}",{item["title"]}\n{item["url"]}\n\n'
+    items = []
+    for item in data:
+        url = item["url"]
+        if url in seen:
+            continue
+        seen.add(url)
+        extinf = (
+            f'#EXTINF:-1 group-title="{item["group"]}" '
+            f'tvg-logo="{item["logo"]}",{item["title"]}\n'
+        )
+        items.append((extinf, url, item))
 
-    for item in working_data:
-        tv_m3u += f'#EXTINF:-1 group-title="{item["group"]}" tvg-logo="{item["logo"]}",{item["title"]}\n{item["url"]}\n\n'
+    # FULL: ghi tất cả
+    for extinf, url, item in items:
+        full += extinf + f"{url}\n\n"
 
-    with open("full.m3u", "w", encoding="utf-8") as f:
-        f.write(full_m3u)
+    # TV FILTER: kiểm tra song song
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        futures = {}
+        for extinf, url, item in items:
+            # Bỏ qua check cho CHUOI CHIEN TV và HỘI QUÁN 2
+            if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV"]:
+                tv += extinf + f"{url}\n\n"
+                live_items.append(item)
+            else:
+                futures[executor.submit(check_stream, url)] = (extinf, url, item)
+
+        for future in as_completed(futures):
+            result = future.result()
+            if result:
+                extinf, url, item = futures[future]
+                tv += extinf + f"{url}\n\n"
+                live_items.append(item)
+
     with open("tv.m3u", "w", encoding="utf-8") as f:
-        f.write(tv_m3u)
+        f.write(tv)
+    with open("full.m3u", "w", encoding="utf-8") as f:
+        f.write(full)
 
-    print(f"[+] M3U Exported - Full: {len(full_data)} channels | Live TV: {len(working_data)} channels")
+    print("DONE PRO MAX++ ✔")
+    print(f"TV Channels: {tv.count('#EXTINF')}")
+    print(f"FULL Channels: {full.count('#EXTINF')}")
 
-# ================= CONVERT TO JSON (FIXED ORDER) =================
-def write_json(valid_data):
+    return live_items
+# ================= CONVERT TO JSON=================
+def write_json(data):
     output = {
-        "id": "channels",
+        "id": "tonghop",
         "url": "https://vanlinh.io.vn",
         "name": "VLINH-TV",
         "color": "#1cb57a",
@@ -286,35 +326,9 @@ def write_json(valid_data):
         "groups": []
     }
 
-    # ĐỊNH NGHĨA THỨ TỰ NHÓM XUẤT HIỆN THEO ĐÚNG Ý BẠN
-    # Bạn muốn đưa nhà đài nào lên trước chỉ cần thay đổi vị trí chuỗi trong list này:
-    ORDERED_GROUPS = [
-        "HỘI QUÁN",
-        "XAY CON",
-        "THIÊN ĐÌNH",
-        "VÒNG CẤM TV",
-        "TAM QUỐC TV",
-        "COLA TV",
-        "CHUOICHIEN TV",
-        "FPT SPORT"
-    ]
-
     groups_map = {}
-    # Khởi tạo sẵn cấu trúc group dựa trên danh sách thứ tự cố định ở trên
-    for group_id in ORDERED_GROUPS:
-        groups_map[group_id] = {
-            "id": group_id.lower().replace(" ", "-"),
-            "name": f"🔴 {group_id}",
-            "display": "vertical",
-            "grid_number": 2,
-            "enable_detail": False,
-            "channels": []
-        }
-
-    for item in valid_data:
+    for item in data:
         group_id = item["group"]
-        
-        # Nếu có group lạ nằm ngoài danh sách định sẵn thì tạo mới tạm thời ở dưới cùng
         if group_id not in groups_map:
             groups_map[group_id] = {
                 "id": group_id.lower().replace(" ", "-"),
@@ -325,11 +339,11 @@ def write_json(valid_data):
                 "channels": []
             }
 
+        # Xác định label: nếu có url thì Live, nếu không thì Chưa live
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
-        channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
-        blv_display_name = item.get("commentator", "Đang Live")
 
+        channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
         channel = {
             "id": channel_id,
             "name": f'⚽ {item["title"]}',
@@ -358,7 +372,7 @@ def write_json(valid_data):
                     "name": item["title"],
                     "streams": [{
                         "id": channel_id,
-                        "name": blv_display_name,
+                        "name": "F",
                         "stream_links": [{
                             "id": "lnk-1",
                             "name": "Link 1",
@@ -370,76 +384,40 @@ def write_json(valid_data):
                 }]
             }]
         }
+
         groups_map[group_id]["channels"].append(channel)
 
-    # Lọc bỏ các group trống (không cào được trận nào tại thời điểm chạy) để file JSON luôn sạch
-    final_groups = []
-    for group_id in ORDERED_GROUPS:
-        if groups_map[group_id]["channels"]:
-            final_groups.append(groups_map[group_id])
-            
-    # Thêm nốt các group phát sinh (nếu có)
-    for group_id, group_data in groups_map.items():
-        if group_id not in ORDERED_GROUPS and group_data["channels"]:
-            final_groups.append(group_data)
+    output["groups"] = list(groups_map.values())
 
-    output["groups"] = final_groups
-
-    with open("channels.json", "w", encoding="utf-8") as f:
+    with open("tonghop.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("[+] JSON file channels.json đã được thiết lập đúng thứ tự ưu tiên ✔")
+    print("JSON file channels.json đã được tạo ✔")
 
 # ================= MAIN =================
 if __name__ == "__main__":
-    start_time = datetime.now()
-    raw_data = []
-    
-    tasks = [
-        (process_standard, "https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN"),
-        (process_standard, "https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH"),
-        (process_standard, "https://sv.xaycontv.xyz/api/v1/external/fixtures/unfinished", "XAY CON"),
-        (process_vongcam,),
-        (process_cala_tv,),
-        (process_tamquoc_tv,),
-        (process_chuoichien_tv,),
-        (load_fpt_sport, "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u")
-    ]
-    
-    print("[*] Đang cào dữ liệu song song từ các API...")
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        future_to_api = []
-        for task in tasks:
-            func = task[0]
-            args = task[1:]
-            future_to_api.append(executor.submit(func, *args))
-            
-        for future in as_completed(future_to_api):
-            try:
-                res = future.result()
-                if res:
-                    raw_data.extend(res)
-            except Exception as e:
-                print(f"[-] Lỗi luồng cào dữ liệu: {e}")
+    data = []
+    # HỘI QUÁN 1
+    data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
+    # HỘI QUÁN 2
+    data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json")
+    # THIÊN ĐÌNH
+    data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
+    # XAY CON
+    data += process_standard("https://sv.xaycontv.xyz/api/v1/external/fixtures/unfinished", "XAY CON")
+    # VÒNG CẤM
+    data += process_vongcam()
+    # CO LA TV
+    data += process_cala_tv()
+    # TAM QUOC TV
+    data += process_tamquoc_tv()
+    # LƯƠNG SƠN TV
+    data += process_luongson_tv("https://apithethao1.vercel.app/luongsontv")
+    # QUE CHOA TV
+    data += process_quechoa_tv("https://apithethao1.vercel.app/quechoatv")
 
-    seen_urls = set()
-    unique_raw_data = []
-    for item in raw_data:
-        if item["url"] not in seen_urls:
-            seen_urls.add(item["url"])
-            unique_raw_data.append(item)
-
-    print(f"[*] Đang kiểm tra trạng thái hoạt động của {len(unique_raw_data)} streams...")
-    working_data = []
-    
-    with ThreadPoolExecutor(max_workers=25) as executor:
-        future_to_check = {executor.submit(check_stream, item): item for item in unique_raw_data}
-        for future in as_completed(future_to_check):
-            result = future.result()
-            if result:
-                working_data.append(result)
-
-    write_m3u_files(unique_raw_data, working_data)
-    write_json(working_data)
-
-    print(f"DONE PRO MAX++ ✔ | Tổng thời gian thực thi: {(datetime.now() - start_time).total_seconds():.2f} giây")
+    # FPT SPORT
+    data += load_fpt_sport("https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u")
+    # WRITE
+    live_data = write_files(data)
+    write_json(data)

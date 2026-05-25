@@ -72,6 +72,7 @@ def process_standard(url, group):
                 pass
         for c in item.get("fixtureCommentators", []):
             comm = c.get("commentator", {})
+            blv_name = comm.get("name", "Chính")  # Lấy tên BLV từ API
             stream = pick_stream(comm.get("streams", []))
             if not stream:
                 continue
@@ -80,10 +81,12 @@ def process_standard(url, group):
                 "group": group,
                 "title": f'{dt.strftime("%H:%M")} | {item.get("title")}',
                 "logo": item.get("homeTeam", {}).get("logoUrl", ""),
-                "url": stream
+                "url": stream,
+                "blv": blv_name
             })
             break
     return out
+
 # ================= HỘI QUÁN 2 =================
 def process_hoiquan2(url):
     out = []
@@ -91,7 +94,6 @@ def process_hoiquan2(url):
     for group in data.get("groups", []):
         for ch in group.get("channels", []):
             dt = datetime.now()
-            # lấy stream link đầu tiên nếu có
             streams = ch.get("sources", [])[0].get("contents", [])[0].get("streams", [])
             stream_url = None
             if streams:
@@ -103,7 +105,8 @@ def process_hoiquan2(url):
                 "group": "HỘI QUÁN 2",
                 "title": ch.get("name"),
                 "logo": ch.get("image", {}).get("url", ""),
-                "url": stream_url
+                "url": stream_url,
+                "blv": "Mặc định"
             })
     return out
 
@@ -113,6 +116,7 @@ def process_vongcam():
     data = fetch_json("https://sv.bugiotv.xyz/internal/api/matches")
     for item in data.get("data", []):
         url = item.get("commentator", {}).get("streamSourceFhd")
+        blv_name = item.get("commentator", {}).get("name", "Chính")
         if not url or ".m3u8" not in url:
             continue
         out.append({
@@ -120,7 +124,8 @@ def process_vongcam():
             "group": "VÒNG CẤM TV",
             "title": item.get("title"),
             "logo": item.get("homeClub", {}).get("logoUrl", ""),
-            "url": url
+            "url": url,
+            "blv": blv_name
         })
     return out
 
@@ -134,10 +139,13 @@ def process_cala_tv():
         away = item.get("away_team", {})
         streams = item.get("anchorAppointmentVoList", [])
         stream_url = None
+        blv_name = "Chính"
         for s in streams:
-            for key in ["playStreamAddress2", "playStreamAddress1", "playStreamAddress3"]:
-                if s.get(key) and ".m3u8" in s[key]:
-                    stream_url = s[key]
+            if s.get("anchorName"):
+                blv_name = s.get("anchorName")
+            for k in ["playStreamAddress2", "playStreamAddress1", "playStreamAddress3"]:
+                if s.get(k) and ".m3u8" in s[k]:
+                    stream_url = s[k]
                     break
             if stream_url:
                 break
@@ -146,7 +154,8 @@ def process_cala_tv():
             "group": "CO LA TV",
             "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
             "logo": home.get("logo", ""),
-            "url": stream_url
+            "url": stream_url,
+            "blv": blv_name
         })
     return out
 
@@ -167,6 +176,7 @@ def process_tamquoc_tv():
         home = item.get("homeClub", {})
         away = item.get("awayClub", {})
         commentator = item.get("commentator", {})
+        blv_name = commentator.get("name", "Chính")
         stream_url = (
             commentator.get("streamSourceFhd")
             or commentator.get("streamSourceHd")
@@ -179,9 +189,11 @@ def process_tamquoc_tv():
             "group": "TAM QUOC TV",
             "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
             "logo": home.get("logoUrl", ""),
-            "url": stream_url
+            "url": stream_url,
+            "blv": blv_name
         })
     return out
+
 # ================= LUONG SON TV =================
 def process_luongson_tv(url):
     out = []
@@ -191,8 +203,8 @@ def process_luongson_tv(url):
             dt = datetime.now()
             logo = ch.get("image", {}).get("url", "")
             title = ch.get("name", "")
-            # duyệt qua tất cả sources (BLV)
             for src in ch.get("sources", []):
+                blv_name = src.get("name", "Chính")  # Lấy tên BLV từ luồng phát của Lương Sơn
                 for content in src.get("contents", []):
                     for stream in content.get("streams", []):
                         links = stream.get("stream_links", [])
@@ -203,9 +215,11 @@ def process_luongson_tv(url):
                                 "group": "LƯƠNG SƠN TV",
                                 "title": title,
                                 "logo": logo,
-                                "url": stream_url
+                                "url": stream_url,
+                                "blv": blv_name
                             })
     return out
+
 # ================= QUE CHOA TV =================
 def process_quechoa_tv(url):
     out = []
@@ -215,8 +229,8 @@ def process_quechoa_tv(url):
             dt = datetime.now()
             logo = ch.get("image", {}).get("url", "")
             title = ch.get("name", "")
-            # duyệt qua tất cả sources (BLV)
             for src in ch.get("sources", []):
+                blv_name = src.get("name", "Chính")  # Lấy tên BLV từ luồng phát của Quê Choa
                 for content in src.get("contents", []):
                     for stream in content.get("streams", []):
                         links = stream.get("stream_links", [])
@@ -227,7 +241,8 @@ def process_quechoa_tv(url):
                                 "group": "QUECHOA TV",
                                 "title": title,
                                 "logo": logo,
-                                "url": stream_url
+                                "url": stream_url,
+                                "blv": blv_name
                             })
     return out
 
@@ -247,7 +262,8 @@ def load_fpt_sport(url):
                     "group": "FPT SPORT",
                     "title": title if title else "FPT SPORT",
                     "logo": "",
-                    "url": line.strip()
+                    "url": line.strip(),
+                    "blv": "FPT"
                 })
     except Exception as e:
         print(f"Error loading FPT Sport: {e}")
@@ -263,7 +279,7 @@ def write_files(data):
     items = []
     for item in data:
         url = item["url"]
-        if url in seen:
+        if not url or url in seen:
             continue
         seen.add(url)
         extinf = (
@@ -272,15 +288,12 @@ def write_files(data):
         )
         items.append((extinf, url, item))
 
-    # FULL: ghi tất cả
     for extinf, url, item in items:
         full += extinf + f"{url}\n\n"
 
-    # TV FILTER: kiểm tra song song
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {}
         for extinf, url, item in items:
-            # Bỏ qua check cho CHUOI CHIEN TV và HỘI QUÁN 2
             if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV"]:
                 tv += extinf + f"{url}\n\n"
                 live_items.append(item)
@@ -304,7 +317,8 @@ def write_files(data):
     print(f"FULL Channels: {full.count('#EXTINF')}")
 
     return live_items
-# ================= CONVERT TO JSON=================
+
+# ================= CONVERT TO JSON =================
 def write_json(data):
     output = {
         "id": "tonghop",
@@ -339,9 +353,11 @@ def write_json(data):
                 "channels": []
             }
 
-        # Xác định label: nếu có url thì Live, nếu không thì Chưa live
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
+
+        # Đọc tên BLV động đã bóc tách từ các hàm xử lý dữ liệu bên trên
+        blv_real_name = item.get("blv", "F")
 
         channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
         channel = {
@@ -372,7 +388,7 @@ def write_json(data):
                     "name": item["title"],
                     "streams": [{
                         "id": channel_id,
-                        "name": "F",
+                        "name": blv_real_name,  # <--- Đã sửa đổi hiển thị tên BLV động tại đây
                         "stream_links": [{
                             "id": "lnk-1",
                             "name": "Link 1",
@@ -415,9 +431,9 @@ if __name__ == "__main__":
     data += process_luongson_tv("https://apithethao1.vercel.app/luongsontv")
     # QUE CHOA TV
     data += process_quechoa_tv("https://apithethao1.vercel.app/quechoatv")
-
     # FPT SPORT
     data += load_fpt_sport("https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u")
+    
     # WRITE
     live_data = write_files(data)
     write_json(data)

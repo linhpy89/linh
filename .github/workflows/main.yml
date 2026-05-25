@@ -1,13 +1,10 @@
 name: Update Football
-
 on:
-  schedule:
-    - cron: '*/15 * * * *'     # Chạy mỗi 15 phút
-  workflow_dispatch:           # Cho phép chạy thủ công
-
+  repository_dispatch:
+    types: [trigger-football-crawl] # Lắng nghe tín hiệu từ bên ngoài
+  workflow_dispatch:           # Vẫn giữ nút chạy thủ công nếu cần
 permissions:
   contents: write
-
 jobs:
   update-streams:
     runs-on: ubuntu-latest

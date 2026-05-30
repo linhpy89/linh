@@ -32,9 +32,6 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/840.png",18:00 | Henan Jianye vs Hangzhou Greentown
-https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/5648.png",18:35 | Chengdu Better City vs Shandong Luneng
 https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 
@@ -47,6 +44,9 @@ https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/329.png",21:00 | Molde vs Sandefjord
 https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="XAY CON" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",23:00 | Paris Saint Germain vs Arsenal
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/21262.png",Chongqing Tongliang Long vs Beijing Guoan
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
@@ -58,9 +58,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",12:00 | Scotland vs Curacao
 https://live05.msdht.app/live/97312754.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80",11:00 | Henan Songshan Longmen vs Zhejiang Professional
-https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80",11:35 | Chengdu Rongcheng vs Shandong Taishan
 https://live05.msdht.app/live/19919577.m3u8
@@ -76,6 +73,9 @@ https://live05.msdht.app/live/87379114.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/339c6acafe9c245dc5d8627c60528ca2.png!w80",13:00 | Malmo FF vs Halmstad
 https://live05.msdht.app/live/14707124.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/d33c046e5f96387c208d1fa63a9a918a.png!w80",14:00 | Molde vs Sandefjord
+https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/1fced0158de1169e9bc3209f4ab98e84.png!w80",14:00 | KuPs vs Inter Turku
 https://live05.msdht.app/live/88508431.m3u8
@@ -110,77 +110,53 @@ https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/85.png",23:00 | Paris Saint Germain vs Arsenal
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Henan+Football+Club&away=Zhejiang+Professional+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F495_1j39p5ccv415.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png&time=18%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Henan Football Club vs Zhejiang Professional FC | 18:00
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Henan+Football+Club&away=Zhejiang+Professional+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F495_1j39p5ccv415.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png&time=18%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Henan Football Club vs Zhejiang Professional FC | 18:00
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chengdu+Rongcheng+FC&away=Shandong+Taishan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36861_1gy3vkgfwve.PNG&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34_1gy3vjsrhjq.png&time=18%3A35&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Chengdu Rongcheng FC vs Shandong Taishan | 18:35
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chengdu+Rongcheng+FC&away=Shandong+Taishan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36861_1gy3vkgfwve.PNG&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34_1gy3vjsrhjq.png&time=18%3A35&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Chengdu Rongcheng FC vs Shandong Taishan | 18:35
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Scotland&away=Curacao&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F552_164984175759.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15945_1gwbryn6pn1.png&time=19%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Scotland vs Curacao | 19:00
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Scotland&away=Curacao&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F552_164984175759.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15945_1gwbryn6pn1.png&time=19%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Scotland vs Curacao | 19:00
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Scotland&away=Curacao&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F552_164984175759.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15945_1gwbryn6pn1.png&time=19%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Scotland vs Curacao | 19:00
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shenzhen+Xinpengcheng&away=Qingdao+Manatee&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34003_1j0ytnk9yw25.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37_1gy3vkgfwg2p.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shenzhen Xinpengcheng vs Qingdao Manatee | 19:00
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shenzhen+Xinpengcheng&away=Qingdao+Manatee&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34003_1j0ytnk9yw25.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37_1gy3vkgfwg2p.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shenzhen Xinpengcheng vs Qingdao Manatee | 19:00
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shenzhen+Xinpengcheng&away=Qingdao+Manatee&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34003_1j0ytnk9yw25.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37_1gy3vkgfwg2p.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shenzhen Xinpengcheng vs Qingdao Manatee | 19:00
-https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Scotland&away=Curacao&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F552_164984175759.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15945_1gwbryn6pn1.png&time=19%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Scotland vs Curacao | 19:00
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Scotland&away=Curacao&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F552_164984175759.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15945_1gwbryn6pn1.png&time=19%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Scotland vs Curacao | 19:00
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Scotland&away=Curacao&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F552_164984175759.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15945_1gwbryn6pn1.png&time=19%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Scotland vs Curacao | 19:00
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chongqing+Tonglianglong&away=Beijing+Guoan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61524_1hysdzw5hv1f.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36_1jr565tbs5z.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Chongqing Tonglianglong vs Beijing Guoan | 19:00
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chongqing+Tonglianglong&away=Beijing+Guoan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61524_1hysdzw5hv1f.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36_1jr565tbs5z.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Chongqing Tonglianglong vs Beijing Guoan | 19:00
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chongqing+Tonglianglong&away=Beijing+Guoan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61524_1hysdzw5hv1f.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36_1jr565tbs5z.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Chongqing Tonglianglong vs Beijing Guoan | 19:00
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=GAIS&away=Kalmar&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1310_1h8wtya6esp.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F390_1h6wfe05rcg.png&time=20%3A00&league=Swedish+Allsvenskan&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ GAIS vs Kalmar | 20:00
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Aalborg&away=Herfolge+Boldklub+Koge&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F220_1gtg0npad1m.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F218_1h5bja71ec6.png&time=20%3A00&league=Danish+1st+Division&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Aalborg vs Herfolge Boldklub Koge | 20:00
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=B93+Copenhagen&away=Aarhus+Fremad&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1115_1h51a55z7xr.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1439_1gtaqah5mb26.png&time=20%3A00&league=Danish+1st+Division&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ B93 Copenhagen vs Aarhus Fremad | 20:00
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Chongqing+Tonglianglong&away=Beijing+Guoan&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61524_1hysdzw5hv1f.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36_1jr565tbs5z.png&time=19%3A00&league=Chinese+Super+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Chongqing Tonglianglong vs Beijing Guoan | 19:00
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Malmo+FF&away=Halmstads&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F372_1hptap45j3v.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F388_1grmna9rvh24.png&time=20%3A00&league=Swedish+Allsvenskan&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Malmo FF vs Halmstads | 20:00
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=B93+Copenhagen&away=Aarhus+Fremad&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1115_1h51a55z7xr.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1439_1gtaqah5mb26.png&time=20%3A00&league=Danish+1st+Division&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ B93 Copenhagen vs Aarhus Fremad | 20:00
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Aalborg&away=Herfolge+Boldklub+Koge&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F220_1gtg0npad1m.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F218_1h5bja71ec6.png&time=20%3A00&league=Danish+1st+Division&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Aalborg vs Herfolge Boldklub Koge | 20:00
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=GAIS&away=Kalmar&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1310_1h8wtya6esp.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F390_1h6wfe05rcg.png&time=20%3A00&league=Swedish+Allsvenskan&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ GAIS vs Kalmar | 20:00
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Da+Nang+Dragons&away=Ho+Chi+Minh+City+Wings&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780075710.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780075711.png&time=19%3A30&league=VBA&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 Da Nang Dragons vs Ho Chi Minh City Wings | 19:30
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Xinpengcheng vs Qingdao Manatee (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Xinpengcheng vs Qingdao Manatee (Lương Sơn) BLV TEST flv
-https://flv.cdnfaster-a.live/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Xinpengcheng vs Qingdao Manatee (Lương Sơn) BLV HÀN TÍN flv
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Scotland vs Curacao (Lương Sơn) BLV SHIN flv
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Scotland vs Curacao (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Scotland vs Curacao (Lương Sơn) BLV FERNANDO flv
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan (Lương Sơn) BLV LỮ BỐ flv
 https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -191,20 +167,44 @@ https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ce
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan (Lương Sơn) BLV DƯƠNG CHÍ flv
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng FC vs Shandong Taishan (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Scotland vs Curacao (Lương Sơn) BLV FERNANDO flv
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan Football Club vs Zhejiang Professional FC (Lương Sơn) BLV QUAN VŨ flv
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Scotland vs Curacao (Lương Sơn) BLV SHIN flv
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Scotland vs Curacao (Lương Sơn) BLV MÃ SIÊU flv
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Xinpengcheng vs Qingdao Manatee (Lương Sơn) BLV TEST flv
+https://flv.cdnfaster-a.live/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Xinpengcheng vs Qingdao Manatee (Lương Sơn) BLV PHI HỔ flv
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Xinpengcheng vs Qingdao Manatee (Lương Sơn) BLV HÀN TÍN flv
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Da Nang Dragons vs Ho Chi Minh City Wings (Lương Sơn) BLV YẾN THANH flv
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng FC vs Shandong Taishan (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng FC vs Shandong Taishan (Lương Sơn) BLV GẤU KA flv
 https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan Football Club vs Zhejiang Professional FC (Lương Sơn) BLV LÝ ỨNG flv
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 B93 Copenhagen vs Aarhus Fremad (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Aalborg vs Herfolge Boldklub Koge (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -291,544 +291,496 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=47fc02b7c15b23123eccf3c365983162&txTime=6a1b2f74
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=bbb88c58a00f5be80e945ef088baa07c&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=644cf8b654b19af9a32404ff8216ce4b&txTime=6a1b2f74
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=4b4a3d8ec2b9109a1efe89f030a93a17&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=47fc02b7c15b23123eccf3c365983162&txTime=6a1b2f74
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=bbb88c58a00f5be80e945ef088baa07c&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=644cf8b654b19af9a32404ff8216ce4b&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=4c6a115da1bb25e9864dee887324de84&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=b8e472803633d5b72a8de86bc08d05f0&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4c6a115da1bb25e9864dee887324de84&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b8e472803633d5b72a8de86bc08d05f0&txTime=6a1b2f74
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=4b4a3d8ec2b9109a1efe89f030a93a17&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=0fa75750ac089b4bf5b52bd04d506dbe&txTime=6a1b2f74
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1dab8e6da89cceb4c0e1abf25d503ef5&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=f25c444656d573dcc846f6ee25548ae0&txTime=6a1b2f74
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=164246883a0fd3e2deff06299fb08d15&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=0fa75750ac089b4bf5b52bd04d506dbe&txTime=6a1b2f74
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1dab8e6da89cceb4c0e1abf25d503ef5&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f25c444656d573dcc846f6ee25548ae0&txTime=6a1b2f74
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=164246883a0fd3e2deff06299fb08d15&txTime=6a1b33ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780148516-0-0-e96ceb0d17d6293241a2da41bf4b8a52
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=a52c2b4f5f8ef2494a8ed5d3ca6c82f3&txTime=6a1b33ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780148516-0-0-57b2e130ddf1771134fdd9aad0fbe7d6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=947f83fca6c750e99768693ab87c87e2&txTime=6a1b33ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780148516-0-0-0ed7bc06382123ce85e5d3e0e70c0cac
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a52c2b4f5f8ef2494a8ed5d3ca6c82f3&txTime=6a1b33ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780148516-0-0-0e7bf23b347afff172e07d77df19c434
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780148516-0-0-71baabc21e1c61e4bf1bf4ba0350e2aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780148516-0-0-1e2ebc69fa23c122bc248ee8be9d9757
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780148516-0-0-00f434b24a47a7c6f628f33e24eb8242
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780148516-0-0-e7b5de26ee8b1aee306a72f763162558
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=947f83fca6c750e99768693ab87c87e2&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780148516-0-0-d66325c1420bd673d6988397c2d0e757
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780149596-0-0-696264b17a578fbb20a14c2ab6fc048a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780148516-0-0-2d7145e2abb3f6e0492946051e30f06a
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780149596-0-0-4af3a567bd6020be8d599cf24f1f0a09
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780148516-0-0-b1a4643927d2f4e66bcd9e6c7fd332e1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780149596-0-0-cd704ec154ed55978da2469b94012684
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780148516-0-0-a87adb34995c3ebf8751a3bce654a7d9
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780149596-0-0-a3196293fd1e459a1906f1e064cffba7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=ce01e8aa77b5bdd0bd52ab758e61f921&txTime=6a1b2f74
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=a3a69d049deeb9be340534dd4e20d63d&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=06df1a653443a06b16f048afeb8b4790&txTime=6a1b2f74
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=1c8e9d93c898783c4535b5f36980d133&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ce01e8aa77b5bdd0bd52ab758e61f921&txTime=6a1b2f74
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=a3a69d049deeb9be340534dd4e20d63d&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=06df1a653443a06b16f048afeb8b4790&txTime=6a1b2f74
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1c8e9d93c898783c4535b5f36980d133&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [QUỐC KHÁNH] (Socolive) flv
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=8627a3b3adaaf8c485600481e6990869&txTime=6a1b2f74
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=e91387f547d978d31d7bb6073c1488f9&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=c24cc88c611076942fac9866fd6f3bcb&txTime=6a1b2f74
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=2cc5508dfe5d43d16bef685bbc2e3199&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=8627a3b3adaaf8c485600481e6990869&txTime=6a1b2f74
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=e91387f547d978d31d7bb6073c1488f9&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=c24cc88c611076942fac9866fd6f3bcb&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Dalian K'un City vs Shijiazhuang Gongfu [BLV VIP] (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=4288363007254a5c927eacc85e03084a&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Dalian K'un City vs Shijiazhuang Gongfu [BLV VIP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=74c1305c469e7b74db19295b10e83a06&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Dalian K'un City vs Shijiazhuang Gongfu [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=4288363007254a5c927eacc85e03084a&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Dalian K'un City vs Shijiazhuang Gongfu [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=74c1305c469e7b74db19295b10e83a06&txTime=6a1b2f74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Suzhou Dongwu vs Wuxi Wugo [BLV YONE] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780148516-0-0-df3ff93ea195f5153365cb9168c6a5b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Suzhou Dongwu vs Wuxi Wugo [BLV YONE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780148516-0-0-57183dac677a642b0e80c820312c9acf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Suzhou Dongwu vs Wuxi Wugo [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780148516-0-0-b3978d96eb2865109c885c46a0c0aea7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Suzhou Dongwu vs Wuxi Wugo [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780148516-0-0-83a85383ae19e0aacaa19ba8672f33e7
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=2cc5508dfe5d43d16bef685bbc2e3199&txTime=6a1b33ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Da Nang Dragons vs Ho Chi Minh City Wings [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780148516-0-0-c39d58715500a111ae6176aaf828aa4c
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780149596-0-0-4effc8ff11be2d7d9790362340b6ee97
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Da Nang Dragons vs Ho Chi Minh City Wings [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780148516-0-0-a47bfe8382f0a81e359365155397afc3
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780149596-0-0-533868f0c0cd9ba8efe0ab0fcfb69f72
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Da Nang Dragons vs Ho Chi Minh City Wings [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780148516-0-0-d557ee90770b76386d4941f4f9d5e75e
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780149596-0-0-d764013457bc09539d5c1aef3acd47be
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Da Nang Dragons vs Ho Chi Minh City Wings [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780148516-0-0-f0357a1f08e51116c119eee9f848e503
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780149596-0-0-0bad146fc9f506e36d5ea5c4c894fcf3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV VOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780148516-0-0-69ca4ab860af8134843bccdbb1a508fb
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780149596-0-0-ee390eaa56043af733cc0d3014b2204e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV VOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780148516-0-0-ab6a0bf2adbfe30c201445550f359718
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780149596-0-0-456bae6143924274e20348bd654e1a68
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780148516-0-0-2ad013252ed05010ac275664ba5cb0ea
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780149596-0-0-028b72d556795f9c8a6a278501c3d727
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780148516-0-0-b0c8496aa3bc8f8bc662788ae61c1a71
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780149596-0-0-963c6da86c63d875f5aa87fe8b1bdb4f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) flv
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1780148516-0-0-b1e04da9697c824cf079a15ad41bb2ee
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1780149596-0-0-739e69e180f3d7d0a1ed290a6a33a1f9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780148516-0-0-3a5c3077f4b8b25427a1c89a18c1653d
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780149596-0-0-e507817ad50339bef1da46e9c7fd7539
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) m3u8
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1780148516-0-0-c2e163a53c3b1d1388626b0d42e47123
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1780149596-0-0-a3e0da640b46fbf162644eecaf684bb0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780148516-0-0-c1033779a472556ea0103662c97b1260
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780149596-0-0-08a220b209c8a62705e1a0a94c223af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780148516-0-0-3b8051d2d420dc7089eb278d91451b31
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780149596-0-0-931604278dbdcd2b1efbbcbd867786c9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780148516-0-0-ea3de59df392079ec6c20f7171085cc8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780149596-0-0-a1c78c8e403de3172d4b0b45e2750606
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780148516-0-0-75016030e12924f905c303492b11c888
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780149596-0-0-03bb33fc08cc2301c724723bac2f42c2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780148516-0-0-a5792ced8f5aa6f888ee95d84ba4a648
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780149596-0-0-62c05f97230c491c1971c71edd8f0dd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780149956-0-0-5db7c6f0405fe94f342f4ec3464c4a52
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780149956-0-0-8d8a0766ee09393111a5091eb609669a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780149956-0-0-982aac5ac8fdf29af211d476a591fedc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780149956-0-0-bb822d53abe4b469809f28049815ec96
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780148876-0-0-fd57855d9aa2822426783db9312eb87b
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780149956-0-0-c9a2369772527503756c46b9c49d74b2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780148876-0-0-ab73910ca9ee8f11b0c3732abcbd18be
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780149956-0-0-66875de0596c2b53a75449b208114ec1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780148876-0-0-82b14a43fd88f5ef3b89573b9b248f9c
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780149956-0-0-bda615ec5ed87f6c96b333150d3ae0c6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780148876-0-0-d86074c8e0cd004870f8a66cd1c43a00
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780148876-0-0-7166365921fb66428dd54aa788f647f4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780148876-0-0-5d4f495d290fb24118ff83bc0ec766de
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780148876-0-0-2b7215df761745fa4f8c9105c0beff49
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780148876-0-0-9aaf93e82730cbe863829bf737a02b93
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780149956-0-0-95858cb9da1b1f953385eacf27050c4e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780148876-0-0-4b0f71e4526304e2e12f211d49136d8f
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780149956-0-0-c92bad73b3f9e952b0ae7f4d0835e605
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780148876-0-0-32c3f7fbd1f42ad28b25adab4feb2878
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780149956-0-0-e7739dbd36b4b52a81e6e9cda512600c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780148876-0-0-57926acfa5711a99b588f20686d3bbd7
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780149956-0-0-1ed7250fd10705d0c862f18a95c361c2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780148876-0-0-744ec15cf0c8a5323afc1459702a20ec
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780149956-0-0-b2b20c5a234e39f575f75e0b9d5dd940
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1780149956-0-0-326e544ded74001b2f3b7949e0ed6620
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1780149956-0-0-1399af48eba40c0050de833f0dc29163
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1780149956-0-0-23b4f78b44548421b2177bc76de24131
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1780149956-0-0-145625e36940c2b9af01a9b9e56affe8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780149956-0-0-c591cc88e95aee132eee3fc28a635b27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780149956-0-0-48ebec793fb20a99d67d542a0bc388c4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780149956-0-0-0194298d3649ab6e2d64756e9be16585
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780149956-0-0-59689d32e4a3c8d2a220130a6250c604
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV RÔSI] (Socolive) flv
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=fad858c51256639311953c3a36b67262&txTime=6a1b30dc
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=c523e67ca244695ed22b6927bc902192&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV RÔSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=52130f1a7a85031de0131d507b79569d&txTime=6a1b30dc
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=f4a914fb7bedda6553330f7551d717c9&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=fad858c51256639311953c3a36b67262&txTime=6a1b30dc
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=c523e67ca244695ed22b6927bc902192&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=52130f1a7a85031de0131d507b79569d&txTime=6a1b30dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780148876-0-0-7599c49de6fd1ae643fe5011436ebb08
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780148876-0-0-d1dc20db8a498444f9f6823ee13a3b62
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780148876-0-0-e74c499eebad56b1f0234c53d44fbf1b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780148876-0-0-1b855f5e50d0b6b86ef307617c3096cb
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=f4a914fb7bedda6553330f7551d717c9&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780148876-0-0-1fbba48f2c405ade9486c1ac14c5c268
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780149956-0-0-6c660990f87a7546e834d68b7d93848d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780148876-0-0-1ca4e0c7d3ed616359bbf9944263816e
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780149956-0-0-d30dd5377925fb96baf61e4ccd030df3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780148876-0-0-d602605b9d2f622010604f2f6876bf3f
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780149956-0-0-1ecb74a167c0a11d93e4b0ffe919f7b5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780148876-0-0-f9b09fb257a0dc9f3f65fb879c487d2f
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780149956-0-0-77a719299435cdeb4789d47769e4547b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780148876-0-0-a30ad14f0536cd967d08f1f3c7ca575d
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780149956-0-0-42c645352bab1188d020fc33c731bece
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780148876-0-0-ee8a89cbe5c267aed2780c2ad484bcb5
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780149956-0-0-8346e9c284c52f66147f4826a7d6d3c1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780148876-0-0-5b8a9164e62ccf6d8b48cf0c8f46fb62
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780149956-0-0-66d56019da57d35141ff3b956a2875c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780148876-0-0-72765f4a336f5e83f9ebd22eee78b428
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780149956-0-0-627d333c8dc92909136f9b2e9dd39811
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=95a12b9032e927f7b018ab4bf51a10a7&txTime=6a1b30dc
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b4fe2fa955f4bd014fccb2ce3c7f1501&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=ef417483094dfcceda796f77f12c80e1&txTime=6a1b30dc
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=85451a80a38309560bc795422370457f&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=95a12b9032e927f7b018ab4bf51a10a7&txTime=6a1b30dc
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b4fe2fa955f4bd014fccb2ce3c7f1501&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ef417483094dfcceda796f77f12c80e1&txTime=6a1b30dc
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=85451a80a38309560bc795422370457f&txTime=6a1b3514
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV LION] (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780148876-0-0-7bb6be90b1e49b65f75b145646f326b5
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780149956-0-0-c73e1d52a6a063ebe21452f60340143a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV LION] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780148876-0-0-c25955a9de71fd39b9937874cb53e6b1
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780149956-0-0-1c3a246146069303e92f4c76029d4b8a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780148876-0-0-9733d29d9aa01e7031f59d56ee0cbce9
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780149956-0-0-43925fb80826260c0d7ac16ec760d87b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780148876-0-0-8d190ef364af20e83cc2dd35c3de0454
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780149956-0-0-cc8de510a9b08ea3c45441ef1ec45c7f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780148876-0-0-cb6ee70745f15dd86048decda3bfef25
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780149956-0-0-6fa4138c76aa807e7a5aa2dd235f65d2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780148876-0-0-2cbc4e3b0babb3bd86d752ba91e2e86e
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780149956-0-0-9ed031855b0a0ef301f84ca9c7ad55e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780148876-0-0-fdec5d0757fd8cfbf60d11b075f2e54e
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780149956-0-0-4dafe6c2f7f80647596375cb2c52b878
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780148876-0-0-dc5be94a3bc6ee7ddf3c8f2d5a623de9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) flv
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=a450c5a13b4e4b9671195318c8d8627e&txTime=6a1b30dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=af73ea265ec9885dabccd7afb8183f7e&txTime=6a1b30dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=a450c5a13b4e4b9671195318c8d8627e&txTime=6a1b30dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=af73ea265ec9885dabccd7afb8183f7e&txTime=6a1b30dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780148876-0-0-bcbeda610f3d3d4b9216bd08edf52c25
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780148876-0-0-abad4019587e05babd7bb77bcd347f1b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780148876-0-0-5771a7beca8679ca76ed9e3b440177a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780148876-0-0-9d622e57ea9b2604c06c55aec4933736
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780148876-0-0-e55eae478db7001de8f1ca679a8bd84e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780148876-0-0-fb64d24e4ed59b99345fad0e08236ac9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780148876-0-0-f0332e7af2a018fdcf229088ba53e3f2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780148876-0-0-b0230341dd410f26d6190dfd0bb9e067
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780149956-0-0-07e04dc9fe5f3ae9065e67ae764b91c4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Bayern vs Bonn [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780148876-0-0-75876b04d5e822c262ce9f608ded9b55
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780149956-0-0-8688ce018a2c4a73855ec8d61a2384f7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Bayern vs Bonn [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780148876-0-0-cde1365f065406f3ab121244a1db67c0
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780149956-0-0-7394cbcfd409eea2cc486cf25e8b0b84
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Bayern vs Bonn [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780148876-0-0-2f4d47989047dc46bd94f6dd2709f8ca
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780149956-0-0-123da9af75b69c018523b2f414c1c5fd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 30/05 Bayern vs Bonn [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780148876-0-0-205bb8001bcf9471a7a524af5c0cd8d6
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780149956-0-0-e70ca53f1ee7ba41db31f99641ca7dc7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) flv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780149956-0-0-ac0965f46b3732193661022c00351409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780149956-0-0-174a64fd85af608492a3a10f1a24d2cc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780149956-0-0-5f77bd74ee397a9e429d2c89e987bed9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Guangxi Hengchen vs Foshan Nanshi [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780149956-0-0-f40429a9fd9b55433382d8e3d8a05ab4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=113f402a43248dfd07f6eee5e661421e&txTime=6a1b3514
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=633ba94d12e8b6fa211066018872e726&txTime=6a1b3514
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=113f402a43248dfd07f6eee5e661421e&txTime=6a1b3514
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=633ba94d12e8b6fa211066018872e726&txTime=6a1b3514
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) flv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780149956-0-0-0e059a5a5feb03ef4d7062afd406094c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780149956-0-0-48e4d8394cfafbfe0ff81ebfb60b33d7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780149956-0-0-ebd9074d2b25cf9cc357b881cc9a3077
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780149956-0-0-2be8f25dd93f0495ce31acd5e79ca403
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TRÀ ĐÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780148876-0-0-3bdb50c584c4e9167d7a7dcd1c9d7be0
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780149956-0-0-69b358eb53b3724291fe7a7d1b6b6797
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TRÀ ĐÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780148876-0-0-954b92028eaf3eaaaedfe4f2b96c3c49
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780149956-0-0-be40f71d205dd28222d2d1d46d0fa08e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TRÀ ĐÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780148876-0-0-e4d8e40d22d22c78d9f73fc904f6d17f
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780149956-0-0-95f5485afd6896f1f682429bf7f3cac4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TRÀ ĐÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780148876-0-0-0485fb50ed18dfc7cf2f846ac164b846
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780149956-0-0-fce88255275442988b19f7e8554bc214
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780148876-0-0-980d0c6655d0c6b6d9d12a20d88e17c8
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780149956-0-0-bcf8ae1704ab849b18c6d318263c8bad
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780148876-0-0-6fe695e1af6f7a896cf52c205a870ab8
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780149956-0-0-666daa4edb9b3e3ee2802993225c0590
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780148876-0-0-641c56291b2e2ddc63d72cc083715970
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780149956-0-0-e12e9b0cd6fb96fa4bda0c8471439f5a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780148876-0-0-0ecae28b8a94cd5bf5d77bd2841e6cf9
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780149956-0-0-42ea7b529c9e5a01bdc4b4a15a941401
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [CHANH MUỐI] (Socolive) flv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780149956-0-0-678f07e69e9d32cbcf6b72ea6a0961f0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [CHANH MUỐI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780149956-0-0-a0cebc413d29e6cd3664820331b16978
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [CHANH MUỐI] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780149956-0-0-96f304f33250d5cf863db785770fda74
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [CHANH MUỐI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780149956-0-0-518bae90bd08f74afc1035e44f107f17
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780149236-0-0-cb470abd519055d352d04049257a0c0a
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780150316-0-0-5d3d3153999b1f93aa26d09b5434bf8b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780149236-0-0-817377f98d1e7ba5bcaff42f7a54ca29
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780150316-0-0-7d19a90becc932d8028290ea1a0041f4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780149236-0-0-0bca91c692aa653ab8b8981d0e47a91e
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780150316-0-0-ee28834f9e1eaa7251b21ad8004bc5aa
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780149236-0-0-d86bc7b5fb095231332a5c5f263664e8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780150316-0-0-6d9cf9e2cd71222b2a506551976b3f12
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780149236-0-0-354ed3365f0f3cadfc9322d589ab3229
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780150316-0-0-ed49421a1f0fb8e10c2d360a382b666d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780149236-0-0-a7126da73c0f269fc0c684c0c0e0a451
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780150316-0-0-04bae45dcf2c7912253a632234570fcb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780149236-0-0-30228da1256bbc2b849c5268af112af7
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780150316-0-0-ab6fae502e6c36e6d667ff69509a119d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h35 ngày 30/05 Chengdu Rongcheng vs Shandong Taishan [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780149236-0-0-ccb484ce0326a0787b6d1dee02fef26f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780149236-0-0-8021c56bab497378307f7fc52bda0b8b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780149236-0-0-b954680b24f07b6a36d4a6a02cb0cfc5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780149236-0-0-a7f827fcc193298959694ec677a89d46
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780149236-0-0-f489fa00108bf0842c6d125edbfcd694
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780150316-0-0-c811edcfe87d60e5472f8734725fac43
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780149236-0-0-402bdf3a19426ad1106acb4759adada5
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780150316-0-0-cba0ff9ba7a682c6cb9b0290f43d91ad
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780149236-0-0-76cd7bdeb45024f24a28553951c326a2
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780150316-0-0-4804bb46ef6ce3ee15c7b189c5a63d0b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780149236-0-0-6f5abc65292bc0b1c8aab43ff73fdf65
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780150316-0-0-6437eae43bea759015f552b2f037db6c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780149236-0-0-03ed62cdd26bfffcde6d35966803136f
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780150316-0-0-21be24ccfe6363e665ccb1c4d16e3e84
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=bd7bdcec239a15e752791b8caf6ba088&txTime=6a1b3244
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ad48be6441337e5f92aa5eeb58f7ab08&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=eba58ffca9301e9da35a5221653cb5a7&txTime=6a1b3244
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=ea7967fd3e8f0303ffe44c8d513ad7ff&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=bd7bdcec239a15e752791b8caf6ba088&txTime=6a1b3244
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ad48be6441337e5f92aa5eeb58f7ab08&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=eba58ffca9301e9da35a5221653cb5a7&txTime=6a1b3244
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780149236-0-0-9d52dda86eebf795500d13028bb8fb54
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780149236-0-0-445d3d4dbf012370cfe01d8c8d22d422
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780149236-0-0-8da9b43f8b8f71c96d0ca127b3a6f491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780149236-0-0-911534b9343ce338d791574af9802901
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780149236-0-0-c3c23a80ae340b4361983d642d266d6d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780149236-0-0-24698e05a9631f128d89becd09e090d2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780149236-0-0-20cb6c6a14f8bcb9ec4f3e44103a556b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 30/05 Henan FC vs Zhejiang Professional FC [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780149236-0-0-8d60b3cde16fa489f0d20badd219ef21
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ea7967fd3e8f0303ffe44c8d513ad7ff&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780149236-0-0-2ca56f0263e4bc6514dbbcdd0e5b8a91
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780150316-0-0-21b5a9248debb0310ca20e79ece84b9c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780149236-0-0-02bc66e05d6a032e95fff8d121d96a89
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780150316-0-0-7dcf35c37dcdc27db694a58d560afa2f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780149236-0-0-279dc9c5fbb3f5dbb69d36ac59f3ab97
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780150316-0-0-107d7396b452d406bddf8c040abc3cc6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Chongqing Tonglianglong vs Beijing Guoan [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780149236-0-0-87748ca0b4432ab66e08d4369766ae6f
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780150316-0-0-7873af95d4ef1bcaf741445b27749039
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) flv
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780149236-0-0-4f8bf0f6956e4da7d6384404add137f6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780150316-0-0-4abff063c8f2ba6fd3dbd47f65d85f63
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780149236-0-0-7741e8694eff2ba3e1b8c611acc19353
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780150316-0-0-554e044636abb8e56e8e10d1db3427c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780149236-0-0-387ca82bdb3f5a502f306c0aab5f4d86
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780150316-0-0-c9dffb6116ddb6b7311a31641f4126b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780149236-0-0-1052c96fc32be6327f3cdef77ffa37c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780150316-0-0-7a3bca6b05626e4d3c4153747b819b13
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) flv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780150316-0-0-862c57cc13fc342406a0b028f3f139b1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780150316-0-0-d67307cee52294827c9d9ec24db14a50
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) m3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780150316-0-0-e067a4c61cd55198b575d25cbe1c9051
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780150316-0-0-2ef042a28f213d45eddb530e609b48a4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Meizhou Hakka vs Dingnan United [BLV KAN] (Socolive) flv
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=3d734aa41169d19a8a1ce580ea9338bf&txTime=6a1b3244
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=9bdbb6408f7726958476cd7e4b8961e3&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Meizhou Hakka vs Dingnan United [BLV KAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=8a0590cb5548743a30963d973bf05e75&txTime=6a1b3244
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=ad42f48008e2e905358e0951b3485f9b&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Meizhou Hakka vs Dingnan United [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=3d734aa41169d19a8a1ce580ea9338bf&txTime=6a1b3244
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9bdbb6408f7726958476cd7e4b8961e3&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 30/05 Meizhou Hakka vs Dingnan United [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8a0590cb5548743a30963d973bf05e75&txTime=6a1b3244
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ad42f48008e2e905358e0951b3485f9b&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [PINKMAN] (Socolive) flv
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=dac3e273bb8fdb1eeae8929d828905b9&txTime=6a1b3244
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=06917a6b34eb876546561ad01fd06bdd&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [PINKMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=37b2d5293bbca97ac1c57c23a6504b49&txTime=6a1b3244
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=0685c0439807d4c2644fdf04f9056951&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=dac3e273bb8fdb1eeae8929d828905b9&txTime=6a1b3244
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=06917a6b34eb876546561ad01fd06bdd&txTime=6a1b367c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 HJK Helsinki vs IFK Mariehamn [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=37b2d5293bbca97ac1c57c23a6504b49&txTime=6a1b3244
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0685c0439807d4c2644fdf04f9056951&txTime=6a1b367c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) flv
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780150316-0-0-e8ed712b180547edd271193d3bc11447
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780150316-0-0-05f060bd85c2c3d15598e4259648904c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) m3u8
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780150316-0-0-6217578179f2ba3d468040e4304c7197
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 30/05 Shenzhen Peng City vs Qingdao Hainiu [BLV THÓC] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780150316-0-0-16badc64e84d8d957e9d4e5bb161f437
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [HÀ DUY KIÊN] (Socolive) flv
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780149236-0-0-7c43a8eea09ef770efcb50c0a4b6912b
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780150316-0-0-db04f5ceac330745bf8de23ef77221d2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [HÀ DUY KIÊN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780149236-0-0-9ec58a2d59444f2492428d3ffd6a24dd
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780150316-0-0-c3aefc497909ed55813bc0703a03ea60
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780149236-0-0-c6f873e47d73f8a19e8e5046c5013009
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780150316-0-0-faae16f606ed2195c7cfccef25bfd3d6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780149236-0-0-79d329de124799377b66c11c4608154b
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780150316-0-0-5e9a78b4532e67366170fec9c487161e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TƯ MÃ Ý] (Socolive) flv
-https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780149236-0-0-739c3669182b2081ad3d1500cc8d2910
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780150316-0-0-96dc2b25c7f43266bea744be6ff8aefa
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TƯ MÃ Ý] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780149236-0-0-75e3061f7c18604feea51fb3dd96051d
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780150316-0-0-5443326c5ca14bd14d27e62ea4cb9235
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TƯ MÃ Ý] (Socolive) m3u8
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780149236-0-0-5b641b6f901a17c08548109a6d6b2e2e
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780150316-0-0-a305fc10cd42584105e0baa9cbc6e5ad
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [TƯ MÃ Ý] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780149236-0-0-ac1d68c6f840661f52e51e115570d3f5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 30/05 Orgryte vs Elfsborg [CHANH MUỐI] (Socolive) flv
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780149236-0-0-66897f0471aca26567b94205ed7b0b44
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 30/05 Orgryte vs Elfsborg [CHANH MUỐI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780149236-0-0-eb9649b507c175e2947501317937c08d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 30/05 Orgryte vs Elfsborg [CHANH MUỐI] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780149236-0-0-5d85bdf749fcf3695446e6294cbedd3e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 30/05 Orgryte vs Elfsborg [CHANH MUỐI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780149236-0-0-7023213e4f1b35fe9d8171d128a36c4f
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780150316-0-0-03614fccf06464fcd54fac675fcf468f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [BLV HÚP] (Socolive) flv
-https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780149236-0-0-ddd4d678da1b544dc88cc9efb9558efb
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780150316-0-0-138bf325d7aaa7651f1c9f89a66d23af
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [BLV HÚP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780149236-0-0-baf8f546eccf7ad3aefdb9ec44825233
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780150316-0-0-107f3414de0dcdd5a10c6c51a475dd4a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780149236-0-0-e37647bf1530d479e64c84f9015538a3
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780150316-0-0-52998a70dd9106658e60f6b1cde4d13a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 GAIS vs Kalmar [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780149236-0-0-f52c064f0501f415c23906f87ac74dd6
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780150316-0-0-33a04d9c9f5142d13fc4699e72f9887d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 30/05 Dean Shields vs Jayson Shaw (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8

@@ -41,9 +41,6 @@ https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/840.png",18:00 | Henan Jianye vs Hangzhou Greentown
 https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80",22:00 | Cobresal vs Nublense
-https://live05.msdht.app/live/99121525.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/d85b4da177906440b0b1616aff569914.png!w80",23:00 | Toronto FC B vs Philadelphia Union II
 https://live05.msdht.app/live/88508431.m3u8
 
@@ -52,6 +49,9 @@ https://live05.msdht.app/live/87379114.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/96c0adc8a98bb466bfa539f11ce8ae04.png!w80",23:30 | Chicago Sky vs Minnesota Lynx
 https://live05.msdht.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png!w80",00:00 | Racing Cordoba vs Ferrol Carril Oeste
+https://live05.msdht.app/live/99121525.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",05:00 | Nagoya Grampus vs Machida
 https://live05.msdht.app/live/68848594.m3u8
@@ -92,14 +92,11 @@ https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Cerro+Largo&away=Cerro+Montevideo&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7566_1hrb7wwkee31.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2096_1hrb80xnnrx.png&time=05%3A25&league=Uruguay+Primera+Division&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Cerro Largo vs Cerro Montevideo | 05:25
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Racing+de+Cordoba&away=Ferrol+Carril+Oeste&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7278_1gtzdbr0n32s.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4342_20121218165053.jpg&time=07%3A00&league=Argentine+Division+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Racing de Cordoba vs Ferrol Carril Oeste | 07:00
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Juventude&away=America+MG&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F336_1hwrwf8axx1r.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11680_1gxsf3fvqxt.png&time=07%3A00&league=Brazil+Serie+B&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Juventude vs America MG | 07:00
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Cobresal&away=Nublense&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1291_1gv1yk239p1p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4304_1gzczbcwxg1a.png&time=05%3A00&league=Chile+Primera+Division&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Cobresal vs Nublense | 05:00
-https://auto.cdnfaster.live/live/sd-6MvYquUM7fd7HY8zWg/playlist.m3u8
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Racing+de+Cordoba&away=Ferrol+Carril+Oeste&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7278_1gtzdbr0n32s.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4342_20121218165053.jpg&time=07%3A00&league=Argentine+Division+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Racing de Cordoba vs Ferrol Carril Oeste | 07:00
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Knoxville+troops&away=Greenville+Triumph&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F24318_1gx54nvs4c1n.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34728_1gwbe2m9he1r.png&time=05%3A30&league=USL+League+One&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Knoxville troops vs Greenville Triumph | 05:30
 https://auto.cdnfaster.live/live/sd-6Mwd6CpxhEWpUYxenx/playlist.m3u8
@@ -119,11 +116,23 @@ https://auto.cdnfaster.live/live/sd-6MwdadhiAtu9gQ1zig/playlist.m3u8
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=New+York+Liberty+W&away=Phoenix+Mercury+W&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780075597.webp&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780075598.png&time=06%3A30&league=WNBA&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 New York Liberty W vs Phoenix Mercury W | 06:30
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG (Lương Sơn) BLV PELE flv
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h25 ngày 30/05 Cerro Largo vs Cerro Montevideo (Lương Sơn) BLV VƯƠNG LUÂN flv
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 30/05 FC Minsk vs FK Isloch Minsk (Lương Sơn) NHÀ ÐÀI m3u
 https://auto.cdnfaster.live/live/sd-6Mwd5hbBP7fqMNFatL/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Eastern Suburbs AFC vs Auckland City (Lương Sơn) NHÀ ÐÀI m3u
+https://auto.cdnfaster.live/live/sd-6Mwe5Waj21a4RyChvk/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing Louisville (W) vs Denver Summit W (Lương Sơn) NHÀ ÐÀI m3u
+https://auto.cdnfaster.live/live/sd-6MwcqNbbw3T85TqUvQ/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -203,219 +212,207 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV CÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780101716-0-0-cebe7c44dce124b33b9933c93c23d82b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV CÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780101716-0-0-d6334eae228132c1e2a4bd4324ab0e1e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780101716-0-0-6200a641070bcd5bee2d493687bc299b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780101716-0-0-fbf8594a8094ba49422219f126cbe2a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=cfc4de3b2495121e37d3b888b59dd1b0&txTime=6a1a78a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=ea20cfa67b4ce7d94fd7f6aa55bd09b8&txTime=6a1a78a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=cfc4de3b2495121e37d3b888b59dd1b0&txTime=6a1a78a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ea20cfa67b4ce7d94fd7f6aa55bd09b8&txTime=6a1a78a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780101716-0-0-10ad3304ee050073da3564571e964300
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780101716-0-0-35e9be0216743d28925541bf2f0782fc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780101716-0-0-c160db2444ed3db71375b3551cc4aaee
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780101716-0-0-9cb23996115f4c72eb0751cef4facddc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) flv
-https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780101716-0-0-53b6bbebfcd5728594b230a8f87bad27
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780101716-0-0-671e2c1aa9cefc23d8bd7a41f61fcc65
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780101716-0-0-80cac12483609551a46905e9247d6d81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780101716-0-0-691f62331273d33e5f0ca4036880de54
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780101716-0-0-ef4d9c334ba4f42c8120d1c258c3f648
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780101716-0-0-918cc9f10800a94446c840e36fa6755e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780101716-0-0-4ddba5f5802323c85d4cd42a581c8147
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780101716-0-0-7cca02824cafb945c43878c107acf74c
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780101716-0-0-dbed5d3f935c1aa0fff1206761ce8499
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780102796-0-0-1e10f979cbe335d74df114a86e24ba5b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780101716-0-0-c4fdd42c646101791c69ae7e95f75579
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780102796-0-0-2dee3ce7d204ce4cc76d44ab725750a0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780101716-0-0-834b5e8c10de68dca92507a97751f02e
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780102796-0-0-ecccda9e5ede37ad26bab00ecf275105
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780101716-0-0-65bd75858ad0db65ea3a27cb2949cd44
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780102796-0-0-1e1457bdff097b87e4b127a1f42cc33c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) flv
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780101716-0-0-03ae2208b2b1befee0e1e7b3e1599ea1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780102796-0-0-54a8ecca03237b010a5d34b784712e3c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780101716-0-0-92fd3d5f7b233213a1ff8e4ff64be891
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780102796-0-0-d18374713498da6862cf5fec3508d12b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780101716-0-0-bdbccfcaaa455764be49d4cc7d96b0c5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780102796-0-0-3e56098b3b278ec6fd8e49b72a758366
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780101716-0-0-37fbf2eb5ae767a99e62b168c00f2e76
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [MONEY MAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780102796-0-0-78718fc733b0dc0e2fdf897cf7e94686
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 New York Liberty W vs Phoenix Mercury W [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780101716-0-0-e4b079b0260f35ccab06b7461734b6fd
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780102796-0-0-06d606ead2a85541eabb654e587265a7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 New York Liberty W vs Phoenix Mercury W [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780101716-0-0-9677b96e16b57d0b4bb16751f57008ca
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780102796-0-0-788170e4eda6be630f4da3150b4479ed
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 New York Liberty W vs Phoenix Mercury W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780101716-0-0-a64485c0d308a0f06786d4302ef3dc4f
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780102796-0-0-b9054152e9cd73b92b42fd363820faba
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 New York Liberty W vs Phoenix Mercury W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780101716-0-0-c1fbfd1b87705252aa382945b962d44b
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780102796-0-0-03928be1e61bfd50e7cafc55afb70fb1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780102796-0-0-f8c5511a87f326ee96b17befbc59b3cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780102796-0-0-57d304882262a331f9686fbfff943564
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780102796-0-0-41a5cfeb989f981dfda6d409259c9ce5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780102796-0-0-34836e4ef1351b2981fff59b984573f4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=ec27c154f80b1a22bdda819ce61d1fa9&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=f60a72fefd8fcb0f54318b9a15452d6a&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ec27c154f80b1a22bdda819ce61d1fa9&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f60a72fefd8fcb0f54318b9a15452d6a&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) flv
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780102796-0-0-27effcd5701a3aa617c5b7451a9aa61c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780102796-0-0-984e6429b1ca5a0a5f40cc20387f075e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780102796-0-0-2bfab0e479bbfcad5db54b6983e48619
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780102796-0-0-90b8bac12112d781a1123198e84da1bb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=54026a48d8fddf4296dcac7c8bffdcf0&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=deca9fc562167b23d1d99d1cb6f07024&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=54026a48d8fddf4296dcac7c8bffdcf0&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=deca9fc562167b23d1d99d1cb6f07024&txTime=6a1a7cdc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [CHÍ PHÈO] (Socolive) flv
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1780102796-0-0-a2fb13e00fbfce2007fa4bce26d73dc5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [CHÍ PHÈO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780102796-0-0-a581e624d1102ec196c3b05e92020626
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1780102796-0-0-6b554426ee722818cccfe7628c64d22f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780102796-0-0-559c35637f5a035f5cd487dfa74895b4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780101716-0-0-6c7b4f5f79db74a6423622f6dc1f88f7
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780102796-0-0-47c7f9b54f462effabd8e2cf90615dc3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780101716-0-0-166fd3737a668f4263542dfec9b9e6bc
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780102796-0-0-b86c389a603f346b65cdfa5ff523d9b4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780101716-0-0-ea8cf9916a8d64f89f1d6787a000f690
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780102796-0-0-12209cb464ff511c5902f9a0d3b5eb04
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780101716-0-0-8016858a2d43de402e887acfd4893f7e
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780102796-0-0-b8926386ef3f1cdbc09923ba775f369f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780102076-0-0-5d8b411d56e5b15ea876fc80d179c129
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=546e755791504d3338670842a0391b44&txTime=6a1a7e44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780102076-0-0-96b9a161da83ebed49ce93ff23d23c47
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV BÉO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=8c8ec4b7b542c06b586941e770a502c5&txTime=6a1a7e44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780102076-0-0-a248004e8b3c342f511da8b3ee84a3a4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=546e755791504d3338670842a0391b44&txTime=6a1a7e44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780102076-0-0-5172f0e9696bdabfbfaec0e884ebe6cf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 30/05 Universidad de Concepcion vs Union La Calera [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=8c8ec4b7b542c06b586941e770a502c5&txTime=6a1a7e44
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780102076-0-0-f0a53dbf9bbda2e1ac220e223edb4e54
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780103156-0-0-1c57c5b0210a9013e9693775d7b856a2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780102076-0-0-cc43c6a8db6214bc9ec397b31391700d
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780103156-0-0-3a0255ed4c9b79d88dbea4fe84fa052a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780102076-0-0-2277555b8bc49ee4c05267f4864d6fac
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780103156-0-0-9ddc24bfbdbbeedd10f8d2afb22169a8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780102076-0-0-3f221a6a76207a98dce46ba1113ff79c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780102076-0-0-ab4651b84896070a9796070e88a95a9b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780102076-0-0-446951cb5f9cd13707c58206b9e7691f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780102076-0-0-58aceec1853107ac52999946117168ea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/05 Cobresal vs Nublense [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780102076-0-0-c08f31ed639fe5a02d39b52acda09b17
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780103156-0-0-aa8207296a35c56fa1d4226d24f9bdb6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780102076-0-0-108176002b163faa91c4483614261b78
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780103156-0-0-44af6e861f3e189f42538782ca455cf6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780102076-0-0-00cdd4fa8ae8ce6f3f9a8ec48e9c4da0
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780103156-0-0-f6e0850bb729b01ebc2403f5a47a9828
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780102076-0-0-cbd156c882c38cd4ffba0ef8a354e036
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780103156-0-0-ca346c629fcdf8b9c9c3c1d8686b1b54
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Toronto FC II vs Philadelphia Union II [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780102076-0-0-c5347a345a411d82cfbc568c468d0475
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780103156-0-0-bb9d5d6b88a54e96f6c57f680c4f2b8c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV YONE] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780102076-0-0-054099c777758b78c1ba57f3944d4a65
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780103156-0-0-8c34292aa8f10dda6ec58216d23f155f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV YONE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780102076-0-0-fdef741c14f55300392c6810a9d2e795
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780103156-0-0-311f57a00b4316e3607222e71483f4b5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780102076-0-0-a1e701bb4dd81f7b91ff99fcccaa1a45
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780103156-0-0-f5af368463fc362dd892c8c95ab9e421
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Supra Du Quebec vs Inter Toronto FC [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780102076-0-0-4a5f56f09e20cf15fe6e929d089b8e33
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780103156-0-0-3d29a57fbde80edc41537464b6247938
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780102436-0-0-1318ac92c3369e03548c239130327846
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780103516-0-0-b9e7445c2d95291d4122dfef64a110d5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780102436-0-0-f193835d1e0faef72f2a8b5a5784e389
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780103516-0-0-5acb6c10def591ed45cc007832fbfe28
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780102436-0-0-5b21e79c39efa0c542d541d54fcb80ca
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780103516-0-0-93b6c30b5b426eb58e5bd1ba092f5056
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 30/05 Leones vs Dep.Independiente Medellin [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780102436-0-0-9b184487c8f3def2f162873a7935063a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780102436-0-0-545a8f47cf22c800e003acad3ebbae84
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780102436-0-0-e1c6b3e6e1b11266af2e7a7611cb0fc7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780102436-0-0-fb010ec324387cad74f17d352f9d2f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780102436-0-0-545ec4e7bb62ad4556fc1925c44c6e5c
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780103516-0-0-05411397d7e07a33cfc83a547110b10c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [HÀ DUY KIÊN] (Socolive) flv
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780102436-0-0-4167d537b0f71d401650997da0ab68f8
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780103516-0-0-3bf02febae76fd13af9e7c406679fd85
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [HÀ DUY KIÊN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780102436-0-0-1c3bb5a9f87ce7656add3b4b10cf3029
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780103516-0-0-16c34470623d850bded4a7a5f283dc53
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780102436-0-0-d4aaffd521d1c24741928434db28edd5
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780103516-0-0-4ded9c70f7de06ffa69e1a77bb0d425c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Juventude vs America MG [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780102436-0-0-0cc842a150ebd53aeec0239ce5531f13
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780103516-0-0-d4500b3ae2fa91db98dcd1a386a3c55e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780103516-0-0-5560704c70f879d99fd44977e040d963
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780103516-0-0-0641bd24f1b30f692bdadba63f8d5a98
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780103516-0-0-8ed8f73f16bb623ae8e26af2378052bd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/05 Chicago Sky W vs Minnesota Lynx W [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780103516-0-0-33250b9d07675520b237daa2341b1a4e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [BLV LION] (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780102436-0-0-a3f84aea758fce8a1c6752f3ec763f77
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780103516-0-0-600321272967cd4342808e75461acd19
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [BLV LION] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780102436-0-0-698871299cae23b1daf59b0a1df50488
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780103516-0-0-6fd083d75bfd4ce6cef11c6035d6bbc1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780102436-0-0-f73530173b015b5a0f11e9b09f91497b
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780103516-0-0-900af3ade2ed6e85507559f71e3c235c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/05 Racing de Cordoba vs Ferrol Carril Oeste [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780102436-0-0-f97bcd3de1c6b7e36aba341f54dfafc1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780103516-0-0-51ea2b205e7fe4238d337a2c8fff762d
 

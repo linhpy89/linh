@@ -29,6 +29,9 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp",16:00 | Marta Kostyuk vs Iga Świątek
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2eb6ae5efa6.webp?v=1780204481",⚽ Blaublitz Akita vs Consadole Sapporo | 12:00
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
@@ -62,9 +65,6 @@ https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80",05:00 | Shimizu S-Pulse vs Yokohama F. Marinos
 https://live05.msdht.app/live/99121525.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/5906bdeda0213116507e89a4897cc904.png!w80",03:00 | Franklin Bulls vs Auckland Huskies
-https://live05.msdht.app/live/19919577.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",07:00 | St Albans vs Preston Lions
 https://live05.msdht.app/live/43612277.m3u8
 
@@ -95,26 +95,20 @@ https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80",11:35 | Wuhan Three Towns vs Yunnan Yukun
 https://live05.msdht.app/live/33982309.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png!w80",11:35 | Zhejiang East Sunshine Medicine vs Shanghai
+https://live05.msdht.app/live/19919577.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",16:00 | Croatia vs Bỉ
 https://live05.msdht.app/live/97312754.m3u8
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Franklin+Bulls&away=Auckland+Tuatara&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780165399.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780165400.png&time=10%3A00&league=NBL&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 Franklin Bulls vs Auckland Tuatara | 10:00
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Sydney+United&away=Sutherland+Sharks&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6665_1gxw2287pxx.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6670_1j051xz44k2x.png&time=11%3A30&league=NSW+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Sydney United vs Sutherland Sharks | 11:30
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Magic+United+TFA&away=Queensland+Lions+SC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23124_1gtn1ev8fg2t.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11673_1gryyqvhkg2.png&time=11%3A30&league=QLD+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Magic United TFA vs Queensland Lions SC | 11:30
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shimizu+S-Pulse&away=Yokohama+Marinos&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F191_1gtzcts2p01p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F183_1gtzcts26eq.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shimizu S-Pulse vs Yokohama Marinos | 12:00
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shimizu+S-Pulse&away=Yokohama+Marinos&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F191_1gtzcts2p01p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F183_1gtzcts26eq.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shimizu S-Pulse vs Yokohama Marinos | 12:00
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shimizu+S-Pulse&away=Yokohama+Marinos&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F191_1gtzcts2p01p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F183_1gtzcts26eq.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shimizu S-Pulse vs Yokohama Marinos | 12:00
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Sydney+United&away=Sutherland+Sharks&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6665_1gxw2287pxx.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6670_1j051xz44k2x.png&time=11%3A30&league=NSW+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Sydney United vs Sutherland Sharks | 11:30
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Fagiano+Okayama&away=Urawa+Red+Diamonds&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7943_1h53w49p622b.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F175_1gtzcts2pj1a.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Fagiano Okayama vs Urawa Red Diamonds | 12:00
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
@@ -122,14 +116,38 @@ https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Fagiano+Okayama&away=Urawa+Red+Diamonds&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7943_1h53w49p622b.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F175_1gtzcts2pj1a.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Fagiano Okayama vs Urawa Red Diamonds | 12:00
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shimizu+S-Pulse&away=Yokohama+Marinos&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F191_1gtzcts2p01p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F183_1gtzcts26eq.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shimizu S-Pulse vs Yokohama Marinos | 12:00
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shimizu+S-Pulse&away=Yokohama+Marinos&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F191_1gtzcts2p01p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F183_1gtzcts26eq.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shimizu S-Pulse vs Yokohama Marinos | 12:00
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Shimizu+S-Pulse&away=Yokohama+Marinos&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F191_1gtzcts2p01p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F183_1gtzcts26eq.png&time=12%3A00&league=J1+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Shimizu S-Pulse vs Yokohama Marinos | 12:00
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH flv
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United vs Sutherland Sharks (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV MÃ SIÊU flv
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama Marinos (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds (Lương Sơn) BLV GẤU KA flv
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds (Lương Sơn) BLV SHIN flv
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC (Lương Sơn) BLV NGƯỜI THÉP flv
 https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United vs Sutherland Sharks (Lương Sơn) BLV LÃO HẠC flv
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -227,272 +245,257 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780206116-0-0-19b44f6e3e33cd272ec719ec863bdcf9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780206116-0-0-ff29067285ba2afaedcf392de930123f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780206116-0-0-4dc40b94c010103373817fc08681a5b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780206116-0-0-54b07b427db2c4e6db3385899a9178cc
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=0d01c645265db1471bb91d77eb9161ea&txTime=6a1c1074
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=f447d553204441d742b3ec557cd4a878&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=408d45d7a8b2c8777fb472a3af17ae87&txTime=6a1c1074
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=4ed93377996bc87005a4113e51c04384&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=0d01c645265db1471bb91d77eb9161ea&txTime=6a1c1074
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f447d553204441d742b3ec557cd4a878&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=408d45d7a8b2c8777fb472a3af17ae87&txTime=6a1c1074
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=4ed93377996bc87005a4113e51c04384&txTime=6a1c14ac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) flv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780207196-0-0-1a9fbc02a7dbdd6542087e96b74c93f9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780207196-0-0-192d6e8c4315caeba4d71042734f43d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) m3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780207196-0-0-187953f8d2b05016d55805235065938b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780207196-0-0-29e4e2f9dd7eb08118ea34b9f952da4e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=6f4ed3d84b225a424bef9eeec40c15d9&txTime=6a1c1074
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=3cc1d9e89572d37c66626c11da6070f0&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=635164dd2038bc77092b41006cb59543&txTime=6a1c1074
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=4efdf1c41a4cbab9837bec3ecb69c2c4&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=6f4ed3d84b225a424bef9eeec40c15d9&txTime=6a1c1074
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3cc1d9e89572d37c66626c11da6070f0&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=635164dd2038bc77092b41006cb59543&txTime=6a1c1074
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4efdf1c41a4cbab9837bec3ecb69c2c4&txTime=6a1c14ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) flv
-https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780206116-0-0-49291495eff3bfc9a010b45caf7a7ccf
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780207196-0-0-de5cda883d7281cc97c40902e76891f7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780206116-0-0-fe8ca4521ec4687446a2933406f70cd6
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780207196-0-0-02228844150e00dc8df957a7d2b59705
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) m3u8
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780206116-0-0-1e0c7cfc962d308c9167ce7fffac922c
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780207196-0-0-013f9fd383a489e34ce0926a8182f635
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780206116-0-0-2481f992b07298da1a60ebae1f4905be
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780206116-0-0-ba2dbbfb67de1d1928bf15129d9c74cf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780206116-0-0-dcac83352d79e7d4db6aa310de819e95
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780206116-0-0-469c040d88b2690281bcf26ab4937655
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780206116-0-0-c1d38cc4ccf7e92497d82d3f9a26cf1d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780206476-0-0-0452d6c09e409b79780e94b56063c7c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780206476-0-0-303bc120bd58673acc17b0f364a506ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780206476-0-0-67d61a402ebd99aa5d8e5a74a9f342bf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780206476-0-0-5870cd98f42af032882448ae07548d41
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=f85484b8cf0a18712992c8f2176e8a13&txTime=6a1c11dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=ad039acfdcc7fe44449922e808b14573&txTime=6a1c11dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f85484b8cf0a18712992c8f2176e8a13&txTime=6a1c11dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ad039acfdcc7fe44449922e808b14573&txTime=6a1c11dc
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780207196-0-0-74b4498579f0b4a0b9c5acd20a3c08cf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780206476-0-0-705b1d55dbc41326d4b2c8e8ca2197b8
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780207556-0-0-63aad3af596e1f3278a0facd498037f0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780206476-0-0-8701ee5345eadeae8f259d34c921236e
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780207556-0-0-4ab5fad19abce0b21cca9a710c4a8396
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780206476-0-0-9b1a7c72382059e9343939ed1f6883e2
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780207556-0-0-599207bba2fa9f491b6a2487015ec555
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780206476-0-0-59649002310467c86dc0ca234770306a
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780207556-0-0-bbf2c0b797ecb06ccd044beeccdb8faa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=f4bfa0a2d37fba34fdfb6c8f9b2989f7&txTime=6a1c1614
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=7f7286547e572253855013a58c5ffdb6&txTime=6a1c1614
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f4bfa0a2d37fba34fdfb6c8f9b2989f7&txTime=6a1c1614
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7f7286547e572253855013a58c5ffdb6&txTime=6a1c1614
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780207556-0-0-7b3537ba2a37a30f0c51bd06d27b5fb5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780207556-0-0-6e70bb5acc8bb3ba527f4add8661eb76
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780207556-0-0-017ad7b0054e695870bdd69ac9a15640
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780207556-0-0-8a667f2a51f82ce2bef35d8d6af92aa9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) flv
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780206476-0-0-1ef29e5966dafd81dd342f9ef5bc4de2
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780207556-0-0-f25acda1851a55a10507f97dffd46c68
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780206476-0-0-af3edc6cdcc85ad00e1ee10fe25631df
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780207556-0-0-2d9706aaddaf0eb2d76163584c9b59ad
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780206476-0-0-4dc12349fe81cd15ccbf45941b4dcf9e
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780207556-0-0-a9be2cb51edee5b1d4693c58ab81ef12
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [CR Bưởi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780206476-0-0-abcc126ae194bf135fcd5fb2ee0aff2e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780206476-0-0-8357538e8451c4a620b318cb2ffef9ad
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780206476-0-0-01738b7fecf9392d5aa45d5b5ba09a98
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780206476-0-0-ebad668b844fae2eb95800306d25fc45
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780206476-0-0-d1f425668d187431379f51a760036d1f
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780207556-0-0-5623a65669bb7b53c3ae03d4797670c9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780206476-0-0-9e9e7cc286a8e2988dd6449c1b71396c
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780207556-0-0-65bc50bdb37c6897ba93a2cc281f7e72
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780206476-0-0-f41ef893ede56a2f14cd6ffde8d5d27b
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780207556-0-0-0217f4d1c354b343a9993697e4f19d5a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780206476-0-0-ddd9b996559a0d7c07ded84d5c2f0f9e
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780207556-0-0-16588990600333ecd4a9a4ce3f9c307e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780206476-0-0-a2b67ee42149e2af86e069b35439e229
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780206476-0-0-f9c18c2f554d4753cb97be5d709cd30e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780206476-0-0-fe65c0cb643cb223ba3c22502a9a18ca
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780206476-0-0-b6e517c2a37980141f62f6fcef5f3553
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780206476-0-0-1a6640089580baf33001d381882182bd
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780207556-0-0-b0783d08dbaf4af5648fc9d89a2caf55
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) flv
-https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780206476-0-0-c1e85f4723cd7bc36b4888158694b40a
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780207556-0-0-420298b47dddbd5ee6d8c2be481ca007
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780206476-0-0-c3eae234c1492a3bb54b12c1f0c6402a
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780207556-0-0-b7c660730ba0aa8d889a914b4c9cd940
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780206476-0-0-b1ab2e6e5a6c6fcd2ddfabeaac9e8d08
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780207556-0-0-8c67afa9f15c11feec685f95f6f17031
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780206476-0-0-f21dc3f02fcf289c7e6ea817b697485f
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780207556-0-0-f45af0702949aa1542ff3a2665a06b8e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780207556-0-0-dbac624553bd398c585c028cd76cffaf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780207556-0-0-f5407fc84163081148c62fcccf6e4db3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780207556-0-0-b96b066c6577036cd3bc5da89bfe254b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780207556-0-0-40dec51ab10f8e980ae541bae0169082
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780206476-0-0-f093073f554bc82c814fd633e054570a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780207556-0-0-140db6a31960af39b536aeec335c0607
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780206476-0-0-923205bba1035a828cdfe07a3b80695c
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780207556-0-0-ca08dcf2e04b8ad0b114d46d79b3612b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780206476-0-0-79745c115796b0ffc31a0972781bf4c4
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780207556-0-0-13a70ae20d74c8eac34c4e9897bb6220
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780206476-0-0-0c2ea9b904a8932c11c6be47237e00cc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) flv
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=143a7b7a61ec8285c57316094609d1f1&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=89a946f698c5ab68541ebcde32b92b85&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=143a7b7a61ec8285c57316094609d1f1&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=89a946f698c5ab68541ebcde32b92b85&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780206836-0-0-a357863764ffb5dcf86e4c8798eb6cfe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780206836-0-0-ebe9f72ddbf18cf7d8b73abbe414557b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780206836-0-0-0823fe756e14c5247f2ed74f138ac36b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780206836-0-0-c2a7bf1cc76d5ac9691b17fb052732e5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=dfcebfa7d185e4c2a23cf3125b00c7e2&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=7d280087e9d9f8f6ce4ca6353c525bdf&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=dfcebfa7d185e4c2a23cf3125b00c7e2&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7d280087e9d9f8f6ce4ca6353c525bdf&txTime=6a1c1344
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780206836-0-0-e609107c0002a3477e157896f1031e5e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780206836-0-0-7c225d1f3cb81aa8636fcb5612ec05d9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780206836-0-0-1c105ac1809894eb4ea01d90cbca08cb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780206836-0-0-e5b3f905f3f7a839f100a7aa5eae0560
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780207556-0-0-bcc14f7b09e5bc4d62397d81e02762de
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780206836-0-0-13ea848045d16b413818e726c8d361e2
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780207916-0-0-6cb87679d82b8d07202062396d96b992
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780206836-0-0-0f5d4adeb92972e098f1975776ec9a05
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780207916-0-0-714d11b774019ec178608c63bf9cda58
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780206836-0-0-9a3cfc2edfddc8bf9130a5b8b1ee2a68
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780207916-0-0-a11ad47cf15de071d73372da8054825d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780206836-0-0-43a98e799abe0bc3b2a8849ff48c74be
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780207916-0-0-da366bdf51420fc02a3513ce42817283
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780207916-0-0-61ba25cb96c6f753557259bab76f8954
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780207916-0-0-55ecc9425878ef4db8125e7a50180bcd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780207916-0-0-31a59ee2af6f1c617d179feea6ae601c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780207916-0-0-776f5e9321658ec7420d42801c18dda5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) flv
+https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=2caeb8daf3d442b4fd4467b4f279d16e&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=3eef4994b87cc1c5d4bfcf0dd5acaf64&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=2caeb8daf3d442b4fd4467b4f279d16e&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [TYPN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=3eef4994b87cc1c5d4bfcf0dd5acaf64&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780207916-0-0-cecf0659adcec8fa341594666a47af4f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780207916-0-0-f44a5b014a999df155afca4c86ba960f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780207916-0-0-a0dd21ddb033884eb2f0d3fd01a8867d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Shimizu S-Pulse vs Yokohama F. Marinos [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780207916-0-0-1631c934d3b3326bbbd947f8c52773d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=79bdcc9156c39b4e906b827e00165735&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=0040bc41900c08f60de4826fa8195ed2&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=79bdcc9156c39b4e906b827e00165735&txTime=6a1c177c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=0040bc41900c08f60de4826fa8195ed2&txTime=6a1c177c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) flv
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780206836-0-0-81d038feb834df728200a5cf7fd4376b
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780207916-0-0-bd750ab6dca0b04667fe2fec40dcc36b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780206836-0-0-174ef3d6c582018d106b47685bbf634f
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780207916-0-0-af6604a61f35652a17db4a3854650ae2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780206836-0-0-d0493f04312f3ffc267e6b812aa65e79
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780207916-0-0-a264532bc40ed9f369e89719c8e96ae4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780206836-0-0-ae176b7932f3329b56222af78e6af55d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780206836-0-0-0191ea8bc6afd9a18619d2a8b70d528b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780206836-0-0-917fa807ab38568388c97f7e37607291
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780206836-0-0-5bf1c02daeb2974c19e9dd5b8aa7d3c4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780206836-0-0-3e29cb4b77d8bc53471d4aed6d4bd17e
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780207916-0-0-093f5b46dc5940ca512f7f5c98f696db
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) flv
-https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780206836-0-0-7f2dce072281a7976dc8d79c8cee8fe7
+https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780207916-0-0-51d78de32888198f9bf2535fdf8e6269
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780206836-0-0-63b827e8eab323240a62999967c12d34
+https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780207916-0-0-599d026cf688abe32783ff99237be1e6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) m3u8
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780206836-0-0-34ed8efc4b85abd4a4d4a1f98c5effdb
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780207916-0-0-32229ff6c5eadd214f28b23c7fcf9fe5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV AB] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780206836-0-0-77b11814ce884153c6b96c50d40f6d92
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780207916-0-0-7a7329a8dfc661ef4ad087114833071e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 31/05 Blaublitz Akita vs Consadole Sapporo (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) flv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780207916-0-0-c468a40619464c26981154c967b2da09
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780207916-0-0-fa434ae9699441c030451b23316c7a53
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780207916-0-0-d0603512e84020a4ea74b4ffee10f5e2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Blaublitz Akita vs Hokkaido Consadole Sapporo [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780207916-0-0-3ac5f89cab98f861a2325ee410d40288
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780207916-0-0-7ee6f30bb3fc10da33b2b752357f30e6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780207916-0-0-bdba26b92ffb0dbd9a9e54b8e3cf75bc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780207916-0-0-db562b1e44b94e1b7389c9bdc88c7b20
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780207916-0-0-14315befca10b82e78d90d15e6f47b31
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 31/05 Blaublitz Akita vs Consadole Sapporo (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8

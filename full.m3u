@@ -29,17 +29,14 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp",16:00 | Marta Kostyuk vs Iga Świątek
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1a3a84c667f.webp?v=1780214090",⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 13:00
-https://tfwc3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=4740d930c735b1c6fbf5660b-178021405749159&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556800904919
+#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1a3a84c667f.webp?v=1780215278",⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 13:00
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c29dfb6eb50c.webp?v=1780214091",⚽ Jeonnam Dragons vs Seoul E-Land FC | 14:30
-https://tfwc3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d7d06d36013c1e43426d9700-178021405749298&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556798807710
+#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c29dfb6eb50c.webp?v=1780215279",⚽ Jeonnam Dragons vs Seoul E-Land FC | 14:30
+https://tfwc3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d7d06d36013c1e43426d9700-178021525383796&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556798807710
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/3674.png",18:00 | Nam Dinh vs Song Lam Nghe An
-https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg",18:00 | Hồng Lĩnh Hà Tĩnh vs Da Nang
 https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
@@ -49,6 +46,9 @@ https://alive.yarncdn.live/xctv_blv_quanvu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/EfB-logo.png",20:00 | Esbjerg vs Lyngby
 https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/960px-Logo_of_CD_Castell%C3%B3n.svg.png",23:30 | Castellón vs Eibar
+https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/12.png",Japan vs Iceland
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
@@ -113,35 +113,20 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=West+Adelaide+SC&away=Adelaide+City+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F20120_1gvpn643zgb.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12158_1hvszb500y2k.png&time=14%3A15&league=FFSA+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ West Adelaide SC vs Adelaide City FC | 14:15
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Hwaseong+FC&away=Gyeongnam+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18801_1jkpmbbms12b.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3442_1gxsf6qkdcq.png&time=14%3A30&league=K+League+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Hwaseong FC vs Gyeongnam FC | 14:30
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Hwaseong+FC&away=Gyeongnam+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18801_1jkpmbbms12b.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3442_1gxsf6qkdcq.png&time=14%3A30&league=K+League+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Hwaseong FC vs Gyeongnam FC | 14:30
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Hills+United+%28W%29&away=UNSW+FC+%28W%29&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64788_1k3ffxhvgm4.png&time=14%3A30&league=NSW+Premier+W-League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Hills United (W) vs UNSW FC (W) | 14:30
- https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Jeonnam+Dragons&away=Seoul+E-Land+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F461_1gxsf6qkd726.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21791_1gxsf6qkx8d.png&time=14%3A30&league=K+League+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Jeonnam Dragons vs Seoul E-Land FC | 14:30
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Jeonnam+Dragons&away=Seoul+E-Land+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F461_1gxsf6qkd726.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21791_1gxsf6qkx8d.png&time=14%3A30&league=K+League+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Jeonnam Dragons vs Seoul E-Land FC | 14:30
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Hills+United+%28W%29&away=UNSW+FC+%28W%29&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64788_1k3ffxhvgm4.png&time=14%3A30&league=NSW+Premier+W-League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Hills United (W) vs UNSW FC (W) | 14:30
+ https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Hwaseong+FC&away=Gyeongnam+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18801_1jkpmbbms12b.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3442_1gxsf6qkdcq.png&time=14%3A30&league=K+League+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Hwaseong FC vs Gyeongnam FC | 14:30
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC (Lương Sơn) BLV LÝ ỨNG flv
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Hwaseong+FC&away=Gyeongnam+FC&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18801_1jkpmbbms12b.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3442_1gxsf6qkdcq.png&time=14%3A30&league=K+League+2&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Hwaseong FC vs Gyeongnam FC | 14:30
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Hills United (W) vs UNSW FC (W) (Lương Sơn) BLV GẤU KA flv
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
@@ -157,6 +142,15 @@ https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e58
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC (Lương Sơn) BLV SHIN flv
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -242,198 +236,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780216916-0-0-03e37566598e4404bf7c6c9cfd0e836e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780216916-0-0-803f08f5ee3661f9e55a2d373ec719f9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780216916-0-0-ee9bb51094faa4071e648c16e4e06ccd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780216916-0-0-9bb260cf1a23fa65eec045c6b7bb67ca
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780216916-0-0-711965380c4e180cd852a435a759e98a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780216916-0-0-c591c0e9ad52209ee285fea00ae1ea21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780216916-0-0-2a5b8a657eeecd4271e9d68bd16c6e65
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780216916-0-0-1b87e4cde26d29d643889f6bf41abfb5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780216916-0-0-856dbf136fbe91e5a80d15d9c4e60b43
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780216916-0-0-422527a4dd670ca62bbd0dbd92fe4d9b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780216916-0-0-c0aafe86027d9ab1eb6e6f144f9d0467
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780216916-0-0-3c370c93dce86765e19dbfe62c293468
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780216916-0-0-af7fc9544603590ae4a4b6b564e983ea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780216916-0-0-1557f137e9af1a9096f97bd01d9b24ca
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780216916-0-0-6324e280ce506565532c8a4e257e27ab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780216916-0-0-c05fb7cb444c3d4ec97d0bb9c7dd28cb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780216916-0-0-88ef3cd08fc38b5c01a59d7231b959d4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780216916-0-0-20f27188858b4e9c4a2079756f59344c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780216916-0-0-c955ee35d8d1c4254fbe322cbe8dc185
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780216916-0-0-cc1ce2715c67b7bea1e73a696026433e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=c44c0305fed77caceee95bd5f9b12f04&txTime=6a1c3aa4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=420c091e02873bd07600c1db826bc6bd&txTime=6a1c3aa4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=c44c0305fed77caceee95bd5f9b12f04&txTime=6a1c3aa4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=420c091e02873bd07600c1db826bc6bd&txTime=6a1c3aa4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=9c48daafd348ffe548d7f562d93a22d0&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=054e0f377f815eb796c13bed40325a01&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=9c48daafd348ffe548d7f562d93a22d0&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=054e0f377f815eb796c13bed40325a01&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780217276-0-0-ee89f849570d37c7c87b869f06cfb1e0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780217276-0-0-47f4e3bc19730b11310ec88742166912
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780217276-0-0-bd79a5cf58908f5db13d2beb43e6d766
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780217276-0-0-9f256bda4eb0e2eebda2e2f5d1b83ef0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780217276-0-0-4803731ae191567f9907318464e935cf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780217276-0-0-40454e40aaa0d61f3c2fdd83c0da804d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780217276-0-0-43a2b174b350cf28fa16493c3f2c93de
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780217276-0-0-d6fd79b37ead15ba778629dc4636b516
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780217276-0-0-20396507e85c8d93e5be416503d3a3b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780217276-0-0-ace82af477d664e976eee56cc90d59b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780217276-0-0-c776011f34ecb0ad1d536867b82cf5be
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780217276-0-0-911d6a4b15f6b6ec7d658ad59262bf47
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) flv
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780217276-0-0-a65a1ced8df315c9a275b2f9b47a9c3d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780217276-0-0-37911b3c9758d9cf2cd743945cd8647c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780217276-0-0-e0054876e106f193e5bde9c2931edf3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780217276-0-0-b6c67382380bc77fa4d1e2168af4dccc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780217276-0-0-d7c86dbe483abd4e4c3b20a09965fc05
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780217276-0-0-7904383b8928111b80e6c5dfe3c20a9d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780217276-0-0-0ad61e0df25ee305881faaf7b5a69a4f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 31/05 Otago Nuggets vs Southland Sharks [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780217276-0-0-d653458d99544b62794fffacaea67213
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=5451f8fb1ae100c388fc510593bbc206&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=886b006f2ab0ef82a1b2a5daabea5927&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=5451f8fb1ae100c388fc510593bbc206&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=886b006f2ab0ef82a1b2a5daabea5927&txTime=6a1c3c0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780217276-0-0-a44f1b20fc2d53529afa8754e844ba37
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780217276-0-0-9a35ac00e306c4564c18817a6d38ad9c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780217276-0-0-b979cbd68f43317a366648a10574aee2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780217276-0-0-fac9775c6beba60febd75223760a1619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780217276-0-0-6626e8228a543980b8915b9b39ef3ef8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780217276-0-0-5367533ce7d71dec7efa7919f7f9458e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780217276-0-0-f1d45aa13011539bf4f6ec7e89d4ad5b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780217276-0-0-5332b008463c63965cdd0599f3cc4bc8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780217276-0-0-bfef7880478bfe7ce4416df70e09c197
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780217276-0-0-6f829058b36498743eaaeb126106c73c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780217276-0-0-c621700a1425c89954535d8da053448f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780217276-0-0-4ba196eca118ec9499842c971f2c16a7
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [LOKA] (Socolive) flv
 https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780217636-0-0-371fb13137ed8313ddafd24449a01f67
 
@@ -469,18 +271,6 @@ https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780217636-0-0-03dd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [MONEY MAN] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780217636-0-0-c00cec7e8a26c4f7ccbb674c92f157ed
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) flv
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780217636-0-0-b8b0cd162fb91075c556e4c7d5b881c7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780217636-0-0-9fd017f7e31ca0847c26bb304b2551b2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) m3u8
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780217636-0-0-bae49cf0c2a7cfae6db1bf1555710897
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV MIXI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780217636-0-0-d19d16119b28317f6f3e74f47357e531
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV 7UP] (Socolive) flv
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780217636-0-0-4075158a2f9a2f925f8e6ebd6b3157d5
@@ -566,14 +356,179 @@ https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780217636-0-0-f1ff
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Hwaseong FC vs Gyeongnam FC [TƯ MÃ Ý] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780217636-0-0-960a8c06f0893b5d9228cc5863d81987
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780217996-0-0-4c82d9e7309d0ee06f92d78b68d5805c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780217996-0-0-3923f086a64d57f2c9e3af5b307e604b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780217996-0-0-6dd593307018c0148f467c4979071c1d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780217996-0-0-bcdfe596cdf4d651309e5003d5522610
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780217996-0-0-9f48692f174bf8ed0a45f3c188944ead
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780217996-0-0-540a6327dabaaea98ffd9d7464d7618c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780217996-0-0-c273a521e4cb7ce4f910a2d2cce2fb04
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780217996-0-0-c69c0771a8dc22e18cad31e4b5a3bf5e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780217996-0-0-0d0e5de39d6d10b9d02086b83748cd3d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780217996-0-0-c4365f566e1823d23f21151fe4da0d02
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780217996-0-0-7cf4a202c977fae9d0c6e1553dd75e1a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780217996-0-0-2b4a9a34a970a8ea6f1993abbd9f3799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) flv
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780217996-0-0-76922af6da20d4cc882ba6e5dcfb49a9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780217996-0-0-1e08a2cc660857110ae5f4705c40ffec
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) m3u8
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780217996-0-0-80c50e62d98153ba9b2015b2957fc84b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV YONE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780217996-0-0-b829c8be30d43576c69a650aa5520c63
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) flv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=3ce04f607b6c896cfa76897a83e47309&txTime=6a1c3edc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=4c034a38ac6805a0eb235720fe84f80c&txTime=6a1c3edc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=3ce04f607b6c896cfa76897a83e47309&txTime=6a1c3edc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [BLV GÔN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=4c034a38ac6805a0eb235720fe84f80c&txTime=6a1c3edc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780218356-0-0-09ce25be8f31ec5e0500540ebc526e5b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780218356-0-0-78b73cb1d7a141b7c7194f0fbb1f8849
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780218356-0-0-233345b6d7a261ba28ef6ea0fa345978
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Brisbane Olympic United FC vs Brisbane City [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780218356-0-0-f4f032194fc2dbf0c19468450d353ab0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b7b5a52d4ec6bb97f3f4b6322a57c084&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=9eb9327b6e01d0399c560be6dd2040bb&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b7b5a52d4ec6bb97f3f4b6322a57c084&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=9eb9327b6e01d0399c560be6dd2040bb&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780218356-0-0-c1626a68ce6c32534c13dfc616591a93
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780218356-0-0-c57585373c495d3a7e89bdf698043ef4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780218356-0-0-b8ab51bf4782805f707c462b69e4e0a7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780218356-0-0-479f4d8cea066c375604423f011c5d81
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) flv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780218356-0-0-7e005ec5684823e8c1be976504b1197a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780218356-0-0-75207a48b20440d0b4ea0a2276ffb3d5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780218356-0-0-64bb90e8c899cd0f32840455adfcb55b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 31/05 St Albans Saints vs Preston Lions [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780218356-0-0-81e0e474351209cab2228d80fd5830d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780218356-0-0-bf195ece169d734029b94d9ee7dc5cf6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780218356-0-0-89f34704b654a0f23d7fdaf6bd9fcd13
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780218356-0-0-c0895f2bcb1fd684bd3a8da8d27c65e5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 31/05 Yeoju Citizen vs Daejeon Korail [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780218356-0-0-6d9111c78dcf0d9aefa90c0f3d60c769
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780218356-0-0-a2bb95db704a1033c670e96e143d413b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780218356-0-0-30bd01a7442aebcc64bc2b995529a86a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780218356-0-0-f34fd98d62e1c8189d5de56582b4943e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 31/05 Jeonnam Dragons vs Seoul E-Land FC [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780218356-0-0-2a4b51d1038e22b9a63163e46a26bcfc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=e2a6c7df01d269450ab8a637949369d8&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=e3e4e8f69a80f9bc469be9ebc481c64b&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e2a6c7df01d269450ab8a637949369d8&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h15 ngày 31/05 West Adelaide SC vs Adelaide City FC [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e3e4e8f69a80f9bc469be9ebc481c64b&txTime=6a1c4044
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780218356-0-0-e27c5bf98a52431e272705d8035bc3e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780218356-0-0-ea2399a1cf280d7c721484cc2a2914cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780218356-0-0-8520e72b25f33645f3f46a17862bce6d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h15 ngày 31/05 Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780218356-0-0-e59873d57e8dc503073ec5fd7838c1c8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780218356-0-0-8ff94d6e3a5e4f42d9135fb7f4b00a30
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780218356-0-0-cb721660c9e4a3a28d27bd02d0e41fc7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780218356-0-0-bdf48ec9479fc0903e598e516d682358
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780218356-0-0-b327f9addd7ac2f20c82fd2111efa9e6
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 31/05 Jeonnam Dragons vs Seoul E-Land FC (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 31/05 Jeonnam Dragons vs Seoul E-Land FC (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 31/05 KFF Singapore Badminton Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 31/05 KFF Singapore Badminton Open 2026 (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8

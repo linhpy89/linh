@@ -11,9 +11,6 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/777.png",23:30 | Türkiye vs FYR Macedonia
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",18:30 | France U17 vs Montenegro U17
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssM2zp_G-Uzk9nJ16qLdY9XZx7GdF6ql7Kg&s",18:00 | Madison Keys vs Diana Shnaider
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
@@ -22,6 +19,9 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",00:00 | Norway vs Sweden
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",00:00 | Norway vs Sweden
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",00:00 | Norway vs Sweden
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
@@ -44,11 +44,11 @@ https://tfwd3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/h
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",18:30 | France U17 vs Montenegro U17
-https://alive.yarncdn.live/xctv_blv_quanvu/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",20:00 | Indonesia U19 vs Myanmar U19
 https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="XAY CON" tvg-logo="https://static.flashscore.com/res/image/data/rN8awRZA-K8vlWhPS.png",21:00 | AL Masry vs Masr
+https://alive.yarncdn.live/xctv_blv_quanvu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/bulgaria.png",23:00 | Bulgaria vs Montenegro
 https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
@@ -56,29 +56,23 @@ https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/1046.png",00:00 | Wadi Degla vs Enppi
 https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/17948.png",Denmark U17 vs Italy U17
-https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/12507.png",France U17 vs Montenegro U17
-https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19149.png",Indonesia U19 vs Myanmar U19
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1536.png",Tajikistan vs Palestine
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/11071.png",Naft vs Newroz
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1090.png",Norway vs Sweden
+https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/b3MRYRwS-dCIdRhFh.png",Brunei vs Timoer-Lester
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3.png",Croatia vs Belgium
+https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/31.png",Morocco vs Madagascar
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",11:30 | Đan Mạch U17 vs Ý U17
-https://live05.msdht.app/live/90725470.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",11:30 | Pháp U17 vs Montenegro U17
-https://live05.msdht.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80",13:00 | Indonesia U19 vs Myanmar U19
 https://live05.msdht.app/live/19919577.m3u8
@@ -95,20 +89,26 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/3c057cb2b41f22c0e740974d7a428918.png!w80",16:00 | Bulgaria vs Montenegro
 https://live05.msdht.app/live/43612277.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/e2fcc738438c4e7ca4b605ef8764db73.png!w80",16:00 | Slovakia vs Malta
+https://live05.msdht.app/live/90725470.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",17:00 | Na Uy vs Thụy Điển
 https://live05.msdht.app/live/87547578.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",17:30 | Thổ nhĩ kỳ vs Bắc Macedonia
+https://live05.msdht.app/live/24561735.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/0bab5c51d1f07f0dc8447c5b860debe3.png!w80",22:00 | Leones del Norte vs Macara
 https://live05.msdht.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80",22:00 | Ponte Preta vs Botafogo
+https://live05.msdht.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png!w80",23:00 | CA Penarol vs Central Espanol
 https://live05.msdht.app/live/99121525.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",23:00 | Colombia vs Costa Rica
 https://live05.msdht.app/live/33982309.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",12:15 | Brunei vs Đông Timor
-https://live05.msdht.app/live/24561735.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",16:00 | Croatia vs Bỉ
 https://live05.msdht.app/live/97312754.m3u8
@@ -122,23 +122,14 @@ https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/25061.png",22:00 | Diyala vs Duhok
 https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=France+U17&away=Montenegro+U17&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4034_165750092868.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5815_1h436hps1ka.png&time=18%3A30&league=UEFA+European+U-17+Football+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ France U17 vs Montenegro U17 | 18:30
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png&time=20%3A00&league=AFF+U-19+Youth+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=France+U17&away=Montenegro+U17&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4034_165750092868.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5815_1h436hps1ka.png&time=18%3A30&league=UEFA+European+U-17+Football+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ France U17 vs Montenegro U17 | 18:30
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png&time=20%3A00&league=AFF+U-19+Youth+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=France+U17&away=Montenegro+U17&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4034_165750092868.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5815_1h436hps1ka.png&time=18%3A30&league=UEFA+European+U-17+Football+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ France U17 vs Montenegro U17 | 18:30
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Denmark+U17&away=Italy+U17&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4030_16575001840.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png&time=18%3A30&league=UEFA+European+U-17+Football+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Denmark U17 vs Italy U17 | 18:30
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Denmark+U17&away=Italy+U17&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4030_16575001840.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png&time=18%3A30&league=UEFA+European+U-17+Football+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Denmark U17 vs Italy U17 | 18:30
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Denmark+U17&away=Italy+U17&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4030_16575001840.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1837_165750303647.png&time=18%3A30&league=UEFA+European+U-17+Football+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Denmark U17 vs Italy U17 | 18:30
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png&time=20%3A00&league=AFF+U-19+Youth+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Japan+U19&away=Ivory+Coast+U23&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3538_1h1gddexf421.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2891_1h5vq7e8m929.png&time=20%3A00&league=Toulon+Tournament&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Japan U19 vs Ivory Coast U23 | 20:00
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -146,53 +137,44 @@ https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Japan+U19&away=Ivory+Coast+U23&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3538_1h1gddexf421.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2891_1h5vq7e8m929.png&time=20%3A00&league=Toulon+Tournament&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Japan U19 vs Ivory Coast U23 | 20:00
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png&time=20%3A00&league=AFF+U-19+Youth+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png&time=20%3A00&league=AFF+U-19+Youth+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5926_1h59p45jme12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5939_1h59pmvxhw2v.png&time=20%3A00&league=AFF+U-19+Youth+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
 #EXTINF:-1 group-title="QUECHOA TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=France+U17&away=Montenegro+U17&homeLogo=https%3A%2F%2Fmedia.api-sports.io%2Ffootball%2Fteams%2F12507.png&awayLogo=https%3A%2F%2Fstorage.quechoa2.live%2Flogos%2Fteams%2F1779883580927-kw2rqocm-zelzlo6i.png&time=18%3A30&league=UEFA+U17+Championship&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ France U17 vs Montenegro U17 | 18:30
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 
 #EXTINF:-1 group-title="QUECHOA TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Indonesia+U19&away=Myanmar+U19&homeLogo=https%3A%2F%2Fmedia.api-sports.io%2Ffootball%2Fteams%2F19149.png&awayLogo=https%3A%2F%2Fmedia.api-sports.io%2Ffootball%2Fteams%2F19152.png&time=20%3A00&league=ASEAN+Championship+U19&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Indonesia U19 vs Myanmar U19 | 20:00
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV DƯƠNG CHÍ flv
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 (Lương Sơn) BLV MAYBACH flv
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Ivory Coast U23 (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Ivory Coast U23 (Lương Sơn) BLV NGƯỜI THÉP flv
 https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Ivory Coast U23 (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Lương Sơn) BLV TÔN LẬP flv
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Lương Sơn) BLV KEVILL flv
 https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -314,198 +296,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780322359-0-0-2d01e8934233c07d515179860e79a90a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780322359-0-0-6d80105b794ae012ffac44055bd60d8b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780322359-0-0-1144ac3a2c4a0a7d208f085a258722ec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780322359-0-0-2cc1200090c42123828cf34d05a919da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780322359-0-0-c7e2328f7296a4a632cfd08ec8e7299e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780322359-0-0-ec39e37935e4a3270bcda9bbf9d44bcd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780322359-0-0-6627505b6e27b3270204456ccad91ba7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780322359-0-0-9116a7235576a499909c1a2e290ebfac
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780322359-0-0-d4e54c0f81f3ceb45f74ba52178f3910
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780322359-0-0-2c224256a5f74d50f79268a06d20a35e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780322359-0-0-e0668405e4c5eedc688a1d4fca82fb74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780322359-0-0-2a4db6aeea52267e7cb26c2443cd67b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=472823fe3d1a1ca1d77305803dc3a439&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=ce3010bc16fc8328d46d22e76f22d3f2&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=472823fe3d1a1ca1d77305803dc3a439&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=ce3010bc16fc8328d46d22e76f22d3f2&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) flv
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780322359-0-0-cb7c5f60f37d0a07d6ecab6fdeb96ff5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780322359-0-0-5414e2e8e406c6ab296fd8c06a81a936
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) m3u8
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780322359-0-0-d3d62b4a8d495381e7c6741347aa5a36
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780322359-0-0-52e02274324afa2e5f83cdfc63f31750
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=faa4fd41987a5ffe03b1a9f03399b778&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=6f0b138845264fc2cf979aeff1149090&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=faa4fd41987a5ffe03b1a9f03399b778&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=6f0b138845264fc2cf979aeff1149090&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) flv
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780322359-0-0-c7afe9a047b0c23c99de5cce5b9562f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780322359-0-0-9e6497a44cf41876a88a899e8432da3d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780322359-0-0-8f4d6c7ad297ab0bd13864f5ee79dac5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780322359-0-0-703700c46a3856dad2dba2f5334376ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV KAN] (Socolive) flv
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=08d4e201fed4b4956017c4b4ff8a4e72&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV KAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=135978712ba5f32f9af78d2192aa4df8&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=08d4e201fed4b4956017c4b4ff8a4e72&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=135978712ba5f32f9af78d2192aa4df8&txTime=6a1dd687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) flv
-https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780322359-0-0-5085d013549d10813a1bb70654467c77
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780322359-0-0-58b4a4beed856fa0e31debe24d5f50a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) m3u8
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780322359-0-0-1d96377ef9c75d7ccb81cf7a98e9b7bc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780322359-0-0-f1bf8a2db9a749f000a85d762f79c041
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780322359-0-0-52b059b5990338a5a48d591340ac5ce0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780322359-0-0-13e429917da95700e8f4036911fad562
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780322359-0-0-c89c9e9e2bac823bbaf1b527f7c4b64c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780322359-0-0-b8596dfc38a9e31982d11088211f3544
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780322719-0-0-1bbd63efdc29faf69fda6de35bd25063
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780322719-0-0-9a159baef967b0f4c270c6ca7b6c1d4f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780322719-0-0-ed51215454a00590d395b6beec16b17d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780322719-0-0-4f67ba76c247cc0e7b1cf2d963acae96
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=2f8413f8e730975ed1fd92373e4e6e77&txTime=6a1dd7ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=8de2b5c75c3f26b71e34192dbb1c930b&txTime=6a1dd7ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=2f8413f8e730975ed1fd92373e4e6e77&txTime=6a1dd7ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=8de2b5c75c3f26b71e34192dbb1c930b&txTime=6a1dd7ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780322719-0-0-e8537f89f75a5e20a5ea30ffa1f489ed
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780322719-0-0-274d35613d8bb7994a3b43685cba4985
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780322719-0-0-4e3d4bdf4cc6cc8b7d00d26e4c4aa96f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780322719-0-0-c153e9fb96b83bcc4ec81bad723bab17
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780322719-0-0-7d3cfcb8f4ce9950ee1fbd714e010648
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780322719-0-0-3a0daeb0b58133cb8b0a31f74489f85a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780322719-0-0-4f1fb00f40be408f39d7f921a532c7a6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780322719-0-0-1de7d97b04db8c7efa700bf3f5cc27b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV YONE] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780322719-0-0-77cc197e5bfce7f0824f00fe753aabbf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV YONE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780322719-0-0-f8cf7311edd11933999b8d237d640265
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780322719-0-0-46006db6540849aebc4c3807f1ed7e4b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780322719-0-0-57cc0dab899e0926e71a686be7281c2d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780322719-0-0-20b9102ab22f958bf9544cd9b418570b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780322719-0-0-886dece52571d3e99afa355a6cbdc9e7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780322719-0-0-85de544e772ec364ef7fd011f1a8e48e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780322719-0-0-4bc36f93b97af3c40c27845d1d058039
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV CUỘI] (Socolive) flv
 https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780323079-0-0-34064e48e301347147cb5fbe035f6976
 
@@ -566,18 +356,6 @@ https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780323079-0-0-6a0e
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MESSI] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780323079-0-0-2dcd478cc513720f39c6bce7bc27fd08
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780323079-0-0-55a1cb66d61997c7d2061b77084b7a66
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780323079-0-0-905955a4a190a5f9603d042db5f49656
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780323079-0-0-c339d147b98d99c37ee305b863f2d13a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780323079-0-0-b690dc35a87399a59a79524943945361
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [QUỐC KHÁNH] (Socolive) flv
 https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=55d06ffc02a7528bd8ca1e5cb1b86ae3&txTime=6a1dd957
 
@@ -625,6 +403,186 @@ https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780323079-0-0-72c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV FIREMAN] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780323079-0-0-548d9b9da1b9aa6ecb2b97f246f46757
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=fb30dec0358b90f327a7b514477dabdd&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=9751381995895a68132dcb3fbd76448b&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=fb30dec0358b90f327a7b514477dabdd&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=9751381995895a68132dcb3fbd76448b&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780323439-0-0-d5780e16da5f65ede0fe8a9b7e18f933
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780323439-0-0-f9ea5a03695b0b77f239bb30432b1aa6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780323439-0-0-15ff6487d087e2653019cf652856e85d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780323439-0-0-eb2c09aae940bc77d5a478423e765027
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780323439-0-0-4b511881705eb67f9993cd276a023f52
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780323439-0-0-38382930919352c14c225e79bd23193e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780323439-0-0-f3971c133df06b64debac2c1c5583e4e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 France U17 vs Montenegro U17 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780323439-0-0-c0daf58c2f6946d8f6a7abd1132dd41a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) flv
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780323439-0-0-4afae1052d80f81bfdf6ad70840d3ea6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780323439-0-0-1edbb3f4a0a1f69e17e47331df0e6596
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) m3u8
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780323439-0-0-2646ab0dbf8b6c52c9aada432bc3eae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV MIXI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780323439-0-0-7653ae7f897cb2ef4da982dadd91cc80
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) flv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780323439-0-0-bdc0794f9021c7745a873bc52f4ff609
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780323439-0-0-e0d9da704a5273067f774491b14142b9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780323439-0-0-08e6c9fd044969f11a9e6c9be07c09d6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780323439-0-0-7a6b0533e88dfb943f54aa53bc2920a9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=502150a2bc7a526a8f30f469c0323aab&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=b47e8252396650c0aa873cdbcacb506d&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=502150a2bc7a526a8f30f469c0323aab&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 01/06 Denmark U17 vs Italy U17 [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=b47e8252396650c0aa873cdbcacb506d&txTime=6a1ddabf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780323439-0-0-2bcdbc25afebbf2da629c8d47d920271
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780323439-0-0-75eb78addbd65d2dbd1b08a542bf3812
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780323439-0-0-396968de908f73fdef5247b652671153
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780323439-0-0-dd837ffd2dd77910efdf221afb9a4a7d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 01/06 BATE-2 Borisov vs Kommunalnik Slonim [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780323439-0-0-a47d830e717fcc763914d29c25733552
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 01/06 BATE-2 Borisov vs Kommunalnik Slonim [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780323439-0-0-b1ab445eadb504ecfad226a4f08daf1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 01/06 BATE-2 Borisov vs Kommunalnik Slonim [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780323439-0-0-05e8caf12fa62237fd673386f906314b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 01/06 BATE-2 Borisov vs Kommunalnik Slonim [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780323439-0-0-0912ddc627ae7cad4282c0c8b14c18bd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) flv
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780323439-0-0-74249961e5143308591448bae0e4647f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780323439-0-0-36653d5b8b988ffb2de2c1f474275cb4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) m3u8
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780323439-0-0-74425056aa09451252442647f6f4d476
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/06 Vanraure Hachinohe FC vs Fukushima United FC [TƯ MÃ Ý] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780323439-0-0-db078b43746a7b931e812d2d6cf4b6c9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780323439-0-0-a020feff477e0ba5640157e28c50d4da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780323439-0-0-7bba91dbbe52745de88e1205d041e09c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780323439-0-0-3c832cede68c828499c147ab71c9fd83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780323439-0-0-1b3c5894681960deb7a6e6dce5c90bcd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780323799-0-0-9ea5f4d0704a9b9f9c6dee13640a5764
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780323799-0-0-b0f36fa55e60d333a910cbab9b54f94b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780323799-0-0-db9dfb5d8fb4c14826277f92651b3903
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780323799-0-0-26c4272cde0ab9b92df459c33e5e93f9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=bc72345690c710b1d41f2b525529bb19&txTime=6a1ddc27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=fdae8a8235ed33d3fc1bd577f68f76d8&txTime=6a1ddc27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=bc72345690c710b1d41f2b525529bb19&txTime=6a1ddc27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Indonesia U19 vs Myanmar U19 [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=fdae8a8235ed33d3fc1bd577f68f76d8&txTime=6a1ddc27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780323799-0-0-e5094e29e2626d12b6465d2ca0f3ea32
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780323799-0-0-110074db040f047838dafd91ec3cb306
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780323799-0-0-95c2a1411316273b49233be763519df9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780323799-0-0-c2e671d28a531d3cf32dced8167f7639
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780323799-0-0-3b9d1ec5624ae7213a642447924cb96d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780323799-0-0-b8bb40286163b564224c24ab7d860e3b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780323799-0-0-296732d46da6b10b9cc481bd2d32dbdd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 01/06 Japan U19 vs Cote d'Ivoire U23 [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780323799-0-0-29544fa224a82148494d661f3533a9c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780323799-0-0-c086b21b6f570cdc4d84cfa6cea03382
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780323799-0-0-855f95dcf20a217b99f5168d5d05f718
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780323799-0-0-b511d971f41f227555cf496af8c8e02c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/06 Bacolod Masskara vs Negros Hacienderos [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780323799-0-0-0baeb9fe54e67f8467bb711bf9058918
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 01/06 Indonesia U19 vs Myanmar U19 (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8

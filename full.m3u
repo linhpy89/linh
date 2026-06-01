@@ -29,8 +29,8 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfIsx7s7F33GJieSnSe9Nsoau1fbFqRr20Jg&s",16:00 | Mirra Andreeva vs Sorana Cirstea
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-51a6bf5f38ed.webp?v=1780352677",⚽ Ponte Preta vs Botafogo SP | 05:00
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d847731e0da0.webp?v=1780354487",⚽ Colombia vs Costa Rica | 06:00
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -65,6 +65,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/31.png",Morocco vs Madagascar
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",23:00 | Colombia vs Costa Rica
+https://live05.msdht.app/live/33982309.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80",22:00 | Ponte Preta vs Botafogo
 https://live05.msdht.app/live/14707124.m3u8
 
@@ -73,9 +76,6 @@ https://live05.msdht.app/live/87379114.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/d95f60f58aac7368fb6659aa0f27cfbf.png!w80",23:00 | CA Penarol vs Central Espanol
 https://live05.msdht.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80",23:00 | Colombia vs Costa Rica
-https://live05.msdht.app/live/33982309.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/78806733b03788c901fd2f2cda1f0bd2.png!w80",00:00 | Universitario de Vinto vs Aurora
 https://live05.msdht.app/live/02456966.m3u8
@@ -107,7 +107,7 @@ https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",09:00 | Bồ Đào Nha U19 vs Kazakhstan U19
 https://live05.msdht.app/live/14830711.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Leones del Norte vs Macara (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Leones+del+Norte&away=Macara&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F51084_1k37xz2jsf1c.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3307_1j3s206m3c2y.png&time=05%3A00&league=Primera+Division+de+Ecuador&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Leones del Norte vs Macara | 05:00
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Leones del Norte vs Macara (Lương Sơn) BLV VÕ TÒNG flv
@@ -233,191 +233,239 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780356199-0-0-83a54da05038d9c9338cf904ba7a6ca7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780356199-0-0-0f08a0868c0367b131b6439d7ee2bc15
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780356199-0-0-5afe1d397974badfa17d7ebbd827cff2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780356199-0-0-ba83953459eb30d05b5b0cd57e3b8326
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780356199-0-0-a5b7b2bb4ed3bfeb9afb75f611500824
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780356199-0-0-6d25286a06932253cf7a767eaead63d4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780356199-0-0-bde1c180ac9b74871c73cf5bd83bfd1f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780356199-0-0-64bfc877b483b18cc1b1313d19e2853e
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [QUỐC KHÁNH] (Socolive) flv
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=addc43c7e7808ca9cb0903ad38ec9016&txTime=6a1e5ab7
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=d5214fc9a5e6f21827bb638abeac9363&txTime=6a1e5eef
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=4c75353a7496223807bbc61a203711d0&txTime=6a1e5ab7
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=98818690f888041c60d09ac5ec39154e&txTime=6a1e5eef
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=addc43c7e7808ca9cb0903ad38ec9016&txTime=6a1e5ab7
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=d5214fc9a5e6f21827bb638abeac9363&txTime=6a1e5eef
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=4c75353a7496223807bbc61a203711d0&txTime=6a1e5ab7
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=98818690f888041c60d09ac5ec39154e&txTime=6a1e5eef
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780357279-0-0-4fe9406f20fbfb7eab639c166e772153
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780357279-0-0-a61e7798c58c85ebf2e00e7f30dcb076
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780357279-0-0-fb71adb1c76276e56756d40feb9bbd4d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780357279-0-0-1442592a63cd7ae60e3ff1077a198388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Deportes Santa Cruz vs CD Copiapo S.A. [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780356199-0-0-f0f9bfd290658d75d56b463b0daecaa0
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780357279-0-0-619805c5e3c04f00fb95eee99b81ea1b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Deportes Santa Cruz vs CD Copiapo S.A. [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780356199-0-0-0dab7103179485b60d2a9fbef02ed1fb
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780357279-0-0-084d34789dba3f4730c6ad9f8ae156b2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Deportes Santa Cruz vs CD Copiapo S.A. [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780356199-0-0-97b73caca1bceac1b97ff8539ec76003
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780357279-0-0-d0dd711bebeaf6140661c2abc7623365
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Deportes Santa Cruz vs CD Copiapo S.A. [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780356199-0-0-fce7d4ed1a785f4cf64617180c24ddbb
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780357279-0-0-d4cdf81e9fda601b563650418df10e6b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=724b80e1ddefaf82575bd0cb6823b991&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=9df9e3b0968c75ea0edf0d088c265098&txTime=6a1e5eef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=63b309b6dfab6472b1a6172fa35bcecd&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV BÉO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=40d634c4363865aee10d638a4a64ed75&txTime=6a1e5eef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=724b80e1ddefaf82575bd0cb6823b991&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=9df9e3b0968c75ea0edf0d088c265098&txTime=6a1e5eef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=63b309b6dfab6472b1a6172fa35bcecd&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=40d634c4363865aee10d638a4a64ed75&txTime=6a1e5eef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780356559-0-0-aecfd60df365c97c4defec63dc993ed2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) flv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780357279-0-0-01afd8332f6ecf575005016d102f8ed7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780356559-0-0-2fd828249059eb5676da1f916b121e08
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780357279-0-0-be19d185c2955027bbf13a66d14989ec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780356559-0-0-ff3ace71c0447081dc7d559167ed1dc8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780357279-0-0-0d8c47466ce2c586c23eaf53096ac16e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780356559-0-0-d2352cf9fbd05eff7c286e3f1ee0891d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780357279-0-0-d83f4cf57ec1808b94006c60253ed7de
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [HÀ DUY KIÊN] (Socolive) flv
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780356559-0-0-449ebe05608456095ce1cda8d89a702a
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780357639-0-0-7a9ab67e63dd19c77d5cfc47afeed925
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [HÀ DUY KIÊN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780356559-0-0-84a5d56c2c1c54d31a19ae3aec57bcdd
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780357639-0-0-4509c3fb6fcec2177bcfece765800a53
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780356559-0-0-88a6e96838c81605e0fa256a3a282042
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780357639-0-0-7cbc70d5f3264f7a92814ba46ca5d4df
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780356559-0-0-3f1e2c5f01c76d5ef8f4ee885016686e
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780357639-0-0-cc27a120c25261f49915f20548fd6388
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=e6cd12e3dd6a7b98042b3fe1d2714568&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780357639-0-0-95ccbdd6cf00333a884e20c2f2a9c384
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=c5ea0199561b96d902993f3f1309b4b2&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780357639-0-0-ceaf134f17ac98f7923e55ee0df1ca61
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e6cd12e3dd6a7b98042b3fe1d2714568&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780357639-0-0-8315da70101ae9d62142bc5ffd636cd5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=c5ea0199561b96d902993f3f1309b4b2&txTime=6a1e5c1f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780357639-0-0-80c0696beaa58447d1ee705f1a3d8e75
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780357639-0-0-4ac234bb819679489d726bacd14739ed
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780357639-0-0-88309f1fc260054d8030d62fab19e9f4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780357639-0-0-c0e2feec25d71d73e718d1fcd25c69b2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780357639-0-0-dfa7aa79328398271b2027db6499e90b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780357639-0-0-ea5ae6c42a47f834ae5db0aebdfe2522
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780357639-0-0-e292b729898a234bfc3235f43a230621
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780357639-0-0-bbc083861140d24248221f968369a7fa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780357639-0-0-72592af00b35aa4e67dfbae7d0fd64eb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV YONE] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780356559-0-0-b69e011c1812b3908f5be92cdd25a1bc
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780357639-0-0-0fcc3e442aee2391bd82ff9712ad18d2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV YONE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780356559-0-0-91ed9ddea885435b84766f26e48258e0
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780357639-0-0-afa41098c8a731ec7c90a35ea99ec8ca
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780356559-0-0-d20d5e9ef9f06387d62b605882d6d44f
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780357639-0-0-1ee6ace4efc0216bb8532a595e9fc4a6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Club Leones del Norte vs Macara [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780356559-0-0-d0d5555ad62271533ce211e8023d22fc
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780357639-0-0-acb409c764170d5d310b33da911e5f15
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=691bb8a6a51b9def5a2e33722004cdbe&txTime=6a1e6057
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c6b61f7126299f9a02fa868bd676d9e0&txTime=6a1e6057
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=691bb8a6a51b9def5a2e33722004cdbe&txTime=6a1e6057
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c6b61f7126299f9a02fa868bd676d9e0&txTime=6a1e6057
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV A TINH] (Socolive) flv
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=977a6a76b31cb39ac0deb12d6a1c7753&txTime=6a1e5c1f
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=2a2d6033399e001fad623eb06132aab2&txTime=6a1e6057
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV A TINH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=a9dbb96ad01fae928c8638f92a5723de&txTime=6a1e5c1f
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=2ee82229a7e40f2a3ee9a5a65bbd514b&txTime=6a1e6057
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=977a6a76b31cb39ac0deb12d6a1c7753&txTime=6a1e5c1f
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=2a2d6033399e001fad623eb06132aab2&txTime=6a1e6057
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=a9dbb96ad01fae928c8638f92a5723de&txTime=6a1e5c1f
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=2ee82229a7e40f2a3ee9a5a65bbd514b&txTime=6a1e6057
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) flv
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780356919-0-0-9a775c18400ced98d928e23adbeeb300
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) flv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=130bcdcbee3310ec1697c3575803e43a&txTime=6a1e6057
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780356919-0-0-799d1263d682f10bbb54d6246c76332f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=468dd9c0015af52fe86d765f7f9c8a0a&txTime=6a1e6057
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780356919-0-0-8078a39e32e45a44d9e9f0ce8b065006
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=130bcdcbee3310ec1697c3575803e43a&txTime=6a1e6057
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780356919-0-0-cfaa45af2cf765b6dc10a1812fec20ca
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV GÔN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=468dd9c0015af52fe86d765f7f9c8a0a&txTime=6a1e6057
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV CUỘI] (Socolive) flv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780357999-0-0-2b5c36ffee36f30fb461009e40accc56
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV CUỘI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780357999-0-0-027b5b987e11c92d6bf071d362388c22
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV CUỘI] (Socolive) m3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780357999-0-0-ad5a78c42c3177e1dafd7027ca748d07
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780357999-0-0-6f6ebb16e9276792ae8a5c54477b9dc5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780356919-0-0-8f126646148c3d7eea87c2908f767e36
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780357999-0-0-bf746a168681de366f66ffff91e599ac
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780356919-0-0-8202443be8dececf1ec8bc07fca4b5cb
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780357999-0-0-b6fda6a75c6c8bb76cb8ff44106778dc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780356919-0-0-ab362a403ce38927041cb6455a6e1e0a
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780357999-0-0-5145c54e7d7ce588728f5f1b30483eee
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Colombia vs Costa Rica [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780356919-0-0-602a082723cab0fc17934258f0dd9eee
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780357999-0-0-3faec3692d613ec02cba98624bb35590
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) flv
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1780357999-0-0-8f508f1c8dad96260d9ff0a9c2ff2977
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780357999-0-0-29014882ee2dbcb1f6d3b0579a019801
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) m3u8
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780357999-0-0-0ac06caf9d6f8ff97c66b03e78fc80c9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/06 Ponte Preta vs Botafogo SP [BLV THÓC] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780357999-0-0-8cc23ab07e32e30e3ceca320404137ab
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV RAMBO] (Socolive) flv
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=ca700a7bd76dbbaa5d2426ae01a15471&txTime=6a1e5d87
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=e26d6639f217fb2742d0b0b91ce262e4&txTime=6a1e61bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV RAMBO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=419b83daf9b8e663a05a1dadeecd5fdc&txTime=6a1e5d87
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=373e055a7874ddc430f0d7c780b6e643&txTime=6a1e61bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ca700a7bd76dbbaa5d2426ae01a15471&txTime=6a1e5d87
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=e26d6639f217fb2742d0b0b91ce262e4&txTime=6a1e61bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 CA Penarol vs Central Espanol [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=419b83daf9b8e663a05a1dadeecd5fdc&txTime=6a1e5d87
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=373e055a7874ddc430f0d7c780b6e643&txTime=6a1e61bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Curico Unido vs CSD Antofagasta [KÉP] (Socolive) flv
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780356919-0-0-b0864f78aac489bb97f1a4c237e4314b
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780357999-0-0-839fc476ea8ef61a7d51736d4ee12ff3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Curico Unido vs CSD Antofagasta [KÉP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780356919-0-0-8eb51c772856ecc4f99e20e7ca4aa0a0
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780357999-0-0-cca9850a155d92f3e163bbd11004f5ec
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Curico Unido vs CSD Antofagasta [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780356919-0-0-90c886df78c4711837247fc4074fe2c4
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780357999-0-0-bda7be3802eee88fb269a5eddbefa046
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 02/06 Curico Unido vs CSD Antofagasta [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780356919-0-0-d637ab5ddad941675105de1f3d234659
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780357999-0-0-8f9e336e25963ed6ab0993b306f129af
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780356919-0-0-c02fb5f2432dd88f6c8a6291f2b2637a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780357999-0-0-af3109d6f06e596aac95d5abaf4bca8f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780356919-0-0-96de0408396cb664f2cceb5375076498
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780357999-0-0-4c306ed3eff51e07ac7ebb8db6146a73
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780356919-0-0-d86ca29dea0037da79365eda7e66ebca
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780357999-0-0-9da3ba83f05fda770b09f29255b5341f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780356919-0-0-e76dd73218c9c93cc2ebac4eb3ba59b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 02/06 Colombia vs Costa Rica (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780357999-0-0-0df894f0bb2902752c2373b2f1fe628e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 02/06 Colombia vs Costa Rica (Hội Quán) SD
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 02/06 Ponte Preta vs Botafogo SP (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 02/06 Ponte Preta vs Botafogo SP (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8

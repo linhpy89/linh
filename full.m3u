@@ -68,9 +68,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/31.png",Morocco vs Madagascar
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/b48443679dd0356cc64abce373f763e1.png!w80",02:00 | Phoenix Mercury vs Minnesota Lynx
-https://live05.msdht.app/live/19919577.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",09:00 | Thái Lan U19 vs Brunei U19
 https://live05.msdht.app/live/02456966.m3u8
 
@@ -79,6 +76,9 @@ https://live05.msdht.app/live/08552895.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80",10:15 | North Star vs Brisbane Strikers
 https://live05.msdht.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png!w80",11:35 | Zhejiang East Sunshine Medicine vs Shanghai
+https://live05.msdht.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",12:15 | Brunei vs Đông Timor
 https://live05.msdht.app/live/24561735.m3u8
@@ -110,20 +110,8 @@ https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/fb9a0320f63552dab8ea47945c685a08.png!w80",16:00 | Renaissance Zemamra vs Yacoub El Mansour
 https://live05.msdht.app/live/14707124.m3u8
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Brazil+U18&away=Mexico+U18&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780359868.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780359870.png&time=09%3A00&league=WWorldAmeriCup+U18&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 Brazil U18 vs Mexico U18 | 09:00
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Phoenix+Mercury+W&away=Minnesota+Lynx+W&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780355779.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780355781.webp&time=09%3A00&league=WNBA&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 Phoenix Mercury W vs Minnesota Lynx W | 09:00
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Stars+FC&away=So+Cal+Eagles&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1779675080.webp&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22275_1h0pekben130.png&time=09%3A00&league=USA+USL+League+Two&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Stars FC vs So Cal Eagles | 09:00
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Stars FC vs So Cal Eagles (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Brazil U18 vs Mexico U18 (Lương Sơn) BLV SHIN flv
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W (Lương Sơn) BLV YẾN THANH flv
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -225,160 +213,100 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780375279-0-0-00bae4f6ac566dd7c16172474a01e79b
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780376359-0-0-3bf4bc8fbb5a8dd3369931d79d2640ea
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780375279-0-0-2a56ca0537e58a52680b41074f653d0b
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780376359-0-0-3a49dcc57534b81c9228d75c97894b36
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780375279-0-0-ac137934e4ebb9dbffd01ca4c3197fdb
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780376359-0-0-2f6e074e9c912c7119b87f48cceea916
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780375279-0-0-57d78e5791d2255d8b3ae9ccf8adc9f6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780375279-0-0-c1f9ac34f217240539d742b140881ec3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780375279-0-0-124f9f1d5977174afdb0ec020bc3b5bf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780375279-0-0-3381ed72d1e20be44f748748cf935026
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780375279-0-0-517f5572123337500847e1268e2c7068
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780375279-0-0-89fdce57496f3e44cb76291896b95dba
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780375279-0-0-092d1697a52bfac49cf5d76ec4dfc511
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780375279-0-0-56179552061e8607383a6199555f8c1a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780375279-0-0-1239a4da02b4af0c9566fb51eee79477
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780376359-0-0-c774407d4c4c69048db786b0c7a4d40e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780375279-0-0-8e5e5b805f4cbb2b9b52c4d84ae96b32
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780376359-0-0-f69db976a064eb3560aa433421f53e33
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780375279-0-0-5f370b6891606e30e5c231a7309ebf64
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780376359-0-0-61949cd217d1e1925691ce1ceebbf07a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780375279-0-0-e681369778c3bc6aab2237ea8538fccc
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780376359-0-0-099d2237d4a7812e8892a50d0dc4c266
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780375279-0-0-24e9ac5b73a599bb8c729b77bde9ace1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780375639-0-0-06b72599ccc8d6891924cdc34a586177
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780375639-0-0-ed94008a4eb065761f67240a8fef2ead
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780375639-0-0-c7bb6be7d2432adcd8154b7c466a3684
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780375639-0-0-01abc540aa13d65454e9a77943117b80
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780375999-0-0-77aa2b27370da8c439d8a4958fcb8103
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780375999-0-0-43576023a2bd759c8bbfd208d23eb32d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780375999-0-0-76d4ce3912f48a3431bb3e4bb8f6c8c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780375999-0-0-398833f63c0935d4512215582c9c4a17
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780375999-0-0-4c84d5cfe74beefbfb7ef792f038f7a2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780375999-0-0-0041ca06d17bed7d19088c3a7bfea26c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780375999-0-0-3a79d4c7cb903b3010cceb900fc35713
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 02/06 Phoenix Mercury W vs Minnesota Lynx W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780375999-0-0-1123d88ff8d1be0e99d6536e09274647
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780375999-0-0-ba902f98f0dfd25241cbd019508e7c93
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780375999-0-0-94721e516d6b447bf542d9107638a11a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780375999-0-0-70c08811caa11b3e13822dc841d68fa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780375999-0-0-f3010e54f11667fd55040d9aac2eaca9
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780376359-0-0-b1634d7b431e3dfc148b600f661463c4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Slovakia vs Malta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780375999-0-0-020d02908c0faad2c4f72ce195e0fd74
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780377079-0-0-e2a8fe50abac7f6a23d906e785202788
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Slovakia vs Malta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780375999-0-0-7bb0d19395d0569dbbe7b7031fcf68af
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780377079-0-0-55dbb693919c423d08f899cc8910704c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Slovakia vs Malta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780375999-0-0-98f18d27ddb85fc92b811afef8c67181
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780377079-0-0-181148eb074c8a5a422f840e622bf73e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Slovakia vs Malta [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780375999-0-0-168e36753efb7812d95d2632685b6a34
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780375999-0-0-406a5d6d1c5d789ec51a28dd2e76fef0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780375999-0-0-7479f12bf454683cba0c47d7ccddd271
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780375999-0-0-4039352a4e45cbd841a36c00839212b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780375999-0-0-15c8cf7611c947bae59ba3186a103718
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780377079-0-0-c246be930b1f627fd4fa824d3f49615e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Indonesia U19 vs Myanmar U19 [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780375999-0-0-fd6d585f427e469a5a53b6cbe9c68197
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780377079-0-0-bada28007c75f882604eba62256092e4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Indonesia U19 vs Myanmar U19 [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780375999-0-0-71958aa07cc669c1ac55381db27640a5
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780377079-0-0-861e8b5259f509813016ecf08223f3ad
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Indonesia U19 vs Myanmar U19 [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780375999-0-0-f66f407e3d2b11c4d2e593caa624b2d3
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780377079-0-0-5ad0725f4f118d2e441d2c65fcacd1eb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Indonesia U19 vs Myanmar U19 [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780375999-0-0-8aa736fbe362f81ede78ae7eb0aa5991
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780377079-0-0-54c752e9803e1bf90372c370b733cd42
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780377079-0-0-735adc29af104715da1f8f4f65f26494
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780377079-0-0-746f0f5595775ab333da835ca0fa8bae
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780377079-0-0-28493695859703f89d3ae9c84c7d3b20
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780377079-0-0-384c2913d1659465bb853a70a176d301
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780377079-0-0-f08fabfc44a971e1ef991b99d2bcfadf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780377079-0-0-f6565964756da793db55cb4b3a994138
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780377079-0-0-c2f0b9234d9255f1bed73b3e546e7c21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Vietnam U19 vs Timor Leste U19 [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780377079-0-0-73b6019315eb5f028c39a6e99f2f927e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: BRA D1 - Cruzeiro - MG vs Fluminense - RJ [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780375999-0-0-1c844d7a2e024cf54bcdab2e2166fc9b
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780377079-0-0-79c12e6e6802a64437858e14a6300a35
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: BRA D1 - Cruzeiro - MG vs Fluminense - RJ [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780375999-0-0-0616fe9cfa94f3150b7e4527c2f55631
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780377079-0-0-8a46322ee35f8621576f82fd1ab4bb85
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: BRA D1 - Cruzeiro - MG vs Fluminense - RJ [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780375999-0-0-7d8efaac8c42b6beed9dc8654888c564
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780377079-0-0-3788c329c5c3694d368562ad930fd61b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: BRA D1 - Cruzeiro - MG vs Fluminense - RJ [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780375999-0-0-cf2ea43171c27f6661cc31da3711be5e
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780377079-0-0-32be66a65e6d999ac8631cfdb1dfe1b0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Germany vs Finland [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780375999-0-0-fd007e4e48bdf50f74e208f560490f0d
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780377079-0-0-2dbec9e99a6821ef975c2bfbbd0f7037
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Germany vs Finland [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780375999-0-0-6850a6172053c71d40a7938873136698
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780377079-0-0-f13edc2c5a4fe70e6e6c0bac0a751787
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Germany vs Finland [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780375999-0-0-4cc44a3d2ffdfb47c5e65a0d9247c497
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780377079-0-0-e80626634d7d28dc8e8af675988fdaa7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Germany vs Finland [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780375999-0-0-6a50ee494cefddf2a5d2759b3f44a860
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780377079-0-0-db6a626b2cf75631784edb0982c6cd58
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 02/06 SHI Yu Qi vs CHI Yu Jen (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8

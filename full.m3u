@@ -35,14 +35,14 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/24.png",01:45 | Poland vs Nigeria
-https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/21719.png",02:00 | Santa Clara U23 vs Gil Vicente U23
 https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png",08:00 | South Korea vs El Salvador
 https://alive.yarncdn.live/xctv_blv_quanvu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",18:00 | Maldives - Pakistan
+https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://files.tips.gg/static/image/teams/chongqing-runqi-football-club-football.png",18:35 | Chongqing Runqi Football Club - Yunnan Cuanhe
 https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
@@ -50,7 +50,7 @@ https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/1543.png",19:00 | Cambodia vs Bhutan
 https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/24.png",Poland vs Nigeria
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/26603.png",Văn Hiến vs Sanna Khanh Hoa
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19152.png",Myanmar U19 vs Vietnam U19
@@ -64,9 +64,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1551.png",Lebanon vs Yemen
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",18:45 | Ba Lan vs Nigeria
-https://live05.msdht.app/live/68848594.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/a3aa0a3edad49e47cf6018481e51054e.png!w80",20:00 | Raja Casablanca vs Berkane
 https://live05.msdht.app/live/87547578.m3u8
@@ -95,6 +92,9 @@ https://live05.msdht.app/live/97312754.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",12:00 | Campuchia vs Bhutan
 https://live05.msdht.app/live/33982309.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80",13:00 | Đông Timor U19 vs Indonesia U19
+https://live05.msdht.app/live/68848594.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/2c677b17efb13fe6ec91b3c0bb38934d.png!w80",13:00 | Lesotho vs Kenya
 https://live05.msdht.app/live/14707124.m3u8
 
@@ -110,23 +110,26 @@ https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",01:45 | Netherlands vs Algeria
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 
-#EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/24.png",01:45 | Poland vs Nigeria
-https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
-
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",10:00 | U16 Pháp vs U16 Argentina
 https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Poland&away=Nigeria&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F549_164983601624.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F682_165018846810.png&time=01%3A45&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Poland vs Nigeria | 01:45
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/771.png",23:00 | Northern Ireland vs Guinea
+https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Raja+Club+Athletic&away=Renaissance+Sportive+de+Berkane&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2090_1k5n6jpb6q2c.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15050_1h8t9zjsr70.png&time=03%3A00&league=Botola+Pro+1&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Raja Club Athletic vs Renaissance Sportive de Berkane | 03:00
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria (Lương Sơn) BLV QUAN VŨ flv
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Union+FC+Macomb&away=Midwest+United&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F65341_1hy5abxz3q12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57565_1h09bfchtfz.png&time=04%3A00&league=USA+USL+League+Two&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Union FC Macomb vs Midwest United | 04:00
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Union+FC+Macomb&away=Midwest+United&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F65341_1hy5abxz3q12.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57565_1h09bfchtfz.png&time=04%3A00&league=USA+USL+League+Two&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Union FC Macomb vs Midwest United | 04:00
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 04/06 Raja Club Athletic vs Renaissance Sportive de Berkane (Lương Sơn) BLV HÀN TÍN flv
 https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 04/06 Union FC Macomb vs Midwest United (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -142,30 +145,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 04/06 Italy W vs Bulgaria W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -215,6 +194,54 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Văn Hiến vs Khatoco Khanh Hoa (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/cauca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/cauca.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/caucahd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 05/06 Canada W vs USA W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/rockie/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 05/06 Canada W vs USA W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/rockie.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 05/06 Canada W vs USA W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/rockiehd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 05/06 Canada W vs USA W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/rockiehd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -224,203 +251,101 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV LONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1780522159-0-0-921de1114656238e820eec3c26aa356f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV LONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780522159-0-0-a62897b609881900d8ab63487eb4ff86
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV LONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780522159-0-0-d1198e2d2ed3926b5b339a7a582a2fea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV LONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780522159-0-0-a287439a0e94c0f1404fc511b5ece315
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780522159-0-0-281f1356276c5eb5e7a86232875d2a7f
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780523239-0-0-a8942be7e6b7e9cbfe2aa36b3ed37946
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780522159-0-0-f28fcb221af512a02f29dc864564e320
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780523239-0-0-5229f7b8f0f58e8b9468cf0a59669d9c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780522159-0-0-dd5067e70d4cb086be7909b23fbcbe7f
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780523239-0-0-632c5810c1b36e640e2349a9537a9307
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780522159-0-0-8de08857bae6c7d74a89d7d5369dc66e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780522159-0-0-c55e646510de105e7a7ebdef2cfc37b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780522159-0-0-9c216ae2d03a464e01a3455e6a323d04
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780522159-0-0-fddafeaa6d64fde72361f7030b18fc37
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780522159-0-0-6dc1a42d7a5f5a35f705df1ead95024e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780522159-0-0-8f20827e859c89bb82340f4786388402
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780522159-0-0-5dd37b6fa570b3831d2818f7c06ba2cf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780522159-0-0-4a1244c47d531f717c0575db5fdec594
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780522159-0-0-795f0a1dd01bf6fa8bee50d3c4875707
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780522159-0-0-af70978dc6eed5fec036ddc7c99a428e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780522159-0-0-b5e6c39d557726b92e990f7237ce8433
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780522159-0-0-720479026cb899f676548042a7b4f994
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780522159-0-0-6c050c990d51d211b1b5f517e26c73de
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780523239-0-0-199bc411ff4310c5183fdb0a5495e6ed
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780522159-0-0-dfcb800cf6d5be6b2fcbbadddeea1b69
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780523239-0-0-d21d92eb6204e683318b10aae54f5326
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780522159-0-0-1d6cee48f1287c64ca866dbfa0a63a4d
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780523239-0-0-98140a0f630e456f8fe7e2d2abf66983
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780522159-0-0-48d4b7e038ff623c88680d11149d52c4
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780523239-0-0-8b151d77d3fd0078111c31f551657983
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780522159-0-0-2ecb3456f17c6ada4c447c2254280e10
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780523239-0-0-321ceec3600d84c52cd933a8fc964dc5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV AB] (Socolive) flv
-https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780522519-0-0-3a4905aec32874a75ea65769471c054d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Austria vs Tunisia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780523239-0-0-1f811938a2dffe98a372c5d05c7f795a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV AB] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780522519-0-0-020e3a52f257b2915c2a7d1cae3eb33d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Austria vs Tunisia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780523239-0-0-05108f9b7beb80712c8dc794d5cba7da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV AB] (Socolive) m3u8
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780522519-0-0-f1a30f79547dd2d69f6a6125bdb07257
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Austria vs Tunisia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780523239-0-0-5fa78f72723a40af9225651a18b6774a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV AB] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780522519-0-0-6c808d561d1b33bce4dba71ee8ff6e2e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Austria vs Tunisia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780523239-0-0-f2facac8357e53f6bd28a7922734b9be
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [QUÂN JK] (Socolive) flv
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1780522519-0-0-d04b22a3e53974799614e8ea05a6d98f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780523239-0-0-7aa5076e229a497b0f65529b3e0395cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [QUÂN JK] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780522519-0-0-655f5116fa15b1d564bcf56007090022
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780523239-0-0-080adcdf7d0b547cf4fa596e7ebebd42
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780522519-0-0-9ea4975432696f96dd515cd3508ab190
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780523239-0-0-bc2dc0868b5f2bd37a1eaec20595783a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780522519-0-0-6515859fef7713d50f6931b88a63c286
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780523239-0-0-7a6cb830f3d6f12bb8a1a07fb1e23348
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV VIP] (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=2d3ff86c789cc7c82c8149de5efee8ba&txTime=6a20e467
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Georgia vs Romania [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780523239-0-0-552ec1d14072e7d2a4987dfcd01b1f15
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV VIP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=b2350949368f15c4b6d20ab79c26f4ac&txTime=6a20e467
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Georgia vs Romania [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780523239-0-0-aadc8a316899af1de1539ce6b896f84d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2d3ff86c789cc7c82c8149de5efee8ba&txTime=6a20e467
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Georgia vs Romania [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780523239-0-0-8c8d71a928e2cfc0e20f49211c7fac9e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b2350949368f15c4b6d20ab79c26f4ac&txTime=6a20e467
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Georgia vs Romania [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780523239-0-0-b8d0239360b273482fb147b7f1cd2314
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780522879-0-0-095c2e075c1042ec911d625515cc4945
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Brunei Darussalam U19 [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780523239-0-0-576bc37dc823b217148f87577d3e50cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780522879-0-0-d51ddc127def8a56e271c40bd9faba03
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Brunei Darussalam U19 [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780523239-0-0-ee468634d7ab09e10f343be3518913d3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780522879-0-0-a1b04d2269019e89479b647547c77bd2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Brunei Darussalam U19 [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780523239-0-0-f3e01a990c94a533b84d89ac62976ea7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780522879-0-0-39565838cf4a0cd9779b86c42c8a23ac
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Brunei Darussalam U19 [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780523239-0-0-f37526d8799c4c1b9aaa08e7d5539674
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780522879-0-0-341af830ef8e980256dd38dd8868ca1d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Malaysia U19 vs Singapore U19 [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780523239-0-0-4668867a23dd4fdca220bcca4150714a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780522879-0-0-886d8ef6e8c8e5d3fcd776a8b5f5423d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Malaysia U19 vs Singapore U19 [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780523239-0-0-b54ce54066fca62e884eb846ccda8c28
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780522879-0-0-fb874cf43a6e0da296e56aa3a6c18cf4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Malaysia U19 vs Singapore U19 [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780523239-0-0-5db1c55710a7afe9d4d0c9b6282f07d5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780522879-0-0-b6b0fdcf41d157fb30674e3225113043
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Malaysia U19 vs Singapore U19 [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780523239-0-0-3fd24f30eabd71a2ac46640b20a4a0da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [PINKMAN] (Socolive) flv
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=d869e92500fc2a32e7d8cc04f84a131c&txTime=6a20e5cf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Norway vs Sweden [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780523239-0-0-69e7d843dbfb65f76e66f50d6871ccc1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [PINKMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=17daac24559160bdba2c2c5f04fb5ed9&txTime=6a20e5cf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Norway vs Sweden [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780523239-0-0-6d98ca97277c7ff30faaf0f96d1bc903
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d869e92500fc2a32e7d8cc04f84a131c&txTime=6a20e5cf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Norway vs Sweden [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780523239-0-0-4257f707ec3d1753b7b9767c5e19672a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=17daac24559160bdba2c2c5f04fb5ed9&txTime=6a20e5cf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780522879-0-0-2050507a2a1fd84c40aba972f792c3d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780522879-0-0-974abf9d85c28f628e5e47c40aacb3ea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780522879-0-0-a367b9920fd03b1aee0c2c3f2a99fa51
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Poland vs Nigeria [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780522879-0-0-64b19a4820cad98c1167573b5ca7b533
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780522879-0-0-638c39a01389a8c74c3000f734b41de6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780522879-0-0-a64989375eb90f781946fe81e609648b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780522879-0-0-36bad2a8ba64f5457a3e58f03ac97c4a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Netherlands vs Algeria [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780522879-0-0-4907ee3282e2eeafc4bad41b0c117b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780522921-0-0-a6fdcb30cae704c69c5471f28fe2cfb6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780522921-0-0-48149a544572f947561eb47bee812d30
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780522921-0-0-94dc6206aa93a960dcc1b3ec31da96e1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 04/06 Luxembourg vs Italy [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780522921-0-0-cea4142ddc82d3b11d2f7b373e43ae5e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 04/06 Netherlands vs Algeria (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 04/06 Netherlands vs Algeria (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 04/06 Poland vs Nigeria (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 04/06 Poland vs Nigeria (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 04/06 Matteo Berrettini vs Matteo Arnaldi (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 04/06 Matteo Berrettini vs Matteo Arnaldi (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Norway vs Sweden [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780523239-0-0-dd62ba499ff94f8ac4ee22ee7eee9f2e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 04/06 Pháp vs Nhật Bản (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8

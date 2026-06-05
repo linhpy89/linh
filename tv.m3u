@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8defdb0b80a7.webp?v=1780647903",⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 13:30
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN 2" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3e9f11e34acb.webp?v=1780648591",⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 16:00
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Otago+Nuggets&away=Franklin+Bulls&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780590480.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780590478.png&time=14%3A30&league=NBL&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 Otago Nuggets vs Franklin Bulls | 14:30
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -10,6 +10,12 @@ https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a7
 
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png",11:00 | Liban vs Indonesia
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19147.png",Brunei U19 vs Malaysia U19
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",23:00 | Belarus vs Syria
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
@@ -23,54 +29,96 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",09:00 | Brunei U19 vs Malaysia U19
 https://live05.msdht.app/live/14707124.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h30 05/06 CHIU Pin-Chian vs Akane YAMAGUCHI (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=573e5c12481fbe4a1c59af2c22324f46&txTime=6a22dea7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=b3b87745e43d738b9537b5ad7514cbac&txTime=6a22dea7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780651759-0-0-fe1cc3bb2180e90250f90dfb2921f959
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780652119-0-0-3e6fd45fc5f3d43db0378824fb129e8c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780652119-0-0-897e53c0163cbf597cf092ac62f7abab
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780652119-0-0-7d6f9a888dec3a4e754ff275fd46d6ed
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780652119-0-0-b65e94002ae01cc7201bcf3322fe2469
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780652119-0-0-c67a2d3f3fc58c0a44e122f36c1c0e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780652119-0-0-1f14a7c8c388788b601c90f1f1189027
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780652119-0-0-615bf39d8e414ee626529c4c9423026a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780651759-0-0-b4890846115b553373027e8b48e766fc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780652119-0-0-167ddbee3815ef3aa13b49f00266b6eb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780652119-0-0-17ad254a0e7629b52ebb6f5daaba9221
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780652119-0-0-26ba00b16212fb7360a2284c3d797f8d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780652479-0-0-231ea42641cd6f9ef4b24ef206e7f5fc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780652479-0-0-7ac9233f12a62dcd168bde96b662f0ad
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 Brunei U19 vs Malaysia U19 (Hội Quán) SD
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780652479-0-0-99b06f1f7bfb6775401b0bcbd446c947
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780652479-0-0-1ad5c97c941bceceef80bb16f839016e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780652479-0-0-feb2b61970ca086335f74cc48cafa6a3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780652119-0-0-8945573614657cb1a8b13708c739df99
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h30 05/06 Đ (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h30 05/06 CHIU Pin-Chian vs Akane YAMAGUCHI (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780652119-0-0-6dbaf00c85726ce61dc8c7d6ac72100d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780651039-0-0-f5a075926bb6c320cec049276731741c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780651039-0-0-59e8d7bbce329fdec6c586200e896edf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780650679-0-0-de6f32715561be77beec8d82c6ea880c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 TA (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780651399-0-0-f6b41bf5c4082fee8e81ca5c0ee28918
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780652479-0-0-04104962f3518fa0377e352bf979a242
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780651039-0-0-11e17f5a6cbfb7e11861cc4c667e9098
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h30 05/06 Đ (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780651039-0-0-228e7acdf61d8e8bea6b2db8b747972d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780650679-0-0-a1aa681f2f3d804513181ccf77250340
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780651039-0-0-003521b2debf96c8f40bb7bf24c085af
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780651399-0-0-7dd50d107b08872a14be67d5bf1da994
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780651399-0-0-91a6a20b1369cdca501c28e1948f785a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780651039-0-0-296ad06ed823bb6b703e0987197bc441
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780651399-0-0-a165042555fb0d0d928486a5a55d107f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 TA (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780650679-0-0-21281fdb7516b8ce5d5cce9d4f27f1e0
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780651759-0-0-0b496a3d4cd79b612bf0bab9c786568f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780650679-0-0-5d4c080f53cc9a1ad56ed32e3c11b870
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780651759-0-0-99719a58982481b10e35e71337df49a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 Brunei U19 vs Malaysia U19 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 

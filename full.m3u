@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",08:00 | Việt Nam vs Liban 
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",14:00 | Iran vs Indonesia
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",08:00 | Việt Nam vs Hồng Kông
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r0k1Lgj9INFJXffXF2kk8So8HKDYQMeJfw&s",14:00 | Đài Loan vs Hàn Quốc
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
@@ -149,26 +149,17 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Snohomish+United&away=Midlakes+United&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F69255_1jvbkmxnhy1p.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F65539_1hy78knmk92.png&time=08%3A00&league=USA+USL+League+Two&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Snohomish United vs Midlakes United | 08:00
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Vancouver+FC&away=Atletico+Ottawa&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F60644_1jvtw472gk2p.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1771338243.png&time=09%3A00&league=Canadian+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Vancouver FC vs Atletico Ottawa | 09:00
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Vancouver+FC&away=Atletico+Ottawa&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F60644_1jvtw472gk2p.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1771338243.png&time=09%3A10&league=Canadian+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Vancouver FC vs Atletico Ottawa | 09:10
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Vancouver+FC&away=Atletico+Ottawa&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F60644_1jvtw472gk2p.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1771338243.png&time=09%3A00&league=Canadian+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Vancouver FC vs Atletico Ottawa | 09:00
+#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Vancouver+FC&away=Atletico+Ottawa&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F60644_1jvtw472gk2p.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1771338243.png&time=09%3A10&league=Canadian+Premier+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Vancouver FC vs Atletico Ottawa | 09:10
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 06/06 Connecticut Sun vs Chicago Sky (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Snohomish United vs Midlakes United (Lương Sơn) BLV SHIN flv
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -190,12 +181,6 @@ https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 06/06 Puerto Rico vs Saudi Arabia (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/m5x2.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 France W vs USA W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -290,210 +275,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780713679-0-0-13a60f2872cea7e3304f817823adba77
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780713679-0-0-0f78795d429b16178b992bf4ce4a5ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780713679-0-0-a765dd1b73fd4bc5f90b5a650f850e98
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780713679-0-0-b2ea67d02ee5939f7764c9131fa9f0e6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780713679-0-0-5a55d5b8f88603083ccb8bef8402ff84
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780713679-0-0-3752554fb291b8ad9a3e9152495abde9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780713679-0-0-aadc1bd309c0adb5f77a1cba7f81eb45
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780713679-0-0-c8bf176c511fb30f355239067f848aa7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780713679-0-0-dfad432c0fecbb45d36de3d3636ca533
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780713679-0-0-78ce1b15057259778ccecd659d54164d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780713679-0-0-9df9d5513b5cba596e7d623f8492f146
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780713679-0-0-e62cb994d0a1ce5d91aa4e921c9d8ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780713679-0-0-9f9c3b0db3963c90a451a4c81a23d131
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780713679-0-0-76dbaaeb545a8ce1dc5b96841380b627
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780713679-0-0-ea2055a8fd99c4754303451aa67cc02e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780713679-0-0-e6ffe329cdd2418678dfed7fab4051b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780713679-0-0-9b1cef05b9e8ade17fbfc131e5e33939
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780713679-0-0-0dd3ea14ff9c20dfd6ac31921fc9c8d8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780713679-0-0-9f505104e5197372b9c18d1576c3c61a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780713679-0-0-a05e9c754fd86cb05827c94437e1172b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) flv
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780713680-0-0-224aeb15c2e3e1417e58b638e50037c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780713680-0-0-3b8f6db6fc4e4ba126bc3acd9f2724e4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780713680-0-0-45bb5bc0b051ed5b34dc249de75882b9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780713680-0-0-72057fce3f2314ec2dbeed5e7b3072e8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) flv
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=5c19418822a9e0c6cda14ec810084014&txTime=6a23cf20
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=eb21e367120e679111433039df6d6d92&txTime=6a23cf20
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=5c19418822a9e0c6cda14ec810084014&txTime=6a23cf20
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=eb21e367120e679111433039df6d6d92&txTime=6a23cf20
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) flv
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780713680-0-0-f7a9b3835c14d544055abf2ccc4e9fa1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780713680-0-0-650e798223f85a8aa2874a1771b66d5c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780713680-0-0-d2d2d1426799a1d266b3fa19055014cd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780713680-0-0-1816d007856a7a5ed045b11cb0525b5c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV KAN] (Socolive) flv
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=4199d7f424548ed38d63136a67ea5b47&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV KAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=80c571bfdbaea6d78c0ac27a69f44d47&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=4199d7f424548ed38d63136a67ea5b47&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=80c571bfdbaea6d78c0ac27a69f44d47&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) flv
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780714040-0-0-0255cac4a14a5a33bccbe03cd37b03ac
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780714040-0-0-45df5e61990eb5d5d4c3477f4da7e577
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780714040-0-0-93441c4aaf9086fec826ef5bb1a3ba5e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780714040-0-0-a030c8e6abeaebe4539f57e852e7ce95
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=9af0fde0454f98284687b2f568956707&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=5d7971ffa5c21757e02cd6ed14c7ee92&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9af0fde0454f98284687b2f568956707&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5d7971ffa5c21757e02cd6ed14c7ee92&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780714039-0-0-1bab0af9e7239eeb04fd5a5db70199cc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780714039-0-0-14af98fbfdaec76637ac6010b05f3b57
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780714039-0-0-17b7c269e62276952ca62f66492d1c07
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780714039-0-0-b94c715cc7908bd76d1b333315f68182
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV RAMBO] (Socolive) flv
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=da46267b61ef45408a9bb6cf28eb6a6c&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV RAMBO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=2d83cc8cb5c2a1d3519404947d03d697&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=da46267b61ef45408a9bb6cf28eb6a6c&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 Haiti vs Peru [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2d83cc8cb5c2a1d3519404947d03d697&txTime=6a23d087
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780714039-0-0-b9274fd4122a75a03d542326a35de36a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780714039-0-0-b595ce2c9eec09fa83db108954749a51
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780714039-0-0-8ce194c0776633daa0079b9e67efd565
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780714039-0-0-7bf8e02d2a528bca62bad63e2e986b12
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780714040-0-0-d2dc0657fcd298f7c6650846d192fb1b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780714040-0-0-0f06589f9dc809783730fe3eda6cb4fc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780714040-0-0-b3703631f96a2aac2701a3174cc29d3c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780714040-0-0-9ea485d97417d9e57d707212a0637c77
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [BLV A TINH] (Socolive) flv
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=f1967563998ea31a3772c2090f65ee0a&txTime=6a23d088
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [BLV A TINH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=42594b6c7600e28dd01a98b6285282c7&txTime=6a23d088
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=f1967563998ea31a3772c2090f65ee0a&txTime=6a23d088
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=42594b6c7600e28dd01a98b6285282c7&txTime=6a23d088
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780714039-0-0-46e9e643a94919d165a9495d51243f9c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780714039-0-0-b9e7f15746c97403429c1573548e5659
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780714039-0-0-d0a2341731587b929cd29326df7ad9af
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780714039-0-0-7b416dce79c07373b6f80387318981a9
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [SAO LA] (Socolive) flv
 https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1ebde64696d6c098d708583b3e31988b&txTime=6a23d1ef
 
@@ -566,18 +347,6 @@ https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780714399-0-0-041
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [KING] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780714399-0-0-b184b5d0a4c6d165656766881d73c53e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=8753f41d94fb7c77d762a14cfa4a4fc5&txTime=6a23d1ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=a8412db5dfef123db1b2ef501a2aa7c2&txTime=6a23d1ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=8753f41d94fb7c77d762a14cfa4a4fc5&txTime=6a23d1ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 06/06 San Luis Quillota vs San Marcos de Arica [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=a8412db5dfef123db1b2ef501a2aa7c2&txTime=6a23d1ef
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [TRÀ ĐÁ] (Socolive) flv
 https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780714400-0-0-0fde50be53122c2036ba323ad9948177
 
@@ -602,21 +371,168 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780714399-0-0-12ff
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780714399-0-0-ea28c54ba712c878cd83660c42dcede3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 06/06 Việt Nam vs Liban  (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780714759-0-0-2ac270f817440164d8378c1c9c89b97b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 06/06 San Antonio Spurs - New York Knicks (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780714759-0-0-612f8c4aa87f779ccf59388010c4e8ca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 06/06 Puerto Rico vs Saudi Arabia (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780714759-0-0-adb8014dc48a1e76bb6418d0d09f8882
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 06/06 Puerto Rico vs Saudi Arabia (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780714759-0-0-9b48d1a4f8ba30bfed6aec55c38386a3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780714759-0-0-bc1425e91894feb821a93452ec766935
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780714759-0-0-d761947bc1e9b955c7c9bb7d84cdcdc4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780714759-0-0-ae8c83ac4f2a2a9531156130333a06ef
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780714759-0-0-8a52c2e055f0832bc6bda6c0af9d9688
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780714759-0-0-05be437c196ad1bbff3e7d6d69608e31
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780714759-0-0-69927260de07098179212524830808a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780714759-0-0-029c67cace7949c83ded3c96fd6c14cd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780714759-0-0-8e1d7c444183dc682be36782fe9c3dec
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) flv
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780714759-0-0-dea5670b280a8d0dd4c284d5646c5429
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780714759-0-0-810ad70477f5538084dc2c89bc6d1328
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) m3u8
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780714759-0-0-fa9252944d60921c595c6fe3e8b94f4d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [HÀ DUY KIÊN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780714759-0-0-a07928283886b0e2d586f0c578e166a7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) flv
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=efae40cebaab27d56053b77ad2e25046&txTime=6a23d357
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=86c6b5bfbd1e60547c8c111f50d9f318&txTime=6a23d357
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=efae40cebaab27d56053b77ad2e25046&txTime=6a23d357
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=86c6b5bfbd1e60547c8c111f50d9f318&txTime=6a23d357
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780714759-0-0-1e74b4b35c0722fc6da8c292bcd27058
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780714759-0-0-97322879b24fa2638a1140d7a6cbb68a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780714759-0-0-3c2b3794f7a6c8bd88d88e65bf063305
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780714759-0-0-77e57174da0931e77cc6c2cb3927bb32
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) flv
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780714759-0-0-520b9938011a2e4ed32a8434ab5bf5af
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780714759-0-0-128fc19bf9009b3e466dc2fc71b6df97
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780714759-0-0-5b53f9c052447eb671c80f29d2a0dc0a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 Gimnasia y Tiro vs Ferrocarril Midland [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780714759-0-0-67910f7c4904f2aec3c36c6b915a26e5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=f0e2ad656d3155dbc147fe503d7cf750&txTime=6a23d4bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=5ba6345f95f6697e2d44b51e716d9d4b&txTime=6a23d4bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f0e2ad656d3155dbc147fe503d7cf750&txTime=6a23d4bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5ba6345f95f6697e2d44b51e716d9d4b&txTime=6a23d4bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780715119-0-0-4d75c02b026109751f4a2ab9c0033786
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780715119-0-0-a57835b92db47a3645f4d7b57059e0f8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780715119-0-0-511321e1459ba2ee3e4d5e7c11eccb2c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780715119-0-0-cec5ad9d41d2aa909b10cd2120ca24bd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780715119-0-0-73a7f00342120bd7c65fd49a27691f0e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780715119-0-0-942e2d249cc4798dea3c26101b5fc596
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780715119-0-0-0b8e6540e281c2b0ae668ea634ceaf60
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 06/06 Vancouver FC vs Atletico Ottawa [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780715119-0-0-d571b921ba839592d9d7e64414657449
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780715119-0-0-477660083ab2f780b24f017fbf00d73f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780715119-0-0-1ac34a6119832e8fc65f81bdb0a4e03f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780715119-0-0-5270a3bd2e12b0df52b90780e735bf5d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 06/06 San Antonio Spurs vs New York Knicks [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780715119-0-0-9bdfe4cb0b2a7020b2a4d1c6f0e45dd2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) flv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780715119-0-0-f69a8f2ac203b781ba72bd46be5d7245
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780715119-0-0-99aa78a6f7279a7672e37f5149fc9898
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780715119-0-0-227749ded12a9713d6003a009b3b8f1f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 06/06 Vancouver Whitecaps Reserve vs Portland Timbers Reserve [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780715119-0-0-62433d64a47f1f3b2019de47b1952f61
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780715119-0-0-899a24443d21e07a8dda84a7a6f4ff1f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780715119-0-0-30462f840b1edba0bdc032bbbb6cb726
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780715119-0-0-190dee8f5b56a4fcce783dd88db1b950
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780715119-0-0-885f4097a86060de07acbbf6d6cdcfbe
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 06/06 Pháp vs Mỹ (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 06/06 Pháp vs Mỹ (Hội Quán) SD
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 06/06 San Antonio Spurs - New York Knicks (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 

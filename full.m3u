@@ -71,9 +71,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8201.png",Ý U21 vs Albania U21
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/b0d99b5e163d56f84425d465e6e11343.png!w80",00:00 | Khu bảo tồn động đất San Jose vs Real Monarchs
-https://live05.msdht.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/711b58aca949c7b98ae560b5d9f17c55.png!w80",00:30 | Austin FC II vs Los Angeles FC II
 https://live05.msdht.app/live/99121525.m3u8
 
@@ -110,6 +107,9 @@ https://live05.msdht.app/live/97312754.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/0dea9d20b78bf22e53d6f5cdb94d2e5b.png!w80",00:00 | MINNESOTA United B vs Sporting Kansas City 2
 https://live05.msdht.app/live/43612277.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/1321008697de305bc0135838af8d2670.png!w80",09:00 | Úc Nữ vs Mexico Nữ
+https://live05.msdht.app/live/14707124.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80",15:00 | Kazakhstan U19 vs Hy Lạp U19
 https://live05.msdht.app/live/78905744.m3u8
 
@@ -122,14 +122,14 @@ https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://static.flashscore.com/res/image/data/G8TPGWBr-pWJEuGxm.png",19:00 | U21 FYR Macedonia vs U20 Mỹ
 https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=San+Jose+Earthquakes+Reserve&away=Real+Monarchs&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57022_1hts50z92h32.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21814_20170523175657.jpg&time=07%3A00&league=USA+MLS+Next+Pro+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ San Jose Earthquakes Reserve vs Real Monarchs | 07:00
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Austin+FC+II&away=Los+Angeles+FC+II&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61320_1gwzx5cg7w30.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61321_1gx0c62qcy2n.png&time=07%3A30&league=USA+MLS+Next+Pro+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Austin FC II vs Los Angeles FC II | 07:30
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II (Lương Sơn) BLV KAKA flv
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs (Lương Sơn) BLV MÃ SIÊU m3u
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs (Lương Sơn) BLV MÃ SIÊU flv
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -279,98 +279,98 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780885400-0-0-59b3a1afb14be46e9ba2da6297dfb691
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780886480-0-0-3a149b4e57bb75108fe905e9d057e888
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780885400-0-0-aa0a2ea19cf9ca9c40a4d97742c2f358
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780886480-0-0-5a907769c9902d9132bc6751f4501688
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780885400-0-0-b15a9bf3da1eaa99867de88829c4a6a8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780886480-0-0-e0e124d6772ba8baecb592ea344178b6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780885400-0-0-3414cc281a707591a0a40f96717c9581
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780886480-0-0-9b87b007a94969f2b7aa75eef166dc50
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=03b83dc26145dd29abb37f6483438d9b&txTime=6a266f50
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=0779256420b5b7c1d901bec8a6bd46e0&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1627f973a86cedb1c126fa55b91ca95c&txTime=6a266f50
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=0c22f8e6d457bcfda93313d8d298345d&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=03b83dc26145dd29abb37f6483438d9b&txTime=6a266f50
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=0779256420b5b7c1d901bec8a6bd46e0&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1627f973a86cedb1c126fa55b91ca95c&txTime=6a266f50
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780885760-0-0-7eefe9583f7f7de0bdfe56d52cd7c6a0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780885760-0-0-4471be8baf6c64b7a49ecc7c44a76973
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780885760-0-0-fb9345457ed80ebf384572984bb96a6f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780885760-0-0-1351866bc65cae1240fc06cead480a10
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=f9b1903e9fa9d909874e47402e7650d9&txTime=6a266f50
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=a6a2a82d6caa017c2ecfcd647c264fa7&txTime=6a266f50
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=f9b1903e9fa9d909874e47402e7650d9&txTime=6a266f50
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a6a2a82d6caa017c2ecfcd647c264fa7&txTime=6a266f50
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0c22f8e6d457bcfda93313d8d298345d&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=4908ee10cff48c3a9139fa4162f6ddfc&txTime=6a266f50
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=127e521a7a9f51a4e2f18fb0e41a964b&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=146f8d332f87d112fcad79d049c794e4&txTime=6a266f50
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=0de97990b16f2844ad89322ebcb31e6f&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=4908ee10cff48c3a9139fa4162f6ddfc&txTime=6a266f50
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=127e521a7a9f51a4e2f18fb0e41a964b&txTime=6a267388
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=146f8d332f87d112fcad79d049c794e4&txTime=6a266f50
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0de97990b16f2844ad89322ebcb31e6f&txTime=6a267388
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=01e4db8bbce092fcb79ede8a9966c517&txTime=6a267388
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=1c98a1f2149b762e553bfe0cf265f9e0&txTime=6a267388
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=01e4db8bbce092fcb79ede8a9966c517&txTime=6a267388
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1c98a1f2149b762e553bfe0cf265f9e0&txTime=6a267388
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780886840-0-0-423164be58c0dce2d5cb68bd09df61c9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780886840-0-0-f1ade553d0b77130bf2a1f8de5f0e9f8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780886840-0-0-dafa852f033f8d926d1d18b4be21dacc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780886840-0-0-6b17600804fa57d124f79cf9a3f9dc9e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780885760-0-0-2e58749c848fe51a2a5aed9e25ad618e
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780886840-0-0-1b23706d7d33b948801acc58ec9b4e2f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780885760-0-0-4125d5eb9f952e20987be43cbd7c01d5
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780886840-0-0-04d307623ecd1ce5c88f3def61d8282f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780885760-0-0-1d26260b6a30dcb862a10c7eb9fd1e52
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780886840-0-0-fc5c077ca3d3494af97033f8d798966a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780885760-0-0-7f11f18fe807746593f9c77a8d42bd69
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780886840-0-0-d79e1fbc744ddeaad7f812a537311b9b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780886120-0-0-6245733e24246b71c2873017ec09e562
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780887200-0-0-1b36f03eef4b18d630132cc2abd39fa1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780886120-0-0-75032eb916b5e480ac72314130ac24ca
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780887200-0-0-85fcfa89457c1a33740cf936ae6f41ff
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780886120-0-0-46902a048b3607e94bd222a531486a47
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780887200-0-0-b131d33924d5d60ab20e1172d8edef89
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780886120-0-0-c3ffa7fd297b85238e6629137dc2c9ef
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780887200-0-0-1f246143881434381647a7f92918ef29
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780886120-0-0-9139f0f405a46a7a527a34ca58167a4c
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780887200-0-0-9509d33d0c485842871e15acad0eb31b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780886120-0-0-4d69a58ec00ac5f349a612cfdd8cf02a
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780887200-0-0-55f621968179bc966a5b1565623ebe39
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780886120-0-0-78ce20c44b8718c9c33ae6aaa4bece3b
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780887200-0-0-8adca5ccd8f859a43548962fd388065b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780886120-0-0-ee8f9779dd3681834d81272543f2f6e2
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780887200-0-0-1109145ff0ff18ab645bf3295d5d8019
 

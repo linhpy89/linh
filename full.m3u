@@ -8,11 +8,11 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png",14:00 | Philippin vs Hàn Quốc
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/3840px-Flag_of_Peru_%28state%29.svg.png",09:00 | Peru vs Spain
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/5537.png",16:00 | Timor-Leste vs Brunei
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",18:35 | China vs Thailand
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",22:00 | Congo DR vs Chile
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
@@ -62,9 +62,6 @@ https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZOuKHQ5RYYr0sWjUPYgOhdBesLxayJ6Omw&s",22:00 | Tajikistan vs India
 https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/30.png",Peru vs Spain
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5537.png",Timor-Leste vs Brunei
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
@@ -76,6 +73,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1571.png",Indonesia vs Mozambique
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10346.png",Serbia U19 vs Bồ Đào Nha U19
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1165.png",KuPS vs VPS
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
@@ -143,29 +143,26 @@ https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 #EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=New+York+Knicks&away=San+Antonio+Spurs&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780950440.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1780950442.png&time=07%3A30&league=NBA&sport=B%C3%B3ng+r%E1%BB%95&status=%E2%97%8F+Live",🏀 New York Knicks vs San Antonio Spurs | 07:30
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Peru&away=Spain&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F668_165018907294.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F666_164983321668.png&time=09%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Peru vs Spain | 09:00
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Peru&away=Spain&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F668_165018907294.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F666_164983321668.png&time=09%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Peru vs Spain | 09:00
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="LƯƠNG SƠN TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Peru&away=Spain&homeLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F668_165018907294.png&awayLogo=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F666_164983321668.png&time=09%3A00&league=International+Friendly&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Peru vs Spain | 09:00
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="QUECHOA TV" tvg-logo="https://apithethao1.vercel.app/api/match-thumb?home=Peru&away=Spain&homeLogo=https%3A%2F%2Fmedia.api-sports.io%2Ffootball%2Fteams%2F30.png&awayLogo=https%3A%2F%2Fstorage.quechoa2.live%2Flogos%2Fteams%2F1770858861444-spain-national-football-team-crest.svg.png&time=09%3A00&league=Friendlies&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",⚽ Peru vs Spain | 09:00
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 09/06 New York Knicks vs San Antonio Spurs (Lương Sơn) BLV YẾN THANH flv
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV KAKA flv
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV LỮ BỐ flv
 https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV LƯU BỊ flv
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -323,131 +320,185 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 09/06 New York Knicks vs San Antonio Spurs [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780979000-0-0-f281b8775baae0f24cf601adb982a4d4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 09/06 New York Knicks vs San Antonio Spurs [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780979000-0-0-336d70c32f6e06589dec0fef7cf3451c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 09/06 New York Knicks vs San Antonio Spurs [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780979000-0-0-b64372f6c85982d2338c7f0a57e610ca
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 09/06 New York Knicks vs San Antonio Spurs [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780979000-0-0-66561381fa90bfaa9a93bd77c73b13e4
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780979000-0-0-ecb01f035008c0bba1d59e30d0b6065b
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780980080-0-0-b1f6574d18be83231357f2d1e046baa4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780979000-0-0-b23748b1717ac540272ca6315cec31ec
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780980080-0-0-6c011b60b782af19dc1ef6b6c854413d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780979000-0-0-6ff0ef39d63c173ceeafc0077b841090
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780980080-0-0-e089c25ea54819e9fb84b5bb0cccb564
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780979000-0-0-199421455bee7149d4d3e8bd9b1b6f5c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780979000-0-0-600ec6b62783056a48a8dc63e41e186f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780979000-0-0-6a8412784c9bb3e4d2c9840d7a3bfeb8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780979000-0-0-f5b6cbe5916048e77064802e47c7a8d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780979000-0-0-40a28dfdd1ba0ee162df638cc3c13c65
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780980080-0-0-b1b9ae3b3fc1cfce6cd2eb14f30407f2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780979000-0-0-e4012ca740c33570e77d5b28ccef57a1
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780980080-0-0-d1c33d18421c896fc376fe4d8a85ebbf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780979000-0-0-86b98e6472e89c1006daf7c614e8c1ff
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780980080-0-0-6416a478e0d79390cc53a46796d5ef1c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780979000-0-0-1f3a9f4e4a4ef75d5e7f7b6ee415e643
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780980080-0-0-ad222279ec2b592f9d144d17398f9eb7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780979000-0-0-085a7022dfbb039d5b6f2c4dd375dcfd
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780980080-0-0-79f7992ea3e28177c593ad8473d2337c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=4ce80fc0e4274656091929b8a258f728&txTime=6a27dcf0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780980080-0-0-6ade59f10bc2eef31e709cc61d416ba3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=65044930c8c74e93496b5caa94190e34&txTime=6a27dcf0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780980080-0-0-2cc14bfd64c0bc912a4c9862d64d849a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=4ce80fc0e4274656091929b8a258f728&txTime=6a27dcf0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780980080-0-0-992aeb3dbd4f67e4b26883a624d688c5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=65044930c8c74e93496b5caa94190e34&txTime=6a27dcf0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780979360-0-0-918ed960f5041bdd7ee4712420b0fa80
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780979360-0-0-2036eb1ce14805fad06ffda80735de14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780979360-0-0-81794ce56fb0e81e30070cd462d666c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780979360-0-0-c9ae321c52fc0aae1631bf9a238ef13d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780980080-0-0-8f1a6b33fe749f87aeff12a6d7034ce0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780979360-0-0-04a9b6311d649c02436be1d7735026b7
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780980440-0-0-eb0187aa7930139d16bcf5d7b078c711
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780979360-0-0-5116f9a5ecbc956cf01af9ddd75a8886
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780980440-0-0-851babd17ca1e3880e7a8c7f3bcef7d8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780979360-0-0-ef1f91df91c45604f3ee7618ef3d3be0
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780980440-0-0-a436057bab72a567ad945b214e6e5b1c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Las Vegas Aces W vs Seattle Storm W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780979360-0-0-4d9eebc16a259b27c56ebdcbc557f021
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780980440-0-0-23a2f7aa35a072a198ee247b4b7f3813
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780980440-0-0-18f0ecb1b2723ef2d20d54652d7fdf6b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780980440-0-0-e0760eda6f5709ea9d7b11d120dc3cc8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780980440-0-0-51238141248216a115762bb3adf4f612
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780980440-0-0-d9c38453372a90aefabefd14cb744a8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=03a0158ef3cbf74a168007bfd1cf3c34&txTime=6a27e128
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=5556c31de7d183dc39243bced9508674&txTime=6a27e128
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=03a0158ef3cbf74a168007bfd1cf3c34&txTime=6a27e128
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5556c31de7d183dc39243bced9508674&txTime=6a27e128
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780979360-0-0-5607115a140a77a40a4d3da9652f1990
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780980440-0-0-6069bc9a608552fb835da6a9b713ff48
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780979360-0-0-3861d529af3c01939d205ed734ca900f
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780980440-0-0-0c10bce263dd440ee1dfbe99950fddad
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780979360-0-0-c29b4aa4c2b99e471eee84f89438c67f
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780980440-0-0-e52c5cb359ca50fb025dfec695e3e6dc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780979360-0-0-5dd05bb08b9497e4edfe52b0350c9e56
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780979720-0-0-aca64cdc7f05a8b7a35c7097cd98ca07
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780979720-0-0-1ff9d0e7d8ac873559d5066dd481ea6d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780979720-0-0-4d8f90efdaa242dbb6f6772fda7bbcf7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780979720-0-0-3ae8c0ad14870168997a8a5bdeaf3f1b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780980440-0-0-8eef88bc0795cc8cec1cd77d0242b39b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=4f7279a452058a5642a85e5c8d479644&txTime=6a27de58
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=dd97cf7c3e6ffb59fbcf7103757590e4&txTime=6a27e290
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=6090259c233d7c60a9a9762a6db43fb8&txTime=6a27de58
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=e084ffafeb85cbf02669a82af9c3cb4a&txTime=6a27e290
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=4f7279a452058a5642a85e5c8d479644&txTime=6a27de58
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=dd97cf7c3e6ffb59fbcf7103757590e4&txTime=6a27e290
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6090259c233d7c60a9a9762a6db43fb8&txTime=6a27de58
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e084ffafeb85cbf02669a82af9c3cb4a&txTime=6a27e290
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 09/06 San Antonio Spurs - New York Knicks (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780980800-0-0-aa0475ccd439f73230a8e3c513693d39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 09/06 San Antonio Spurs - New York Knicks (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780980800-0-0-20a6698d1b495b276f9792c0c07c731e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780980800-0-0-48cc2afeef64ecc4ab43b8c75fc3adfc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780980800-0-0-f5de465bc4c88150ebc25d96b5779d9b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780980828-0-0-fe2bbfbdc6ad118028e895cd3ce46ad1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780980828-0-0-aac02a3ba302e3628e6f1c9b95253cf4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780980828-0-0-5f972ca3a5c7a4f44e7a15c8caa714e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780980828-0-0-8f4f20775df064230fc6321da28993dd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Colombia vs Jordan [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780980800-0-0-81bb6acdc835c8b28a3b3320b78c3c7d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Colombia vs Jordan [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780980800-0-0-d9eb60755b9245258488870b51d6a6e2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Colombia vs Jordan [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780980800-0-0-f0e21a74f159060d5d8a590e1a0d15c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Colombia vs Jordan [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780980800-0-0-f7e8683148029383acf45ac3b2ec6700
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: FIN D2 - KTP Kotka vs FC Haka [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780980819-0-0-962d5be028b3d21e59797b7451b94dea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: FIN D2 - KTP Kotka vs FC Haka [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780980819-0-0-eabee7d92c04353b51b8f3df959ba2ba
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: FIN D2 - KTP Kotka vs FC Haka [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780980819-0-0-146705c045b0ff0ba5712d334952b880
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: FIN D2 - KTP Kotka vs FC Haka [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780980819-0-0-156d544f040c093d2c03a6733a35b79e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Malaysia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780980813-0-0-fe7c54b44751b9dec1a378fd6b80d670
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Malaysia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780980813-0-0-34303ec2c50d88ada45ba0f4edd1f753
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Malaysia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780980813-0-0-f460d0abf88d451f0580a0b651c1d991
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Malaysia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780980813-0-0-85bca65f6e4a3a6d8776caac836a0966
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Morocco vs Norway [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780980800-0-0-5b208e20b5399b25fc614a550ff9f3c8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Morocco vs Norway [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780980800-0-0-cb45bbf04f08f3d7ceaf066e355acad7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Morocco vs Norway [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780980800-0-0-176819a76d2e5499915d3050e6957e95
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Morocco vs Norway [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780980800-0-0-a4a69ecfe592b5c04bbd1350ab67801c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AUS CupQ - Kingborough Lions vs Devonport City [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780980803-0-0-9b7dc0a9b8fb139a975de9f07d2a2fd5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AUS CupQ - Kingborough Lions vs Devonport City [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780980803-0-0-9dbc76d7e2db92ab5d6f1d92400e351b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AUS CupQ - Kingborough Lions vs Devonport City [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780980803-0-0-5f682eae9120da7fca0c528735fcd736
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AUS CupQ - Kingborough Lions vs Devonport City [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780980803-0-0-220c6349cbb9bc9ee0d4e126a9386e69
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 09/06 Uzbekistan vs Úc (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -457,10 +508,4 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 09/06 Peru vs Spain (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 09/06 San Antonio Spurs - New York Knicks (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 09/06 San Antonio Spurs - New York Knicks (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 

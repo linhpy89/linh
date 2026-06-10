@@ -924,56 +924,6 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 1-120000",
-          "name": "⚽ 12:00 | Cuba vs Ba Lan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "HỘI QUÁN 1-120000",
-              "name": "HỘI QUÁN 1",
-              "contents": [
-                {
-                  "id": "HỘI QUÁN 1-120000",
-                  "name": "12:00 | Cuba vs Ba Lan",
-                  "streams": [
-                    {
-                      "id": "HỘI QUÁN 1-120000",
-                      "name": "BLV PHAN HẢI",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "HỘI QUÁN 1-150000",
           "name": "⚽ 15:00 | Trung Quốc vs Slovenia",
           "type": "single",
@@ -1724,56 +1674,6 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 1-060000",
-          "name": "⚽ 06:00 | SATHIO GROUP Australian Badminton Open 2026",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "HỘI QUÁN 1-060000",
-              "name": "HỘI QUÁN 1",
-              "contents": [
-                {
-                  "id": "HỘI QUÁN 1-060000",
-                  "name": "06:00 | SATHIO GROUP Australian Badminton Open 2026",
-                  "streams": [
-                    {
-                      "id": "HỘI QUÁN 1-060000",
-                      "name": "BLV PHAN CA",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "HỘI QUÁN 1-110000",
           "name": "⚽ 11:00 | SATHIO GROUP Australian Badminton Open 2026",
           "type": "single",
@@ -1883,7 +1783,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 11:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1906,15 +1806,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 11:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -1933,7 +1833,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ NGUYEN Hai Dang vs Jason GUNAWAN | 11:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -1956,15 +1856,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ NGUYEN Hai Dang vs Jason GUNAWAN | 11:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -1983,7 +1883,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Cuba vs Ba Lan | 12:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2006,15 +1906,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Cuba vs Ba Lan | 12:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -2033,7 +1933,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Trung Quốc vs Slovenia | 15:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2056,15 +1956,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Trung Quốc vs Slovenia | 15:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2075,7 +1975,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Ukraina vs Nhật Bản | 19:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2098,15 +1998,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Ukraina vs Nhật Bản | 19:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2117,7 +2017,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Cape Town City vs Magesi | 20:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2140,15 +2040,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Cape Town City vs Magesi | 20:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2159,7 +2059,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ KuPS vs VPS | 21:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2182,15 +2082,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ KuPS vs VPS | 21:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2201,7 +2101,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Thổ Nhĩ Kỳ vs Mỹ | 22:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2224,15 +2124,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Thổ Nhĩ Kỳ vs Mỹ | 22:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2243,7 +2143,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Bỉ vs Bulgaria | 23:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2266,15 +2166,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Bỉ vs Bulgaria | 23:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2285,7 +2185,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Pakistan vs Afghanistan | 23:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2308,15 +2208,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Pakistan vs Afghanistan | 23:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2327,7 +2227,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Falu BS vs Gefle IF | 23:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2350,15 +2250,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Falu BS vs Gefle IF | 23:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2369,7 +2269,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ Malaga vs Las Palmas | 02:00",
           "type": "single",
           "display": "thumbnail-only",
@@ -2392,15 +2292,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ Malaga vs Las Palmas | 02:00",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -2411,7 +2311,7 @@
           ]
         },
         {
-          "id": "HỘI QUÁN 2-061520",
+          "id": "HỘI QUÁN 2-063026",
           "name": "⚽ ⚽ San Antonio Spurs vs New York Knicks | 07:30",
           "type": "single",
           "display": "thumbnail-only",
@@ -2434,15 +2334,15 @@
           ],
           "sources": [
             {
-              "id": "HỘI QUÁN 2-061520",
+              "id": "HỘI QUÁN 2-063026",
               "name": "HỘI QUÁN 2",
               "contents": [
                 {
-                  "id": "HỘI QUÁN 2-061520",
+                  "id": "HỘI QUÁN 2-063026",
                   "name": "⚽ San Antonio Spurs vs New York Knicks | 07:30",
                   "streams": [
                     {
-                      "id": "HỘI QUÁN 2-061520",
+                      "id": "HỘI QUÁN 2-063026",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -3280,57 +3180,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "VÒNG CẤM TV-061521",
-          "name": "⚽ Cuba vs Ba lan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "VÒNG CẤM TV-061521",
-              "name": "VÒNG CẤM TV",
-              "contents": [
-                {
-                  "id": "VÒNG CẤM TV-061521",
-                  "name": "Cuba vs Ba lan",
-                  "streams": [
-                    {
-                      "id": "VÒNG CẤM TV-061521",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Trung Quốc – Slovenia",
           "type": "single",
           "display": "thumbnail-only",
@@ -3353,15 +3203,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Trung Quốc – Slovenia",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3380,7 +3230,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Congo DR U20 vs Saudi Arabia U21",
           "type": "single",
           "display": "thumbnail-only",
@@ -3403,15 +3253,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Congo DR U20 vs Saudi Arabia U21",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3430,7 +3280,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Ukaraine vs Nhật Bản",
           "type": "single",
           "display": "thumbnail-only",
@@ -3453,15 +3303,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Ukaraine vs Nhật Bản",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3480,7 +3330,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ KuPS vs VPS",
           "type": "single",
           "display": "thumbnail-only",
@@ -3503,15 +3353,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "KuPS vs VPS",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3530,7 +3380,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Thổ Nhĩ Kỳ – Mỹ",
           "type": "single",
           "display": "thumbnail-only",
@@ -3553,15 +3403,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Thổ Nhĩ Kỳ – Mỹ",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3580,7 +3430,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Pakistan vs Afghanistan",
           "type": "single",
           "display": "thumbnail-only",
@@ -3603,15 +3453,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Pakistan vs Afghanistan",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3630,7 +3480,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Malaga vs Las Palmas",
           "type": "single",
           "display": "thumbnail-only",
@@ -3653,15 +3503,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Malaga vs Las Palmas",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3680,7 +3530,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Bồ Đào Nha vs Nigeria",
           "type": "single",
           "display": "thumbnail-only",
@@ -3703,15 +3553,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Bồ Đào Nha vs Nigeria",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3730,7 +3580,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Bồ Đào Nha  vs Nigeria",
           "type": "single",
           "display": "thumbnail-only",
@@ -3753,15 +3603,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Bồ Đào Nha  vs Nigeria",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3780,7 +3630,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Anh vs Costa Rica",
           "type": "single",
           "display": "thumbnail-only",
@@ -3803,15 +3653,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Anh vs Costa Rica",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3830,7 +3680,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Nam ĐỊnh vs CA T.P HCM",
           "type": "single",
           "display": "thumbnail-only",
@@ -3853,15 +3703,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Nam ĐỊnh vs CA T.P HCM",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3880,7 +3730,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Phù Đổng Ninh Bình vs Thể Công Viettel",
           "type": "single",
           "display": "thumbnail-only",
@@ -3903,15 +3753,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Phù Đổng Ninh Bình vs Thể Công Viettel",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3930,7 +3780,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Vietnam Women vs Iran Women",
           "type": "single",
           "display": "thumbnail-only",
@@ -3953,15 +3803,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Vietnam Women vs Iran Women",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -3980,7 +3830,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Aktobe Jas vs Akademiya Ontustik",
           "type": "single",
           "display": "thumbnail-only",
@@ -4003,15 +3853,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Aktobe Jas vs Akademiya Ontustik",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -4030,7 +3880,7 @@
           ]
         },
         {
-          "id": "VÒNG CẤM TV-061521",
+          "id": "VÒNG CẤM TV-063027",
           "name": "⚽ Tampere United vs OLS",
           "type": "single",
           "display": "thumbnail-only",
@@ -4053,15 +3903,15 @@
           ],
           "sources": [
             {
-              "id": "VÒNG CẤM TV-061521",
+              "id": "VÒNG CẤM TV-063027",
               "name": "VÒNG CẤM TV",
               "contents": [
                 {
-                  "id": "VÒNG CẤM TV-061521",
+                  "id": "VÒNG CẤM TV-063027",
                   "name": "Tampere United vs OLS",
                   "streams": [
                     {
-                      "id": "VÒNG CẤM TV-061521",
+                      "id": "VÒNG CẤM TV-063027",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -6848,56 +6698,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "TAM QUOC TV-120000",
-          "name": "⚽ 12:00 | Cuba vs Ba Lan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://static.flashscore.com/res/image/data/AmSqkKjl-hIzfuNSD.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "TAM QUOC TV-120000",
-              "name": "TAM QUOC TV",
-              "contents": [
-                {
-                  "id": "TAM QUOC TV-120000",
-                  "name": "12:00 | Cuba vs Ba Lan",
-                  "streams": [
-                    {
-                      "id": "TAM QUOC TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "TAM QUOC TV-163000",
           "name": "⚽ 16:30 | Sydney Olympic vs SD Raiders FC  ",
           "type": "single",
@@ -7100,6 +6900,65 @@
       ]
     },
     {
+      "id": "lương-sơn-tv",
+      "name": "🔴 LƯƠNG SƠN TV",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "LƯƠNG SƠN TV-063029",
+          "name": "⚽ ⚽ Paris Saint-Germain vs Arsenal | 13:16",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://apithethao1.vercel.app/api/match-thumb?home=Paris+Saint-Germain&away=Arsenal&homeLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781072229.png&awayLogo=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781072231.png&time=13%3A16&league=Champions+League&sport=B%C3%B3ng+%C4%91%C3%A1&status=%E2%97%8F+Live",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "LƯƠNG SƠN TV-063029",
+              "name": "LƯƠNG SƠN TV",
+              "contents": [
+                {
+                  "id": "LƯƠNG SƠN TV-063029",
+                  "name": "⚽ Paris Saint-Germain vs Arsenal | 13:16",
+                  "streams": [
+                    {
+                      "id": "LƯƠNG SƠN TV-063029",
+                      "name": "BLV KEVILL REPLAY",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "fpt-sport",
       "name": "🔴 FPT SPORT",
       "display": "vertical",
@@ -7107,7 +6966,107 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
+          "name": "⚽ 13h16 ngày 10/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "13h16 ngày 10/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ 13h16 ngày 10/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "13h16 ngày 10/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
           "name": "⚽ 07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -7130,15 +7089,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7157,7 +7116,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -7180,15 +7139,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Khán Đài A) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7207,7 +7166,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -7230,15 +7189,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Khán Đài A) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7257,7 +7216,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -7280,15 +7239,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Khán Đài A) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7307,7 +7266,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -7330,15 +7289,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7357,7 +7316,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7380,15 +7339,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7407,7 +7366,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -7430,15 +7389,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7457,7 +7416,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7480,15 +7439,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7507,7 +7466,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -7530,15 +7489,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 ngày 10/06 Cuba vs Poland (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7557,7 +7516,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7580,15 +7539,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7607,7 +7566,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -7630,15 +7589,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7657,7 +7616,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7680,15 +7639,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7707,7 +7666,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -7730,15 +7689,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "15h30 ngày 10/06 China vs Slovenia (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7757,7 +7716,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7780,15 +7739,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7807,7 +7766,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -7830,15 +7789,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7857,7 +7816,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7880,15 +7839,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7907,7 +7866,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -7930,15 +7889,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "18h30 ngày 10/06 Congo DR U20 vs Saudi Arabia U21 (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -7957,7 +7916,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -7980,15 +7939,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8007,7 +7966,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8030,15 +7989,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8057,7 +8016,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8080,15 +8039,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8107,7 +8066,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8130,15 +8089,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "19h00 ngày 10/06 Ukraine vs Japan (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8157,7 +8116,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8180,15 +8139,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8207,7 +8166,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8230,15 +8189,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8257,7 +8216,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8280,15 +8239,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8307,7 +8266,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8330,15 +8289,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "22h00 ngày 10/06 Turkey vs USA (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8357,7 +8316,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8380,15 +8339,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8407,7 +8366,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8430,15 +8389,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8457,7 +8416,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8480,15 +8439,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8507,7 +8466,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8530,15 +8489,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "23h00 ngày 10/06 Belgium vs Bulgaria (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8557,7 +8516,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8580,15 +8539,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8607,7 +8566,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8630,15 +8589,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8657,7 +8616,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8680,15 +8639,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8707,7 +8666,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8730,15 +8689,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "00h00 ngày 11/06 Colombia U19 vs Tunisia U23 (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8757,7 +8716,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8780,15 +8739,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8807,7 +8766,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8830,15 +8789,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8857,7 +8816,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8880,15 +8839,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8907,7 +8866,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -8930,15 +8889,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h30 ngày 11/06 Serbia vs Argentina (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -8957,7 +8916,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -8980,15 +8939,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9007,7 +8966,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9030,15 +8989,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9057,7 +9016,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9080,15 +9039,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9107,7 +9066,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9130,15 +9089,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9157,7 +9116,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9180,15 +9139,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9207,7 +9166,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9230,15 +9189,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9257,7 +9216,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9280,15 +9239,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9307,7 +9266,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9330,15 +9289,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "02h45 ngày 11/06 Portugal vs Nigeria (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9357,7 +9316,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9380,15 +9339,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9407,7 +9366,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9430,15 +9389,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9457,7 +9416,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9480,15 +9439,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9507,7 +9466,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9530,15 +9489,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9557,7 +9516,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9580,15 +9539,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9607,7 +9566,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9630,15 +9589,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9657,7 +9616,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9680,15 +9639,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9707,7 +9666,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9730,15 +9689,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 England vs Costa Rica (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9757,7 +9716,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 France vs Italy (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9780,15 +9739,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9807,7 +9766,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 France vs Italy (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9830,15 +9789,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9857,7 +9816,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 France vs Italy (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9880,15 +9839,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9907,7 +9866,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 03h00 ngày 11/06 France vs Italy (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -9930,15 +9889,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "03h00 ngày 11/06 France vs Italy (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -9957,7 +9916,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -9980,15 +9939,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10007,7 +9966,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10030,15 +9989,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10057,7 +10016,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10080,15 +10039,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10107,7 +10066,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10130,15 +10089,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 ngày 11/06 Brazil vs Iran (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10157,7 +10116,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10180,15 +10139,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10207,7 +10166,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10230,15 +10189,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10257,7 +10216,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10280,15 +10239,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10307,7 +10266,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10330,15 +10289,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h30 ngày 11/06 Canada vs Germany (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10357,7 +10316,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10380,15 +10339,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10407,7 +10366,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10430,15 +10389,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10457,7 +10416,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10480,15 +10439,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10507,7 +10466,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10530,15 +10489,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "08h00 ngày 11/06 Vietnam W vs Iran W (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10557,7 +10516,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) HD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10580,15 +10539,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) HD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10607,7 +10566,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) HD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10630,15 +10589,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) HD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10657,7 +10616,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) FHD1",
           "type": "single",
           "display": "thumbnail-only",
@@ -10680,15 +10639,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) FHD1",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10707,7 +10666,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) FHD2",
           "type": "single",
           "display": "thumbnail-only",
@@ -10730,15 +10689,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 ngày 11/06 Lebanon W vs Kazakhstan W (Chuối Chiên) FHD2",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10757,7 +10716,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Gà Vàng) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -10780,15 +10739,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 UNSW FC Women vs University of Sydney Women (Gà Vàng) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10807,7 +10766,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Gà Vàng) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -10830,15 +10789,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 Newcastle Olympic FC Reserves vs Charlestown Azzurri Reserves (Gà Vàng) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10857,7 +10816,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Gà Vàng) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -10880,15 +10839,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "07h10 ngày 23/05 Boston Legacy W vs Seattle Reign (W) (Gà Vàng) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10907,7 +10866,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -10930,15 +10889,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -10957,7 +10916,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -10980,15 +10939,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "07h00 ngày 23/05 Sporting Kansas CityReserves vs Austin FC II (Gà Vàng) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11007,7 +10966,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
           "type": "single",
           "display": "thumbnail-only",
@@ -11030,15 +10989,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11057,7 +11016,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
@@ -11080,15 +11039,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11096,7 +11055,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781074400-0-0-9654fca38910113c06deaf87d9dedfbe"
+                          "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781075480-0-0-9559fbbb7de4192e50bcd21694196a7b"
                         }
                       ]
                     }
@@ -11107,7 +11066,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
@@ -11130,15 +11089,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11146,7 +11105,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781074400-0-0-05a66c9586077bebbe08d60f06ebb0a8"
+                          "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781075480-0-0-282c61e328a32c09ca0a0c4830b3082b"
                         }
                       ]
                     }
@@ -11157,7 +11116,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -11180,15 +11139,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11196,7 +11155,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781074400-0-0-8546345e4ac03d13feb9e68b5853df2f"
+                          "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781075480-0-0-4deeddb95c5a4f9f0883a3c6bdc2fccf"
                         }
                       ]
                     }
@@ -11207,7 +11166,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -11230,15 +11189,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11246,7 +11205,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781074400-0-0-9f12670241e17ac2ce1477cb08d9e499"
+                          "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781075480-0-0-b293c1ea332baa556a2843ab53d0d862"
                         }
                       ]
                     }
@@ -11257,607 +11216,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) flv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) flv",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781074400-0-0-e8a5d8101e117bb5b124b2bcc331d505"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdFlv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdFlv",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781074400-0-0-b3af28ae36ded29d2e720beb4c82140d"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781074400-0-0-4dfd2d05affbeda9a1d47503f997fe9f"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781074400-0-0-f87d4aa70fd4cff3a3311c11be0adc33"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) flv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) flv",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781074400-0-0-8c50dd5511f082587b1a1ffb6ab4ec02"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdFlv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdFlv",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781074400-0-0-6915d3c45b0246ea86b2064fb55b0fe9"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781074400-0-0-4fb873ed036f023ee0b304ab4aa37184"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781074400-0-0-b5ce366b8e8eae33104f15294ace2798"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) flv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) flv",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781074400-0-0-5d4310d0f9087ec403cc7a767181c26c"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781074400-0-0-7e328fe82833ea154936880193c389cc"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781074400-0-0-ceed7305204a0a74d2645e6b912f8b92"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
-          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "FPT SPORT-061526",
-              "name": "FPT SPORT",
-              "contents": [
-                {
-                  "id": "FPT SPORT-061526",
-                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
-                  "streams": [
-                    {
-                      "id": "FPT SPORT-061526",
-                      "name": "FPT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781074400-0-0-d2526f5e3fef42edcc66cd3026374bd0"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
@@ -11880,15 +11239,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11896,7 +11255,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781074400-0-0-6bf497f446eeaa46dfc76371d7b22e83"
+                          "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781075480-0-0-fcbf4c4d14eed9e6ea3d4a0260d99317"
                         }
                       ]
                     }
@@ -11907,7 +11266,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
@@ -11930,15 +11289,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11946,7 +11305,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781074400-0-0-ea7805ed832ea86977ae0862e072e06a"
+                          "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781075480-0-0-f473db5da16d9952ce5acd5653de2146"
                         }
                       ]
                     }
@@ -11957,7 +11316,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -11980,15 +11339,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -11996,7 +11355,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781074400-0-0-86cf4919066029144fd15f0b80b09411"
+                          "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781075480-0-0-c2d05d3c4a9b4ed2bed8ccb14b4a8da0"
                         }
                       ]
                     }
@@ -12007,7 +11366,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -12030,15 +11389,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12046,7 +11405,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781074400-0-0-a20a3283b85ad185859d1ee1d8996643"
+                          "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781075480-0-0-89ff869fb0652c277992f2709ba007b0"
                         }
                       ]
                     }
@@ -12057,7 +11416,407 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) flv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) flv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781075480-0-0-61907ded2ed141bee975737f0eba7427"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdFlv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdFlv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781075480-0-0-74e469415168c0cc1883e5008fb4a6bb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781075480-0-0-58da884009ba422a9e5ad623e7e958a0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781075480-0-0-ab748691012300d9e338ff27b90c691f"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) flv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) flv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781075480-0-0-e78a002a9d11aec45fa5a359780f61af"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdFlv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781075480-0-0-d75a2f5b20f494582d1fbdbae0abd5f2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781075480-0-0-34c5253d226634d5e290510d0fd70492"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781075480-0-0-b494ebe4a64cee6ca84443225ca31f8e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
@@ -12080,15 +11839,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) flv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12096,7 +11855,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781074400-0-0-e815b026df2b585b4afe35ec18a9b25e"
+                          "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781075480-0-0-81fa27497e5c0e3869eecd67ed4a7456"
                         }
                       ]
                     }
@@ -12107,7 +11866,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
@@ -12130,15 +11889,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdFlv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12146,7 +11905,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781074400-0-0-1ecb53c7d57b96813053b531725bb017"
+                          "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781075480-0-0-6fe08e00cef0bd8dbdf9e6b973e33941"
                         }
                       ]
                     }
@@ -12157,7 +11916,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -12180,15 +11939,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12196,7 +11955,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781074400-0-0-f6eaa5692f16ce92d5251497d113eb72"
+                          "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781075480-0-0-cb2403d5b900477183a3670cea572ceb"
                         }
                       ]
                     }
@@ -12207,7 +11966,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -12230,15 +11989,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12246,7 +12005,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781074400-0-0-b14ba41a61255851aa2b5281fa3e4233"
+                          "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781075480-0-0-8c49e86852f495296572c8df9f9febe3"
                         }
                       ]
                     }
@@ -12257,7 +12016,207 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) flv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) flv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781075480-0-0-131ba23f7430480d04540177cc20d025"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdFlv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdFlv",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781075480-0-0-9079e1717ae8f9feff01fac66b6d698d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781075480-0-0-37c2a9a9af22de5ee1b1cd08a145ff68"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
+          "name": "⚽ Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "FPT SPORT-063030",
+              "name": "FPT SPORT",
+              "contents": [
+                {
+                  "id": "FPT SPORT-063030",
+                  "name": "Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "FPT SPORT-063030",
+                      "name": "FPT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781075480-0-0-83a2d91edb12bae9aa168a62940af6b0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
@@ -12280,15 +12239,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) flv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12296,7 +12255,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781074400-0-0-59d8513480b6a3a725b10250511af476"
+                          "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781075480-0-0-b8f3daea1b19774186169cf45f77c679"
                         }
                       ]
                     }
@@ -12307,7 +12266,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
@@ -12330,15 +12289,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdFlv",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12346,7 +12305,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781074400-0-0-97396f0a01ce88bd1dc2ca9f2e476892"
+                          "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781075480-0-0-35f1f1dad2989aa84a4296fb43622e17"
                         }
                       ]
                     }
@@ -12357,7 +12316,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -12380,15 +12339,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) m3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12396,7 +12355,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781074400-0-0-d5098d4d67631c7c2b328609a29d2906"
+                          "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781075480-0-0-71f5ca9716abe39589fb6c73936ee4b7"
                         }
                       ]
                     }
@@ -12407,7 +12366,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
@@ -12430,15 +12389,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdM3u8",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12446,7 +12405,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781074400-0-0-f99d7a29341d39b05d36ad43ff20574e"
+                          "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781075480-0-0-6da0ee6886bfc95642f9ee68617d9e01"
                         }
                       ]
                     }
@@ -12457,7 +12416,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 10/06 Cuba vs Ba Lan (Hội Quán) FHD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12480,15 +12439,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 10/06 Cuba vs Ba Lan (Hội Quán) FHD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12507,7 +12466,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 10/06 Cuba vs Ba Lan (Hội Quán) HD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12530,15 +12489,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 10/06 Cuba vs Ba Lan (Hội Quán) HD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12557,7 +12516,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 12h00 10/06 Cuba vs Ba Lan (Hội Quán) SD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12580,15 +12539,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "12h00 10/06 Cuba vs Ba Lan (Hội Quán) SD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12607,7 +12566,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12630,15 +12589,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12657,7 +12616,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12680,15 +12639,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12707,7 +12666,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12730,15 +12689,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12757,7 +12716,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12780,15 +12739,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12807,7 +12766,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12830,15 +12789,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12857,7 +12816,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12880,15 +12839,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12907,7 +12866,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12930,15 +12889,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -12957,7 +12916,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD",
           "type": "single",
           "display": "thumbnail-only",
@@ -12980,15 +12939,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {
@@ -13007,7 +12966,7 @@
           ]
         },
         {
-          "id": "FPT SPORT-061526",
+          "id": "FPT SPORT-063030",
           "name": "⚽ 11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
           "type": "single",
           "display": "thumbnail-only",
@@ -13030,15 +12989,15 @@
           ],
           "sources": [
             {
-              "id": "FPT SPORT-061526",
+              "id": "FPT SPORT-063030",
               "name": "FPT SPORT",
               "contents": [
                 {
-                  "id": "FPT SPORT-061526",
+                  "id": "FPT SPORT-063030",
                   "name": "11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD",
                   "streams": [
                     {
-                      "id": "FPT SPORT-061526",
+                      "id": "FPT SPORT-063030",
                       "name": "FPT",
                       "stream_links": [
                         {

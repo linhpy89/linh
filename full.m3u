@@ -75,7 +75,7 @@ https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/4149.png",BFC Daugavpils vs Super Nova
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2163.png",IFK Varnamo vs Helsingborg
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
@@ -89,8 +89,8 @@ https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1567.png",Iraq vs Na Uy
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/775.png",Áo vs Jordan
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8GEqzfLegwFFpe6X2BODTg_96x96.png",Nữ Canada -  Nữ Hà Lan
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/2e1e51f1d382444ac21027df0f23519d.png!w80",13:00 | Al Ahed vs Sagesse SC
 https://live05.msdht.app/live/19919577.m3u8
@@ -149,17 +149,23 @@ https://tqlive.yarncdn.live/live/tqtv_blv_dragon/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/26.png",08:00 | Argentina vs Algeria
 https://tqlive.yarncdn.live/live/tqtv_blv_asoi/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Al-Ahed vs Al-Hikma (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar (Lương Sơn) BLV LIO flv
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Al-Ahed vs Al-Hikma (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Al-Ahed vs Al-Hikma (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar (Lương Sơn) BLV GẤU KA flv
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Al-Ahed vs Al-Hikma (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon Sour vs Al-Mabarrah (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon Sour vs Al-Mabarrah (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -176,6 +182,126 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 16/06 Al Ahed vs Al Hikma (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Bahardar vs Welayta Dicha (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 16/06 BFC Daugavpils vs Super Nova (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 16/06 Grobiņa vs FK Liepaja (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 17/06 Iraq vs Norway (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 17/06 Iraq vs Norway (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 17/06 Iraq vs Norway (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 17/06 Iraq vs Norway (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 17/06 Bulgaria W vs Poland W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 17/06 Bulgaria W vs Poland W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 17/06 Bulgaria W vs Poland W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 17/06 Bulgaria W vs Poland W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -185,329 +311,185 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV KAN] (Socolive) flv
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=8d9702b5e17e9e4fd36b5dc7c1ab186f&txTime=6a3198d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV KAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=d4072e0bab289dd329a2651ef127170e&txTime=6a3198d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=8d9702b5e17e9e4fd36b5dc7c1ab186f&txTime=6a3198d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d4072e0bab289dd329a2651ef127170e&txTime=6a3198d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV GÔN] (Socolive) flv
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781617281-0-0-7dce678f6f9f9b2d29bcf59ed2f0e5ed
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV GÔN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781617281-0-0-abeff691523f07b426e1fc2274b09db3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV GÔN] (Socolive) m3u8
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781617281-0-0-81a4831d77416b4c51e4038cfc49c177
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV GÔN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781617281-0-0-ce6ff6c44c02d809d8be958ba80bbf87
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781617281-0-0-75b220445224cd77fcfc3b6e701c772a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781617281-0-0-fce037c364998d8343084be93af7d072
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781617281-0-0-590c45666246d771844146c6665ba9d9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781617281-0-0-479e6a7efc4bc7cecaac84d46358032b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV VITAMIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781617281-0-0-c9cbc38b18d35251f81df89628f8286e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV VITAMIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781617281-0-0-450d45d88be4634cc5284f8595041d94
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781617281-0-0-2a896e9ed139525b2e0a6904a7fd9b75
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781617281-0-0-ffa6be187fafe9833a5e0d26576c5c52
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781617281-0-0-863e580bfdf4112ee52996e9dfb2c009
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781617281-0-0-903b37c5249ac699a957c3ce9b6ff8f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781617281-0-0-6adef2772e6d42aac8a589ad8c353c04
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781617281-0-0-3f5dadb7c4c674d0adb28c65267fabbc
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781617281-0-0-c2076f5e724b464f484f45e7d9a4075a
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781618361-0-0-aba63a4fb02302e72787752b3f029203
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781617281-0-0-dcca7f143d8b082a70061a09a926b323
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781618361-0-0-f98b3f07e24d571ac7c9d3202258f9cd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781617281-0-0-e13e87c4622a9d76f5abed7cdd4e8065
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781618361-0-0-c0da021fa1fd0d588a5ef86f295c115b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781617281-0-0-5c54203db3123a55255d093f46ea44bd
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781618361-0-0-421d794323c8feb065168ff6b97eb3ff
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781617281-0-0-43dc78a644571e746526d6f3ae1993b8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) flv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781618361-0-0-1e278abcda0188171f9ad79800b8b2cc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781617281-0-0-bfc9b3cc042007aa9d0c6eee20d4721b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781618361-0-0-2b3d87a5388497d18328245eed1704ec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781617281-0-0-185f904292eb5d5a6116fdbf59bf618f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781618361-0-0-2a70b5ea6e5bbbb281154c45139f6d9a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781617281-0-0-5171f73dc607095323583fab183983df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781617281-0-0-1c05f0a03e5f9a9508e2f586043d90bc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781617281-0-0-97e0e265168f00f5688332671ae6df0e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781617281-0-0-5c1a4e6252d352173d8b23aaed4e35a7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781617281-0-0-e8020d467be3bcc06f6791ea76bd70dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781617281-0-0-e31b557df08383522b0c97b0554af6ff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781617281-0-0-eef63dc6f1971ddb34b2c441d26ceed7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781617281-0-0-3f8774053a9720d7717ce0f3b1dac30e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781617281-0-0-964d869e074d4fd9e410404a1ddd0a67
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781617281-0-0-1b0f3e5cc64d7b591e32fab376c9eb2b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781617281-0-0-89c21c48de9cfc1a7a81e9d9dfcc692c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781617281-0-0-0660e8b209376149015078a0b28e6ec7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781617281-0-0-8b2d3755018181705d400bbad5442b1e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781618361-0-0-3d43a15325c8f16221952ae4590e3314
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781617281-0-0-b76a7c0aa085fee91d7997c1f1e77383
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781618361-0-0-5d2eddc55ed272585034c93c6b9df3de
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781617281-0-0-85a33678368846739411cc8c2ece7031
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781618361-0-0-6b83e90c5103aa7047d6fc7335745ff7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781617281-0-0-bbd4a01343a0addd6ea30fd30d69a705
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781618361-0-0-33a3feff06746bf6e33e27283ec0b761
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781617281-0-0-97648058448756782067c3b1d807c352
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781618361-0-0-e9cb3b922175dc35f4076f5939783014
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781617641-0-0-045dad86bd00fb4f6f94f8115dd253d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781618361-0-0-e64bf02d2922990744443b424eca14c6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781617641-0-0-63ef3955da207ed870ba2ed7faed93df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781618361-0-0-d73969521f9f6bb2d6ecf28b5cb11bb0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781617641-0-0-929883a860151655190f94298ce03409
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781618361-0-0-ad877c458555d77a9f3ae27a158eebe3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781617641-0-0-34e6bbacfac50f15d4a052ea38d7545d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781618361-0-0-cefba4b0636bb02da522ae7d006c1c0e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781617641-0-0-ba41d4c76ab96814879bc6bf5b42136c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781618361-0-0-7ac7f97693ab1f79f15acced4c2c588e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781617641-0-0-6da0255859f952951da4ea20c62c0248
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781618361-0-0-0d7ffc38b8408d9cb004b594dcf871b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781617641-0-0-c8fea66b25954d5d7404ed3a0c0d9955
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781618361-0-0-ff060f4447ce51166bfb6031fe4f1f78
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781617641-0-0-ba51bb7cca1203b5afca6785bd535a58
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781618361-0-0-65f50185306070bd29dff4d5c8148b62
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781618361-0-0-be4b770fa9204ef7b99abd3ba894a9ab
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781618361-0-0-a1c012dbabb9bfb9f85db16ddd6f8bf6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781618361-0-0-b9788001c50702d50929937bb5df395e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781618361-0-0-7290ad570877bf4ca1acb74bbaff35e0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781618361-0-0-2dcc7549b38195a82a546cc8b1ee1e16
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781618361-0-0-0528209a4ff86556c781f7f42077bbe3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781618361-0-0-7f17d5be89e813466d7d4cbbca3d9e41
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781618361-0-0-c4231a72150526959633bb5430b8875f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781617641-0-0-cbc53ad3dc7ff5c91e2f65addfd6543e
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781618721-0-0-32bf16cf75998273339a7a6413f53e94
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781617641-0-0-4b3b2d4eb3c451dc4e08ab2d4829a296
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781618721-0-0-7dbb2e1a88088b9ccfb61b51360d0725
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781617641-0-0-3a7d9158da6fcc2f4ae35b95ae4a0344
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781618721-0-0-ff4db17b089f9cbbb5a0d833cdd52d26
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781617641-0-0-d47748adc82f08029d34c551764813c5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=026f9ed652224f59ccee4eb0c952aaca&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=d3334144ad1e731c823d010c1344be41&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=026f9ed652224f59ccee4eb0c952aaca&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d3334144ad1e731c823d010c1344be41&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781618001-0-0-111cf4589ebe4e0426b8d06be10ef6aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781618001-0-0-ebaa733e33f5373f6745307e90770c44
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781618001-0-0-4b7771363af304ee061367e7e3bfe720
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781618001-0-0-3db620862c38fa098c0708f8e49a1274
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [CHÍ PHÈO] (Socolive) flv
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781618001-0-0-1c88af3e36bb78dbd9a07e5e7863901c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [CHÍ PHÈO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781618001-0-0-99c45d3f7635f77951577c02f77666b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [CHÍ PHÈO] (Socolive) m3u8
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781618001-0-0-d8d2041ef74a0d3ce2827bb27609b9d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [CHÍ PHÈO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781618001-0-0-d8ac5d9a36f4166d759b99cc21b361e6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781618001-0-0-dfcc3b600bea62c0c19588649ed50fdd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781618001-0-0-b92c8806c48f7dd2fef24a51bf1c8d2e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781618001-0-0-7b304ab6e21fb045a79ca12fd6e902b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781618001-0-0-6a49d191e151729c5fca12c96a1f6fab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781618001-0-0-9f67c1d231ad8403ba85d135049456f6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781618001-0-0-bbcebf8bd9eebc4bb6dbd57cba6dc4ba
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781618001-0-0-3fe2bfe28add5d8ba611c1272fbf1a92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781618001-0-0-cac05afc2c7fe275506ed40fee5ba7d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781618001-0-0-ac08ac079778202c00eaef84d9b108f6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781618001-0-0-b61aa6af3b35353d8804d04d51cc7a47
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781618001-0-0-ce581f19e081c7a3a943edac9ac20c6b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Fremantle City vs Olympic Kingsway SC [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781618001-0-0-138b81fb5a1995842d14f4cfe3537d44
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781618001-0-0-39fe689430e0f2409e85b1e766bea083
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781618001-0-0-266b1d0c0ef6a1076a1a50c48e12daab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781618001-0-0-5a58a9a79e7d504ecf96ac56600c91ab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781618001-0-0-5d9e5bf6664581507c4285a5ad2846d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) flv
-https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=c254b75716525733c5565c25cbc08cd1&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) hdFlv
-https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=e5bfbc902ecfef30feb3e3ff9307cc22&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) m3u8
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=c254b75716525733c5565c25cbc08cd1&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=e5bfbc902ecfef30feb3e3ff9307cc22&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=0835164ee9435f6302daf520393f7f98&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=79c95761f1b464e66b058ef8e85e2434&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=0835164ee9435f6302daf520393f7f98&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=79c95761f1b464e66b058ef8e85e2434&txTime=6a319ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV VOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781618001-0-0-c0e1a6e7deac1854b4dc14e2b3d8a8ae
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV VOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781618001-0-0-a2eeae0b151ea1e899205fc8b4b804e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781618001-0-0-a7cd008570c90ad793be2f20e9ba6759
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 16/06 Bayswater City vs Perth RedStar [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781618001-0-0-57bd4ba039df79e71bf1727741c3064f
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781618721-0-0-7046f054a81ab46f235df3f8c0e81e27
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781618001-0-0-74d8d340415619db949f64105759735e
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781619081-0-0-a2b7b429a4d0b00ba517aa19c193a89b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781618001-0-0-270332864b10dc3fdc8486deac6c18af
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781619081-0-0-7caa654498b42e9f376fc028edad53bb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781618001-0-0-a8cabd86bf6a197df749fd0969122758
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781619081-0-0-8397e98389d42827f2579e11b29f362e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 16/06 Pasay Voyagers vs Cebu Greats [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781618001-0-0-3f093c43a3bac1e5fddd3e3d98670edf
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781619081-0-0-9a22b7874d922aefe4548fb4aeb1eddf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781619081-0-0-7b7f948600fb4cc9743bcd1f97fe52af
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781619081-0-0-e1538bcba6f2b291a52fb268f33355ca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781619081-0-0-8a01a3e09eb57e8452366177563edb89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781619081-0-0-b0baf1b51f171655b8971e4a642bb2e7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781619081-0-0-679f137129acb037cf21b027c2f34e65
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781619081-0-0-bc01a6e04185bfddaa29d9a8be9dc70e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781619081-0-0-340eda734289f68aef09609853a78f22
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781619081-0-0-354297a5daa18349d2dcaba5c13d5753
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f1f7c3e86fde064fedb76aaf95ad0498&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=f24caa16037b9d5cf30fab3712235267&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f1f7c3e86fde064fedb76aaf95ad0498&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f24caa16037b9d5cf30fab3712235267&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) flv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=37f7928fbb78d8ff4e97003268c4b5ae&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=9e20e577b948b5b541497fb2f98ab16f&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=37f7928fbb78d8ff4e97003268c4b5ae&txTime=6a319fd9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 16/06 Tadamon SC Sour vs Al Mabarrah SC [A BỆU] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=9e20e577b948b5b541497fb2f98ab16f&txTime=6a319fd9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781618001-0-0-483c59ea509e995fb4145425c3bd102d
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781619081-0-0-6eea063c3d4beb340ed04dd61984c8bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781618001-0-0-c41138c88fe6d292a57b992e3d876fad
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781619081-0-0-6faa765bb76ba5e07fcb6049f53454a8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781618001-0-0-26ca79c5d8fc7bd346ea68ddf8f60f12
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781619081-0-0-6aa7775d165934687631ab90b90b5621
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781618001-0-0-db095c7f20b24377e03cfb55cc0dc3fa
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781619081-0-0-0bb8dc273e96137d10acd681e8b6f400
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781618001-0-0-bdf6b9baddb8c2a499c981ebbcf61b34
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781619081-0-0-d49105374d4610aa76272f7b316ed8b7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781618001-0-0-08b52489d0bc7658060ab22407f6f183
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781619081-0-0-1be0e26277978f1d57bdf6dab522530a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781618001-0-0-41a82d59b4abf60e86111911d766a540
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781619081-0-0-84502df68006c773172e190857ad1ee2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781618001-0-0-f8a288a0964253f70d3da43623c6b59c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781619081-0-0-7f176dc174f41bce1a2e069e194842bb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 16/06 Jakub Mensik vs Adrian Mannarino (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8

@@ -77,9 +77,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/775.png",Áo vs Jordan
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80",01:00 | Iran vs New Zealand
-https://live05.msdht.app/live/14830711.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",02:00 | Golden State Valkyries vs Los Angeles Sparks
 https://live05.msdht.app/live/19919577.m3u8
 
@@ -110,6 +107,9 @@ https://live05.msdht.app/live/97312754.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/03548dd7a4b6ebb6a301131dd30cedfe.png!w80",00:00 | Criollos de Caguas vs Caciques de Humacao
 https://live05.msdht.app/live/87379114.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/football/team/b27c40f1f7fb35fcf65d89dc29748e29.png!w80",04:00 | ĐTQG Áo vs Jordan
+https://live05.msdht.app/live/14830711.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.colatv88xd.cc/basketball/team/9b31beec1bba99785bda025ddeaeef10.png!w80",07:00 | Nelson Giants vs Manawatu Jets
 https://live05.msdht.app/live/90865415.m3u8
 
@@ -128,17 +128,17 @@ https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:00 | France vs Senegal
 https://tqlive.yarncdn.live/live/tqtv_blv_dragon/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h09 ngày 16/06 Đức vs Curacao (Lương Sơn) BLV NGƯỜI THÉP m3u
 https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h09 ngày 16/06 Đức vs Curacao (Lương Sơn) BLV NGƯỜI THÉP flv
 https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -284,159 +284,135 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781582361-0-0-639827d18e079456d88a08c898ba4d13
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781582361-0-0-2a7e261db5194563fced633e25845c41
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781582361-0-0-176182d589762b8ae0b26ff355dea1be
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781582361-0-0-d5136695267bf83bfab0f57f28f008c6
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781582361-0-0-d522c2c54e64b974ebb8793b3592fdd2
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781583441-0-0-18673ead73420e238f8adf0b5d7c7d7c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781582361-0-0-ae414f63db068accc602ec2ed0202d69
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781583441-0-0-13e26bb04f3a72754e52a7e36305f715
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781582361-0-0-d634b3fb8efc02e56c5936be7cfc8ba2
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781583441-0-0-eeb1950839c0b3e8288a9f625fe71e8f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781582361-0-0-83e06d259c429bab3753e167a9229979
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781583441-0-0-7b54fa79fda9fab723dc98950f8a5de0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781582361-0-0-868e059f84997dac29c7168abcccda0a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781583441-0-0-a196ebf7ae8fff3a4c0f84f1676e1dae
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781582361-0-0-05dcae3f64dbe4267e6491fae476e84c
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781583441-0-0-ceff8d3abcfb7123b73d51edf90d4023
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781582361-0-0-415c4c56144a9983b2fd34ff784a96d1
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781583441-0-0-c921df0a48caef2bd780e8ce80f0812d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781582361-0-0-96fb2e7567b4a14e19cdb31007fea5ca
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781583441-0-0-860574fa2c86fce90794c186f9bab39c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=ff89b9bf972ed4913e0f195ce372a35c&txTime=6a3111d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781583441-0-0-f13c58a65a5b0fd009dfe0c24742d042
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=b9608016db83b56bebc6ac83f3d0009f&txTime=6a3111d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781583441-0-0-5b2a635cb857cc16906432121f9af787
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=ff89b9bf972ed4913e0f195ce372a35c&txTime=6a3111d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781583441-0-0-7ca1df3ac910f3e2aedabc2661f06a29
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 16/06 IR Iran vs New Zealand [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=b9608016db83b56bebc6ac83f3d0009f&txTime=6a3111d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - IR Iran vs New Zealand [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781583441-0-0-ddde4de2eb62905c59d37b76eaa5b258
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781582721-0-0-258f6d5ce4d3bafef551ca00bad9493d
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781583801-0-0-33a1a063d2fe31b16496262177efc8e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781582721-0-0-74c0453f81c152b62d392a46efdc5b00
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781583801-0-0-d4862654db6f535333c6d431754f5ef6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781582721-0-0-26a45866f9a72334f798245ce1bd4b4e
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781583801-0-0-3d188047532aba5fbe531f85e284071c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781582721-0-0-ac3265081ab442f1daf771128a3ca570
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781582721-0-0-85873cffe597bfbf4d271d2b8ecf0a1f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781582721-0-0-68ba59947286710a0267c78d2bbe492e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781582721-0-0-c55094c0892bf9a4194f02cb1de2bb8d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781582721-0-0-e9090b61b5f679ccf2df112cc8a64d10
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781583801-0-0-2a219fd0f19defc54aaab0848bbc9e20
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781582721-0-0-12adce6e1033cde623c332d295ff9947
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781583801-0-0-e97eef207c5132dc0ee21d2df3bd9ece
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781582721-0-0-d515b1ab81106023733e45c5299e62b7
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781583801-0-0-3faad612c7800fd432c2c37f3f0c36fe
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781582721-0-0-c79f0e65ce6031078f565fee1abd622d
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781583801-0-0-11ab4e4028e9ed05c0a6069e25374d8e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781582721-0-0-9efd72fadf4f53ba1befc1b007dc85cd
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781583801-0-0-7e8ce89f0475bc8aa596ee4a4fc12769
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781582739-0-0-3a7e120c7a6b2ba2664ab6e7414f215f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781583801-0-0-57ec3543ce52b53817449a9eec82e283
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781582739-0-0-3508ab323dd1066ed90ce336466123de
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781583801-0-0-d8a1eb7aa8e4f4e75f97a93df1634780
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781582739-0-0-79835650cef441fce7e25b997c5d6e94
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781583801-0-0-1a1e9824e21ba93297dfebebe42d04e6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781582739-0-0-a27c00d33fe927a754c444bb7088ba6c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781582762-0-0-7794c6addf201dca85611df6c6f11e5f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781582762-0-0-be2bc044e54617d1d72bb49e0d9b95ff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781582762-0-0-10cf63f3e9a421ae16d043bc19c4ecd8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781582762-0-0-23282436b8137b3cac97ed1edc63a55d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781582753-0-0-15241e16aa7c345eade8b75a460e8ef6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781582753-0-0-8de836b03c4d945b3348f861aa5a27c3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781582753-0-0-7135eb5a1eadddd46edf4a550af40809
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781582753-0-0-28533c1cecb15d0731a5ec22a8d5e1d8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781582745-0-0-4ce84baa390d709982db6b9507648605
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781582745-0-0-c4193c1411805a6bee48ff5d55efa5c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781582745-0-0-1d7d8ae2750b9977d046007477e88726
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781582745-0-0-c0e1f874e2212caacc91f35163b8a242
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 16/06 Golden State Valkyries W vs Los Angeles Sparks W [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781583801-0-0-27027f371e6fca845e4d6ea87c9a183b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781582729-0-0-f3b9bdfab052f3636d6aaeaa384762e8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781583801-0-0-8fc5d53dcfde96aeed2a9dbecfbb58ab
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781582729-0-0-639f7eeee0ea8cfcf69ec2e075117c4b
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781583801-0-0-a451149de8fc33295deda17a762e7236
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781582729-0-0-af0d66946ce554541575807833767858
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781583801-0-0-61cb2ca2c4fd8b633f8332c96dc44436
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Saudi Arabia vs Uruguay [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781582729-0-0-ee650f61511b458b8246c09b16fe6297
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781583801-0-0-b207b460eee9d4720af5caf113cfeabf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 16/06 Iran vs New Zealand (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781583801-0-0-6a336fc02acb7b4bf5d7c8589d8e05b8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 16/06 Iran vs New Zealand (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781583801-0-0-a5b96975c9bc46dee0a17328edf285be
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 16/06 Iran vs New Zealand (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781583801-0-0-131cc6aeab3a59dcadcb0c9f2371e797
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 16/06 Iran vs New Zealand (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Cabo Verde [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781583801-0-0-2b9697ce23d06121b0fd8bbe12acd6f3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781583801-0-0-58dbeb9f13e08ff3099f8d74915f3f5d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781583801-0-0-e7f604f643b44a9334ea546a2e5fb28e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781583801-0-0-cf509f69904530dc22263c67114e7ff3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781583801-0-0-e45f2de86f58022936a49d95bfad8f5a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781583801-0-0-bf0f62bac02eda41988f27ceeeb003ae
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781583801-0-0-b9c18ff3aa70d1079be3da7121311281
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781583801-0-0-cdd5163f93a1d9ad45e9f50207566c73
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs Egypt [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781583801-0-0-5f65bbdb6df24582755bf6643a0f9d99
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781583801-0-0-0226c00ff0927380e9ecdee29a1ea201
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781583801-0-0-582ebb2b94f649089bd48eb3f9a4593c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781583801-0-0-9df49d5abbe46197b99e7ad75d3fa0ee
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781583801-0-0-ddb4b14c40fb5ac37e6ae606501f93d7
 

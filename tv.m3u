@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs South Korea
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs South Korea
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs South Korea
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
+https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
 https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
@@ -17,14 +11,20 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs South Korea
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
 https://alive.yarncdn.live/xctv_blv_quanvu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
-https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs South Korea
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",08:00 | Mexico vs South Korea
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs South Korea
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",01:00 | Mexico vs Hàn Quốc
 https://live05.msdht.app/live/14830711.m3u8
@@ -35,9 +35,6 @@ https://live05.msdht.app/live/87379114.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/731ea9512aeffe6fd2896bc1a7a60662.png!w80",00:00 | U. De Chile vs O'Higgins
 https://live05.msdht.app/live/99121525.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png!w80",00:00 | CLB Sport Club Recife PE vs CLB Atletico Clube Goianiense
-https://live05.msdht.app/live/43612277.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/256e715800fb8321f7cf1dacce3aa35e.png!w80",07:30 | Canterbury Rams vs Tiếp theo
 https://live05.msdht.app/live/90865415.m3u8
 
@@ -47,23 +44,26 @@ https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",08:00 | Mexico vs South Korea
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins (Lương Sơn) BLV SHIN m3u
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV VÕ TÒNG m3u
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV LƯU BỊ m3u
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Boulder Cty Utd (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins (Lương Sơn) BLV SHIN m3u
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 19/06 Texoma vs West Texas FC (Lương Sơn) NHÀ ÐÀI m3u
 https://auto.cdnfaster.live/live/sd-6MwdpuM6TgBMSL3EnY/playlist.m3u8
@@ -71,209 +71,170 @@ https://auto.cdnfaster.live/live/sd-6MwdpuM6TgBMSL3EnY/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense (Lương Sơn) NHÀ ÐÀI m3u
 https://auto.cdnfaster.live/live/sd-6MvVNfPUpqAqQJJd88/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=0b97a47b313c928028c94a3d2517d0ae&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=8debc33b273378bfda58ff6bc658e4fb&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=278b777fcdf822e7a01ddb5b46f18a61&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [LÃO LÂM] (Socolive) m3u8
-https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=ab5468b34748c75077b8c85a94fde8f9&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=00e0643a5478a6a69c15c04548ccb87b&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b0299be66906213a2b5c80c601fc35f9&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=faefe81af688514d35f482b83f88fa9e&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=c7c2bc42d67843d920f247305cbeb9c1&txTime=6a34efd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=2d272091babbb17ba6c20fff5a68465b&txTime=6a34f126
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7bcf357cfe2f6e595a6f6791e052998b&txTime=6a34f126
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781836521-0-0-d8474c30d2dbeb7679b50bb785a01267
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781836521-0-0-f44537c9002235459d97a17f5876d256
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781836161-0-0-4582e3ebfebd0fb5706c52dd9337cccf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=26d9f1feab101c84b28c4cc0596d3630&txTime=6a34f139
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781836161-0-0-670f7644ee7c47ad76a60ebc4fa4aa09
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4dec4841d322a9eabe8b6bc3fe6ee7d4&txTime=6a34f139
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781836521-0-0-9f0a9a9bbcf0dc67952d14ce65909645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Capitanes de Arecibo vs Vaqueros de Bayamon [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781836161-0-0-b63ddf4ddf7a44d14ef28acd5b87b0c6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781836161-0-0-2efa5e60349f148fb0523992dda5620d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781836161-0-0-7e77d4742140354712e38108cb375777
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781836161-0-0-9363f7685cc40be9f57d751dc167cfff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781836521-0-0-1909177da28b91f71aa78fa32c382882
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781836521-0-0-76d1d44b381e07aa0d4b8c8252d40bab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781836521-0-0-fe343f67b7eedf613b618072c74c1eec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781836521-0-0-8cc4334ff49a7c1aa150f20e16a58147
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781836521-0-0-f185c4a5cd161a9cc91ba71bda5f1810
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781836521-0-0-7130455f1d98f71934bdbe2c8aaad21a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781836161-0-0-1528b5d5748ba9314ad72459e2f84b1b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV COZY] (Socolive) m3u8
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=bc0d98f2f6a55cb4ad005357231ead03&txTime=6a34f2a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781836521-0-0-71b048d5cbe14756099dbfd78423eb41
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV COZY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=4996e1e0ab7c37adafbc01010f788d84&txTime=6a34f2a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Capitanes de Arecibo vs Vaqueros de Bayamon [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781836161-0-0-87bdac1727066eca424f1cb991f0c7c6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781836521-0-0-82f0a78aaa393777a91cf4688c37a539
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781836161-0-0-1e0712b7fd131aa5d306947e653b427f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781836521-0-0-107b95a2b8e36bdb0045f2bf78d2c230
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=94588a29325ede4b9b52c1810d369343&txTime=6a34f2a1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV KAN] (Socolive) m3u8
 https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=09b3aeb6ad964701693b66f283cd7367&txTime=6a34f2a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=94588a29325ede4b9b52c1810d369343&txTime=6a34f2a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=98e39f227167dbe98897bbd566044401&txTime=6a34f2a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781836521-0-0-fefcf143a15d8b2680d4e1393f9b2fd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=67efd2809bd9938d5190000719913bec&txTime=6a34f2a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781836881-0-0-c13b210a69dea966d48019a3b366d32c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781836521-0-0-ce28726a65cf439f62880a8ef11f8bd4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781836881-0-0-de0971fe93b51b373a118e34fe90a47e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781836881-0-0-6cdc3354d134e412c0bc8ef049803edd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781836881-0-0-a23a282a39033f176c136c36bdbcfbf8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781836881-0-0-621bb95959ab29dfd49007d93787b15d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781836161-0-0-4a317e4ccb0b344597ffab53e716100a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 19/06 Ballard FC vs Bigfoot [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781836521-0-0-8be92efa1e41c7703e5e6d42b654adc5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781836161-0-0-15a85f5a125333748426292f9d8fc776
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV COZY] (Socolive) m3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=bc0d98f2f6a55cb4ad005357231ead03&txTime=6a34f2a1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Albion SC Boulder [BLV RAMBO] (Socolive) m3u8
 https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=e71f8967530effe68cf4370ff560ef07&txTime=6a34f2a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781836881-0-0-9053f4684a5d57011339b6bd8fa73cfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781836161-0-0-1fbc8ded67944192678c4048f24cc6f2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Aguada Santeros vs Gigantes de Carolina [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781836881-0-0-297b917f4c8887444c8502a2c2ae8f17
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781836881-0-0-8cc7bded3187c5f36e54f2fd7f66bab5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781836881-0-0-bdf9efad5f285c9cafe69c1ce1925806
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Albion SC Boulder [BLV RAMBO] (Socolive) hdM3u8
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8da1187522573aa1868a7b2430984357&txTime=6a34f2a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=e5376e3a3e40816d0a61c31a920fac54&txTime=6a34f409
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Albion SC Boulder [BLV GÔN] (Socolive) m3u8
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781836881-0-0-ae3f6da73979ae54c670a99488924553
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f65f4848098c91591f6e087019310f6f&txTime=6a34f409
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Albion SC Boulder [BLV GÔN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781836881-0-0-7b20eb34e5ade64fce437a0ed324ba31
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781836881-0-0-02dc42f58aa0f1c59e33c1bc4bc2d127
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BEN 10] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781836881-0-0-621bb95959ab29dfd49007d93787b15d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 San German vs Indios de Mayaguez [HUNTER] (Socolive) m3u8
 https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781836881-0-0-626b24780edad10b125d7473f8aca466
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781836881-0-0-9053f4684a5d57011339b6bd8fa73cfa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781836881-0-0-bdf9efad5f285c9cafe69c1ce1925806
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781836881-0-0-a23a282a39033f176c136c36bdbcfbf8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV COZY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=4996e1e0ab7c37adafbc01010f788d84&txTime=6a34f2a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Albion SC Boulder [BLV GÔN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781836881-0-0-7b20eb34e5ade64fce437a0ed324ba31
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Flatirons Rush vs Albion SC Boulder [BLV GÔN] (Socolive) m3u8
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781836881-0-0-ae3f6da73979ae54c670a99488924553
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=8816d191b2b8e8fd680c3782135ca966&txTime=6a34f409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=81445f399272ac6cfa03725af61eb3d6&txTime=6a34f409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781836881-0-0-de0971fe93b51b373a118e34fe90a47e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781836881-0-0-02dc42f58aa0f1c59e33c1bc4bc2d127
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BEN 10] (Socolive) m3u8
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781836881-0-0-9d05c0d657a83807204bf0fbb4bd1810
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781836881-0-0-8cc7bded3187c5f36e54f2fd7f66bab5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [LÃO LÂM] (Socolive) m3u8
+https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=b9ad45f44ca3677a2a18d9963d13b525&txTime=6a34f409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=9e1f15e9e489e4dd8606f6924317d67d&txTime=6a34f409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=5b1968ad432087bdd0a9e562d42aec58&txTime=6a34f409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781836881-0-0-6cdc3354d134e412c0bc8ef049803edd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781837241-0-0-c34d7e83cf60b5cda2820802a053920d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Capitanes de Arecibo vs Vaqueros de Bayamon [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781837241-0-0-9a25aee93424be1edb44bd4034b298f8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781837241-0-0-0046f6edae7d8e47043d7ff3721d77ab
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=c00acf7eace10810dac5da723efb9cff&txTime=6a34f409
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781837241-0-0-a7ffe7ff48db11eaeca52edcd7a37606
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781837241-0-0-5e06aec5bc7b91f9bac56a8c0995021b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781837241-0-0-0ef7d39eea9fb02671555c0afb321100
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781837601-0-0-bdb233eef88bf84df016611954c9079f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781837601-0-0-ff406dd2cb886830b028fb8c904117b0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781837601-0-0-796f63c4e53d5e45d3df7c74aab43685
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=652c2c943db214b91663af6810c2efd0&txTime=6a34f571
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=d86df34814e61b054c247eceea61dd2e&txTime=6a34f571
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781837241-0-0-187441f01ac76ca3ea19ba091721db61
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Capitanes de Arecibo vs Vaqueros de Bayamon [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781837241-0-0-3660239002757871d88a6d3424f6f9b9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=147cf47517185531ef0eebf2017fdf4e&txTime=6a34f571
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=7a4720e5042bac276af1783569858d42&txTime=6a34f571
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 San German vs Indios de Mayaguez [HUNTER] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781836881-0-0-3cbb647c1e5c502e20b020b69074cd5d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781837601-0-0-485385b88d30cfaaf826a8c5d8c1a240
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TAP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781837601-0-0-19a32dac1b545c3ca46fe7bbde2a6f1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781837601-0-0-140668b49a749eb4001630f8ed9b17c8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781837601-0-0-b292cd714c241f9efb864ff606117fc2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 19/06 Mexico vs South Korea [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781837601-0-0-3cb02a5a8a1dc4dd7beb16b581d20650
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781837601-0-0-40fba87bd7f3cc307588d8a4cdacc14e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 19/06 San Juan SC vs San Francisco City [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781837601-0-0-d7c2c5c99744b61b60b7c655effb0f3d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781837601-0-0-86d7d32f0fdf675bddc83665797be396
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781837601-0-0-c27e2284fb217c848a0e44420349a99b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781837601-0-0-7042da403d751f25e5892e7257ee5483
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Aguada Santeros vs Gigantes de Carolina [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781836881-0-0-2e3b13528957566379cc504289b4e5e1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 19/06 Ballard FC vs Bigfoot [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781837601-0-0-fae9cfacb3bd95e5d131959f05426e2d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
@@ -281,15 +242,27 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781836881-0-0-9d05c0d657a83807204bf0fbb4bd1810
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781837241-0-0-274092a805cad34929ce695053bec2ce
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781837241-0-0-2ead6d4b321e94b4b37de46da4bb9b6f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 19/06 San Juan SC vs San Francisco City [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781836543-0-0-bd3b9e16dc9c41fa4ac4224126ae097d
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781837601-0-0-eccdc0f9bd3ec94c3fdedaabdfd44eb2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 19/06 Ballard FC vs Bigfoot [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781836521-0-0-e0b0b37b016871c9eca48d6875597ecf
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781837601-0-0-0c62d364e354c07ff6c73e0737142e97
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 19/06 San Juan SC vs San Francisco City [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781836543-0-0-f3fc8735181dc600da159c177b1ededa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h30 ngày 19/06 Utah United vs Atletico Union [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781837601-0-0-d672179f11b1c2167a5925e91bbf87b1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 19/06 Mexico vs South Korea (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781837601-0-0-1907a2785bb1a7b4b1627f97afc1b374
 

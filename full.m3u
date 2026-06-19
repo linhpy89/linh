@@ -59,14 +59,14 @@ https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/23269.png",Guangzhou E-Power vs Beijing Guoan
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/0WJLxnGG-zLx3xGjj.png",Japan W  - Czech Republic W
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/6cWqJ0Wg-YwmRHSUk.png",Belgium W - Germany W
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/18805.png",Khan Tengri vs Taraz
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/14366.png",Mārupe vs Aliance
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2384.png",USA vs Australia
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1108.png",Scotland vs Morocco
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
@@ -83,9 +83,6 @@ https://live05.msdht.app/live/08552895.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80",10:30 | Caboolture FC vs Brisbane Strikers
 https://live05.msdht.app/live/02456966.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/c57774951b3b354cd3d1e0237087a661.png!w80",10:15 | Oakleigh Cannons U23 vs Melbourne City U23
-https://live05.msdht.app/live/82054853.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",11:30 | Lanzhou Longyuan vs Tianjin Jinmen Tiger
 https://live05.msdht.app/live/99121525.m3u8
 
@@ -97,6 +94,9 @@ https://live05.msdht.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80",11:30 | Hangzhou Linping vs Dalian Yingbo
 https://live05.msdht.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80",12:30 | Sài Gòn Heat vs Hanoi buffalo
+https://live05.msdht.app/live/82054853.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",13:00 | Shakhtar Karagandy vs Jaiyq
 https://live05.msdht.app/live/75915087.m3u8
@@ -167,23 +167,11 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Spring Hills FC (W) vs Bentleigh Greens (W) (Lương Sơn) BLV SHIN flv
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne Heart (Youth) (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Zhixing (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne Heart (Youth) (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne Heart (Youth) (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne Heart (Youth) (Lương Sơn) BLV LIO flv
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Holland Park Hawks FC vs St George Willawong FC (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Holland Park Hawks FC vs St George Willawong FC (Lương Sơn) BLV LÝ ỨNG flv
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Zhixing (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Holland Park Hawks FC vs St George Willawong FC (Lương Sơn) BLV DƯƠNG CHÍ m3u
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -191,23 +179,11 @@ https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=539
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Holland Park Hawks FC vs St George Willawong FC (Lương Sơn) BLV DƯƠNG CHÍ flv
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 19/06 Dalian Yingbo B vs Haimen Codion (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Holland Park Hawks FC vs St George Willawong FC (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 19/06 Dalian Yingbo B vs Haimen Codion (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 19/06 Dalian Yingbo B vs Haimen Codion (Lương Sơn) BLV TÀO THÁO m3u
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 19/06 Dalian Yingbo B vs Haimen Codion (Lương Sơn) BLV TÀO THÁO flv
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Zhixing (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Zhixing (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 19/06 Holland Park Hawks FC vs St George Willawong FC (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV KEVILL m3u
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
@@ -215,17 +191,29 @@ https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189af
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV KEVILL flv
 https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV LƯU BỊ m3u
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV LƯU BỊ flv
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong GZ-Power vs Beijing Guoan (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV NGƯỜI THÉP flv
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Liansheng FC vs Henan Football Club (Lương Sơn) BLV MÃ SIÊU m3u
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -238,18 +226,6 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Liansheng FC vs Henan Football Club (Lương Sơn) BLV PELE flv
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV NGƯỜI THÉP flv
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletics vs Tianjin Tigers (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -265,18 +241,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City II (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City II (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City II (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City II (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Hangzhou Greentown (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -351,6 +315,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 19/06 Khan Tengri vs Taraz (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 19/06 Khan Tengri vs Taraz (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 19/06 Khan Tengri vs Taraz (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 19/06 Khan Tengri vs Taraz (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 19/06 Khan Tengri vs Taraz (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 19/06 Khan Tengri vs Taraz (Chuối Chiên) HD2
@@ -396,508 +372,460 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781872881-0-0-6a0c717aac74771a2f82efa611cd587b
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781873961-0-0-2d3327506c1a66d6f7663966b7527d2c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781872881-0-0-4fb13e2c7c7e489cb4b059fb74ef5396
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781873961-0-0-16efb5ba77b0bf39cc7da95fc9e3c863
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781872881-0-0-8ebd86d2a06e9cf0c244f2914678e482
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781873961-0-0-0f9a3e7dff7d533176201a22ecfa3874
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781872881-0-0-766db8fa05ca02780bec92b6a367e5cf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) flv
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781872881-0-0-0b39ba863141d6fc12b519954d9d527b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781872881-0-0-82680ae8d12c9723ea6b86559fea2281
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781872881-0-0-4bb6f3ffff1aff8a85f36b180dcb37f0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781872881-0-0-3b9618d35af51a8bb8c19a2b3d6aac2a
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781873961-0-0-fe459c6b5415ae930e56c44796be6855
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781872881-0-0-ab7541246d746c4276c64c0b9efcbe2d
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781873961-0-0-96ac3a08111d80ecb432654f9ee3baa2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781872881-0-0-032341ebf64ad60f4bd50eff712d6e50
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781873961-0-0-32a2e69718b27dd942c8d65a51d95295
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781872881-0-0-6035465a82476fb2590fafa7a1e93f42
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781873961-0-0-41f0359229ab40fa3774e4087f539331
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781872881-0-0-4a661171316532e02d0624805165d6a8
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781873961-0-0-041e6bc9c57909fef3b5624517829746
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV LION] (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1781872881-0-0-003ca3a977471606fa9a9cf75ce69f95
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781873961-0-0-41724cd74f7eb10ef6e02fe5193312b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV LION] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1781872881-0-0-c76ea326ee3a9feb79081ac7f148c8c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781873961-0-0-24a7326fd4589018d861f192a14e5852
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781872881-0-0-acbb29ec496f9231c1c62aa86c19fd3c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781873961-0-0-63eb897ae3c366e3cfd4c404bd157d21
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781872881-0-0-de16617edd87632566549c928c109611
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781872881-0-0-f5d8be6fb310ff1c3098e90478bc856a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781872881-0-0-32c3815b1f1d4c553b06cfb7efbae278
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781872881-0-0-95a1dc09e9c19d4648a3058bb5624d3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781872881-0-0-ad384baf4d0a8fa4e1f257b7f505729a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781872881-0-0-95d961e3043b4ee9198e7d5e5b02c0a1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781872881-0-0-f2c23d1bc9070981acbef7937f2235d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781872881-0-0-57e3b25537a2c3dadce2c502572fa7db
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781872881-0-0-059ca4cb2349f71663a5bc2518ade5d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) flv
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781872881-0-0-9544ba5c4245f3a7321df733f3b3a58c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781872881-0-0-61266cbf3721fb69febf134b4ca2bc06
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781872881-0-0-944794cd7606e63fb5276025415e5df4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781872881-0-0-350dd3af286511671de56d18d8c7d227
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781873961-0-0-d49d21b3ff59ba404c3287307dc53a11
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781872881-0-0-ccc053c043f13485038955185f02adde
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781873961-0-0-21d48d9bf82e9f7207a6c550c4953635
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781872881-0-0-003971faaf22951217f3164ff064d0bc
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781873961-0-0-240289078334871f226be51e27dc0952
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781872881-0-0-c8dcc5e31a775c807c59ecb9a20b4753
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781873961-0-0-0b5e275c6c14bd6b90bb704a6fbc75b5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781872881-0-0-dcd726da7d19f25f2feb2e6ff9c6a449
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781873961-0-0-8675b35217593c2038fa104fe83014e9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [PINKMAN] (Socolive) flv
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=769e3eb41693e27c7b47077009b85c2d&txTime=6a357f41
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=3dd2968b377b18aec21fad4ee7547485&txTime=6a358379
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [PINKMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=2ef8dd408dd2b0a556d0f55ea684102d&txTime=6a357f41
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=f015b88d82ebccdcff1ca39c6aaa9602&txTime=6a358379
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=769e3eb41693e27c7b47077009b85c2d&txTime=6a357f41
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=3dd2968b377b18aec21fad4ee7547485&txTime=6a358379
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=2ef8dd408dd2b0a556d0f55ea684102d&txTime=6a357f41
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=f015b88d82ebccdcff1ca39c6aaa9602&txTime=6a358379
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781873961-0-0-9cdd8f018e2b5ab856da1577d8778eb7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781873961-0-0-86c91175cd098b5917f6548b13df2427
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781873961-0-0-ee9a4f6bffc0218c5318cc4ecba4f269
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781873961-0-0-a95136bd31efc169d32ce37f8fa96a18
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) flv
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781873961-0-0-1449570eb525123f8567bc58db2855f5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781873961-0-0-fa8300ff3bc501fb1ba19d8630ed3286
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781873961-0-0-1caa3ee760e6eb5933c2af6a3e16f99d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781873961-0-0-1c1b31434f24f3aea4b3f827c4ce19d7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781873961-0-0-ac4c0fba1c24763b364eb65993c382b5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781873961-0-0-06e5263d298153e65e61e13a2dfb9fea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781873961-0-0-5799977a621d630fd6f50d00af05b6a0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781873961-0-0-26c69ac82cea538ab9fa56b0f0028ffc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781872881-0-0-9b4a4d4c789f3e5bfe57ae42dd1fc5e8
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781873961-0-0-496abd5f397e1ec8b06b2d6942e2797f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781872881-0-0-4de12f4579a753257f951bc8e7816d3a
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781873961-0-0-d2c731cd55684b00de46898cf3b7b12e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781872881-0-0-1e1ca9527d445b1a34a90f2347c7b91e
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781873961-0-0-02be554bcc5445f45afd9338b40aa525
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781872881-0-0-8b52af78cf14b530ccfad44b9e51449f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781873961-0-0-b52696dc9fca58484d044481b2162e5d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781872881-0-0-0427c97f390eba94f6bd8a4a66084354
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781873961-0-0-f53764ad36b94e9db5c8101ce544935f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781872881-0-0-409e5b8838fc5da3a1910695597c2477
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781873961-0-0-fb605fcb1734e7c15d7ddbc15c166128
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781872881-0-0-3eecba277018db4c073059d3d0c68f51
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781873961-0-0-a29301efc4a31ad9089410b8621c56f0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781872881-0-0-25f0b7b4c962cf819b1b4c0eb0f6cee8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781873961-0-0-44a6991b2efffe53046bc6f3694b0cf7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781872881-0-0-d0bda658a22f0169d9d93bfa06c56656
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781873961-0-0-912a18e3ba8abe25a213c314c76e1c3e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781872881-0-0-fe5260927ce1d82735751944669b2cb3
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781873961-0-0-72c8c1534e9424463c1c0a8cb4885e45
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781872881-0-0-aac20e9112edab1142339935c99e2822
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781873961-0-0-0fc03d3910e61ec394a73462ff6c87e9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781872881-0-0-1d6bc3bc8aefa97edd35fcba9de7d545
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781873961-0-0-9f6b6980238500daafe002064e748ba2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Bosnia and Herzegovina [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781872881-0-0-953a32ea83fa45bbca65f5484915b59a
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781873961-0-0-a3e830010f3f108cc5f1d1f0389b45dd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Bosnia and Herzegovina [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781872881-0-0-26da5f886631dc785890332159e0252d
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781873961-0-0-1ec03103b1e1111faaeb23d732f73cfe
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Bosnia and Herzegovina [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781872881-0-0-ca6c427e5faf9f16733812ac0add4c4b
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781873961-0-0-7b1f8266f695a2f193b15f253fca48a9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Bosnia and Herzegovina [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781872881-0-0-84a60dc35511b5a5839955672e2f685a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781872881-0-0-6d728030f58c85787cf44f0db6341be3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781872881-0-0-fa17f98f2a298ede4250cbeec8aeda97
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781872881-0-0-00521c018cf0ba5cd522f4d89d916606
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781872881-0-0-f332a593d8deb431b09b8628d574b65f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781872881-0-0-cc73ba5767c754501a52cdf894073346
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781872881-0-0-28657ff1ccddce1201a4dd51b7dcc507
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781872881-0-0-ae6208222e3b71a56fb40135a4128541
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781872881-0-0-32c71378c5bdd9881b64bc29614b4440
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781873961-0-0-b28361c37cd5c7592c58f6470b7781ef
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781872881-0-0-6058fd1f440be3c5d87428da354f3abe
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781873961-0-0-de17286b6716c8dc560b43c3ca26da95
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781872881-0-0-41535f9da371cc8f519ee494b4d073f1
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781873961-0-0-9e9547c1fcb2e7b77f5a73e5b2befffb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781872881-0-0-bafe339b8018fc3397c4b67c387f53d6
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781873961-0-0-842546f20f63a66c25e8b1843ca2cdca
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781872881-0-0-c4ebdc385e9133bff0c61584434576af
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781873961-0-0-6e213265a88c135eddb0f0c7d63d61f6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781873961-0-0-5aa12a50a5ebc266dd4ad58c00c3a42b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781873961-0-0-de9c17460950b9305497e196ec1f958a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781873961-0-0-70e9f6a186d01dc4661ac21e25d0bd23
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781873961-0-0-895ef5d2555ccdba9eca6db8c2045982
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781873961-0-0-e2b322dee86f69b997bc5706919f5467
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781873961-0-0-1baa82b85efa78c1665d414344f416d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781873961-0-0-a0d3622db77b644d56b27d5d2f2b1a24
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781873961-0-0-04f16165ddaa3f2856c9eaddb9c0c6ae
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781873241-0-0-b8e5ef4f39a2b80c7fe4cd1da56ca787
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781874321-0-0-6c82cfafe3bb25da791a2dd6fcd40e8d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781873241-0-0-1989fb13890a0c2c59b30accdbf14a5d
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781874321-0-0-7b0a0380a655f1b23d667b4cf0b986de
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781873241-0-0-bee2d53122b4e81aabae89f98ca11e33
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781874321-0-0-76b184121ac45ece5beecc2ab5288d95
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781873241-0-0-36182040a631544b90122728c28a0db0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV VITAMIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781873241-0-0-a6bf47a6c4369abfa104a92b001c9ef1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV VITAMIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781873241-0-0-ef37317b0db4de0a645e74021602c068
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781873241-0-0-146f5f3a4794aa435dc575f239cce586
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781873241-0-0-5a4a7ecf255b5fdd477b49de4c8e0623
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781873241-0-0-e6812c447b4ad25b9636a3cc4b385fcd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781873241-0-0-c517bafbe65ad6a46afa633203208fd0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781873241-0-0-444f6a60d744f5b3c95d64e0ce41dece
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781873241-0-0-ec3defc3c8ca9eb173380ed1b7d880da
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781874321-0-0-6f453e389bda67870ebf99a6bb4a2d6e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=7a604d1df32d5250808ef824e770e3e4&txTime=6a3580a9
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=09c1d13079df88b118f309dfe99ddb5c&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=c3a1a9e23387662ef3c6f81cfb9d3e83&txTime=6a3580a9
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=be62b3e51c5c392514487cde7c2dadf6&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=7a604d1df32d5250808ef824e770e3e4&txTime=6a3580a9
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=09c1d13079df88b118f309dfe99ddb5c&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=c3a1a9e23387662ef3c6f81cfb9d3e83&txTime=6a3580a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781873241-0-0-47b15acb0eda680754c4db89aeaf7c75
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781873241-0-0-4d39df630493e9743198be24d4a68b90
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781873241-0-0-fcd4b881c651cccac4e63e2f9dd40093
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781873241-0-0-c80134ca95558644ca81ad9468543e37
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=be62b3e51c5c392514487cde7c2dadf6&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781873241-0-0-be6114495df4878adfb166e00a0711bf
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781874321-0-0-29333c53c8536d6296e291368b7c0f36
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781873241-0-0-d868b691bb7f83bed61c34d46b567ae4
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781874321-0-0-15ec8ee4c140ed7c63a8fcf6c20c324b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781873241-0-0-ab035fd176b90034b20beaa295826afc
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781874321-0-0-34f0ca5b855fd8355aebd8a23875cb67
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781873241-0-0-8df43bd52b920228e69b6e3387963ff7
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781874321-0-0-595923aecf2aadfeff194ba55cb135b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) flv
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=33ee359e05c56c8add843bd707bec0b6&txTime=6a3580a9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781874321-0-0-718edf80dc9804626ab51a5ab6f3b6e4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=461edea07bf8828df2cc65e03cfac011&txTime=6a3580a9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781874321-0-0-bc7fd08e5331ef97857af01283887746
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=33ee359e05c56c8add843bd707bec0b6&txTime=6a3580a9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781874321-0-0-1f4641341a685f7b3feeec201b48c248
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=461edea07bf8828df2cc65e03cfac011&txTime=6a3580a9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781874321-0-0-d4c4e0a17830ba553f16c4b010bbb05e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781874321-0-0-7c1fdbc2620e671b92bebc5427cfaaa3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781874321-0-0-e6ea9de634b32bca4bd64369fdef135d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781874321-0-0-cf83613033da5f670326437e1b927911
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781874321-0-0-c365762b985a75f52e5101a4b21eacf1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV LONG] (Socolive) flv
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=53ca7fdefdd093a6448a262ce1dc3236&txTime=6a3580a9
+https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=679a91541bc987ece2510df85024324a&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV LONG] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=b772c697ddcdca2e7a8ae6176b799caa&txTime=6a3580a9
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=c6ea883ca0aa5f8202272399f9fe8b0f&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=53ca7fdefdd093a6448a262ce1dc3236&txTime=6a3580a9
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=679a91541bc987ece2510df85024324a&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=b772c697ddcdca2e7a8ae6176b799caa&txTime=6a3580a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) flv
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781873241-0-0-4de2c960a188da25014ef507f4d4e7c2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781873241-0-0-038ef8e846a1280429bf3cb4be3986b0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781873241-0-0-c9ae598c479ffa0a16c11b48a1be4235
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781873241-0-0-4c459ccd28a61226a5ed1c3f85d4ef85
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) flv
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=d81c69f34a4ff736cb516c7fcbec9267&txTime=6a3580a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=ddf4ef3dd27661f9194034e44592ce69&txTime=6a3580a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=d81c69f34a4ff736cb516c7fcbec9267&txTime=6a3580a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=ddf4ef3dd27661f9194034e44592ce69&txTime=6a3580a9
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=c6ea883ca0aa5f8202272399f9fe8b0f&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [XUÂN TÓC ĐỎ] (Socolive) flv
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=31bbcadd8f95f75cf7287854d5807f51&txTime=6a3580a9
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=1e5565b151b84383b4fdf9dbacfda318&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=3b9f5bf4e1d80e97474ede94fedd9553&txTime=6a3580a9
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=299a5a0936c189108bb5fb33b0e32dfe&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [XUÂN TÓC ĐỎ] (Socolive) m3u8
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=31bbcadd8f95f75cf7287854d5807f51&txTime=6a3580a9
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1e5565b151b84383b4fdf9dbacfda318&txTime=6a3584e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=3b9f5bf4e1d80e97474ede94fedd9553&txTime=6a3580a9
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=299a5a0936c189108bb5fb33b0e32dfe&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781873601-0-0-bb387e97544cc52a2686eccdbbe4178f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=5520daa5d0e15cd31faba47b81c91891&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781873601-0-0-457b4897d213d6a18ceebdb7ecc69041
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=6e681b01ba026dc36b0f3fc6a059f951&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781873601-0-0-5f4a3f8c1363aa2dc9e383fad99fa651
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=5520daa5d0e15cd31faba47b81c91891&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781873601-0-0-7929a5276d09aef95622234b4a3ab214
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=6e681b01ba026dc36b0f3fc6a059f951&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781873601-0-0-b77006092bc22785c27066ecf2dec252
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=60115a3093ea3a173bc273013c7c1f88&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781873601-0-0-a5d844e479aacc0aa920217e84865fb0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=f0beca56cf01ade586785a6253c08c73&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781873601-0-0-6a6005d49f5132ff0ee76fabc4a48631
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=60115a3093ea3a173bc273013c7c1f88&txTime=6a3584e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781873601-0-0-75bcd6c4c8110487051ede741ac33204
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f0beca56cf01ade586785a6253c08c73&txTime=6a3584e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) flv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781874321-0-0-9e13cbf4acb26e690914c94c363d98c3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781874321-0-0-0bdc67493669ad784c82fc892055b435
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781874321-0-0-55fc6d2d55ad7e83bc3a734683b9bd3e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781874321-0-0-78809b796a12942c7262dc0ce680b92f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781873601-0-0-21190997b9a862af064eee7a142747fd
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781874681-0-0-d18aaff4e51560e2ecd1f39c415fcaae
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781873601-0-0-9b56fc391a35351c5b0a65668017c845
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781874681-0-0-baa4fad0073716530a0ea3d1b32d2036
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781873601-0-0-fac62a381e97c8049026931ad41be690
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781874681-0-0-c0f148e4d08a6520c9b6106cee2b9adb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781873601-0-0-cbbf5fd0bf16532244bd7ac35fbca58b
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781874681-0-0-1e5ac002887b3e2774cf0e308d4088c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781874681-0-0-ad40f20ccc5783009d20ab0f4a804b76
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781874681-0-0-13f8442c6a61c44c691549206c8223af
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781874681-0-0-9e5e984ab4c10cc03f2fa63cdfa11433
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781874681-0-0-780d733a17d13d408b29c80f6278ab57
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) flv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781874681-0-0-c3bfc29312c37109d5498eec4aabcf39
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781874681-0-0-2c380feff6234c4f8f228811097abfd2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781874681-0-0-9cba70d6e928038b873a997052823590
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Guangdong Guangzhou Power vs Beijing Guoan [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781874681-0-0-e10fb655cd32363eaf72ef7d41947923
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV COZY] (Socolive) flv
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=d0374967cdaa0a3644a435915aaaffe3&txTime=6a358211
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=b8514a4a125770134d3db2543cc02316&txTime=6a358649
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV COZY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=c6ca2743795115d7f4d9a1765d628229&txTime=6a358211
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=73441c9e411837e4bc67002c1b8aaf54&txTime=6a358649
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV COZY] (Socolive) m3u8
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=d0374967cdaa0a3644a435915aaaffe3&txTime=6a358211
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=b8514a4a125770134d3db2543cc02316&txTime=6a358649
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shaanxi Union vs Zhejiang Professional FC [BLV COZY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=c6ca2743795115d7f4d9a1765d628229&txTime=6a358211
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV CHIVAS] (Socolive) flv
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=8d261578a60666a40cd04187c6587f06&txTime=6a358211
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV CHIVAS] (Socolive) hdFlv
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=260e7fc96768c0c1d145f54e000c6ccc&txTime=6a358211
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=8d261578a60666a40cd04187c6587f06&txTime=6a358211
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=260e7fc96768c0c1d145f54e000c6ccc&txTime=6a358211
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781873601-0-0-783e9bc37d835aaa403fef41cb2666bf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781873601-0-0-304b793c42af75035989700d930cc09c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781873601-0-0-e061f407e66f86868fd515b1ca14953f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781873601-0-0-0cfc841a22768eec13a49aafa0241e2f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) flv
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781873601-0-0-804bde75eb23409687f44639cb84ad27
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781873601-0-0-65fe6a71450c01cb0faa5b2b13458f89
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) m3u8
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781873601-0-0-26294faf177d7240da3c73bb477ed73d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781873601-0-0-9d19007174e9854e8ca23d5ea6828d1e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781873601-0-0-8fc4e4c96afd70ee81cf2b8ba1f68081
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781873601-0-0-b507e69757921b9b566ebdadf15d79d9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781873601-0-0-2f8c8ce89c7880dc0277b8741cbe5863
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781873601-0-0-e67f13596a307c3e0604c71d1be73a55
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=73441c9e411837e4bc67002c1b8aaf54&txTime=6a358649
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV CÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1781873601-0-0-64a39c20a5a45958c2b7ffa067bacd3d
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1781874681-0-0-9bcd52eee4cc88d8b963d224779729d0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV CÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781873601-0-0-978153820d360d5e4dcf187279c16c17
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781874681-0-0-954fb326a5a649053919dfc6fc1292bd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781873601-0-0-8d349c372f9ff89e78891cec450a0c22
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781874681-0-0-f3c7c27a0d9ecda897cd799f5d096eeb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781873601-0-0-7f10634afab38446b50ff7b912ced613
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781874681-0-0-603ff027298cfabc0c54cb0662e51709
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781873601-0-0-9b531e8f41ff78b85f7cf08277e6d6fc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) flv
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781874681-0-0-31c311a522cd62a6ed6c329f1501184e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781873601-0-0-42e6ac4769c3290be23112e6fb404c54
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781874681-0-0-f25c52a1c0076333f3944ee99a216875
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781873601-0-0-c8a2539280aecaafaaefa9cdd9e2c0d7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781874681-0-0-cfae54f1b320b818f3f7ad171e587db7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781873601-0-0-8a371b92199e98592ab9129bfbbf5681
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) flv
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781873601-0-0-6412809735ec1304e9805b3980c14de7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781873601-0-0-2b76c4485b5ce9091c2c494971b68ee1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) m3u8
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781873601-0-0-6dda4480d7390b94a029f4750def9093
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781873601-0-0-9a361f00b91dbc1f1cbfe1f180ba8db3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 19/06 Shenzhen Juniors vs Shenzhen Peng City [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781874681-0-0-f639d4182dd24813b83671477f95d955
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [ĐỖ TÚ TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781873601-0-0-369c3b7337ea3add21c4c903adf887c9
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781874681-0-0-363adf7a195cc246eb481ee88a364cfe
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [ĐỖ TÚ TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781873601-0-0-5c49e8f6068d915b9bcd70daca237ec5
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781874681-0-0-5a486f0bd0c57152744b036daa763e09
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781873601-0-0-9f4357a841ecbabf72bad6a6fa52867b
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781874681-0-0-332d2e5fd402459426ba1af0ae8f12fd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781873601-0-0-1e812fa3d96ed9fddf05d888732208d2
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781874681-0-0-8bf08a1aa7ef53556216a5772fa575cf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) flv
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781873601-0-0-90a63681f422164be559b2525115d4c6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) flv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781874681-0-0-d31dc5384f6860db6eafb7f7f909ed6c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781873601-0-0-a8167e9df4438a382e6c782ddc6ca579
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781874681-0-0-8c3fa7c07bcf3e25b6af56617780473f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781873601-0-0-a445999e8f82c0eda21e1df98a3db07b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781874681-0-0-c8ba9379aeefd01b566305477a1c51f2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781873601-0-0-d5b9e1ede2c498ce451d891a737372f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Caboolture FC vs Brisbane Strikers [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781874681-0-0-cbf92a9e3cabe1030eae5dc31e18e58c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781874681-0-0-19fc7d7a52a6bf2e7373aec2a7c1247e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781874681-0-0-308ed8254636b0be4ff2310d41b67555
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781874681-0-0-c7b7ca537cc11c55713cbab6ead22222
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781874681-0-0-ec40f93ec12d6853fd5463d747eb8ebf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) flv
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781874681-0-0-d894aa8e92192755eb9b9cc864e26cdd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781874681-0-0-6442c1948a189c5e43f178c5e8671aab
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) m3u8
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781874681-0-0-8937a6d4014ae22ee420857050c2240b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Hangzhou Linping Wuyue vs Dalian Yingbo [BLV 24H] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781874681-0-0-75dd0594e5057cceb21a9e210c639dcd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BEN 10] (Socolive) flv
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1781873601-0-0-bff0d0b68767a40c13f1332ef311a5f8
+https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1781874681-0-0-267b6fe579bfc7350ae4c254626383de
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BEN 10] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781873601-0-0-1d14935e9f7d786766e73c307b2115f8
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781874681-0-0-776fa211547fa48bb2a55a909dc26cb1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781873601-0-0-48bd136fd26acdad141c592e7db36d86
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781874681-0-0-1305bb78276fbd1554d37f6897abdebc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Jiangxi Lushan vs Henan FC [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781873601-0-0-aa98bb0cc568c221180f37f386d34d01
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781874681-0-0-66ebed029cff98fed70323b375d382d4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [QUỐC KHÁNH] (Socolive) flv
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781873601-0-0-172da64b2875b75658865811a99db39b
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781874681-0-0-0ae56001c63c7626a62c43096e979780
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781873601-0-0-10301d08cfcfdbe3cbfb6168d328b647
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781874681-0-0-89618cd520e56e16c3cfc9d2af5c3466
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781873601-0-0-09ba32f563900bc2d5b028d560b1db51
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781874681-0-0-f14c2487ea8d9a420aa13e4da1b6eec3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS QPL1: Holland Park Hawks FC vs St George Willawong FC [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781873601-0-0-0b2eed930c9ceffb3823cb1762ea739a
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781874681-0-0-8e31209584372cb20786e2cb6e38b1bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) flv
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781874681-0-0-45f19049fd732ed4ee0fe1bfc68602a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781874681-0-0-da673d0ab88aebba61cbe0f6cb788804
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781874681-0-0-d67f102946182545bf7f99d8758f3a4b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 19/06 Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781874681-0-0-18e3dcada9dff07842e6e38fd7274061
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 19/06 Nhật Bản vs Séc (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8

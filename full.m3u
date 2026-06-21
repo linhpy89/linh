@@ -74,9 +74,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",22:00 | Uruguay vs Cape Verde
 https://live05.apusport.com/live/87547578.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",20:00 | Sao Bernardo vs Juventude
-https://live05.apusport.com/live/99121525.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80",22:00 | Minnesota Lynx vs Washington Mystics
 https://live05.apusport.com/live/90865415.m3u8
 
@@ -110,6 +107,9 @@ https://live05.apusport.com/live/90725470.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/8d37df65ec99136141521145783ba119.png!w80",15:00 | Dila Gori vs Metalurgi Rustavi
 https://live05.apusport.com/live/78905744.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/0ab1b8407086bab060a396f244a28cd6.png!w80",15:00 | CLB Lahti vs TPS
+https://live05.apusport.com/live/99121525.m3u8
+
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/7.png",05:00 | Uruguay vs Cape Verde Islands
 https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 
@@ -122,17 +122,23 @@ https://tqlive.yarncdn.live/live/tqtv_blv_asoi/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/26.png",00:00 | Argentina vs Austria
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV PELE m3u
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO flv
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV PELE flv
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude (Lương Sơn) BLV LEO m3u
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude (Lương Sơn) BLV LEO flv
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO flv
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -267,304 +273,304 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) flv
-https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=872e18af5a583e1fe6626148d99ed8bc&txTime=6a38aaa9
+https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=40d2f4967824dd29f19ec2f2d7d0cc97&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=aa5b8f0d3bae0025f1718347c9f63c04&txTime=6a38aaa9
+https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=ce3b012ee9d9471b96e101eca729bc64&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) m3u8
-https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=872e18af5a583e1fe6626148d99ed8bc&txTime=6a38aaa9
+https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=40d2f4967824dd29f19ec2f2d7d0cc97&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=aa5b8f0d3bae0025f1718347c9f63c04&txTime=6a38aaa9
+https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=ce3b012ee9d9471b96e101eca729bc64&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782080601-0-0-79e25d3a1648e8f68e11c1e7c4497918
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782081681-0-0-c7660a7f590febfadc42710904b2e16b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782080601-0-0-865012ea00bae3488c88c0f4ce23bccf
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782081681-0-0-4e3ec09579dcf2cc028c1a276c3e9456
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782080601-0-0-76c662c3b3c137516198ff5886d1261e
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782081681-0-0-a45cd91b7d81a534a0498c819ea5f6c7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782080601-0-0-34e6c8f6bc599acaa6f53d95e9de228f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=88f4c57e7e64232159545117e83c73bf&txTime=6a38aaa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=36d8ffd79dd697811ca99d0b79b552ba&txTime=6a38aaa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=88f4c57e7e64232159545117e83c73bf&txTime=6a38aaa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=36d8ffd79dd697811ca99d0b79b552ba&txTime=6a38aaa9
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782081681-0-0-19fee0049158be2aef4b36ee718c9fe8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) flv
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=99417d674bb86e9358f9e907a1154983&txTime=6a38aaa9
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=b396f35a262d849f7bdc4a95970df5ec&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=a431d54ab695e36aa28e3f0a61d2b6b5&txTime=6a38aaa9
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=7b2def52cd0e3e8ec2d8afc96f11e7f3&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) m3u8
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=99417d674bb86e9358f9e907a1154983&txTime=6a38aaa9
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=b396f35a262d849f7bdc4a95970df5ec&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=a431d54ab695e36aa28e3f0a61d2b6b5&txTime=6a38aaa9
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=7b2def52cd0e3e8ec2d8afc96f11e7f3&txTime=6a38aee1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) flv
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=c47659c72451b0ca3879b4ea5fca0e97&txTime=6a38aee1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=46942d8bbd069a5642250af65d79ced3&txTime=6a38aee1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=c47659c72451b0ca3879b4ea5fca0e97&txTime=6a38aee1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=46942d8bbd069a5642250af65d79ced3&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) flv
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782080601-0-0-e87c6de0fdfba4b02932e352fce5de39
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782081681-0-0-33f313214546f078dee18acf9615e2eb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782080601-0-0-c936d6fb8db92fba46362d758080c989
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782081681-0-0-e53585ba1bb42c034319788270705755
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782080601-0-0-3f520e1acc425e456752ad955add967f
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782081681-0-0-d9f7f7fb1ab91000fdaf6b3da100fb54
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782080601-0-0-face8fffc4bd9fea7d731fbb90455200
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) flv
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=40713b12e9addcb22380dd238ae5286d&txTime=6a38aaa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=7d0f62d97b487e3a162bdcd17116a9e7&txTime=6a38aaa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=40713b12e9addcb22380dd238ae5286d&txTime=6a38aaa9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7d0f62d97b487e3a162bdcd17116a9e7&txTime=6a38aaa9
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782081681-0-0-c247b8e127c18cb86ad532ca52fe242f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=454d0f6b2d928722d9cd6561c48d27da&txTime=6a38aaa9
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=1773455d8eaeae11296ae22d3bfe793f&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=fb6f2b3a9707d1c14791a614e1e950a0&txTime=6a38aaa9
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=3f7caa948f90b65db37cf43077a302d4&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=454d0f6b2d928722d9cd6561c48d27da&txTime=6a38aaa9
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=1773455d8eaeae11296ae22d3bfe793f&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=fb6f2b3a9707d1c14791a614e1e950a0&txTime=6a38aaa9
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=3f7caa948f90b65db37cf43077a302d4&txTime=6a38aee1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=048e21c29ccab00142fb4216db198f50&txTime=6a38ac11
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=1ee8d3c24d0f093340203b2bbef369a9&txTime=6a38aee1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1a5726700b21572ab9b8d23f6893710b&txTime=6a38ac11
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=79a298f125ab84a7bbde94cb2e497b93&txTime=6a38aee1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=048e21c29ccab00142fb4216db198f50&txTime=6a38ac11
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=1ee8d3c24d0f093340203b2bbef369a9&txTime=6a38aee1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1a5726700b21572ab9b8d23f6893710b&txTime=6a38ac11
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=79a298f125ab84a7bbde94cb2e497b93&txTime=6a38aee1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782080961-0-0-495a0420dd240bfe625b7efdd650e640
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782082041-0-0-d424eeecf043b664d6ecaf6e4d42f6e1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782080961-0-0-7ae0da316e561dac411b9d677f776645
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782082041-0-0-22e5bd5d4c9c71dcc34b162cdc685d49
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782080961-0-0-a5f2c3f445429f3af6822ca63b78c3c6
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782082041-0-0-591fbf264d47314cc23ea6f53827e7b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782080961-0-0-6f9e4ecf4a32c70eafc4064a07267708
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782082041-0-0-99884d6c7612b2da95aaf57137a579a5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=66f5c1cfe4c6b61f6afaf59bda70f3c0&txTime=6a38b049
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=86536d620dd9019814db1d533be96847&txTime=6a38b049
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=66f5c1cfe4c6b61f6afaf59bda70f3c0&txTime=6a38b049
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=86536d620dd9019814db1d533be96847&txTime=6a38b049
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782080961-0-0-28a998f8f2f230f7569d3c0db8686a1a
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782082041-0-0-aed0828a09218e9af4c20731d32c10b7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782080961-0-0-10f145b0a3a96be23a41babdaf218c4f
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782082041-0-0-c7913c3d55069c4d047fb295c2656830
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782080961-0-0-0d7e2c2add53a196b441ad470d9637ff
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782082041-0-0-3f2cdff50dab4f0f6b5d7d3a46312994
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782080961-0-0-e712c38e6b9562bb9ec7a8785cd76feb
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782082041-0-0-c65e9158ec916db0907b37e44fd11117
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782080979-0-0-0282d400fca25b7ef7e0408b7aafe81c
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782082041-0-0-06804ff7a72cd5b9220748cd0bd87abe
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782080979-0-0-ced794b2839cf70deb1009bec9721a34
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782082041-0-0-03e3d89628a66953a09083d0698899f7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782080979-0-0-9b9181982da224ca1de6ae5c104ade6c
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782082041-0-0-a3eb6a844e2f059ce886c15a85472b18
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782080979-0-0-aedb017fb0a7d5404646b47173f245ec
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782082041-0-0-c89ce21f06f90cc15c0d506fb38edb31
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) flv
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=a7535ede5be94ba1c9e9bfcb501d768b&txTime=6a38ac11
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=69d2d0c018e4ca159d743247a94a5227&txTime=6a38b049
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=eb23651c4f5c384e58247a66c1e36d60&txTime=6a38ac11
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=5eb1b2458a64faa8f12758b8e371b8a8&txTime=6a38b049
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=a7535ede5be94ba1c9e9bfcb501d768b&txTime=6a38ac11
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=69d2d0c018e4ca159d743247a94a5227&txTime=6a38b049
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=eb23651c4f5c384e58247a66c1e36d60&txTime=6a38ac11
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=5eb1b2458a64faa8f12758b8e371b8a8&txTime=6a38b049
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) flv
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782080961-0-0-be795ee1be21ff73fc39a775b83b1455
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782082041-0-0-b9d73aff611f7da9d52565e3b902cdf0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782080961-0-0-85ef1c0ebeade1d4a29e58148faccfc2
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782082041-0-0-42b5e2197567399c0998edaf0d9c5393
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782080961-0-0-39f3b8db344522ca86e66e2713d55f7a
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782082041-0-0-2c75ac53ef9068abf16fb883e329aa47
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782080961-0-0-27a585f00b37c81cadac928a9bd33cf7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782081321-0-0-17acebc691207097858bff8bbb69f0c5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782081321-0-0-c603c1268859b83e09c0c1a5e9d68c65
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782081321-0-0-e67860c44806549cf4e539e83eaca3b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782081321-0-0-835af92329caa4dde01327a9c3c8b6a4
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782082041-0-0-5e8e8089112bf0c6934c8d82ac60f28b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=1fd20fc2564ce43846c7fe26539ed124&txTime=6a38ad79
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=7004962da955b2d9383ad0be15c8befb&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=3c521f7d54850080398ab698bef7c092&txTime=6a38ad79
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=dee28fa9be448d79631b4dc422c23e1d&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=1fd20fc2564ce43846c7fe26539ed124&txTime=6a38ad79
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7004962da955b2d9383ad0be15c8befb&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3c521f7d54850080398ab698bef7c092&txTime=6a38ad79
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=dee28fa9be448d79631b4dc422c23e1d&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=8d0e8664cf701c51f0b2d8d4dce46ad5&txTime=6a38ad79
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=5a01eac5b83ce39bd456d23dc5c89710&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=ce29e44f020eed86733a57ab8777e7c2&txTime=6a38ad79
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=6c90f51e2fa3385b46c292961c406768&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=8d0e8664cf701c51f0b2d8d4dce46ad5&txTime=6a38ad79
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=5a01eac5b83ce39bd456d23dc5c89710&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=ce29e44f020eed86733a57ab8777e7c2&txTime=6a38ad79
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=6c90f51e2fa3385b46c292961c406768&txTime=6a38b1b1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782082401-0-0-90219d591cf8bad9e6554581e9b0f8b0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782082401-0-0-f217c4d9dd371c39fa176756bd516299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782082401-0-0-141ed0ef84b0c22897a94423bc31d8b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782082401-0-0-5d343194b5d2c01c964c4bd4a0ce6c21
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) flv
-https://pull.niur.live/live/stream-235232_lsd.flv?txSecret=71952fe803d7b0ef5b0374e0480077fb&txTime=6a38ad79
+https://pull.niur.live/live/stream-235232_lsd.flv?txSecret=6d1a8abc51a603b37d2fd560e804dc59&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-235232_lhd.flv?txSecret=e4c9e393c200cb9c8d94341fb22e7d78&txTime=6a38ad79
+https://pull.niur.live/live/stream-235232_lhd.flv?txSecret=a0d817216e185d4ba10d0834368ef606&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) m3u8
-https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=71952fe803d7b0ef5b0374e0480077fb&txTime=6a38ad79
+https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=6d1a8abc51a603b37d2fd560e804dc59&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=e4c9e393c200cb9c8d94341fb22e7d78&txTime=6a38ad79
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=a0d817216e185d4ba10d0834368ef606&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782081321-0-0-0d8bcc7178f2ae381e9cf19f64b84d37
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782082401-0-0-22738dc3d5f960de790e63214211ddff
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782081321-0-0-1511bbd7c609b26bb121bcce7ecfe8bf
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782082401-0-0-391ad940d1048c677674e89101e47a35
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782081321-0-0-0ccba3d1b95f847e4faa1e53c777cb0d
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782082401-0-0-28f98ccf40a1502bcfe4af53d60867b8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782081321-0-0-a0b93790a6757e0afb9fdc0bc82f4ffa
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782082401-0-0-599972eafc61c95c3e86d851eebe7f26
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782081321-0-0-711ef256385d67294d6b9236072cbc7d
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782082401-0-0-55fb881adc8d32844ae5846494d619df
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782081321-0-0-2883d3a8898bfc592882e6e1249c339b
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782082401-0-0-c11ff12e3fc162a0b5c33ad51a4452f8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782081321-0-0-9eb7314c1505cafa6a6988053df8637a
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782082401-0-0-adae3f27653d747a1726ddd0eed55af3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782081321-0-0-e840838a352e5a93770d801052d63195
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782082401-0-0-056ddc59ce3341a4ff8930eb7ee7d693
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782081321-0-0-94b7781c89dcb7b264c9c75c52ed23af
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782082401-0-0-5948c445c5177dfde795b132b2d2088b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782081321-0-0-7b67a98e04e498ddc03a1d65f723a60e
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782082401-0-0-617cd7dfc4d4f3ff018a5d95f3f36963
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782081321-0-0-8133475b6d709888ecf9ba5d534ef67a
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782082401-0-0-61c181137494553d3a6e4f8db8657db7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h15 ngày 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782081321-0-0-54f2541079a7b7246395eacf7b9826bd
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782082401-0-0-057b6530b077ee81d9226f5a74761531
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) flv
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=c41d7c8d00fa3e5ec69de1d4edbc1068&txTime=6a38ad79
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=44371000c7d4e65388f736a764be7f00&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdFlv
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=500a66b5d4cce32fd8ac73a0f2a92160&txTime=6a38ad79
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=b998823eea25a34973e3520a32ed94f0&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c41d7c8d00fa3e5ec69de1d4edbc1068&txTime=6a38ad79
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=44371000c7d4e65388f736a764be7f00&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=500a66b5d4cce32fd8ac73a0f2a92160&txTime=6a38ad79
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b998823eea25a34973e3520a32ed94f0&txTime=6a38b1b1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782081321-0-0-0c58e0e3ecd7040e6fd6717a48e97a21
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782082401-0-0-245a2ff3c34ee84af78a2ed11119641e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782081321-0-0-f67f35d8734e0df6abe250b919346058
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782082401-0-0-2d27f45822beee91f58a6bbd114c45c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782081321-0-0-2cd9d9993284a87188d8433fd9f7a366
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782082401-0-0-f4c72590404bcd45b7bae6902282fd37
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782081321-0-0-6c2b1dacc4a6803761f936ca74bbc888
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782082401-0-0-3e8f8de15157012e0be6ba30dc9d236f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782081321-0-0-50b141d39aa80d365fc2b3192b9a751f
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782082401-0-0-e7e8ba9540ec11a8db773e793bf691a4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782081321-0-0-f7575777a4958c0eeca47cc0eb357416
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782082401-0-0-4195178a0e5ed37009113a0ce889f78a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782081321-0-0-ebd1b306cc46ee5832541746ba32faba
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782082401-0-0-00e2c0cc4ac4148995a1a7e79c8b334f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782081321-0-0-5a6bf32b496515767d89d45043f48dcf
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782082401-0-0-0fe5463de673f582e456a1971021dc0f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782081321-0-0-bb1f64e46680bb67c694ab1355c53350
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782082401-0-0-71c0a16dc5b2e13e776edff8ad1dea84
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782081321-0-0-4b9300fc87a6ecc99fddee91d5b72689
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782082401-0-0-02678f454497dbe99c238cdc81cdafdc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782081321-0-0-f8a3dbac72d1e1954e46addb82d6c199
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782082401-0-0-52c09c083f31c0ea90b9414c549f00bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782081321-0-0-75cd119361717145e4c38fc26590ee09
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782082401-0-0-5804bccdf458edb3bdb5bfd6331208ee
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782081321-0-0-7686c97915c59f2ecc81e576ff76c0ab
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782082401-0-0-52dec94e9704b8acaf1dd863cdb94195
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782081321-0-0-c23062b7407ebcc73949503d02732d66
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782082401-0-0-547181469b35d2c036639691b0f67f35
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782081321-0-0-9457bf6cb016f8a22c98db707d57e1ed
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782082401-0-0-7d9cc35d7e3b8444a04ed9f99e3743ec
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782081321-0-0-fd8ccbe64617b357467011141a65cea5
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782082401-0-0-9c73c2df2a6517c184c020de7b1287ff
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8

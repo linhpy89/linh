@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",23:30 | Thổ Nhĩ Kỳ vs Trung Quốc
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN 1" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 | Belgium vs Iran
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
@@ -53,9 +50,6 @@ https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 | Uruguay vs Cape Verde Islands
 https://alive.yarncdn.live/xctv_blv_quanvu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/YyBklhgl-23Iqqnkk.png",Nữ Thổ Nhĩ Kỳ vs Nữ Trung Quốc
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1.png",Belgium vs Iran
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
@@ -73,6 +67,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8022.png",Alay vs OshMU Aldier
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3538.png",Al Salmiyah vs Al Fahaheel
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",19:00 | Bỉ vs Iran
 https://live05.apusport.com/live/08552895.m3u8
@@ -125,6 +122,21 @@ https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://media.api-sports.io/football/teams/4673.png",08:00 | New Zealand vs Egypt
 https://tqlive.yarncdn.live/live/tqtv_blv_asoi/playlist.m3u8
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Deportivo Madryn vs Los Andes (Lương Sơn) BLV GẤU KA m3u
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Deportivo Madryn vs Los Andes (Lương Sơn) BLV GẤU KA flv
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik (Lương Sơn) BLV PHI HỔ m3u
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
@@ -137,20 +149,47 @@ https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri (Lương Sơn) BLV HEINEKEN flv
 https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Deportivo Madryn vs Los Andes (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV LÃO HẠC flv
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Deportivo Madryn vs Los Andes (Lương Sơn) BLV GẤU KA flv
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV TÀO THÁO m3u
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV TÀO THÁO flv
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs Iran (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Deportes Temuco vs D. Concepcion (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Deportes Temuco vs D. Concepcion (Lương Sơn) BLV NGƯỜI THÉP flv
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -248,258 +287,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782070881-0-0-c68853ffeedeef162b9df47b27036bde
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782070881-0-0-19cb517a3e698bb12e3685abe6f6cfd4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782070881-0-0-a139115df225e2a4ded770f4c3c1df01
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782070881-0-0-645d47a321cb6ea3b4b1d44c7193d5c0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) flv
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=d02f043806370c40225347e1e4d02040&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=886ac72389d73f0339dfc8c11c3a8d15&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=d02f043806370c40225347e1e4d02040&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=886ac72389d73f0339dfc8c11c3a8d15&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=0af517ada683ab42fd77ea5f59e818d5&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=d9e6dbf0efb059237faba46e0a679b8c&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=0af517ada683ab42fd77ea5f59e818d5&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=d9e6dbf0efb059237faba46e0a679b8c&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=441ce2a86b6072a578ba1f8334ef568f&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=0877f5fac68da7a96fc889f95b05eb2e&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=441ce2a86b6072a578ba1f8334ef568f&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0877f5fac68da7a96fc889f95b05eb2e&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) flv
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=0b22269bc9b77d7b18981a05e5764c58&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=3be57030d57a2ea2d5cc262216fde9a8&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) m3u8
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=0b22269bc9b77d7b18981a05e5764c58&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=3be57030d57a2ea2d5cc262216fde9a8&txTime=6a3884b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782070881-0-0-0affcce960b5b81022b5baa00cd049e4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782070881-0-0-95d28cf59249822348ab750c0f6c4d94
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782070881-0-0-cf06ac3844cfd359e970e856ade164e0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782070881-0-0-bfd987a39489ec1bfe97183e2560fa5f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) flv
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782070881-0-0-7f6cda897293173e4f82940fb0e5e6d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782070881-0-0-08a625a42b03c761e80ae828ddebd15f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782070881-0-0-93fbcac4f6e07515d36b19cbb004068b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782070881-0-0-dae8c731f73bbca5f34e207a7e254f99
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782070881-0-0-f10d90245b403208c9c01e5d2dd8a7c6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782070881-0-0-688964d8e48bc9dbbfb66f718baffd1b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782070881-0-0-85ef51065fab19b4839c347017455b99
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782070881-0-0-52ba52bc0f4b7b37313de35015d6104a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782071241-0-0-7172504a0c103c4d4bd70536663fe7e7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782071241-0-0-1034f8db675ebeed0d907fc211ffc513
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782071241-0-0-c09a5eda73a6130fa9f40d007013bc6f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782071241-0-0-98b3d17a3d651b82305094232a509a08
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782071241-0-0-c55e1175e5d9fa29b7d637577de2cbea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782071241-0-0-4c61fe5d40497065951a0ba59b4626f6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782071241-0-0-c7022d2ebd133775d57b505bf6a0f3f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782071241-0-0-eb9c7d2a6fced4809e276f3a7cb1990b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) flv
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=5424e869939be31b157425450bd86673&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=2c43f8df40223c27400f33c3f68c9d85&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=5424e869939be31b157425450bd86673&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=2c43f8df40223c27400f33c3f68c9d85&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) flv
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782071241-0-0-3ed4e0b2f92a51bfa77dab6d6424120f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782071241-0-0-45dd028d9812d87c25d6e86d3f2f6a42
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782071241-0-0-56b9e3c2479674d2610864044460c4e9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782071241-0-0-7512d5180d69232b36413414c7918e58
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782071241-0-0-3cccae60a840fe1dfa1db3fd4aefa5fb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782071241-0-0-070080b90abdbbe0465b6d96e77f5d6d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782071241-0-0-b2707db62e7ea537945a9f74b57b8604
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782071241-0-0-f886fd838c8eda8e0f5f029f8cb413f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=6bcd1f2c3ac8d3853ba66b20b3931c66&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=8714c697f7a870b081eb9ba9a3e2d562&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=6bcd1f2c3ac8d3853ba66b20b3931c66&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8714c697f7a870b081eb9ba9a3e2d562&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782071241-0-0-5a2fbee1369153070adbf3c3e535be62
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782071241-0-0-3583b66b2746920e5412a8e493e8b321
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782071241-0-0-d94b88f3d69478522b4698d4ae07252a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782071241-0-0-04314d1b23233c692fa4fc887e5c6ba9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782071241-0-0-b1367c57b56f7aa83edef86ffb740635
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782071241-0-0-1ed4e8ad492e607e280fccd592774d18
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782071241-0-0-69c53236c026adf4992c888a0db18e02
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782071241-0-0-d540f09b2fde48925ba7f37e01809085
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) flv
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782071241-0-0-9e719cd9154ff4874811f96ae4aed68c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782071241-0-0-6979aaa21231fbc6a7c46356d895b8c3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782071241-0-0-3f702100e5e2d191b68aa41b93101d62
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782071241-0-0-dc8aa253c42b8284779e4ad93bd2d173
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782071241-0-0-21139042d2288ed1103affa04f6e422c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782071241-0-0-6b48e411a5266f9ba31b14eb7a72dc7a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782071241-0-0-8dc23e0027f3aa3ae1a8cd4df9200d07
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782071241-0-0-5317f0ee2ca4d809f57174b10c8b2c83
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV CÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1782071241-0-0-a0c22d52da4061e9626c5e9e1d97afe6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV CÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1782071241-0-0-48995201376f6d1c5eb1da35bad1cbfe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782071241-0-0-75d94f17240a3b8cc7d11a5d336cd616
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782071241-0-0-5d441e8e03c15f6bfeaed0fd008cd4aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV LONG] (Socolive) flv
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=3d64a56b91b71bf04e1442bb46eaacc3&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV LONG] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=5a16045e11f1102df8515ae71a443143&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=3d64a56b91b71bf04e1442bb46eaacc3&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Neman Grodno vs Dinamo Minsk [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=5a16045e11f1102df8515ae71a443143&txTime=6a388619
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782071241-0-0-de542995e27a8ddfec3a2c65fe8a8a31
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782071241-0-0-8cd98d7460704a04f8e41234f380b01d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782071241-0-0-927ea57685024bd5bf86409804a43412
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782071241-0-0-0dcbeedddafb73dc356651565536a5aa
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) flv
 https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=8e0ae57aa16bae2cdc3debc6e712a2c5&txTime=6a388781
 
@@ -548,8 +335,239 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782071601-0-0-fb08
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782071601-0-0-1a31fa4c71564bcf405df1a5d6244696
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782071961-0-0-d994bd3e9fbd5661728e6fe8bfcca45a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782071961-0-0-4cc211ba480b16d1b75d260b4c68ef7d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782071961-0-0-e179c850d6231427a3cc6df80c7e06f6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782071961-0-0-a61e874fd6555cb1879b85f298d29115
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=a0084dc2d2acf97dd3438deff9691470&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=7704b973df94069ac36ac2fd6f454280&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a0084dc2d2acf97dd3438deff9691470&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=7704b973df94069ac36ac2fd6f454280&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) flv
+https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=bcfe9015e2a76c37fa4047ed416b4644&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=4dad5134e3591ac802510d0ef88c114f&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=bcfe9015e2a76c37fa4047ed416b4644&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=4dad5134e3591ac802510d0ef88c114f&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=ab1d9fc7d10a545218175aae0fe459fd&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=b961268f23f7cd96d418b9bbdf90b44d&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=ab1d9fc7d10a545218175aae0fe459fd&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Breidablik vs KA Akureyri [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b961268f23f7cd96d418b9bbdf90b44d&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) flv
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=b104893afbd4c9f4a4e68f0c38e5e1b9&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=d8c6ed63f3b168bb907d2a8ed34fc587&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) m3u8
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=b104893afbd4c9f4a4e68f0c38e5e1b9&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d8c6ed63f3b168bb907d2a8ed34fc587&txTime=6a3888e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782071961-0-0-37ccb7bc0985bc3a94444016215a3181
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782071961-0-0-7fe4ffe74d0738a2b3921498ac3b454d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782071961-0-0-7d257ce44c6821b507b17d61ba59335c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782071961-0-0-93a749427a9d5d33625be9d0a573a1c2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) flv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782071961-0-0-1efa2477a2d0b2b3330ca6e333a56ebe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782071961-0-0-a2a61eb4ac66db316f3f0b5115200021
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782071961-0-0-bb665556b494f5315e3adfc723ee8d21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 IBV Vestmannaeyjar vs Stjarnan Gardabaer [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782071961-0-0-b9b8b0f5615892b2ec5b2f61bb0be27d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782071961-0-0-af796e0573441fd820f052f4f6eb0f4f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782071961-0-0-25817a7c74f301fb1e65529bb6484376
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782071961-0-0-cf9c71667de99b756d8c80aaa1592b91
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782071961-0-0-50aeba5fe7216bad9c14aee3b75e841b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) flv
+https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=5e94b48d14e1817662f550e88f5daa36&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=4c5119890b68d8040d49c58f941695d5&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) m3u8
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=5e94b48d14e1817662f550e88f5daa36&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=4c5119890b68d8040d49c58f941695d5&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782072321-0-0-39c3fb3abc2b7cf11fa6bb24ca6d6493
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782072321-0-0-e52ee28e11c1c7cb349c552a61e5b8b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782072321-0-0-6c5b032270562f77bec4ddce1d7e9e2f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782072321-0-0-f9aa6fd3427062b108d51b61af34036f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=4c9704546396e01d673d36ec9a028cb7&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=74664f1c01508b3292c5c6921d4ff60b&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4c9704546396e01d673d36ec9a028cb7&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=74664f1c01508b3292c5c6921d4ff60b&txTime=6a388a51
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782072321-0-0-4e9b04bd20bad848ac8c4c1d0f095371
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782072321-0-0-d6d5444536333034e51e2fb2cdc87f8e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782072321-0-0-248d8eb2ed08de7bf98d12586f9ff448
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782072321-0-0-3fb8615935f0c337d14016fcf086cfe3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782072321-0-0-c0ba95e33e1c8bbf0a6c468fed14d664
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782072321-0-0-c66e09bcc41b71279a5a3b8525449209
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782072321-0-0-5a9dfdcd8efd49a807bb152df7e3a962
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782072321-0-0-e8e8506601373bc45d83c92c783049cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782072321-0-0-021b443b1a367c75c526b164e7d46651
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782072321-0-0-2cce9f6568bde82257042dc559233fa6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782072321-0-0-f59fcc9c8e87b35d89f41ad7103a0cea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782072321-0-0-8798d171ea44af0c4d5ac2251e609ef3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782072321-0-0-65b482cc47375f3b221411a25f905659
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782072321-0-0-9ac069af6d94df7a922eb15782489f9a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782072321-0-0-137b646054f5c6e2440fb38918fbe870
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782072321-0-0-119d863fb0532994de08ec9989e13a93
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) flv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782072321-0-0-153e58fdbe9a6d3fd3329cf10c06a394
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782072321-0-0-d8f3db7a9d4101441a4b381ed7602ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) m3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782072321-0-0-526218d9a246935f92b62c7ecdb239c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782072321-0-0-c11baad87a31abbdfab8e6caa816a9e2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) flv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782072321-0-0-e8b9a2aaa464beb755d20ee95e499b8c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782072321-0-0-f031f980ac5f0bca88663480b3268290
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782072321-0-0-df2a146ebb5a03943d4736b7979f4cb1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782072321-0-0-a98b501a74dafa63dc84d7a5b51dcb15
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) flv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782072321-0-0-77974c1ee0f47bbfcbf1bfc012c693f5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782072321-0-0-8f5917b8024077efbc16ddb34a0d17c2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782072321-0-0-ab17209c21f04d13aea7ea94075d2ed0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Hafnarfjordur vs Thor Akureyri [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782072321-0-0-ee7a4cf978615d0f3a9e82a9660054eb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782072321-0-0-e029eb6f6fde38c07d9cb145f402eb06
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782072321-0-0-4131141c460969816fdafc9063e1d266
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782072321-0-0-71b62fcf75baa8c270285287d0febf90
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 22/06 Valur Reykjavik vs Keflavik [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782072321-0-0-20ec24d7cdd61e61a3d1821795fd7fe9
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 21/06 Thổ Nhĩ Kỳ vs Trung Quốc (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 21/06 Thổ Nhĩ Kỳ vs Trung Quốc (Hội Quán) HD
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 21/06 Thổ Nhĩ Kỳ vs Trung Quốc (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8

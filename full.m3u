@@ -77,14 +77,14 @@ https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8022.png",Alay vs OshMU Aldier
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",04:00 | Tunisia vs Nhật Bản
+https://live05.apusport.com/live/78905744.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/c58609c3e4b548fdf8e9947bd56ce9c4.png!w80",02:00 | Monterey Bay FC vs El Paso
 https://live05.apusport.com/live/90865415.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/5906bdeda0213116507e89a4897cc904.png!w80",03:00 | Franklin Bulls vs Wellington Saints
 https://live05.apusport.com/live/87379114.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",04:00 | Tunisia vs Nhật Bản
-https://live05.apusport.com/live/78905744.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/7f291910f4d25f651ce0cc1ba097f774.png!w80",06:00 | Olympic FC vs Peninsula Power
 https://live05.apusport.com/live/75915087.m3u8
@@ -134,6 +134,12 @@ https://tqlive.yarncdn.live/live/tqtv_blv_asoi/playlist.m3u8
 #EXTINF:-1 group-title="TAM QUOC TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",23:00 | Tây Ban Nha  vs Ả Rập Xê Út
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United (Lương Sơn) BLV LÃO HẠC flv
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots (Lương Sơn) BLV YẾN THANH m3u
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
@@ -163,12 +169,6 @@ https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC (Lương Sơn) BLV SHIN flv
 https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -338,246 +338,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1782014361-0-0-b440909be2b27ee25cc53d069241f877
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1782014361-0-0-eaf5e3e9a4f4401c2a22846a96c0d8bc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782014361-0-0-324cea5d8de1705ce0fe8e1263c753be
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782014361-0-0-689f43877245892bac63297a4d618513
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782014361-0-0-71b28b27a0deee5678e312ab330ecf5d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782014361-0-0-a8f2f3a0083785045433dfac23b67c9c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782014361-0-0-abd3442450b3a28780f713938ba11b15
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782014361-0-0-676eff1f5b850fc6cee82d170eb53c10
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782014361-0-0-6293ace1bc5421195c0934044eac4b39
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782014361-0-0-df6a412f08adbe1b34a14493da6b6caa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782014361-0-0-926e06928f7c41f275d7e6b61757f2fa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782014361-0-0-2cea6d6b9b2c18363207d6347ba3534d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782014361-0-0-3c0f2fca830e0ce7c76d30ba4644d111
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782014361-0-0-6cc4d0d51f505a10eb1d3a358f6bf9a5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782014361-0-0-359c90bbfef5ea57356aa80848c4953f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782014361-0-0-218033a6d567f035a8a8c4f5dbb6b320
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782014361-0-0-67f9e54935601096637190fb4c1617e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782014361-0-0-0ac1fa15424a50fb70a8edd12f3ee2f2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782014361-0-0-d6225356e0dd7cbffa92c4062bbfe3dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782014361-0-0-d10320eaf4ada277a4ccaf269d0878c7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=fa88774339b24cfc935cee16b2fc3179&txTime=6a37a7fb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=6711d63b7af1a541232fecd3ea9550f0&txTime=6a37a7fb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=fa88774339b24cfc935cee16b2fc3179&txTime=6a37a7fb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6711d63b7af1a541232fecd3ea9550f0&txTime=6a37a7fb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782014361-0-0-9faad08c76ae7f881395cca772db4923
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782014361-0-0-de5a77984e1200c34203aadd55555b0a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782014361-0-0-dd500834f9806d4bfce20c077f1f6a88
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782014361-0-0-f38c5c951c0956cd89b577816e94ba27
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782014361-0-0-2ba085ab17354f5ee064d0812cbe94aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782014361-0-0-1a1d85e4ffdbb206229cfb125f1b01de
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782014361-0-0-1ef0e3bf4d2a486816edfacaf3f4f5f6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782014361-0-0-a78cb7ea569ae44f7db68c2c4ce73f9f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782014361-0-0-72a275d4585648460c1d676110d8906e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782014361-0-0-e150632b6bad34ac1c496f16ca92ac62
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782014361-0-0-fc20fcda7565a07331b29b715771e9ed
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782014361-0-0-161a9a723802f413b4ba7e4b4ecb0aa7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782014721-0-0-efc69226b88f10b9334b32f0958937e1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782014721-0-0-1a0cb4f33c523f66396359374cc365eb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782014721-0-0-522bb9619db492232db9e90158000147
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782014721-0-0-70951c8ec0cf8fc11c39bc7812423c8f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782014721-0-0-ca8e56b4e39d9e229bd8811d1c96c7c2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782014721-0-0-1815651c906f0f517dd96a4bc498954f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782014721-0-0-af0cb81a921d3c14e3779446645b3974
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782014721-0-0-2776541f1de9d58bba0444b84b27a5a8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=89f0638cb55a49cdb1576e71e24adf7f&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=1f27d42d9694e2974dfff3f43a3b346e&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=89f0638cb55a49cdb1576e71e24adf7f&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=1f27d42d9694e2974dfff3f43a3b346e&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1782014721-0-0-5c59c18e1982cbcb3e25ebc279c7d10a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1782014721-0-0-e6dbad943f9b325bcaba08167b77e018
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782014721-0-0-02eb53e214514033cdc7264b132a38d8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782014721-0-0-1ef34c1e7ccb2fcebad0a407a481d1d8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782014721-0-0-d98f5653f6c198ea29b153a745a9e598
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782014721-0-0-6235d1ca82ee3313b0bb276b4d8a20e0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782014721-0-0-d0fac3768f3bfbedb8254d85e4703680
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782014721-0-0-ad8c12ede9de42c89e98d09a90634f89
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782014721-0-0-1b948beb53ab7f01148b1768c81b383c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782014721-0-0-1d0d1bcea3987b77808e5395572c40c4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782014721-0-0-24ac0e76d2932fce2a43a0e41ff3f832
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782014721-0-0-714fa9087e56de8c125d7eddcb2fbfd3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=351bd5fd6a536a274f34fae24ce9e531&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=588205a6c1d6182a82a6983b35328d20&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=351bd5fd6a536a274f34fae24ce9e531&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=588205a6c1d6182a82a6983b35328d20&txTime=6a37a951
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782014721-0-0-90281f75cdd6f72584e2ac7c78fd4642
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782014721-0-0-2b3114ebff083fb28e37c8ad4f4ad4cd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782014721-0-0-004c1427d15255c9028519b231f5936d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782014721-0-0-6130075077b4c4a4dc8d6c95f2e9de23
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782014721-0-0-ca81899dfcf3cf197a361e6a74cbd2f6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782014721-0-0-c274624bbee77916324bd355ae3ff272
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782014721-0-0-8d45718fc9753c0f16fd856cd7b7e277
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782014721-0-0-289411419ddccbcfc80130092e0d971d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782014721-0-0-41ee31c23a55d853faee5904979cdc81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782014721-0-0-19509c0ecc1a8ff25fddcc5630ac06cc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782014721-0-0-7762ef490053b327b1fbc2d227c4ff2a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782014721-0-0-e8944e382119099dfd338c167c8b88da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782014721-0-0-d81538ca212340a9a59be5405f4e9498
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782014721-0-0-2d5b2541b252a941154314241ec3cfa7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782014721-0-0-7a67c2273b43aa587d2b5287c6c41cc9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782014721-0-0-bf68b05be4a5a7172dfc7b6c1cdad7ec
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A BỆU] (Socolive) flv
 https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782015081-0-0-583ff04902db5928c9de9c753412b87c
 
@@ -673,4 +433,280 @@ https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782015081-0-0-3ca4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [CHÍ PHÈO] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782015081-0-0-0ac503ef1f7732324688f45638571318
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=b807643fb90668fa044358fb1a65eae0&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=313a35b996ce25ccc16112fb253503be&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=b807643fb90668fa044358fb1a65eae0&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=313a35b996ce25ccc16112fb253503be&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782015441-0-0-72c1b2b143167d23ee3c68eb601dcf4b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782015441-0-0-f53fb59074b3a931b04291310fb5ed86
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782015441-0-0-7ef1f8f5135b8d5cce618218ac25e5ee
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782015441-0-0-e70f7f52289d725896c3f4bd65cc594f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) flv
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1782015441-0-0-d884fb7b6c3610c3571648f7edf04d58
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1782015441-0-0-b2047edfe41101dbead18d18229ef82b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782015441-0-0-577a93a735599bded73a099e6c3e585b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782015441-0-0-911980194c3be2a1c021e4a462060f2e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) flv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782015441-0-0-95379afc0043ac89d6cd2a47452b8ac7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782015441-0-0-736a12786b6a94f6b873573722d026e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782015441-0-0-6e5437c5e9f5d4fb0d41a000738919f3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782015441-0-0-a97db7ee35b08600c158fd43f0342c17
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5be82ed7eb5dd72f3c66f7be3f131e26&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=78fcb5684a950b448d375a7505480def&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5be82ed7eb5dd72f3c66f7be3f131e26&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=78fcb5684a950b448d375a7505480def&txTime=6a37ac21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782015441-0-0-9754ece942eaac1b9d330588894b2bc1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782015441-0-0-3954e27780e366ec390d3360f6782dfa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782015441-0-0-96ff23db012a32bbd9fdee958e84abbd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782015441-0-0-5cae6c641c08eb632bafdb32deb07073
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) flv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782015441-0-0-9bcd2cea17135b011379d323d75ae694
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782015441-0-0-df7303034f1f92cff3df8b59ceedca17
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782015441-0-0-c9f957eef923f229df17dd7e9950c940
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Las Vegas Lights vs Orange County SC [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782015441-0-0-7e726033e7255eeb871a2d8d14f36792
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782015441-0-0-3adb2f0a881d7300956ebad8dcc9f864
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782015441-0-0-b3945244f81f40bd17a2c090f417170b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782015441-0-0-06d6aa7e965c1546ad61a5eb18dfd61b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782015441-0-0-f9be9e2edd2c84ce0ffb9cdba5593144
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782015441-0-0-bda6f6fe7d163ebc83159c9c8eb6d431
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782015441-0-0-5eb87b2ea903e437c447bb0759fb9f9e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782015441-0-0-af030b29211c8725ffe38e319f958d6b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782015441-0-0-fcec93956e2f0decf2e3b3f6d197a6b9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782015441-0-0-8640827c78ee3a52f1bd910041c201d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782015441-0-0-fecf0c5e1f643c0cff32fecd21f3547f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782015441-0-0-228f06d864b9a322b283a2c949ee2106
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782015441-0-0-1010a7089355efb14f493429d536fc01
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=3d6159d5b9a9d9c015f1bf7b4e0200a8&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=ed02b9b55ee553958ed3dc559edd2ff4&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=3d6159d5b9a9d9c015f1bf7b4e0200a8&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=ed02b9b55ee553958ed3dc559edd2ff4&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1782015801-0-0-bf3a7b300294d515a7cff1164e7098cd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1782015801-0-0-a384b4f2a6c590acd02755bc7886f014
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782015801-0-0-660cb4325c49c42ffdd8e2bce04c67a4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782015801-0-0-1253f4f8ae253a793847e5a7da60048b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [CÔNG CHẤT] (Socolive) flv
+https://pull.niur.live/live/stream-291277_lsd.flv?txSecret=5502326c17206835f7720341cc3ab790&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [CÔNG CHẤT] (Socolive) hdFlv
+https://pull.niur.live/live/stream-291277_lhd.flv?txSecret=ad83f23707b40bb7f01b3caae2782f31&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=5502326c17206835f7720341cc3ab790&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=ad83f23707b40bb7f01b3caae2782f31&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782015801-0-0-4fab14c904392af8eac7cb88ee5834ef
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782015801-0-0-446d8bf6921652cc0661d87022ef9410
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782015801-0-0-91c20b9c7617247f1e09abf17d6f0ae8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782015801-0-0-2094d93236c90012a57409e2f4b1b7af
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782015801-0-0-33e4dbea81ec0cfc422394fefea21ba3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782015801-0-0-068f7e93f4646ccac07b0a5c0a1ebd25
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782015801-0-0-2bbe9312229aabb93b5bac2b7ac20646
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782015801-0-0-d934a40fb914a2f7b4fd08dfdd21bdb4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782015801-0-0-1cd42cc96bc25c2d4ef17fffc3c90193
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782015801-0-0-c8bb0e776c0212621275c4b36d9da4d5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782015801-0-0-f215db81259d426e78cbe6bef7fc939c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782015801-0-0-984624201f28ad6ec75cf87c7ea18306
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782015801-0-0-524e3e39b85406b733c501eeebb17f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782015801-0-0-d1af075ea9443db75fc15a6320b0871f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782015801-0-0-42b5ee6848bc6f60d7db631fef28f3c8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 21/06 Monterey Bay FC vs El Paso Locomotive FC [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782015801-0-0-32922b5b7d8206843bf061f4792dc44a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) flv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782015801-0-0-4ec000c4c763d80afbe2250471e139bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782015801-0-0-0032aa8448ad157aab83cc5e68d5b4c6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782015801-0-0-cdbb653174481d38fb8ca445e69dfbf2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 21/06 Phoenix Rising FC vs Oakland Roots [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782015801-0-0-da326c6a3178148c822334a89c6d6091
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=7f2b8f63c2f102cef73d8027382c5c75&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=fe30aa618d9a5692fb57ad0d37f0c045&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=7f2b8f63c2f102cef73d8027382c5c75&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=fe30aa618d9a5692fb57ad0d37f0c045&txTime=6a37ad89
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782015801-0-0-9b87a439decfd5e3d5eac8d8cd912461
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782015801-0-0-91589e11285fdd768d007d638e0eaf55
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782015801-0-0-52a43179f890c668d54bf1e6ec2cfb8b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h15 ngày 21/06 Kingborough Lions vs South Hobart [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782015801-0-0-2c7205ac6ae58e0ac2331d5224632abc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782015801-0-0-6128f4939798772f0665a91239b87b35
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782015801-0-0-e13e386cdb3763ff66e32413527b2c53
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782015801-0-0-6d6aab730380bb956909e1fb8d876bf3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Franklin Bulls vs Wellington Saints [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782015801-0-0-57c818d54f0334555b288c9fddddfc91
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782015801-0-0-8525ae0cdce0a0f4b5ee588c95d589aa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782015801-0-0-e15eacefe8aca81e5f1bcc99eb17679f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782015801-0-0-3dcd45e62fd4a374cd38ccefb6edae3c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Maitland vs Newcastle Olympic [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782015801-0-0-f469fb13ebfe6a1599957796d9cb63e6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) flv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782015801-0-0-7cff8f0e48d9b861db13053e6aaf406c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782015801-0-0-bf5e003eb62eb5ff58a2f8e4bc1182b3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782015801-0-0-061e8836ad502ccdbaba93ab3500d7d7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 21/06 Sacramento Republic FC vs New Mexico United [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782015801-0-0-f55fdbd882aea818ba776361eb147450
 

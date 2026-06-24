@@ -416,7 +416,7 @@ if __name__ == "__main__":
     # HỘI QUÁN 1
     data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
     # HỘI QUÁN 2
-    data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json")
+    data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json", HỘI QUÁN 2)
     # THIÊN ĐÌNH
     data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
     # XAY CON
@@ -427,12 +427,12 @@ if __name__ == "__main__":
     data += process_cala_tv()
     # TAM QUOC TV
     data += process_tamquoc_tv()
-    # LƯƠNG SƠN TV
-    data += process_luongson_tv("https://apithethao1.vercel.app/luongsontv")
+    # GIỜ VÀNG TV
+    data += process_giovang_tv("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
     # QUE CHOA TV
-    data += process_quechoa_tv("https://apithethao1.vercel.app/quechoatv")
+    data += process_quechoa_tv("https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/output.json", "QUÊ CHOA")
     # FPT SPORT
-    data += load_fpt_sport("https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u")
+    data += load_fpt_sport("https://raw.githubusercontent.com/Bacbenny/testtieulam/refs/heads/main/output/iptv.m3u", "TIẾU LÂM TV")
     
     # WRITE
     live_data = write_files(data)

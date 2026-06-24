@@ -72,7 +72,7 @@ def process_standard(url, group):
                 pass
         for c in item.get("fixtureCommentators", []):
             comm = c.get("commentator", {})
-            blv_name = comm.get("name", "Chính")  # Lấy tên BLV từ API
+            blv_name = comm.get("name", "Chính")
             stream = pick_stream(comm.get("streams", []))
             if not stream:
                 continue
@@ -87,8 +87,8 @@ def process_standard(url, group):
             break
     return out
 
-# ================= HỘI QUÁN 2 =================
-def process_hoiquan2(url):
+# ================= HỘI QUÁN 2 / GIỜ VÀNG TV =================
+def process_hoiquan2(url, group_name="HỘI QUÁN 2"):
     out = []
     data = fetch_json(url)
     for group in data.get("groups", []):
@@ -102,7 +102,7 @@ def process_hoiquan2(url):
                     stream_url = links[0].get("url")
             out.append({
                 "time": dt,
-                "group": "HỘI QUÁN 2",
+                "group": group_name,
                 "title": ch.get("name"),
                 "logo": ch.get("image", {}).get("url", ""),
                 "url": stream_url,
@@ -194,8 +194,8 @@ def process_tamquoc_tv():
         })
     return out
 
-# ================= LUONG SON TV =================
-def process_luongson_tv(url):
+# ================= LUONG SON TV / QUE CHOA TV =================
+def process_quechoa_tv(url, group_name="QUECHOA TV"):
     out = []
     data = fetch_json(url)
     for group in data.get("groups", []):
@@ -204,7 +204,7 @@ def process_luongson_tv(url):
             logo = ch.get("image", {}).get("url", "")
             title = ch.get("name", "")
             for src in ch.get("sources", []):
-                blv_name = src.get("name", "Chính")  # Lấy tên BLV từ luồng phát của Lương Sơn
+                blv_name = src.get("name", "Chính")
                 for content in src.get("contents", []):
                     for stream in content.get("streams", []):
                         links = stream.get("stream_links", [])
@@ -212,33 +212,7 @@ def process_luongson_tv(url):
                             stream_url = links[0].get("url")
                             out.append({
                                 "time": dt,
-                                "group": "LƯƠNG SƠN TV",
-                                "title": title,
-                                "logo": logo,
-                                "url": stream_url,
-                                "blv": blv_name
-                            })
-    return out
-
-# ================= QUE CHOA TV =================
-def process_quechoa_tv(url):
-    out = []
-    data = fetch_json(url)
-    for group in data.get("groups", []):
-        for ch in group.get("channels", []):
-            dt = datetime.now()
-            logo = ch.get("image", {}).get("url", "")
-            title = ch.get("name", "")
-            for src in ch.get("sources", []):
-                blv_name = src.get("name", "Chính")  # Lấy tên BLV từ luồng phát của Quê Choa
-                for content in src.get("contents", []):
-                    for stream in content.get("streams", []):
-                        links = stream.get("stream_links", [])
-                        if links:
-                            stream_url = links[0].get("url")
-                            out.append({
-                                "time": dt,
-                                "group": "QUECHOA TV",
+                                "group": group_name,
                                 "title": title,
                                 "logo": logo,
                                 "url": stream_url,
@@ -247,7 +221,7 @@ def process_quechoa_tv(url):
     return out
 
 # ================= LOAD FPT SPORT =================
-def load_fpt_sport(url):
+def load_fpt_sport(url, group_name="FPT SPORT"):
     out = []
     try:
         r = session.get(url, timeout=15)
@@ -259,8 +233,8 @@ def load_fpt_sport(url):
             elif line.startswith("http"):
                 out.append({
                     "time": datetime.now(),
-                    "group": "FPT SPORT",
-                    "title": title if title else "FPT SPORT",
+                    "group": group_name,
+                    "title": title if title else group_name,
                     "logo": "",
                     "url": line.strip(),
                     "blv": "FPT"
@@ -294,7 +268,7 @@ def write_files(data):
     with ThreadPoolExecutor(max_workers=20) as executor:
         futures = {}
         for extinf, url, item in items:
-            if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV"]:
+            if item["group"] in ["HỘI QUÁN 2", "LƯƠNG SƠN TV", "QUECHOA TV", "GIỜ VÀNG", "QUÊ CHOA"]:
                 tv += extinf + f"{url}\n\n"
                 live_items.append(item)
             else:
@@ -355,8 +329,6 @@ def write_json(data):
 
         label_text = "● Live" if item.get("url") else "⏳ Chưa live"
         label_color = "#ff0000" if item.get("url") else "#d54f1a"
-
-        # Đọc tên BLV động đã bóc tách từ các hàm xử lý dữ liệu bên trên
         blv_real_name = item.get("blv", "F")
 
         channel_id = f'{group_id}-{item["time"].strftime("%H%M%S")}'
@@ -388,7 +360,7 @@ def write_json(data):
                     "name": item["title"],
                     "streams": [{
                         "id": channel_id,
-                        "name": blv_real_name,  # <--- Đã sửa đổi hiển thị tên BLV động tại đây
+                        "name": blv_real_name,
                         "stream_links": [{
                             "id": "lnk-1",
                             "name": "Link 1",
@@ -416,7 +388,7 @@ if __name__ == "__main__":
     # HỘI QUÁN 1
     data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
     # HỘI QUÁN 2
-    data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json", HỘI QUÁN 2)
+    data += process_hoiquan2("https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json", "HỘI QUÁN 2")
     # THIÊN ĐÌNH
     data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
     # XAY CON
@@ -428,7 +400,7 @@ if __name__ == "__main__":
     # TAM QUOC TV
     data += process_tamquoc_tv()
     # GIỜ VÀNG TV
-    data += process_giovang_tv("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
+    data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
     # QUE CHOA TV
     data += process_quechoa_tv("https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/output.json", "QUÊ CHOA")
     # FPT SPORT

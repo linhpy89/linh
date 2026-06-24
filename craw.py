@@ -402,7 +402,7 @@ if __name__ == "__main__":
     # GIỜ VÀNG TV
     data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
     # QUE CHOA TV
-    data += process_quechoa_tv("https://raw.githubusercontent.com/jasminliu98/quechoa-stream/refs/heads/main/output.json", "QUÊ CHOA")
+    data += process_quechoa_tv("https://raw.githubusercontent.com/huybuonvp/xem_football/refs/heads/main/All_CHANNEL.json", "QUÊ CHOA")
     # FPT SPORT
     data += load_fpt_sport("https://raw.githubusercontent.com/Bacbenny/testtieulam/refs/heads/main/output/iptv.m3u", "TIẾU LÂM TV")
     

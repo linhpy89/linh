@@ -44,9 +44,6 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",19:00 | Beijing Guoan vs Wuhan Three Towns
-https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://media.api-sports.io/football/teams/587.png",21:00 | Mariehamn vs Inter Turku
 https://alive.yarncdn.live/xctv_blv_vanca/tracks-v2a1/mono.m3u8
 
@@ -57,10 +54,10 @@ https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",04:00 | Panama vs England
-https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",U18 Việt Nam vs U18 Indonesia
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="XAY CON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",04:00 | Panama vs England
+https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/840.png",Henan Jianye vs SHANGHAI SIPG
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
@@ -70,6 +67,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/trgkvtFa-p8cOXAXu.png",Bulgaria - Canada 
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/wj9uZvn_vZrelLFGH8fnPA_96x96.png",Mỹ vs Nhật Bản
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/11.png",Panama vs Anh
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
@@ -83,6 +83,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80",11:35 | Henan Songshan Longmen vs Shanghai Port
 https://live05.meung.app/live/08552895.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",12:00 | Beijing Guoan vs Wuhan Three Towns
+https://live05.meung.app/live/78905744.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80",11:35 | Shenzhen Peng City vs Chengdu Rongcheng
 https://live05.meung.app/live/90865415.m3u8
 
@@ -91,9 +94,6 @@ https://live05.meung.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f6526b5434c06d7a6da4a9193fdac95e.png!w80",11:00 | Ilves vs SJK
 https://live05.meung.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",12:00 | Beijing Guoan vs Wuhan Three Towns
-https://live05.meung.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png!w80",12:00 | Tongliangloong vs Tianjin Jinmen Tiger
 https://live05.meung.app/live/87547578.m3u8
@@ -236,17 +236,173 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",[23:00] Montenegro U17 vs Denmark U17 | BLV Táo Kinh Tế(A Tích)
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",🟢 09:00 27/06 ⚽ Vietnam W vs Indonesia W (Chuối Tây) [HD1] [hls]
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",[17:00] Chuncheon Citizen vs Yangpyeong | BLV XUÂN TÓC ĐỎ
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6402daeb26bfbf8d269045e72f61efba&txTime=6a400f7a
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",🟢 09:00 27/06 ⚽ Vietnam W vs Indonesia W (Chuối Tây) [HD2] [flv]
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",[17:00] Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782565202-0-0-d5a90462cc89c6d3e5db13106aa21d81
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",🟢 09:00 27/06 ⚽ Vietnam W vs Indonesia W (Chuối Tây) [FHD1] [hls]
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",[17:00] Chuncheon Citizen vs Yangpyeong | BLV CÁP
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782565113-0-0-8c92b8cce1fe8e1450711517bff92550
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",🟢 09:00 27/06 ⚽ Vietnam W vs Indonesia W (Chuối Tây) [FHD2] [flv]
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",[17:00] Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782564861-0-0-ba06a00cce5032386e57668359a4863f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",[17:00] Ulsan Citizens vs Mokpo City | BLV VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=35b1f7124b22e3d906387b29405ab99c&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV TAP
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=5426ff3bb1442d568b5b88c819b66eb6&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV RICKHANTER
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782565162-0-0-cc9fcc9b31c5f546f3bef70a8a53f48a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV MESSI
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782565162-0-0-2e26ce1c782dc597580a6ed1473d07da
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV PICK
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782565162-0-0-80196ed9c7fa132ba0cdde050e636144
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV CÁO
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782565162-0-0-5ed2bb3e3f4140a6334a3469319a78e7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV THÓC
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1782565162-0-0-f531f13b43e16a009ee120f0dcb1eda1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV Củ Cải
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782565162-0-0-f04dab8de843ba61850c433b189a559c
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV CƠM CHÁY
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782565162-0-0-c465f24d0f68ad673bc3c89b69df8771
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV RÔSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=636963949ea4bc3dcf01405e02e74bd9&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=0586945936044458476e80e23b62ea81&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV TOMIA
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782565162-0-0-8849d176801f748eee43d7fd1f927159
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV HẢI THANH
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782565162-0-0-9900ee8ce3e058565bb3204fb61b3d2d
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV PEWPEW
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782565162-0-0-e3da47509e7d8d944ffb15caf22825ad
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782565162-0-0-fd6d84640469e21771e4326ca3d944bc
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV BEN 10
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782565162-0-0-0a0f9bf75fb37621cc1928c06abf79f1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV VOI
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782565162-0-0-d2981577b79ae206dc25dd59954dd7a4
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV VITAMIN
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782565162-0-0-d786701adc6f90e7a28a45883a9b874f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782565162-0-0-ff2d93ce50272c957d0ecefa3a2dca68
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV LOKA
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782565162-0-0-fb6171a56e6c35e608c226a6389710e5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782565162-0-0-c38a562e867366aa79ee8a23a86170c0
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV ĐỐM
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782565162-0-0-c1d8d6657d872d18fd11f194ae04b511
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",[19:00] Okzhetpes vs FC Kairat Almaty | BLV XO
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782565162-0-0-40693f061ee246103510c114c78937f0
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",[19:00] Okzhetpes vs FC Kairat Almaty | BLV A TINH
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5b6d7bed521e8c020bcf5cff7512b61c&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LONG
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782565162-0-0-0aec66d2c4e32be81cbc5eb6343520fe
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV WUKONG
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=41d0c7588c67c40d81e84d69d4811671&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV ĐỖ TÚ TÀI
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782565162-0-0-57f8a91fbcf80ba0292da83996a46566
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CÔNG CHẤT
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782565162-0-0-7b16597dfc087589ac2e3334d306ce1b
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV FIREMAN
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782565162-0-0-2fe24cda321e541d8d04fb640d4b01ea
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV DECO
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782565162-0-0-ec214b13aad19b71b17a4a6d2047f167
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LUCAS
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782565162-0-0-ce02fbf0f4e69365e62e3b85931c1fbd
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV LOGAN
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=21bd46cbc0dded3470bd9188afc24264&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=faa316d825d2b1250b125016985e82ef&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=43c9756e7b80337e16c82c9aefcb76fc&txTime=6a400f7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV CÒ
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782565162-0-0-daaab55a4be165ede32205a6a7135e43
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/7d75ed19ac9f69032f8f28c5042884fa.png",[20:00] Ljungskile vs Orebro | BLV HÀ DUY KIÊN
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782561636-0-0-cf7504ed73ef2d051c06a4a1255bb203
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2d3b4b76b817e2b6baf577d81e5202ff.png",[20:00] JIPPO vs Ekenas IF | BLV QUÂN JK
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782554111-0-0-e3a6dbe5140af421b42f1a8b82af76f5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/8f6bf2380ca247701363aea740436054.png",[20:00] FC Haka vs KTP Kotka | BLV 24H
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782503521-0-0-2703d23ff73b3dca0bc926e755c7ffb2
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/8f6bf2380ca247701363aea740436054.png",[20:00] FC Haka vs KTP Kotka | BLV QUỐC KHÁNH
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782556145-0-0-1df5fb4f0d79804db7cee25e0b426324
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2b927f81d1824929eae83d2dbb4fad5e.png",[20:00] Varbergs BoIS FC vs Osters IF | BLV ANH TÀI
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782559369-0-0-0ffea6bea1e28290bf6d8515e5ad8059
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2b927f81d1824929eae83d2dbb4fad5e.png",[20:00] Varbergs BoIS FC vs Osters IF | BLV KÉP
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782561281-0-0-071bec38989d7f81ae3f5eb952ea6e34
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5b7c851a3ed1b51ae89753d57357bca6.png",[20:30] Maxline Vitebsk vs Naftan Novopolotsk | BLV GIÓ
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782560183-0-0-f98f86804d373c9ed2e02de4a929b59f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/b27e4733647c3c70359e3ec6e7cc01ec.png",[21:00] HJK Helsinki vs KuPs | BLV COZY
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782556095-0-0-c857e942bb43a0b2b11b8fa16f3f72f5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/b27e4733647c3c70359e3ec6e7cc01ec.png",[21:00] HJK Helsinki vs KuPs | BLV ROBBEN
+https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=1ac1ae31d31bc55a469b039dd195c49e&txTime=6a3faf39
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV RYO
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782557833-0-0-8ac50a97ac8019eec0e64d7a5d994969
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV CUỘI
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782550757-0-0-b121fa8323e0e5f01a9c33337fe89aee
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV GÔN
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=284ba66e4bee0605b66f7c67914822d2&txTime=6a3fbc06
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV XUÂN SON
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=159d77574c203609ef9d3b7560ede490&txTime=6a400135
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV A TÚ
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782548724-0-0-1c4ce2d92003d9d9286aaf4a83e65fcd
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/51a9376b3bf465fad57501e62ca0b505.png",[21:00] Operario Ferroviario PR vs America MG | BLV KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8a35b889b8bf1b682b83b60bcf3bcc02&txTime=6a3ff115
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/8b00258daff515d48cc9f7263e6bdd23.png",[21:30] USA U17 vs France U17 | BLV KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782527504-0-0-93ab1a9aa2eb6d978131be3459b847ee
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/cf22105a7598cd1c725ac20695c98fef.png",[22:00] FK Kaspyi Aktau vs FK Atyrau | BLV A WIN
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782543425-0-0-346c23f21b70029e25d5ae85ff700ac0
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133643_29738427.png",🟢 11:00 27/06 ⚽ Shenyang Urban vs Shandong Luneng (Chuối To) [HD1] [hls]
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
@@ -320,6 +476,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20251115_123053_fc9cbefe.png",15:00 27/06 ⚽ Poland vs Germany (Chuối Già) [FHD2] [flv]
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20251115_123054_e67768f5.png",15:00 27/06 ⚽ USA vs Japan (Chuối Tây) [HD1] [hls]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20251115_123054_e67768f5.png",15:00 27/06 ⚽ USA vs Japan (Chuối Tây) [HD2] [flv]
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20251115_123054_e67768f5.png",15:00 27/06 ⚽ USA vs Japan (Chuối Tây) [FHD1] [hls]
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/20251115_123054_e67768f5.png",15:00 27/06 ⚽ USA vs Japan (Chuối Tây) [FHD2] [flv]
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130558_e740ba93.png",15:00 27/06 ⚽ Kaspiy vs Atyrau (Trốc Tru) [HD1] [hls]
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
@@ -332,80 +500,59 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130558_e740ba93.png",15:00 27/06 ⚽ Kaspiy vs Atyrau (Trốc Tru) [FHD2] [flv]
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",[16:00] Việt Nam vs Indonesia | BLV Kaka
-https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/5684.png",[18:00] Shenyang Urban vs Shandong Luneng | BLV PHAN PHÉP
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",[16:00] Việt Nam vs Indonesia | BLV Kaka
-https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/840.png",[18:35] Henan Jianye vs SHANGHAI SIPG | BLV PHAN HÀ LINH
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",[16:00] Việt Nam vs Indonesia | BLV Kaka
-https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/840.png",[18:35] Henan Jianye vs SHANGHAI SIPG | BLV PHAN HÀ LINH
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/5684.png",[18:00] Shenyang Urban vs Shandong Luneng | BLV Tày
-https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV PHAN ANH
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/5684.png",[18:00] Shenyang Urban vs Shandong Luneng | BLV Tày
-https://alive.yarncdn.live/kda-blv-tay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV PHAN ANH
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/5684.png",[18:00] Shenyang Urban vs Shandong Luneng | BLV Tày
-https://alive.yarncdn.live/kda-blv-tay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://www.englisch-hilfen.de/images/flags/248.gif",[22:00] Mỹ vs Nhật Bản | BLV PHAN HẢI
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Mơ
-https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://www.englisch-hilfen.de/images/flags/248.gif",[22:00] Mỹ vs Nhật Bản | BLV PHAN HẢI
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Mơ
-https://alive.yarncdn.live/live/kda-blv-mo/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s",[22:30] Ba Lan vs Đức | BLV PHAN BỐNG
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Mơ
-https://alive.yarncdn.live/live/kda-blv-mo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s",[22:30] Ba Lan vs Đức | BLV PHAN BỐNG
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",[19:00] Thái Lan vs Philippines | BLV Núi
-https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/2082.png",[23:00] Gnistan vs VPS | BLV PHAN CA
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",[19:00] Thái Lan vs Philippines | BLV Núi
-https://alive.yarncdn.live/kda-blv-nui/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/2082.png",[23:00] Gnistan vs VPS | BLV PHAN CA
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",[19:00] Thái Lan vs Philippines | BLV Núi
-https://alive.yarncdn.live/kda-blv-nui/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN MÃ
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Isco
-https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN MÃ
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Isco
-https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN QUẨY
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Isco
-https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN QUẨY
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",[22:00] Ba Lan vs Đức | BLV T-Rex
-https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV LƯƠNG BỔNG
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",[22:00] Ba Lan vs Đức | BLV T-Rex
-https://alive.yarncdn.live/kda-blv-t-rex/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV LƯƠNG BỔNG
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",[22:00] Ba Lan vs Đức | BLV T-Rex
-https://alive.yarncdn.live/kda-blv-t-rex/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Siêu Gáy
-https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Siêu Gáy
-https://alive.yarncdn.live/live/kda-blv-nhattinhngao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Siêu Gáy
-https://alive.yarncdn.live/live/kda-blv-nhattinhngao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Dế Lửa
-https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Dế Lửa
-https://alive.yarncdn.live/kda-blv-delua/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Dế Lửa
-https://alive.yarncdn.live/kda-blv-delua/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://static.flashscore.com/res/image/data/default.png",🟢 09:00 27/06 🏐 Việt Nam vs  Indonesia (BLV TRẠNG NGỐ)
-https://pull.asynccdn.com/live/dcb7db41622345a6a28d3e2ddbaf2d16/index.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",[04:00] Panama vs Anh | BLV COCA
+https://live05.meung.app/live/24561735.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://static.flashscore.com/res/image/data/default.png",🟢 11:00 27/06 ⚽ Liaoning Tieren vs Shandong Taishan (BLV TRẠNG BÉO)
 https://lilive1.eu.cc/live/047fc83d929cfc3111d2cf235ac69195/playlist.m3u8
@@ -548,236 +695,8 @@ https://pull.asynccdn.com/live/06fc1174df8d4061bd1b34b94c2884c2/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://static.flashscore.com/res/image/data/default.png",🟢 13:00 29/06 ⚽ Al Nejmeh SC vs Racing Beirut (BLV TRẠNG TỒ)
 https://pull.asynccdn.com/live/bd63c2c51c914bae8ba1a18994dfdf36/index.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/5684.png",[18:00] Shenyang Urban vs Shandong Luneng | BLV PHAN PHÉP
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/840.png",[18:35] Henan Jianye vs SHANGHAI SIPG | BLV PHAN HÀ LINH
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/840.png",[18:35] Henan Jianye vs SHANGHAI SIPG | BLV PHAN HÀ LINH
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV PHAN ANH
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV PHAN ANH
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://www.englisch-hilfen.de/images/flags/248.gif",[22:00] Mỹ vs Nhật Bản | BLV PHAN HẢI
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://www.englisch-hilfen.de/images/flags/248.gif",[22:00] Mỹ vs Nhật Bản | BLV PHAN HẢI
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s",[22:30] Ba Lan vs Đức | BLV PHAN BỐNG
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s",[22:30] Ba Lan vs Đức | BLV PHAN BỐNG
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/2082.png",[23:00] Gnistan vs VPS | BLV PHAN CA
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/2082.png",[23:00] Gnistan vs VPS | BLV PHAN CA
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN MÃ
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN MÃ
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN QUẨY
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV PHAN QUẨY
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV LƯƠNG BỔNG
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV LƯƠNG BỔNG
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",[17:00] Chuncheon Citizen vs Yangpyeong | BLV XUÂN TÓC ĐỎ
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=943a5d2c62fe0a26c33e2d4fc43e6b9a&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",[17:00] Ulsan Citizens vs Mokpo City | BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=96eb1a98af156e0ab6442555dab720e1&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",[17:00] Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782563962-0-0-d233c27e2783d67017532c8607364580
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",[17:00] Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782563962-0-0-d974b0ec8dee05617b471db25abbd59b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",[17:00] Chuncheon Citizen vs Yangpyeong | BLV CÁP
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782563962-0-0-f12717c0a7d1378176c3419eaf67f16c
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c7e5946630b71320089bc6997d0d7e42&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV PICK
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782563962-0-0-7b11321003b79fa7279089a562e0d66b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV RÔSI
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=10fda105f2f09a92c082ba2ad937f2f3&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV THÓC
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1782563962-0-0-e63eeae793e633563880b5e692e2c505
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV MESSI
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782563962-0-0-c0b47588cf4fc512042d18dcce990eee
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=cffeb6a791c492b49316e1a629e6ca73&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV CƠM CHÁY
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782563962-0-0-7c5c50bb118529964cb3cf73ce48f57d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV CÁO
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782563962-0-0-54b1521e39b5048cff9bdc8472c7eb0c
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782563962-0-0-d59d4e4737c689a65af1ad387bb6baa0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV RICKHANTER
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782563962-0-0-24b275e59d257545ec786f2f3a7d269c
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV ĐỐM
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782563962-0-0-e2abacf3246905ff1b54405ec08400c6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782563962-0-0-27afa70ee3524df686bee72323bbe2e3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV HẢI THANH
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782563962-0-0-ffcbe46936d786f19157db7053e719c2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV PEWPEW
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782563962-0-0-f6d6edb48d6cc5ebc1af2efe2f3b6b4e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782563962-0-0-e91e9b57d676e5cfbb2c9847959937e4
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",[18:35] Henan FC vs Shanghai Port | BLV BEN 10
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782563962-0-0-4a365632444e0db2e194d7db9afa6252
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782563962-0-0-6c801b5292b08e5ca161565eda683a4e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV VITAMIN
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782563962-0-0-cab059bf2583c6590e0c2d68a431faac
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782563962-0-0-d4fdff6de61b11ec7bd9bc35b6f300b3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782563962-0-0-1a17bc41d02de3c6b3cd403124bdd83f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",[18:35] Shenzhen Peng City vs Chengdu Rongcheng | BLV LOKA
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782563962-0-0-1f0431da2f72591646cd1e057ae0cd49
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",[19:00] Okzhetpes vs FC Kairat Almaty | BLV XO
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782563962-0-0-87a29d446a6957b494ca4bccb536ba3f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LONG
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782563962-0-0-7d7d2fd14705f27b30d531eacb4971da
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",[19:00] Okzhetpes vs FC Kairat Almaty | BLV A TINH
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=64ff8607c12ccc5388c1e48b06632e42&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV WUKONG
-https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=08e96e7f68976152b012e721136204f3&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV ĐỖ TÚ TÀI
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782563962-0-0-0094902f66300f6ff6ad6b0a3b8f2efb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CÔNG CHẤT
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782563962-0-0-d79bd7c5407492e1b9d7aa129540fd7f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=92e31f624d1ab0003c8fb3a3bbd9d966&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV FIREMAN
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782563962-0-0-17c4e3a90874541145708d09a181e637
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=1697a4587969b71bdd8c63f980dae15d&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782563962-0-0-aa57663122c1263e01020c37bea35f61
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",[19:00] Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782563962-0-0-c0472849812fafc2ea76761f46805c9c
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=49867d0ba8545372cd02fa4d00bde08b&txTime=6a400aca
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV DECO
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782563962-0-0-c943692a24be5cd6abd6dfed0323b264
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2b927f81d1824929eae83d2dbb4fad5e.png",[20:00] Varbergs BoIS FC vs Osters IF | BLV KÉP
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782561281-0-0-071bec38989d7f81ae3f5eb952ea6e34
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/8f6bf2380ca247701363aea740436054.png",[20:00] FC Haka vs KTP Kotka | BLV 24H
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782503521-0-0-2703d23ff73b3dca0bc926e755c7ffb2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/7d75ed19ac9f69032f8f28c5042884fa.png",[20:00] Ljungskile vs Orebro | BLV HÀ DUY KIÊN
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782561636-0-0-cf7504ed73ef2d051c06a4a1255bb203
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2b927f81d1824929eae83d2dbb4fad5e.png",[20:00] Varbergs BoIS FC vs Osters IF | BLV ANH TÀI
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782559369-0-0-0ffea6bea1e28290bf6d8515e5ad8059
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2d3b4b76b817e2b6baf577d81e5202ff.png",[20:00] JIPPO vs Ekenas IF | BLV QUÂN JK
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782554111-0-0-e3a6dbe5140af421b42f1a8b82af76f5
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/8f6bf2380ca247701363aea740436054.png",[20:00] FC Haka vs KTP Kotka | BLV QUỐC KHÁNH
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782556145-0-0-1df5fb4f0d79804db7cee25e0b426324
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5b7c851a3ed1b51ae89753d57357bca6.png",[20:30] Maxline Vitebsk vs Naftan Novopolotsk | BLV GIÓ
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782560183-0-0-f98f86804d373c9ed2e02de4a929b59f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV RYO
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782557833-0-0-8ac50a97ac8019eec0e64d7a5d994969
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/b27e4733647c3c70359e3ec6e7cc01ec.png",[21:00] HJK Helsinki vs KuPs | BLV COZY
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782556095-0-0-c857e942bb43a0b2b11b8fa16f3f72f5
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/b27e4733647c3c70359e3ec6e7cc01ec.png",[21:00] HJK Helsinki vs KuPs | BLV ROBBEN
-https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=1ac1ae31d31bc55a469b039dd195c49e&txTime=6a3faf39
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=159d77574c203609ef9d3b7560ede490&txTime=6a400135
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV A TÚ
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782548724-0-0-1c4ce2d92003d9d9286aaf4a83e65fcd
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV CUỘI
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782550757-0-0-b121fa8323e0e5f01a9c33337fe89aee
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/71df9fd6998dfeae684f94a7dd53c596.png",[21:00] IFK Mariehamn vs Inter Turku | BLV GÔN
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=284ba66e4bee0605b66f7c67914822d2&txTime=6a3fbc06
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/51a9376b3bf465fad57501e62ca0b505.png",[21:00] Operario Ferroviario PR vs America MG | BLV KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=8a35b889b8bf1b682b83b60bcf3bcc02&txTime=6a3ff115
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/8b00258daff515d48cc9f7263e6bdd23.png",[21:30] USA U17 vs France U17 | BLV KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782527504-0-0-93ab1a9aa2eb6d978131be3459b847ee
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/cf22105a7598cd1c725ac20695c98fef.png",[22:00] FK Kaspyi Aktau vs FK Atyrau | BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782543425-0-0-346c23f21b70029e25d5ae85ff700ac0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/20363_166849190488.png",[17:00] Ugyen Academy vs Thimphu City | BLV LÝ QUỲ
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/9451_1gw8ppsgvw1e.png",[17:00] Boeun Sangmu (W) vs Hyundai Steel Red Angels (W) | BLV TÀO THÁO
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/34329_20200322173249.jpg",[17:00] Changnyeong (W) vs Sejong Gumi Sportstoto (W) | BLV FERNANDO
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1997_165724438863.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1997_165724438863.png",[18:00] Ilves Tampere vs SJK Seinajoen | BLV DƯƠNG CHÍ
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/23781_1hrgchqnbje.png",[18:00] Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG LUÂN
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
@@ -785,74 +704,155 @@ https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/8025_1gtqm3gw3d1t.png",[18:00] Volna Pinsk vs FK Bumprom | BLV PHI HỔ
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/61437_1jywmqcwe01r.png",[18:30] Guangdong GZ-Power vs ShanXi Union | BLV LIO
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/2034_1h746nqsp62g.png",[18:30] FC Torpedo Zhodino vs BATE Borisov | BLV GẤU KA
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png",[18:35] Henan Football Club vs Shanghai Port | BLV SHIN
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/61437_1jywmqcwe01r.png",[18:30] Guangdong GZ-Power vs ShanXi Union | BLV LIO
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/34003_1j0ytnk9yw25.png",[18:35] Shenzhen Xinpengcheng vs Chengdu Rongcheng FC | BLV TÔN LẬP
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png",[18:35] Henan Football Club vs Shanghai Port | BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/36_1jr565tbs5z.png",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV LÝ ỨNG
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.gvapi.cc/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png!w80",[04:00] Panama vs Anh | BLV COCA
-https://live05.meung.app/live/24561735.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png",[19:00] Chongqing Tonglianglong vs Tianjin Tigers | BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/1c4ae95c663ed84758a04627451e3470.png!w80",[18:00] Shenyang Urban FC vs Shandong Taishan | BLV SHIO
-https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1782560404-0-0-b8e5a4aa8373485b7907aaca02bf73f8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/e7af298237651113dfeafc32ff734a24.png!w80",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV AKHOI
-https://pull.vod2gwuskh.com/xem/83f34460.m3u8?auth_key=1782560404-0-0-e5fcc7b950b88ac1f4bcc388f8107945
+https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1782561604-0-0-a934d4dbdc11cbeae1e819ea3436c61c
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/fd1a9c51505300dec9c26e5847114851.png!w80",[21:00] HJK vs CLB KuPs | BLV CAM
-https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1782560404-0-0-e4784730ec3ef439fedfd00a6559ff5a
+https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1782561604-0-0-b6411b64781e1677651f5d595152281c
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80",[23:00] CLB Gnistan Helsinki vs CLB Vaasa VPS | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/4d22136e.m3u8?auth_key=1782560404-0-0-d15afeeb07e9d108d7caa12142ae4082
+https://pull.vod2gwuskh.com/xem/4d22136e.m3u8?auth_key=1782561604-0-0-16e1cf16f2fb86fbfb81c3d27b4d1ceb
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/a1b3eb19ca424555b5c61384059d21f7.png!w80",[04:00] Croatia vs Ghana | BLV SHIO
-https://pull.vod2gwuskh.com/xem/bd21307b.m3u8?auth_key=1782560404-0-0-0ffc70b481f5e84c0e034c9f42c74ab1
+https://pull.vod2gwuskh.com/xem/bd21307b.m3u8?auth_key=1782561605-0-0-9b6c6be79c58e82d6c883d2ce5a31e2f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ec01e78e2d9d42d2905f744a38957295.png!w80",[04:00] Panama vs ĐTQG Anh | BLV CAM
-https://pull.vod2gwuskh.com/xem/0634ac71.m3u8?auth_key=1782560405-0-0-26d7b473f205effbeb0c40b349ed4cfa
+https://pull.vod2gwuskh.com/xem/0634ac71.m3u8?auth_key=1782561605-0-0-3b8bcc895325be459443b9f911566c37
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ec01e78e2d9d42d2905f744a38957295.png!w80",[04:00] Panama vs ĐTQG Anh | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/d36cad38.m3u8?auth_key=1782560405-0-0-17822f4246927ae3f986604164808f11
+https://pull.vod2gwuskh.com/xem/d36cad38.m3u8?auth_key=1782561605-0-0-61ab7281911983142873a3ba4c127de1
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ce991ab3a9bd4859bdb6cf6e9b623a35.png!w80",[06:30] D.R. Congo vs Uzbekistan | BLV SHIO
-https://pull.vod2gwuskh.com/xem/d093e56e.m3u8?auth_key=1782560405-0-0-4aba4a6c73294283527916206a1ae74c
+https://pull.vod2gwuskh.com/xem/d093e56e.m3u8?auth_key=1782561605-0-0-550cdd3f0ab2674ffe211cca091ed89d
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ef2635db12914681ae86ece2d97bd6c2.png!w80",[06:30] Colombia vs Bồ Đào Nha | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1782560405-0-0-1a9167d2c23514d2c1fe052981400e93
+https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1782561605-0-0-0e9f049c5acf63806654e5b9759c6e67
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ef2635db12914681ae86ece2d97bd6c2.png!w80",[06:30] Colombia vs Bồ Đào Nha | BLV CAM
-https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1782560405-0-0-4e5cc398dab796498ac9d1bd0b25038f
+https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1782561605-0-0-737962cf1b11a9db71bfcbce9f5612f0
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/92a6308394834fd38eadaf9105c99749.png!w80",[09:00] Jordan vs Argentina | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1782560405-0-0-8917926cefc4c08f85e161c33a6c42b7
+https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1782561605-0-0-2d62d727ba4f78705466a3ac7cb1cc29
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/92a6308394834fd38eadaf9105c99749.png!w80",[09:00] Jordan vs Argentina | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1782560405-0-0-2f4709177e083c8a279719d2c1709ad4
+https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1782561605-0-0-d9d7c042b4136142a4c521af5a96971a
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/91e9ae1b4f224d9e856e56b0cf14416f.png!w80",[09:00] ĐTQG Algeria vs ĐTQG Áo | BLV SHIO
-https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1782560405-0-0-dfa208ffac3a81e0e95c30f309ee59ab
+https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1782561605-0-0-00524e52bc73d6804170193d7362efbe
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/383d42e0d0843463b538bc3367d0c4c9.png!w80",[17:00] Qingdao West Coast vs Zhejiang Professional | BLV CAM
-https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1782560405-0-0-b9238eb2ec8bd24b42ac5766dfda4e6a
+https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1782561606-0-0-00c7d80c495bbd3c145537ff6fa31e68
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/0e5467034917e26c6e60a7162711c150.png!w80",[18:00] Câu lạc bộ bóng đá Zhixing Đại Liên vs Shanghai Shenhua | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/1b2bae9e.m3u8?auth_key=1782560405-0-0-71c7bbf650d86d6e5f1fc100ced747a8
+https://pull.vod2gwuskh.com/xem/1b2bae9e.m3u8?auth_key=1782561606-0-0-0cf2d06157a6ce31e18306210710126c
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/192a0281263921acbe04095e18e635ff.png!w80",[20:00] KaPa vs JaPS | BLV SHIO
+https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1782561606-0-0-2c80f084f6db92da1b566714accd7aed
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ac7eff3881ff1aa697280c7316a3a65e.png!w80",[22:30] OLS Oulu vs KuPS (Tuổi trẻ) | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/05298fdb.m3u8?auth_key=1782560405-0-0-9c3ce3e6f27650f862e9a0520427539c
+https://pull.vod2gwuskh.com/xem/05298fdb.m3u8?auth_key=1782561606-0-0-540ec2771b2be7ac0ff568a9abfb3bee
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Hàn Tín
-https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/dc7d0b99422eae4c9ab4d1f02f8da990.png!w80",[00:00] Wales U19 vs Tây Ban Nha U19 | BLV CAM
+https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1782561606-0-0-1d9db5099c5fcfac0a39e1865c9d445f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/f5537e8960824e848e5a9bac16514483.png!w80",[02:00] Nam Phi vs Canada | BLV HỌA MI
+https://pull.vod2gwuskh.com/xem/d87d3902.m3u8?auth_key=1782561606-0-0-82bc6bd2582639947c655a3573589d80
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/f5537e8960824e848e5a9bac16514483.png!w80",[02:00] Nam Phi vs Canada | BLV LUCA
+https://pull.vod2gwuskh.com/xem/c0c3a9fb.m3u8?auth_key=1782561606-0-0-1ebbce65307152cb70b445a73d260100
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/f5537e8960824e848e5a9bac16514483.png!w80",[02:00] Nam Phi vs Canada | BLV KEVIN
+https://pull.vod2gwuskh.com/xem/85c9f9ef.m3u8?auth_key=1782561606-0-0-c123ad2b7c48c6df3b0efd78c5a863b9
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Mơ
+https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Mơ
+https://alive.yarncdn.live/live/kda-blv-mo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Mơ
+https://alive.yarncdn.live/live/kda-blv-mo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",[19:00] Thái Lan vs Philippines | BLV Tày
+https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",[19:00] Thái Lan vs Philippines | BLV Tày
+https://alive.yarncdn.live/kda-blv-tay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",[19:00] Thái Lan vs Philippines | BLV Tày
+https://alive.yarncdn.live/kda-blv-tay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Isco
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Isco
+https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Isco
+https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",[22:00] Ba Lan vs Đức | BLV T-Rex
+https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",[22:00] Ba Lan vs Đức | BLV T-Rex
+https://alive.yarncdn.live/kda-blv-t-rex/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",[22:00] Ba Lan vs Đức | BLV T-Rex
+https://alive.yarncdn.live/kda-blv-t-rex/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Fold-us-flag-animated.gif?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",[22:00] Mỹ vs Nhật Bản | BLV Kaka
+https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Fold-us-flag-animated.gif?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",[22:00] Mỹ vs Nhật Bản | BLV Kaka
+https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Fold-us-flag-animated.gif?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",[22:00] Mỹ vs Nhật Bản | BLV Kaka
+https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Siêu Gáy
+https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Siêu Gáy
+https://alive.yarncdn.live/live/kda-blv-nhattinhngao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Siêu Gáy
+https://alive.yarncdn.live/live/kda-blv-nhattinhngao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Dế Lửa
+https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Dế Lửa
+https://alive.yarncdn.live/kda-blv-delua/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Dế Lửa
+https://alive.yarncdn.live/kda-blv-delua/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV Núi
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV Núi
+https://alive.yarncdn.live/kda-blv-nui/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",[06:30] Colombia vs Portugal | BLV Núi
+https://alive.yarncdn.live/kda-blv-nui/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Phủ Béo
 https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
@@ -881,12 +881,6 @@ https://alive.yarncdn.live/xctv_blv_thienbong/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Lửng Mật
 https://alive.yarncdn.live/xctv_blv_thienbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg",[19:00] Beijing Guoan vs Wuhan Three Towns | BLV Thợ Lặn
-https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/587.png",[21:00] Mariehamn vs Inter Turku | BLV Phong Vân
 https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
 
@@ -904,6 +898,12 @@ https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",[04:00] Croatia vs Ghana | BLV Rồng Đất
 https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Thợ Lặn
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Thợ Lặn
+https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",[04:00] Panama vs England | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
@@ -937,9 +937,6 @@ https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/34318af9-3dd2-439f-b08d-6f765be024a7",[00:00] Ulsan Citizens vs Mokpo City | BLV NGƯỜI CÁO
 https://hls.lauthaitv.cc/live/ulsanciz-mokpo-k3/index.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/3cadfb18-77d3-4cbf-9a7c-6547c365b31a",[00:00] Chuncheon Citizen vs Yangpyeong FC | BLV NGƯỜI SẮT
-https://hls.lauthaitv.cc/live/chuncheon-yangpyeong-k3/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/ae44e9b3-67a0-4e4b-a3ff-16a2486d5d96",[01:00] FC Kairat Almaty vs Okzhetpes | BLV NGƯỜI SÓI
 https://hls.lauthaitv.cc/live/kairat-okzh-kazprem/index.m3u8
@@ -986,11 +983,11 @@ https://hls.lauthaitv.cc/live/oulu-lahti-finveik/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/9178d0c0-cdc6-40cc-95aa-1e41b04c25ec",[09:00] Criciuma vs Sao Bernardo | BLV NGƯỜI CÁO
 https://hls.lauthaitv.cc/live/cri-sao-braserieb/index.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/6abbb992-322d-41df-864f-6ba3d42a3ba5",[11:00] Panama vs Anh | BLV NGƯỜI CAT
-https://hls.lauthaitv.cc/live/pan-eng-wc-cat/index.m3u8
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/5cdab8fd-84f2-49cf-9fa4-28c5706e9176",[11:00] Croatia vs Ghana | BLV NGƯỜI THỎ
 https://hls.lauthaitv.cc/live/cro-gha-wc-tho/index.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/6abbb992-322d-41df-864f-6ba3d42a3ba5",[11:00] Panama vs Anh | BLV NGƯỜI CAT
+https://hls.lauthaitv.cc/live/pan-eng-wc-cat/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/6edf5d9a-fd8c-436a-b119-b87de6cce365",[13:30] Colombia vs Bồ Đào Nha | BLV NGƯỜI CAT
 https://hls.lauthaitv.cc/live/col-por-wc-cat/index.m3u8
@@ -1013,11 +1010,11 @@ https://hls.lauthaitv.cc/live/jor-arg-wc-nts/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/46b1a3e5-f38a-4b2f-8748-7cc5398109b9",[16:00] Jordan vs Argentina | BLV NGƯỜI NẶN
 https://hls.lauthaitv.cc/live/jor-arg-wc-nan/index.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/285a8892-820b-4db2-a2b0-260a63266da8",[19:00] Marconi Stallions vs Blacktown City Demons | BLV NGƯỜI SẮT
-https://hls.lauthaitv.cc/live/marco-blacktown-ausnswprem/index.m3u8
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/e486a4a6-8327-4ee4-a29d-a34b4e399dd0",[19:00] Gold Coast United vs Moreton City Excelsior FC | BLV NGƯỜI CHÈ
 https://hls.lauthaitv.cc/live/gold-more-ausqldprem/index.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/285a8892-820b-4db2-a2b0-260a63266da8",[19:00] Marconi Stallions vs Blacktown City Demons | BLV NGƯỜI SẮT
+https://hls.lauthaitv.cc/live/marco-blacktown-ausnswprem/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/ebb1e2d3-4580-41b2-a381-1f21c61f32b6",[21:00] Queensland Lions SC vs Brisbane Wolves | BLV NGƯỜI SÓI
 https://hls.lauthaitv.cc/live/queens-briswolf-ausqldprem/index.m3u8
@@ -1028,17 +1025,17 @@ https://hls.lauthaitv.cc/live/dang-gang-kork3/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/e8ee41a8-ee35-480f-9db9-2e9577a325f7",[00:00] Qingdao West Coast FC vs Zhejiang Professional FC | BLV NGƯỜI CAT
 https://hls.lauthaitv.cc/live/qingdao-zhejiang-csl/index.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/25d417d6-f76d-46f6-9f56-bb3dae37a5c5",[01:00] Dalian Yingbo FC vs Shanghai Shenhua FC | BLV NGƯỜI TIỀN SỬ
-https://hls.lauthaitv.cc/live/dalian-shanghai-csl/index.m3u8
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/0935a196-8615-4126-837c-d3e9b6436788",[01:00] Suzhou Dongwu vs Ningbo Professional FC | BLV NGƯỜI BẠC
 https://hls.lauthaitv.cc/live/suzhou-ningbo-chnleague1/index.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/92177b02-8b81-4ac1-99c8-1887a8044633",[02:00] Dingnan United vs Wuxi Wugo | BLV NGƯỜI CÁO
-https://hls.lauthaitv.cc/live/dingnan-wixi-chnleague1/index.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/25d417d6-f76d-46f6-9f56-bb3dae37a5c5",[01:00] Dalian Yingbo FC vs Shanghai Shenhua FC | BLV NGƯỜI TIỀN SỬ
+https://hls.lauthaitv.cc/live/dalian-shanghai-csl/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/0fec69c0-13eb-4d3f-af74-5ff2e75af4fc",[02:00] Irtysh Pavlodar vs Kaisar Kyzylorda | BLV NGƯỜI THỎ
 https://hls.lauthaitv.cc/live/irtysh-kaisar-kazprem/index.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/92177b02-8b81-4ac1-99c8-1887a8044633",[02:00] Dingnan United vs Wuxi Wugo | BLV NGƯỜI CÁO
+https://hls.lauthaitv.cc/live/dingnan-wixi-chnleague1/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/061f952b-7e9c-4be9-b3cd-d8d91d312d3e",[02:00] Ulytau Zhezkazgan vs Ordabasy FC | BLV NGƯỜI PHÁO
 https://hls.lauthaitv.cc/live/ulytau-orda-kazprem/index.m3u8
@@ -1082,29 +1079,38 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/8.png",[06:30] Colombia vs Portugal | BLV CHÈ XANH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/9451_1gw8ppsgvw1e.png",17h00 ngày 27/06 Boeun Sangmu (W) vs Hyundai Steel Red Angels (W) (Lương Sơn) BLV TÀO THÁO flv
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/34329_20200322173249.jpg",17h00 ngày 27/06 Changnyeong (W) vs Sejong Gumi Sportstoto (W) (Lương Sơn) BLV FERNANDO flv
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/20363_166849190488.png",17h00 ngày 27/06 Ugyen Academy vs Thimphu City (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/23781_1hrgchqnbje.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png",18h35 ngày 27/06 Henan Football Club vs Shanghai Port (Lương Sơn) BLV SHIN flv
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/8025_1gtqm3gw3d1t.png",18h00 ngày 27/06 Volna Pinsk vs FK Bumprom (Lương Sơn) BLV PHI HỔ flv
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1997_165724438863.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1997_165724438863.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen (Lương Sơn) BLV DƯƠNG CHÍ flv
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1997_165724438863.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1997_165724438863.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen (Lương Sơn) BLV HÀN TÍN flv
 https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/23781_1hrgchqnbje.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/9451_1gw8ppsgvw1e.png",17h00 ngày 27/06 Boeun Sangmu (W) vs Hyundai Steel Red Angels (W) (Lương Sơn) BLV TÀO THÁO m3u
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/9451_1gw8ppsgvw1e.png",17h00 ngày 27/06 Boeun Sangmu (W) vs Hyundai Steel Red Angels (W) (Lương Sơn) BLV TÀO THÁO flv
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/34003_1j0ytnk9yw25.png",18h35 ngày 27/06 Shenzhen Xinpengcheng vs Chengdu Rongcheng FC (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/2034_1h746nqsp62g.png",18h30 ngày 27/06 FC Torpedo Zhodino vs BATE Borisov (Lương Sơn) BLV GẤU KA flv
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/61437_1jywmqcwe01r.png",18h30 ngày 27/06 Guangdong GZ-Power vs ShanXi Union (Lương Sơn) BLV LIO flv
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -1120,12 +1126,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.sports-data.online/football/team/e399c54b84794822f6e5e3c02c7f3b6e.png",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143036_72f0bbb2.png",17h00 ngày 27/06 Changnyeong vs Gumi Sportstoto (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143036_72f0bbb2.png",17h00 ngày 27/06 Changnyeong vs Gumi Sportstoto (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143035_72f0bbb2.png",17h00 ngày 27/06 Boeun Sangmu vs Incheon Red Angels (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
@@ -1148,473 +1148,557 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.sports-data.online/football/team/4f7090cc3dd92dfefdcddf743908cf94.png",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782562642-0-0-9eccd548f79e43cf89429daa7521e519
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV FIREMAN (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782564082-0-0-2137678d7725bdb95c64f64d1d7fec0c
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782562642-0-0-254ef37168c08e458fe5b8e5c6e1c035
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV FIREMAN (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782564082-0-0-07e98c0053513ce443d42ff9d544ba0d
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782562642-0-0-8fb402bb49ab7d3cb3182c2c5d5134f9
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV FIREMAN (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782564082-0-0-e4c5717d1f36619197805ddd834d0326
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782562642-0-0-60496b263425836c9592333a972164a6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782562642-0-0-f2b436e34365a3b9a9df4bc2e383f0d0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782562642-0-0-a4c26e3b8cc78c676a2c58b52fd92b7d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782562642-0-0-7d2333762e8e1964fdcf1416bb63c92d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782562642-0-0-a600719399b54f26ba3fe9a9dc0120eb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) flv
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782562642-0-0-d7f2176108f79e9f380875c258c79d75
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782562642-0-0-164062986cb51978eb74b97cbf508fd3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782562642-0-0-2db7269d5fe07cb96ccb0021dd23cda9
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782562642-0-0-402077cd91382f4593ad3541d2656652
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=9516a0f32f7f1d7da320eef925cb118a&txTime=6a4005a2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=51feedda6c1cf4dc4ce13008609d3977&txTime=6a4005a2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9516a0f32f7f1d7da320eef925cb118a&txTime=6a4005a2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=51feedda6c1cf4dc4ce13008609d3977&txTime=6a4005a2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782562642-0-0-c001a21fc71513c9029d7d44be00b060
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782562642-0-0-307e943885036b664bc40ba34823ac13
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782562642-0-0-a68096d256d2f876bed1aa8b1a65d58d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782562642-0-0-d79fed8838bf95639aa41b0cf017e074
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV FIREMAN (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782564082-0-0-49398e0d8f20c3dc4e53f755c9e12cff
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LOKA (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782563002-0-0-799a5a97eec7078609c8f5f0e48ef3d8
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782564124-0-0-fbfbadd05a4e43672595d16298392b22
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LOKA (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782563002-0-0-9bef643b7d17651ff2e99bad327006dc
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782564124-0-0-ca284e8d704f1d0ab0ebdb3344d99e19
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LOKA (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782563002-0-0-d2de860570260f4aaa293fbfde9d1090
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782564124-0-0-eb74332a05d3fc4058e0ef6608ea6e51
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LOKA (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782563002-0-0-8402ebdfd0182e87f1ddc4a13335d737
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782563002-0-0-30c5d7ea010fb57c55d6d4c78a170b15
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782563002-0-0-529545e5e090c0907d09f8cb11a24fed
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782563002-0-0-7a04ea51204bfbfe3cc4c182a101ba78
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782563002-0-0-6ea6abe0c477c966d161677e967f2c12
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782564124-0-0-6173b03f1e165cd3065911997e699a5c
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RICKHANTER (Socolive) flv
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782563002-0-0-c0593d9d9c02a4a3f1d8259d9d8d80be
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782564082-0-0-27854a7c8a1b7716ff8bee2519004042
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RICKHANTER (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782563002-0-0-242b7d0227262cbd0e2f611e13caa0a4
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782564082-0-0-e371f76aff5778dc7700f2997eb03df9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RICKHANTER (Socolive) m3u8
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782563002-0-0-a864ee43e003382e56fe30d307bd0d5f
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782564082-0-0-501725b0f0617560f570d0bd5fa7f8f8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RICKHANTER (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782563002-0-0-e8561eb7c0101162626e9cd0495523ec
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=b3ebeea3211dddeef183bb106702ce15&txTime=6a40070a
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=684122a55d8ed675a18c8eec7f9c28a6&txTime=6a40070a
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=b3ebeea3211dddeef183bb106702ce15&txTime=6a40070a
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=684122a55d8ed675a18c8eec7f9c28a6&txTime=6a40070a
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782564082-0-0-31f5b5b6e55ff71c40f37192f950b356
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV TOMIA (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782563002-0-0-163bc4d3f0570a818641d162eb792942
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782564082-0-0-b8413151c79896ca4d8be8fed856a27f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV TOMIA (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782563002-0-0-801f35f9ec94d4e1e74842326b651b3b
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782564082-0-0-ce55b14a4d03fed363970e376df8e19f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV TOMIA (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782563002-0-0-c88e979b51824238b816f1aa8adebd97
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782564082-0-0-b9bd4d5175bfd6ad73b4cf4ca2734852
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV TOMIA (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782563002-0-0-ae2f511195494cde990ca5e241034c65
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782564082-0-0-5da7768c37982027ae56dcb071b04161
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=edcb5617eb281cf586c6f055f6a7d6a5&txTime=6a400b42
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=1272c1c4a3085af7a6bbb02fb64a1737&txTime=6a400b42
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=edcb5617eb281cf586c6f055f6a7d6a5&txTime=6a400b42
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV TAP (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=1272c1c4a3085af7a6bbb02fb64a1737&txTime=6a400b42
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782564082-0-0-903ad38961874bcdb4160b568b932188
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782564082-0-0-317739d3c107089377673e31c67df6c1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782564082-0-0-214c6ed377567bdbd7ce2d5e099cad57
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV Củ Cải (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782564082-0-0-e0dba6b57f4e26e4b72b239b36045b2a
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV A PÁO (Socolive) flv
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782563002-0-0-a8c1fc788d4f035a53aef160075e010f
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782564082-0-0-457eb3eac75f8bb430b91f67a7c7e241
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV A PÁO (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782563002-0-0-b9be82ac453986b0d00c2787536d1e3d
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782564082-0-0-840f839648f2076230ce9a2e13ab7000
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV A PÁO (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782563002-0-0-8904e4ffefce6fb7a35df9c0972a0bb0
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782564082-0-0-c935127ff9c4ae75d456cc35bce82b61
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV A PÁO (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782563002-0-0-cfff3de1f57a5e2a28faa5fe194bd431
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782564082-0-0-60cca4417d466835c175c2feab77ae42
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CÁO (Socolive) flv
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1782563002-0-0-e0413440e68b513a3bb741f996f1feb7
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1782564082-0-0-9ccaafb0098fc8aa9df5981da8b76040
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CÁO (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1782563002-0-0-524250988f8f948b338f86d258587aa0
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1782564082-0-0-604c45cc68c9f3698abb3a5f5748ec62
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CÁO (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782563002-0-0-223758e2be31a6c5acf9fc2b9bc5e7d8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782564082-0-0-1c7a2d5f1bfa909ab477cbd98940ea41
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CÁO (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782563002-0-0-e720f257fb1b94960c341a92b08432f6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782563002-0-0-3639f900922f243750247689031c803e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782563002-0-0-fdd0fdb2a993183ebe99ad480906abc0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782563002-0-0-740dfaf46981acc1364d123ee38c816b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782563002-0-0-6624471c777b13dc152eee6c33b3c84c
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) flv
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1782563002-0-0-a3030f329da834f369b687e950c7598e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1782563002-0-0-ace5eb33b414233d7ccc60488b6ee32f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782563002-0-0-e77f8efd210d6b6fa685c2539fde4a76
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782563002-0-0-1ab59ffcecc5c05813f41488c23a645f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2a80d1123b635ce15a0fe2c47369ef5d.png",14h30 ngày 27/06 Changchun Yatai vs Guangxi Hengchen | BLV VOI (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782563002-0-0-82e15e94934d086c058f4ff3779df60f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2a80d1123b635ce15a0fe2c47369ef5d.png",14h30 ngày 27/06 Changchun Yatai vs Guangxi Hengchen | BLV VOI (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782563002-0-0-bd3983b0b3757707f17a0edcccc58c29
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2a80d1123b635ce15a0fe2c47369ef5d.png",14h30 ngày 27/06 Changchun Yatai vs Guangxi Hengchen | BLV VOI (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782563002-0-0-e7c965f87ab759d424b45d2f59219c30
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/2a80d1123b635ce15a0fe2c47369ef5d.png",14h30 ngày 27/06 Changchun Yatai vs Guangxi Hengchen | BLV VOI (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782563002-0-0-03a6f68fbd7ddbd20682f3405a0f16c3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) flv
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782563002-0-0-a0ee4042419f0bfe1b399ad286719852
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782563002-0-0-847ca97fc95afac16524d672f3fd21c0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) m3u8
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782563002-0-0-aa29479fdf50744b37d4631a86c9a5c1
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) hdM3u8
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782563002-0-0-e630400d32f593e72052adbc5149189d
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782564082-0-0-eb0571a87e055c31c96bc7d8785a6940
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VITAMIN (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782563002-0-0-04be51579b857df6afcefdab8497f4ff
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782564082-0-0-1c857dc628226f785e58346f5fe80bde
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VITAMIN (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782563002-0-0-658825096948e6357e59f3455c301084
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782564082-0-0-d22567c7f9a9f4ceba3536f275a3fa76
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VITAMIN (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782563002-0-0-f89e30aea03e3c9622b2cb90513553e2
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782564082-0-0-510109015b7c8ed3b3cf037c6363d0ee
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VITAMIN (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782563002-0-0-c973d68d3a1f143100454012bad019e1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782564082-0-0-619a5e3061582c032ebc3292c14edc98
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) flv
+https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1782564082-0-0-430e2b1644c9ba21fd112c2ee3d6cebf
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1782564082-0-0-a8a68f0aa9b4ec750b40cf765c93c6cb
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) m3u8
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782564082-0-0-1bdcfa98bb1782ad20e815503c95f9c6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV BEN 10 (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782564082-0-0-2c30d6e1ba817d9c4588ecfbd7a46a05
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782564082-0-0-49ec87f017dfc03b669dacd7fae09359
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782564082-0-0-eaa9370cc35a31673d5643ae3c87f33a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782564082-0-0-8004f392c8cb101647c208aff04aac9e
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260625/60c13704696341c49f2750399e41f70b.png",17h00 ngày 27/06 Bacolod Masskara vs Zamboanga Sikat | BLV A CHÈ (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782564082-0-0-4b47038431e701150459fe09b32d6de5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) flv
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782564082-0-0-276e76dc172cd7ab1be7c2aa8a1847b5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782564082-0-0-8ed020d93c3d7777058d866e789179cc
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782564082-0-0-35e0b0a588603453d6bde05871ddab6c
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV CHÍ PHÈO (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782564082-0-0-076b1252cf7fbe0a025e777db5d42f3f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LUCAS (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782564082-0-0-fb451fb847e5ca99a942e3c2e2b79bcb
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LUCAS (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782564082-0-0-b787dae34e0644d3534d528a5d1a0d79
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LUCAS (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782564082-0-0-594dacab13a3109f3aae43acac16e4d7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LUCAS (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782564082-0-0-46c8e86adef97fd47aefdde30eb49ce3
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782563002-0-0-57fb4eab36805b2af50e5c2377686196
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782564082-0-0-2e80efc79dffdd87c8f39412aa3ecba4
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782563002-0-0-c1241b92d827b144a722a0e170de6907
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782564082-0-0-00a23b79db1c2a31aa46532fa996e6de
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782563002-0-0-256b1f68f6f0337d6a591db707526709
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782564082-0-0-5680060779c4aa1d3d03af530bd3440d
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782563002-0-0-ada9c423f50c1ac044a3e000c044c25b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782563002-0-0-44582f4f0f20064eb5d254d9ddb1964e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782563002-0-0-e81cdc61c432ff41ce62b24d94fb49c0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782563002-0-0-051fb3124c5fb1ed40f743c593d6dbbc
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782563002-0-0-5298ad2e00ede81af2fddf4e2bd33183
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782563002-0-0-aefb221b555800179798904ac4fa0367
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782563002-0-0-6e25bec44b3af07a67c490577bf989b2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782563002-0-0-8296702c15dd01f2e7478910ba74b119
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782563002-0-0-029b0546e04c6ce399135790587843a1
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782564082-0-0-447996aacaa9e0443e9abde7b41d74f9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Uruguay vs Spain | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782563002-0-0-32857356c4be1ee087226f6ab7d0e700
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782564082-0-0-c85a664417712a56e4bc6ab2773d9038
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Uruguay vs Spain | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782563002-0-0-f0edbbf33520e4fa72e7327ef0d0c03e
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782564082-0-0-b83cb99441787e2b1b7179fa788c59b9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Uruguay vs Spain | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782563002-0-0-c30ad098a25b99a8378eb03698e0d026
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782564082-0-0-50f4991790016aabde0242b850c195d0
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Uruguay vs Spain | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782563002-0-0-ec5e8c2193e6f5536ce473800ee1d31d
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782564082-0-0-a847e08fdd52f8d6c8f18f359a0a0265
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782564082-0-0-584c16c6578a6af187aedadf0caeb5ae
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782564082-0-0-0bd03ec9176009f545989085fbc0e838
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782564082-0-0-fde4efedcdc2a4278e29e457e0e8ddc1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Senegal vs Iraq | BLV Sóc đau cổ vai gáy (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782564082-0-0-1a94673757b53950413bf36f87ac07b8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782564082-0-0-316248a6c7b152120cadc8b23acda5d1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782564082-0-0-03b62d3d63cb0f3ae349d25548001cfe
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782564082-0-0-9c0639711cc4257765b922e88103bebc
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Cabo Verde vs Saudi Arabia | BLV Sóc trèo cây ngô đồng (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782564082-0-0-cad1e56f521b0530797f154e87fbc5fd
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Norway vs France | BLV Sóc nhàm nhang nhồ (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782563002-0-0-41636ec8615b93d9e4116023c56591cd
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782564082-0-0-e34f4f889b5ac2e2e512ffa7416fed9e
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Norway vs France | BLV Sóc nhàm nhang nhồ (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782563002-0-0-43f183288b7321928b001cb9611ba882
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782564082-0-0-44e17dd349b7fa0976983e36726a25f0
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Norway vs France | BLV Sóc nhàm nhang nhồ (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782563002-0-0-6db81350f0a4e47a506fbe590e0c077b
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782564082-0-0-2b69dab67f06039d54de674b5b51db58
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Norway vs France | BLV Sóc nhàm nhang nhồ (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782563002-0-0-1602ae292e075f62f9365c53a8388410
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782564082-0-0-97447684ec798817496f3e31cb44cb41
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - New Zealand vs Belgium | BLV Sóc trong rừng xà nu (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782563002-0-0-8934eabcbf3e17a42c8deb9bb68d1629
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782564082-0-0-45030e35ba07e093cae79b230d58170c
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - New Zealand vs Belgium | BLV Sóc trong rừng xà nu (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782563002-0-0-3dc7c557ac4709c7ec6132ba5c5647dc
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782564082-0-0-19a15e4f691e983d3c684125a87741d1
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - New Zealand vs Belgium | BLV Sóc trong rừng xà nu (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782563002-0-0-b20832842b9a17df0261ee8bd7f3242c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782564082-0-0-5fdaeea6b458e887405cce2951b17a75
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - New Zealand vs Belgium | BLV Sóc trong rừng xà nu (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782563002-0-0-3e30e38bf740c221a73de720c175beaa
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) flv
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1782563362-0-0-05443e88b91f8c93c316184984c6b652
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1782563362-0-0-a009f3926a106e201b119c0435085d60
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1782563362-0-0-aa8b73c758cd0024fd9a896407c5976e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1782563362-0-0-735462fb56a3cd6043762ef571e4940e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782563362-0-0-66b964ff31ca6637941d40b885cdb769
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782563362-0-0-16651d9d25bd62312f9ddc62e7aeb542
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782563362-0-0-ef98a384cc12747842fd62979d601306
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782563362-0-0-c2518e4d79d54cb7393cf740c83e63f9
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782563362-0-0-56a0c9e7ba2a97b97c2c3a40f70f0ce6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782563362-0-0-1879b72d5cb7cf4ab45af365190878d6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782563362-0-0-4b5f5c9185c57b4ff72a61c9bf38be9b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782563362-0-0-a616b37efde21e40ef6af4f9687ee74f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=239bb4667fae8375cc29df2d450ce9c9&txTime=6a400872
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=d3b51108bf8ecf3cdacf045260fca540&txTime=6a400872
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=239bb4667fae8375cc29df2d450ce9c9&txTime=6a400872
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d3b51108bf8ecf3cdacf045260fca540&txTime=6a400872
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782564082-0-0-df5d5cf7c2d313cd8e57ddafbf04dd38
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RÔSI (Socolive) flv
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=1b5e878ee9268ce588144adcfb8585c4&txTime=6a400872
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=52137cfcb507133dbc8581665f6578b2&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RÔSI (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=d941e2577d6cc42113495925bd1fc682&txTime=6a400872
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=c1ecd6b9d11a0c4e420cfa59594591de&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RÔSI (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=1b5e878ee9268ce588144adcfb8585c4&txTime=6a400872
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=52137cfcb507133dbc8581665f6578b2&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV RÔSI (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d941e2577d6cc42113495925bd1fc682&txTime=6a400872
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c1ecd6b9d11a0c4e420cfa59594591de&txTime=6a400caa
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) flv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=ddb62bdd6854a5c9e463f7317541d862&txTime=6a400caa
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=fe0dc190e17bb87d83c8e1eb9c2daaa3&txTime=6a400caa
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=ddb62bdd6854a5c9e463f7317541d862&txTime=6a400caa
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV VƯƠNG ANH (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=fe0dc190e17bb87d83c8e1eb9c2daaa3&txTime=6a400caa
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782564442-0-0-1c8cc6724c047a950368f4b5ccfdc6c2
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782564442-0-0-425f407d2479a5ad81ecddfe37800d26
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782564442-0-0-d9bf658a1387629b511128a77a144ae8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/c3d0e0c778350df0af11f81cb5dc6c05.png",18h00 ngày 27/06 Liaoning Tieren vs Shandong Taishan | BLV MESSI (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782564442-0-0-9e19bf992167c62a0a6baae261180550
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) flv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782564442-0-0-a55e5a3c6945c0d3355304f5b7b143c6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782564442-0-0-07b6659017c4e932527f480d8209697d
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782564442-0-0-25acf200bccf8e5384a09a7b7ebde3d4
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV HẢI THANH (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782564442-0-0-d0f6904582e9ce151b42850ea76e71a3
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV PEWPEW (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782563362-0-0-e51826f4827df8fff11d2f76f19fcda2
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782564442-0-0-be0ee378bcce745fe70cd17a942596d0
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV PEWPEW (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782563362-0-0-96a925125d60a45794154686047a43a5
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782564442-0-0-bdb77aa8405e8c70c116d504b75b6d64
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV PEWPEW (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782563362-0-0-2bf3e8d25a6896b751c0edd7e35596d2
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782564442-0-0-3b699317ff88b860f4d0741b863b832b
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV PEWPEW (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782563362-0-0-61fb261a4cb3576e6b5d46d3a845abc0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) flv
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1782563362-0-0-4cff737db957bea13a0c9fdb0adcfa97
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1782563362-0-0-35cd3b0dac67ae133aaad079a5fe9641
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782563362-0-0-41198858aa04292ab1922f2a0973d242
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782563362-0-0-412b2cb941c0ef80ce1ef938e6b6da02
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782564442-0-0-f9e439cefd9293a54ac85a21513806ab
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV CÒ (Socolive) flv
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782563362-0-0-19c4388ea9ca56f8016f495a48895157
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782564442-0-0-defae72464477bc0dc1ada1c2537d454
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV CÒ (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782563362-0-0-bd9fa313f80e086df46dd83fd2e68227
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782564442-0-0-d60a8fee91546454a01db21422b0fd1a
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV CÒ (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782563362-0-0-a17d408eb9780e58821d56daf4c1874f
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782564442-0-0-9dfc8e2fe10e60b6751fc8bdcd9e8229
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV CÒ (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782563362-0-0-eacf6bbe56332325ae4b53ffc395f34e
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782564442-0-0-e06ef67ad0caaa2976cf0871c7bea8eb
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV LOGAN (Socolive) flv
-https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=8c465cfcfe5d9bd5367549a4ed45fd57&txTime=6a400872
+https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=1d083ec6a5d635069768c6a0d736b5a8&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV LOGAN (Socolive) hdFlv
-https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=6460b1735b46237f8ea95aa1d3ddacb4&txTime=6a400872
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=c77dfec79484d5ba08ee71f9898eac3e&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV LOGAN (Socolive) m3u8
-https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=8c465cfcfe5d9bd5367549a4ed45fd57&txTime=6a400872
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=1d083ec6a5d635069768c6a0d736b5a8&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV LOGAN (Socolive) hdM3u8
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=6460b1735b46237f8ea95aa1d3ddacb4&txTime=6a400872
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=c77dfec79484d5ba08ee71f9898eac3e&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV BÉO (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=4cf5bea24be56825a5a0d9a299deb946&txTime=6a400872
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=b4909ec341b75856e6db57bc02a62bd8&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV BÉO (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=1f9735bf1ef0fb8b69c98596873c7246&txTime=6a400872
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=f03cbb0e76f6b75e336901fecdc3a434&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV BÉO (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=4cf5bea24be56825a5a0d9a299deb946&txTime=6a400872
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b4909ec341b75856e6db57bc02a62bd8&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV BÉO (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=1f9735bf1ef0fb8b69c98596873c7246&txTime=6a400872
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f03cbb0e76f6b75e336901fecdc3a434&txTime=6a400caa
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) flv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1782564442-0-0-5cff24cf9a19b6979984f5f3d8a06e92
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1782564442-0-0-d4c8f3402450dc6aeafc7905801e44cb
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782564442-0-0-11f05a1a1d34813b9ef2b2f546a9d949
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV PICK (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782564442-0-0-2ce85333bfb0d3bf535e66c459df0b08
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CƠM CHÁY (Socolive) flv
-https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782563362-0-0-c48bb858feda4bc86ae37ffdcd1c651f
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782564442-0-0-187182a6715edb1223ffbfc54b61cf8d
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CƠM CHÁY (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782563362-0-0-ea5953c02bcd1ec61a450a96d24dc6c2
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782564442-0-0-640eee616d11d51fffc33c7cf5a7caca
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CƠM CHÁY (Socolive) m3u8
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782563362-0-0-cb0bcf9a851c4bba6ac63788251ea212
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782564442-0-0-40c17525e9bc9ce96cff8b16cb11adc6
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV CƠM CHÁY (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782563362-0-0-24c6712eb41cb994bf2004720392460b
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782564442-0-0-819be1ffdf9ec27599871da393e3aa7f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) flv
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1782564442-0-0-1ebea3c2816c0bb358265adc9c7b2fb1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1782564442-0-0-c149b8add6841e85c66bf6fbb5ec10cc
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) m3u8
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1782564442-0-0-457812a353a71a510f7338c067cd9df6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/613f127360fa9bc89f510143dc3d835f.png",18h00 ngày 27/06 Ilves Tampere vs SJK Seinajoen | BLV THÓC (Socolive) hdM3u8
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1782564442-0-0-d8c5eb7616fff9df67b77ccb0152c395
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV XUÂN TÓC ĐỎ (Socolive) flv
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=1d857831a6097acf7a1e5c68d33b2ad8&txTime=6a400872
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=ffbf7f8f4f2604a32b1a9365241e8960&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV XUÂN TÓC ĐỎ (Socolive) hdFlv
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=c3a1d81e8a6f116d985859bb144d1f88&txTime=6a400872
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=5b1f32569d068afad64be5638921eee7&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV XUÂN TÓC ĐỎ (Socolive) m3u8
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1d857831a6097acf7a1e5c68d33b2ad8&txTime=6a400872
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=ffbf7f8f4f2604a32b1a9365241e8960&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV XUÂN TÓC ĐỎ (Socolive) hdM3u8
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=c3a1d81e8a6f116d985859bb144d1f88&txTime=6a400872
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=5b1f32569d068afad64be5638921eee7&txTime=6a400caa
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV CÁP (Socolive) flv
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782563362-0-0-7295342f21e2a1f410a769061d80d926
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1782564442-0-0-a0d24ee90b8a278c17c44859817a6f67
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV CÁP (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782563362-0-0-9ea432da016392076fb799c269e4e135
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782564442-0-0-62621642f2454f3db70d8d1da90b9a3f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV CÁP (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782563362-0-0-547d63e35e08c4c1a93341b636216cc8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782564442-0-0-563f26c1ff3f3c233079836fd75a0165
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/76440ce43d08226a57b3e0776e725e99.png",17h00 ngày 27/06 Chuncheon Citizen vs Yangpyeong | BLV CÁP (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782563362-0-0-3776c0fcdc440f4f417b511d666df82a
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782564442-0-0-66a0b619da287ec986faa442869dad7c
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV XO (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782563362-0-0-19efee97243142c3931b4c54ab587001
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782564442-0-0-82295d6d75f2027870436f25022f7f60
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV XO (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782563362-0-0-4a56050920e36579acb20efc11201261
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782564442-0-0-1d950c4dec7906851997bfac75d3c351
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV XO (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782563362-0-0-c4256cf54c6ce798a48b9490ec3c5424
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782564442-0-0-6b38b5a5374ea0fc67c3ff6debd27493
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV XO (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782563362-0-0-08a6797859725f0e00d4eed6e6c6fd02
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782564442-0-0-e30732477914d38392bd501a5b43454b
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV ĐỖ TÚ TÀI (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782563362-0-0-11d1f7f73ed67e1223e41e01f1295481
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782564442-0-0-f93820ab6029976a0d0bb509094b6676
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV ĐỖ TÚ TÀI (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782563362-0-0-4ca9b7f42cee749aba35ac9f342e55a0
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782564442-0-0-2cbbe3ccb997ef2d1bfb4e166293cb7f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV ĐỖ TÚ TÀI (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782563362-0-0-3266742de3ff373aa2d0cff93e1c8575
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782564442-0-0-d519a2c88e25370bbe4c56d03d58e420
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV ĐỖ TÚ TÀI (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782563362-0-0-50e7a30baeb71494da57f33153766d75
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782564442-0-0-9a1bf154645b61a5352bc868d0f44e4d
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Egypt vs IR Iran | BLV Sóc mèo méo meo (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782563362-0-0-c67dbae3f9741669536e182622248500
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782564442-0-0-3fd0b97f6b4c056a89b9e9b1c77d681f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Egypt vs IR Iran | BLV Sóc mèo méo meo (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782563362-0-0-baf20ddd4b359a3ad0fbbcb7579d6145
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782564442-0-0-d465c8300868dec1c508f3e39f2d615e
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Egypt vs IR Iran | BLV Sóc mèo méo meo (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782563362-0-0-0cd5dfdd1d1141fbf37a48693f4d52aa
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782564442-0-0-1834047d2214c0f576db030880f7c2e5
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/302638ea14ab4480dd2a46caeb1a46dc.png",Tường thuật: WORLD CUP - Egypt vs IR Iran | BLV Sóc mèo méo meo (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782563362-0-0-f665c1fdafa1db6573c18c522af21717
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782564442-0-0-b54e03436d9cc69f63bfbb3c93b45aae
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782564802-0-0-a6a9c3e210a61b136ff8fd0048511bfb
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782564802-0-0-6418890394e4cb9691d34afd415fcfdf
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782564802-0-0-af670b771344dbc569ccdafca4fbd600
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/68839ab0d2398a1fa579e5a710ffee1e.png",18h35 ngày 27/06 Henan FC vs Shanghai Port | BLV ĐỐM (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782564802-0-0-effe5cdf48356e378a186b8bc0ec50d8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782564802-0-0-993b2ab70a4bd5b8668088934d46331f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782564802-0-0-c7843a053ae02c615f7bdeacdf83358c
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782564802-0-0-a32debb98c469c9086be7aed80cb5403
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/a6c945ab59cef9d06359653d3613f65e.png",19h00 ngày 27/06 Beijing Guoan vs Wuhan Three Towns | BLV DECO (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782564802-0-0-0b5ad535ba740b5d7341288151ccf2d6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CÔNG CHẤT (Socolive) flv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782564802-0-0-85c441e1f19c001282641d54313def95
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CÔNG CHẤT (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782564802-0-0-bf0dda08aff837e8cb8ef48facc5f83f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CÔNG CHẤT (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782564802-0-0-c0ff7656f5b61c578e6206c769af6e9b
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CÔNG CHẤT (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782564802-0-0-bd70e85318277f201de7f11db77cdf79
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VOI (Socolive) flv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782564802-0-0-a78496fd446da1c7b81ae9a65ac321d9
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VOI (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782564802-0-0-b3a36d1126045514bc4a479464d809f4
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VOI (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782564802-0-0-aa872eb0344301441b75862b3fb50450
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV VOI (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782564802-0-0-dede74348e2c5c1d4bb5d6f8203c90bd
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) flv
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782564802-0-0-4f5d7142e0f94e7d4d6de14653da2354
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782564802-0-0-4e93edf4a8593dd2f74f72afacfc9181
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782564802-0-0-5545e67d706b7f5e0e06ccd349b035b2
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/3fe31be40b92741c07e63fd5172ef8e1.png",18h35 ngày 27/06 Shenzhen Peng City vs Chengdu Rongcheng | BLV LION (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782564802-0-0-3ac36dedf40be2497546a9dbcf2627a6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) flv
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782564802-0-0-757a1599cb74d2a0d174d6ccd9c5e341
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782564802-0-0-7094a4cf4fc575d1ae287a178dc6dcfb
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) m3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782564802-0-0-782195f8de29ed0411af1622521e2e46
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV TRÀ ĐÁ (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782564802-0-0-8812caa5d3b1b894df6952e4f0cc4898
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=a8ec216211a529b9d86feaf941c6a6d8&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=ced4c4170c22e6eea664c824889fe66b&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a8ec216211a529b9d86feaf941c6a6d8&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/5df26ed60ee39b6a6cf06306f968a8c1.png",17h00 ngày 27/06 Ulsan Citizens vs Mokpo City | BLV VIP (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ced4c4170c22e6eea664c824889fe66b&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CHIVAS (Socolive) flv
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=27349483113ede54a18e4669ddb6a31f&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CHIVAS (Socolive) hdFlv
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=869006d764c83fe04b2debcc74185e07&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CHIVAS (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=27349483113ede54a18e4669ddb6a31f&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV CHIVAS (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=869006d764c83fe04b2debcc74185e07&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LONG (Socolive) flv
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782564802-0-0-95fe0d22b094cc80861953b149a01eac
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LONG (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1782564802-0-0-3cd240f1a41a66df8ea94c070ad16401
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LONG (Socolive) m3u8
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782564802-0-0-349efa6746bb075e852ab8ca4cf336f4
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV LONG (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782564802-0-0-c579736119cb3bb45c915f0284016ab9
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV WUKONG (Socolive) flv
+https://pull.niur.live/live/stream-511367_lsd.flv?txSecret=61f1c51d1a7db19f11f3bea8bb597d8b&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV WUKONG (Socolive) hdFlv
+https://pull.niur.live/live/stream-511367_lhd.flv?txSecret=c5e085781e36fa2acc672c1f94328241&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV WUKONG (Socolive) m3u8
+https://pull.niur.live/live/stream-511367_lsd.m3u8?txSecret=61f1c51d1a7db19f11f3bea8bb597d8b&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/956abf90189ddb5d8894058d59bc9ba2.png",19h00 ngày 27/06 Chongqing Tonglianglong vs Tianjin Jinmen Tiger | BLV WUKONG (Socolive) hdM3u8
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=c5e085781e36fa2acc672c1f94328241&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV A TINH (Socolive) flv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=286955a20e889082693cb9a8de1decf3&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV A TINH (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=4f192a125de22954fc218b95813628e5&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV A TINH (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=286955a20e889082693cb9a8de1decf3&txTime=6a400e12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260623/0817815114f57fc61abe510f07fa11a5.png",18h00 ngày 27/06 Okzhetpes vs FC Kairat Almaty | BLV A TINH (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=4f192a125de22954fc218b95813628e5&txTime=6a400e12
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-80f0f2d9f951.webp?v=1782375273",⚽ Oman vs Hàn Quốc | 13:30 | BLV Hội Quán
 https://tfx13gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178237525792539&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538

@@ -65,9 +65,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Congo DR
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",21:00 | Pháp vs Thụy Điển
-https://live05.koepgd.app/live/08552895.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",23:00 | Botafogo vs CRB
 https://live05.koepgd.app/live/99121525.m3u8
 
@@ -97,6 +94,9 @@ https://live05.koepgd.app/live/75748097.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",15:00 | Tukums-2000 vs Super Nova
 https://live05.koepgd.app/live/14707124.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",16:00 | Anh vs D.R. Congo
+https://live05.koepgd.app/live/08552895.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/dc1ae89261a19f838b5f2fa0e21d37fa.png!w80",07:00 | Bay Hawks vs Taranaki Mountainairs
 https://live05.koepgd.app/live/90865415.m3u8
@@ -143,89 +143,53 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",[23:00 26/05] Montenegro U17 vs Denmark U17 | BLV Táo Kinh Tế(A Tích)
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.gvapi.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",[04:00 01/07] Pháp vs Thụy Điển | BLV COCA
-https://live05.koepgd.app/live/24561735.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782863962-0-0-18c6d7556b0f84ad40f39f62bc84cc68
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV MESSI
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=c9c981c5fe1a5892b727915b1c46806e&txTime=6a449eab
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV TOMMY
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782863963-0-0-bf96fd8071106a95eb03cd654ad7da37
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV COCA
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=2ab0ffcd2c04fae35377e9896921b3b4&txTime=6a449eab
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV 7UP
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782863740-0-0-315fa89f7b80c143fe04865d86c0a387
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV SAO LA
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=eba5dd95b93cb220f507c5a7c2a4a6f6&txTime=6a449dcc
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV DECO
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782863962-0-0-cf32695e7a7517c3c63087a858705d59
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV Củ Cải
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782863963-0-0-084ce1ca4e5012f667eccbe92b71378f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV ĐỐM
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782863907-0-0-18ee3c6cb1d260ec4ac1805e5db3d6a7
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f73d7e7080d1715100160e967b72141f&txTime=6a449e7a
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV CR Bưởi
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=11fa8befded278950fd9666fb6041455&txTime=6a449eab
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",[04:00 01/07] France vs Sweden | BLV THẠCH TÚ
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=dfa0b7ab81d0a56c35b47d3cf4421e16&txTime=6a449eab
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",[05:00 01/07] Audax Italiano vs Palestino | BLV THÓC
-https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=37a7500cc2310d4cf827c08c0da307c4&txTime=6a449eab
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",[05:00 01/07] Audax Italiano vs Palestino | BLV A TÚ
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782864563-0-0-5c68ae8afbc4355c81f45eec8892c70f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",[05:00 01/07] Audax Italiano vs Palestino | BLV A WIN
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782863963-0-0-e1aa531f00e549eddeaeff0529d3546e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",[05:00 01/07] Audax Italiano vs Palestino | BLV A TÚ
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782863963-0-0-8ddc3a324cc75652d62422f765a0ade4
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782864563-0-0-ebebab9c514619a8d74346fe17759d2d
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",[05:00 01/07] Audax Italiano vs Palestino | BLV GÔN
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=8265d1cc4e2516971600aa9d9e7baed7&txTime=6a449eab
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ff432bd793a0680283d8ac7ccf5f64bc&txTime=6a44a103
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=718b8da1461c0a22e8edee237f992d63&txTime=6a449eab
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV A PÁO
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782863963-0-0-06f736aad3654e415857750ed47f9e86
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=647574611ee376563675c8dfa07bedd8&txTime=6a449eab
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV GIÓ
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782863963-0-0-1d4dd9973d9544f7cd9e7f60f37c5534
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV QUÂN JK
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782863963-0-0-be0d5366be47f295282a2add0ac096ce
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV A CHÈ
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782863963-0-0-5be751da8bd03f63dae7a6f28d4f8848
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",[05:00 01/07] Audax Italiano vs Palestino | BLV THÓC
+https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=7cbe4b9ce1ee8decdf2d74855a634125&txTime=6a44a103
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV HENRY
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782863963-0-0-c4240be0328fa61a4cfd311c1955c25c
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782864562-0-0-1b7e088627fb4c1964f9fcd67acd7032
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV KING
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782864562-0-0-5113ba0d4b6b4897d08c88dba7f53769
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV RAMBO
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d990bfaf4abf11e71e0bf7689f71b2cf&txTime=6a44a103
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV COZY
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782864563-0-0-8d1c846477808dcd3131d8485f477e2b
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV CHAN SENA
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782863963-0-0-8fd733e5be36f50482cfce5c4859724b
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782864563-0-0-39f146aad8e2fd4da6dd76fc209451fb
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV A PÁO
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782864562-0-0-d214dc67a8c7216924954e76d7b9c848
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV HUNTER
 https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782830709-0-0-f1bb8ee63fea3d6a4efb839c994bb5b9
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782863963-0-0-5e325586da7946677107a977224c6824
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV GIÓ
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782864562-0-0-2be599be8977736cb9f0b7c8c355eac9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV BRIAN
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782863962-0-0-b3aa1591a83f540cc0d07fefa81bb45a
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782864562-0-0-b9c3dfabfd17194ce7bf927c34b309b1
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV QUÂN JK
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782864563-0-0-4df9a0396279f2d5131c924738b9e885
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8f46e761faba97330ead4b1a8f5a0703&txTime=6a44a103
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",[06:00 01/07] New York Liberty W vs Las Vegas Aces W | BLV A CHÈ
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782864562-0-0-c18486c4ab5461fa18423af7c50b03f1
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a73bac94f88a4463ea6435e519692c6c.png",[07:30 01/07] Univ Catolica vs Everton CD | BLV ENZO
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782842365-0-0-9e495eabcc3a246029499b5320c7c206
@@ -236,23 +200,56 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1782821900-0-0-8262
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a73bac94f88a4463ea6435e519692c6c.png",[07:30 01/07] Univ Catolica vs Everton CD | BLV KEM
 https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782842396-0-0-22842f582186808eba1849262f2e0384
 
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV TOMMY
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782864430-0-0-4496f9efbb82c30709179a3415e885f9
+
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV TAP
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=8aac5faed5f3535ed73bc0a9168d91bc&txTime=6a446c1c
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV LOGAN
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782827672-0-0-bfa447a814ecbc90964ec156ba7dc759
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV DECO
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782864094-0-0-73bf2d3382dd70eaa601e7416655a295
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV A BỆU
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782825723-0-0-80e5d2a7f7f7a89951486de056deedff
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV ĐỐM
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782863907-0-0-18ee3c6cb1d260ec4ac1805e5db3d6a7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV Củ Cải
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782864395-0-0-564a388d2454be5ae04fd4d0f14a9c20
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782864562-0-0-039a9a1ab61890ad8c492407dbbc687f
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV THẠCH TÚ
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=8528a000c88912c63c95d827aa55261b&txTime=6a44a102
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV SAO LA
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=eba5dd95b93cb220f507c5a7c2a4a6f6&txTime=6a449dcc
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV MESSI
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=b023fd035eee5becc5acd2aaed670602&txTime=6a449f69
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV COCA
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=cb05690a0995deb95fd568c217096b6a&txTime=6a44a08c
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f73d7e7080d1715100160e967b72141f&txTime=6a449e7a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260628/848fcb6331befafce0cf2f23a57e792b.png",[08:00 01/07] Mexico vs Ecuador | BLV 7UP
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782863740-0-0-315fa89f7b80c143fe04865d86c0a387
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV LÃO LÂM
 https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782827929-0-0-789597af2f19662d45081502e16802b9
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV BÉO
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=43977d56fa3ffadef6c5c756cdd87692&txTime=6a4406b9
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV A BỆU
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782825723-0-0-80e5d2a7f7f7a89951486de056deedff
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV LOGAN
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782827672-0-0-bfa447a814ecbc90964ec156ba7dc759
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV FIREMAN
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782817432-0-0-ba681012165af1f3b3b083578a464db9
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/83fda49dab05ae889c309728cc51b6af.png",[15:00 01/07] Khovd Western vs Ulaangom City | BLV BÉO
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=43977d56fa3ffadef6c5c756cdd87692&txTime=6a4406b9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260519/4e2df96cdc2ba4a1cd82ed409d72fb4d.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV VINFAST
 https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782842337-0-0-ff402bf089daa0c31525504508a324c9
@@ -263,29 +260,26 @@ https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782827658-0-0-eefd
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260519/4e2df96cdc2ba4a1cd82ed409d72fb4d.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV CHÍ PHÈO
 https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782820606-0-0-e4f1cf9764525bbbcdcefebffd65532b
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/abaf29356fee3fe22b363ea053bb6e81.png",[17:00 01/07] Seoul Amazones Women vs Suwon FC Women | BLV NGƯỜI CÁ
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782823249-0-0-82de105d37109afa7ff11a8c3288bf37
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260519/4e2df96cdc2ba4a1cd82ed409d72fb4d.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV PEWPEW
 https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782822623-0-0-a31d5f4e070884b7341c4434394ad57c
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/abaf29356fee3fe22b363ea053bb6e81.png",[17:00 01/07] Seoul Amazones Women vs Suwon FC Women | BLV ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782822446-0-0-09f35bc2db0cb630ba44fadfbd38dfc4
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260519/4e2df96cdc2ba4a1cd82ed409d72fb4d.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV XUÂN SON
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5e01bf38360b95942323f51c5d425655&txTime=6a422b44
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/57b3ff2b8ef48d5e01fa288da12b6eaa.png",[17:00 01/07] Gangjin Swans Women vs Mungyeong Sangmu WFC | BLV 24H
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782768641-0-0-0615b11df7684b0e1783fc20ee56ab22
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260519/4e2df96cdc2ba4a1cd82ed409d72fb4d.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV TRÀ ĐÁ
 https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782842240-0-0-b29499976590a6fea7fc6a892b6eb9e1
 
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260519/4e2df96cdc2ba4a1cd82ed409d72fb4d.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV XUÂN SON
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5e01bf38360b95942323f51c5d425655&txTime=6a422b44
+
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/57b3ff2b8ef48d5e01fa288da12b6eaa.png",[17:00 01/07] Gangjin Swans Women vs Mungyeong Sangmu WFC | BLV QUỐC KHÁNH
 https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=1d83f78d5fd23c34df5190ff1cc8a2fe&txTime=6a445e15
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/57b3ff2b8ef48d5e01fa288da12b6eaa.png",[17:00 01/07] Gangjin Swans Women vs Mungyeong Sangmu WFC | BLV COZY
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782863963-0-0-f3cd26471b1381d1d22f77a182be7b1d
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/abaf29356fee3fe22b363ea053bb6e81.png",[17:00 01/07] Seoul Amazones Women vs Suwon FC Women | BLV NGƯỜI CÁ
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782823249-0-0-82de105d37109afa7ff11a8c3288bf37
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/57b3ff2b8ef48d5e01fa288da12b6eaa.png",[17:00 01/07] Gangjin Swans Women vs Mungyeong Sangmu WFC | BLV 24H
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782768641-0-0-0615b11df7684b0e1783fc20ee56ab22
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/abaf29356fee3fe22b363ea053bb6e81.png",[17:00 01/07] Seoul Amazones Women vs Suwon FC Women | BLV ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782822446-0-0-09f35bc2db0cb630ba44fadfbd38dfc4
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/e713e16504fb4cecaefa1e0f952f5e42.png",[18:00 01/07] Khovd Broncos vs Bishrelt Khoromkhon | BLV ALEX
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782844359-0-0-179856c816130f9e61928eb680943b8b
@@ -293,35 +287,35 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782844359-0-0-1798
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/8f83b69eacfeab7567f9752aa7202e44.png",[19:00 01/07] Austria Women U19 vs Switzerland Women U19 | BLV VOI
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782842314-0-0-7f79d48a88bdc87de8fb595a0620116f
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/8f83b69eacfeab7567f9752aa7202e44.png",[19:00 01/07] Austria Women U19 vs Switzerland Women U19 | BLV CUỘI
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782822567-0-0-513faba0b40f976af43ba6e34a1f10b2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/2c8a108c5bdc5359ab0ee8a35cfeafc1.png",[19:00 01/07] BFF Academy U19 vs RTC FC | BLV HÀ DUY KIÊN
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782842055-0-0-efba91fae8b399d0bf31f2f4c32581ab
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/8f83b69eacfeab7567f9752aa7202e44.png",[19:00 01/07] Austria Women U19 vs Switzerland Women U19 | BLV CÒ
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782824985-0-0-bbef190785e1ba8a741009f1cd55d225
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/2c8a108c5bdc5359ab0ee8a35cfeafc1.png",[19:00 01/07] BFF Academy U19 vs RTC FC | BLV LONG
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782842237-0-0-4c3914a66f5d797365f3548f495fd710
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/8f83b69eacfeab7567f9752aa7202e44.png",[19:00 01/07] Austria Women U19 vs Switzerland Women U19 | BLV CUỘI
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782822567-0-0-513faba0b40f976af43ba6e34a1f10b2
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/8f83b69eacfeab7567f9752aa7202e44.png",[19:00 01/07] Austria Women U19 vs Switzerland Women U19 | BLV LOKA
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782842453-0-0-f85e961da8e2edf16a6d2dc78569ed1e
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/f2f5db79acb2dd841eba0c77222200a6.png",[22:00 01/07] Tukums-2000 vs Super Nova | BLV VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5762b2bef3987311807b77e67f0ac7a6&txTime=6a4466e3
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/2c8a108c5bdc5359ab0ee8a35cfeafc1.png",[19:00 01/07] BFF Academy U19 vs RTC FC | BLV LONG
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782842237-0-0-4c3914a66f5d797365f3548f495fd710
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/2c8a108c5bdc5359ab0ee8a35cfeafc1.png",[19:00 01/07] BFF Academy U19 vs RTC FC | BLV HÀ DUY KIÊN
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782842055-0-0-efba91fae8b399d0bf31f2f4c32581ab
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/f2f5db79acb2dd841eba0c77222200a6.png",[22:00 01/07] Tukums-2000 vs Super Nova | BLV CÁO
 https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782695137-0-0-1f3ea7253dd125b61089540058eee358
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/0c828de563f2cec4ebef07929d84cc5c.png",[22:00 01/07] Spain Women U19 vs Iceland Women U19 | BLV LION
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782822518-0-0-de6b4558251cb92c9f6d1e389e628d3b
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/f2f5db79acb2dd841eba0c77222200a6.png",[22:00 01/07] Tukums-2000 vs Super Nova | BLV VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5762b2bef3987311807b77e67f0ac7a6&txTime=6a4466e3
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/f2f5db79acb2dd841eba0c77222200a6.png",[22:00 01/07] Tukums-2000 vs Super Nova | BLV PICK
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782822431-0-0-67b440671d7272fea9d694a56696dbb5
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/0c828de563f2cec4ebef07929d84cc5c.png",[22:00 01/07] Spain Women U19 vs Iceland Women U19 | BLV BEN 10
 https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782825995-0-0-1a5a66c3833a9d16eac26459fd5e8166
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/f2f5db79acb2dd841eba0c77222200a6.png",[22:00 01/07] Tukums-2000 vs Super Nova | BLV PICK
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782822431-0-0-67b440671d7272fea9d694a56696dbb5
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/0c828de563f2cec4ebef07929d84cc5c.png",[22:00 01/07] Spain Women U19 vs Iceland Women U19 | BLV LION
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782822518-0-0-de6b4558251cb92c9f6d1e389e628d3b
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/2618.png",[06:00 01/07] Botafogo SP vs CRB | BLV PHAN CA
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -346,6 +340,9 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/10.png",[23:00 01/07] England vs Congo DR | BLV PHAN QUẨY
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.gvapi.cc/football/team/ba472bb6eb37e333549df040175df856.png!w80",[23:00 01/07] Anh vs D.R. Congo | BLV COCA
+https://live05.koepgd.app/live/24561735.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.sports-data.online/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png",🟢 06:00 01/07 ⚽ Botafogo SP vs CRB AL (BLV TRẠNG TÍ)
 https://pull.asynccdn.com/live/601fffc25c9248f8b2ed4c0948bcd35b/index.m3u8
@@ -481,6 +478,12 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/8666_1gtda2hsk1s.png",[06:00 01/07] Botafogo SP vs CRB AL | BLV LEO
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/3318_1hkgt1y0p82h.png",[06:30 01/07] Botafogo PB vs Brusque FC | BLV HEINEKEN
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/1590_1gxpyare4w28.png",[06:30 01/07] Volta Redonda vs Amazonas FC | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/22442_1gtn2jbzvv6.png",[17:00 01/07] Newcastle Olympic vs Charleston City Blues | BLV LƯU BỊ
 https://auto.cdnfaster.live/live/sd-6MvVNtPzAvieWvUve8/playlist.m3u8
@@ -677,6 +680,30 @@ https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/19066.png",[22:00 01/07] Spain U19 W vs Iceland U19 W | BLV Isco
 https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Mã Siêu
+https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Mã Siêu
+https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Coca
+https://alive.yarncdn.live/tqtv_blv_coca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Coca
+https://alive.yarncdn.live/tqtv_blv_coca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/19066.png",[22:00 01/07] Spain U19 W vs Iceland U19 W | BLV A Soi
+https://alive.yarncdn.live/tqtv_blv_asoi/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/19066.png",[22:00 01/07] Spain U19 W vs Iceland U19 W | BLV A Soi
+https://alive.yarncdn.live/tqtv_blv_asoi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/10.png",[23:00 01/07] England vs Congo DR | BLV Ricky
+https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/10.png",[23:00 01/07] England vs Congo DR | BLV Ricky
+https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",[08:00 01/07] Mexico vs Ecuador | BLV Chìm Sâu
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
@@ -707,89 +734,65 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/4144.png",[22:00 01/07] Tukums vs Super Nova | BLV Bịp Con
 https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Mã Siêu
-https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Mã Siêu
-https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Coca
-https://alive.yarncdn.live/tqtv_blv_coca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV Coca
-https://alive.yarncdn.live/tqtv_blv_coca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/19066.png",[22:00 01/07] Spain U19 W vs Iceland U19 W | BLV A Soi
-https://alive.yarncdn.live/tqtv_blv_asoi/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/19066.png",[22:00 01/07] Spain U19 W vs Iceland U19 W | BLV A Soi
-https://alive.yarncdn.live/tqtv_blv_asoi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/10.png",[23:00 01/07] England vs Congo DR | BLV Ricky
-https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/10.png",[23:00 01/07] England vs Congo DR | BLV Ricky
-https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png!w80",[08:00 01/07] Mexico vs Ecuador | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/85c9f9ef.m3u8?auth_key=1782860404-0-0-ffddadf6544e7533e60d77f9dab18c97
+https://pull.vod2gwuskh.com/xem/85c9f9ef.m3u8?auth_key=1782861004-0-0-8137b60cfbf990f6e087c7e63069fc72
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png!w80",[08:00 01/07] Mexico vs Ecuador | BLV LUCA
-https://pull.vod2gwuskh.com/xem/b219f59c.m3u8?auth_key=1782860404-0-0-d418641b8cda3a191ab4a36dbe992866
+https://pull.vod2gwuskh.com/xem/b219f59c.m3u8?auth_key=1782861004-0-0-dd8f91b2c2d31d92289584d67e09c81e
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/cd5a7e277e91426d9ad74bd09b946fde.png!w80",[08:00 01/07] Mexico vs Ecuador | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/edf959e1.m3u8?auth_key=1782860404-0-0-c39d55355549ddbeae4126c4bbf4546c
+https://pull.vod2gwuskh.com/xem/edf959e1.m3u8?auth_key=1782861004-0-0-00ee7d27e85bbd5857c0dfddcc619764
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/19ba34d167be9b01eb848a0a777932ac.png!w80",[17:00 01/07] Seoul Nữ vs Suwon FMC Nữ | BLV CAM
-https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1782860404-0-0-e419674e0cd4c59faf0c15f11f479717
+https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1782861004-0-0-1d9cacebfd6c61355f718a8af1ff9db9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/7c2bd5703358c6c32683e2897f1100df.png!w80",[17:00 01/07] Changnyeong Nữ vs Boeun Sangmu Nữ | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1782860404-0-0-5626feebcb5460828c4305422782f65b
+https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1782861004-0-0-075b37fc356dd290ea442b976e379f48
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/b7435acfa1f1bd0ecdbd920a8e32c4f8.png!w80",[21:00 01/07] FK Zenit Izhevsk vs Pobeda Nizhniy Novgorod | BLV AKHOI
-https://pull.vod2gwuskh.com/xem/83f34460.m3u8?auth_key=1782860404-0-0-3587f06e521b38f713c7b409c84289c1
+https://pull.vod2gwuskh.com/xem/83f34460.m3u8?auth_key=1782861004-0-0-82b8e1c3745107c507274d7f34496edd
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png!w80",[23:00 01/07] ĐTQG Anh vs D.R. Congo | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1782860404-0-0-fd07defe5769d9277038e2e119b3c0a6
+https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1782861004-0-0-adc4907e4bc3a0f1a1449eed312a9238
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png!w80",[23:00 01/07] ĐTQG Anh vs D.R. Congo | BLV LUCA
-https://pull.vod2gwuskh.com/xem/42edd1ec.m3u8?auth_key=1782860405-0-0-ec0d814caa9f3457b8b70994ac9ea8c3
+https://pull.vod2gwuskh.com/xem/42edd1ec.m3u8?auth_key=1782861004-0-0-a6b50918df68655e12291537f5de34bc
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/70fd3d5ba9c841ef932fae2cf0d7f3e7.png!w80",[23:00 01/07] ĐTQG Anh vs D.R. Congo | BLV CAM
-https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1782860405-0-0-001f67c553f8331fe7e2cc5b8f878e19
+https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1782861005-0-0-1949ff038ed40c24e56054f9d847c130
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png!w80",[03:00 02/07] Bỉ vs Senegal | BLV SHIO
-https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1782860405-0-0-0ae143f1649a0b28af16a3c5de342538
+https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1782861005-0-0-92716d0b72ee878ed91918c7a41b6018
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png!w80",[03:00 02/07] Bỉ vs Senegal | BLV LUCA
-https://pull.vod2gwuskh.com/xem/4392e631.m3u8?auth_key=1782860405-0-0-454993dc15121ea0221b0326883127e3
+https://pull.vod2gwuskh.com/xem/4392e631.m3u8?auth_key=1782861005-0-0-31e155d3bbc869115cd43484e41ee42a
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png!w80",[03:00 02/07] Bỉ vs Senegal | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/d36cad38.m3u8?auth_key=1782860405-0-0-3a2a8d1cca1afb79739e9f3ebe4f4036
+https://pull.vod2gwuskh.com/xem/d36cad38.m3u8?auth_key=1782861005-0-0-b592a6e6c7c1eef8c0887a9cd820486b
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png!w80",[07:00 02/07] Mỹ vs ĐTQG Bosnia Herzegovina | BLV KEVIN
-https://pull.vod2gwuskh.com/xem/4d22136e.m3u8?auth_key=1782860405-0-0-95ec598c8d258f72d99d9786faf6bebc
+https://pull.vod2gwuskh.com/xem/4d22136e.m3u8?auth_key=1782861005-0-0-ee549f386b830108558d051d208ac1cb
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png!w80",[07:00 02/07] Mỹ vs ĐTQG Bosnia Herzegovina | BLV LUCA
-https://pull.vod2gwuskh.com/xem/69f8ea31.m3u8?auth_key=1782860405-0-0-725ed50ca9b424a0f0816699c68c79c7
+https://pull.vod2gwuskh.com/xem/69f8ea31.m3u8?auth_key=1782861005-0-0-15617998db0e90fbf6148b4c1dbb35a8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png!w80",[07:00 02/07] Mỹ vs ĐTQG Bosnia Herzegovina | BLV HỌA MI
-https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1782860405-0-0-67d58ff6c02c5cc2bfce25e1b3346ed6
+https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1782861005-0-0-4068b222644f9d1be69e2fd64fbee5bf
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80",[20:00 02/07] Croatia U19 vs Ý U19 | BLV CAM
-https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1782860405-0-0-c53a7038d586657faf6c51b72c545bc8
+https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1782861005-0-0-4b90b63360e1a530c961f7908e1adff2
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/8d6900ddedb1a461a7908fd698e3eeed.png!w80",[22:00 02/07] CLB BATE vs FC Gomel | BLV SHIO
-https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1782860406-0-0-308e84d3c5d7c95d9e83d6363986f8a9
+https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1782861005-0-0-7da4e7112066cf6eb9f7d9af4be5f61f
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/e1bc0fed05a00106dc0457933e2708a3.png!w80",[23:00 02/07] Jazz Pori vs KPV Kokkola | BLV CAM
-https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1782860406-0-0-c63de4f01df4fdcbe3ce6e7f01d2c1d1
+https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1782861005-0-0-8fd7a1fdbdfb2e12aadc4e462d5f1df5
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80",[00:00 03/07] Serbia U19 vs Ukraine U19 | BLV AKHOI
-https://pull.vod2gwuskh.com/xem/da796dcc.m3u8?auth_key=1782860406-0-0-4db9774339da94ee9eff77abb2b7f911
+https://pull.vod2gwuskh.com/xem/da796dcc.m3u8?auth_key=1782861005-0-0-b8dd520c9e144209f4718a1e22add9f8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img0.aiscore.com/football/team/fad87ff2077540c8a951ade88a87901d.png!w80",[10:00 03/07] Thụy Sĩ vs ĐTQG Algeria | BLV SHIO
-https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1782860406-0-0-f42223ecc8acf3295ddd93386b193466
+https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1782861005-0-0-940b1a82815913e5b27eca92051bcdbc
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://media.api-sports.io/football/teams/16.png",[08:00 01/07] Mexico vs Ecuador | BLV DƯA HẤU
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
@@ -923,41 +926,8 @@ https://hls.lauthaitv.cc/live/kure-flora-estpremliga/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://news8tv.com/wp-json/s8-image/8dfd748d-7c0e-4d04-93f4-6742443368de",[06:00 03/07] Lyn Oslo vs Asane Fotball | BLV NGƯỜI CÁO
 https://hls.lauthaitv.cc/live/lyn-asane-nor1/index.m3u8
 
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KEVILL flv
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KAKA flv
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://cdn-img.cdnokvip.com/logos/8666_1gtda2hsk1s.png",06h00 ngày 01/07 Botafogo SP vs CRB AL (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -988,150 +958,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://img.sports-data.online/football/team/4f7090cc3dd92dfefdcddf743908cf94.png",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782862883-0-0-299046cc3b1b3c4ea8a67f36fe7246a6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782862883-0-0-3e0ec3b63a12b6f4740a478e62e9a832
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782862883-0-0-d5ee88d992c47daf96d6de6d593533b6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782862883-0-0-53419f4b3a4e2c98c8bdad0d76f6838d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782862883-0-0-90358cf595082e5cb9e6044379bc8ec0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782862883-0-0-d93cfddeac32f25515108e1d142577d3
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782862883-0-0-b922d0686310684a69b3ba2e9a85149e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782862883-0-0-d8e54bc61fad91e5671cfdd0690efae1
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV ĐỐM (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782862883-0-0-260b9deafe544185a89af025dda14e9d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV ĐỐM (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782862883-0-0-b63e17891ccc79519511041a192e9292
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV ĐỐM (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782862883-0-0-56753b3e2da1a6c96bfd2c335c33484f
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV ĐỐM (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782862883-0-0-c1714fb7145ca8d44f64a8e6a6daaac2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782862883-0-0-da6752fde78316de82f67c901fe4ae54
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782862883-0-0-d588c326e4f417b034610d93b2a67204
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782862883-0-0-86af4e1195345f823e23443921f18dd0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782862883-0-0-56b530986d836f3fa125a1819d5a5811
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) flv
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782862883-0-0-2adffc7737566eb1bd681ff9e96c08ee
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1782862883-0-0-7f2197dd552f68360b6e9dd8ff75abbc
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782862883-0-0-bad279de32e9806e47babdc18a5f5e7e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782862883-0-0-b017672b400abb47bbb7e23f1f7124aa
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=cdba284b619bd377891254f6ece540b6&txTime=6a449a73
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=8b89c8d4291af40811b24525cb0eac60&txTime=6a449a73
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=cdba284b619bd377891254f6ece540b6&txTime=6a449a73
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=8b89c8d4291af40811b24525cb0eac60&txTime=6a449a73
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782862943-0-0-f794445bb01e9fb4b0a27f468fed87c9
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782862943-0-0-75e7c0c129b577ac9e85de494bb03a3d
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782862943-0-0-035dbf17cdc5c3c22d88a1d6116a346e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782862943-0-0-28c7a7e0d5b3c0a0839e019e414626c0
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) flv
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=00fc69d3eb209cebac86c0ad3e3f55ea&txTime=6a449aaf
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) hdFlv
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=bfbd7c9a22f4582ef37bb27cb4187360&txTime=6a449aaf
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=00fc69d3eb209cebac86c0ad3e3f55ea&txTime=6a449aaf
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bfbd7c9a22f4582ef37bb27cb4187360&txTime=6a449aaf
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) flv
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1782862943-0-0-08d1db93d85948d5144766cd7b96a80e
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1782862943-0-0-a664f1eec091f0b1c8488ccb745e27e2
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782862943-0-0-e0adb06170369f18ed951416ec6ebd8b
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782862943-0-0-845977a1ce2fe950e5d6415d09c6651a
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782862943-0-0-53210ab926a973f5152da31610fb3c03
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782862943-0-0-1674487cfef170ac9275c45fea92c3b4
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782862943-0-0-49b65006d321cabaa3c38bc82bce2c42
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782862943-0-0-3e06357d29cb7cf770df53e9ff4d53ec
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV SAO LA (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=06d51d0b0fc8143bb477a933afa97f5c&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV SAO LA (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=343fc08e865656485ddcfb655944d700&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV SAO LA (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=06d51d0b0fc8143bb477a933afa97f5c&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV SAO LA (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=343fc08e865656485ddcfb655944d700&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV RICKHANTER (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=3a07b93b3f44ea7c2a320e8d4ea635af&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV RICKHANTER (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=1e7995c2db43154e43feb4ec0058f46e&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV RICKHANTER (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=3a07b93b3f44ea7c2a320e8d4ea635af&txTime=6a449bdb
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV RICKHANTER (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=1e7995c2db43154e43feb4ec0058f46e&txTime=6a449bdb
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV COCA (Socolive) flv
 https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=a8412938ff48312600f8f2ce7430ce13&txTime=6a449bdb
@@ -1216,18 +1042,6 @@ https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=3ccaeb9846b7e64515e9
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV MESSI (Socolive) hdM3u8
 https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=76c109a5a9cbdec96fad13b4155f168a&txTime=6a449d43
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV 7UP (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782863603-0-0-05b567e7ccd6d40556e844f38c83e2d4
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV 7UP (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782863603-0-0-184726c212f895e200fe33310aa94fc6
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV 7UP (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782863603-0-0-636f25b54101ddafdd48108ad16eba84
-
-#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV 7UP (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782863603-0-0-112e13b8c484ce52ed7ee30f20f16367
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TẠ BIÊN GIỚI (Socolive) flv
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782863603-0-0-e017a5422736836460360f825fecbf7e
@@ -1324,6 +1138,114 @@ https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782863603-0-0-14c
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260629/c4f7ddbc2cd6a84b5899ea0fb5ec7587.png",06h00 ngày 01/07 New York Liberty W vs Las Vegas Aces W | BLV KING (Socolive) hdM3u8
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782863603-0-0-cf0cb74ba7f82c7f3f1a9dc23f157544
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782864023-0-0-aa59df908c6650b3850e45fee8364632
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782864023-0-0-a7e25c7b1becaa28edcdf2839113f63a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782864023-0-0-468f40b17c4972964d7859cb53d8af60
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A TÚ (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782864023-0-0-81a226db35441869a651f310d679d946
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) flv
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782864023-0-0-f6f38dd5c7686eccffd592df7df4bbfc
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1782864023-0-0-48cf9474b700e19086e43b88f713eebe
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782864023-0-0-68e77b1a04e9ac213fb9fcdd4c12dd6a
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV QUÂN JK (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782864023-0-0-473abbdb617650e7f8bf60e294f07bb8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782864023-0-0-a7283d019869c2010eaca09fcbc4def8
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782864023-0-0-5d9323503da7b218dc6747614180eec2
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782864023-0-0-d1ae573efbf5f437ea3d8e84fe2cd165
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV Củ Cải (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782864023-0-0-a7857c027014a9514452097e264c1591
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782864023-0-0-756f07d569eeaa70aa7c0075600ee061
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782864023-0-0-e474eb1479403cb22e268998bddeb9d0
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782864023-0-0-882cf65662f83b174192dbd11fe430c5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a507f8c9915dc4bfed9a6ff25a800b45.png",04h00 ngày 01/07 France vs Sweden | BLV TOMMY (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782864023-0-0-0f3ad2003bbe8f6fb9f2142ef75a9b9e
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) flv
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=c41bfca36f8b1a4a77c0ea80d81e307b&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) hdFlv
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=eb1453a3d9dc373ae4a89c2f6183b5cd&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c41bfca36f8b1a4a77c0ea80d81e307b&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV CHIVAS (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=eb1453a3d9dc373ae4a89c2f6183b5cd&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) flv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=17de1cd6326dff85a48fcfeb1fa20f99&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=792a47247103483f0572d5f7ea11d777&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=17de1cd6326dff85a48fcfeb1fa20f99&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV GÔN (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=792a47247103483f0572d5f7ea11d777&txTime=6a449ee7
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) flv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782864023-0-0-718d732c33a7481206851123860ca6ac
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782864023-0-0-63bb06f89fe993ccf70190cc50e72a33
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782864023-0-0-493beb5b2217b99d81ab8f4a66e54906
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/a086b309743c830bd5d3c78ddb24ebc4.png",05h00 ngày 01/07 Audax Italiano vs Palestino | BLV A WIN (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782864023-0-0-2c95a819cb548e7a557b89a6ae65c886
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) flv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1782864023-0-0-fa3ead7022d22a59ac647f36e51603a5
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1782864023-0-0-43eab1434a0e8fe4af7c71c27bf0d544
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782864023-0-0-b2b4be3795e74504935a90970f784d12
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260627/9f1302446604311fe211b6e69efb05aa.png",06h00 ngày 01/07 Botafogo SP vs CRB AL | BLV GIÓ (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782864023-0-0-744d65cc893dff95bbf92ffd8be87d4c
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782864023-0-0-bed4f95becf5b0b908b94fcf4efa6e47
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782864023-0-0-409a12cb7fa6373eddd04ed14ae839ca
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782864023-0-0-ee58869f952d66f8b34a2fe28c7d1915
+
+#EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://sta.vnres.co/file/common/20260626/3b6fe4a8629a634e88f01195a2179ccd.png",BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782864023-0-0-ab235b65cc74808c230622aa859c6888
 
 #EXTINF:-1 group-title="QUÊ CHOA" tvg-logo="https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-80f0f2d9f951.webp?v=1782375273",⚽ Oman vs Hàn Quốc | 13:30 | BLV Hội Quán
 https://tfx13gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178237525792539&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538

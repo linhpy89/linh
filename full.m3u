@@ -87,6 +87,12 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 21/07 Tsirang FC vs Drukpa FC (BLV YẾN THANH) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 21/07 Tsirang FC vs Drukpa FC (BLV YẾN THANH) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Queensland Lions SC vs Perth Glory (BLV MÃ SIÊU) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (BLV C2) [flv]
@@ -155,17 +161,17 @@ https://live05.meung.app/live/41943555.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 KaPa vs CLB Klubi 04 (BLV  KHÔNG ĐỘ) [hls 2]
 https://live05.miekgo.app/live/41943555.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF-CAND vs Hoang Anh Gia Lai (Chuối Tây) [FHD1] [FHD1]
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF-CAND vs Hoang Anh Gia Lai (Chuối Tây) [FHD2] [FHD2]
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (Chuối To) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (Chuối To) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF-CAND vs Hoang Anh Gia Lai (Chuối Tây) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF-CAND vs Hoang Anh Gia Lai (Chuối Tây) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Preston Lions vs Newcastle Jets (Chuối Già) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
@@ -203,12 +209,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Sogdiana vs Neftchi (Chuối Bơ) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF Vietnam U21 vs Hoang Anh Gia Lai U21 (Lê Hoàn)
-https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF Vietnam U21 vs Hoang Anh Gia Lai U21 (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/3dc34b7ff7087d4745233037ab1dbf9a/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:30 21/07 Canberra Juventus U23 vs Canberra Croatia FC U23 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/62e5b5c53087ff34f3695556cc9930d2/playlist.m3u8
 
@@ -223,6 +223,15 @@ https://station1-global.ebaclofen.org/live/4a97253abd06674c7a15ef086fdf863b/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f9b058d5aa392ed9eb7c/master.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF Vietnam U21 vs Hoang Anh Gia Lai U21 (Lê Hoàn)
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF Vietnam U21 vs Hoang Anh Gia Lai U21 (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/3dc34b7ff7087d4745233037ab1dbf9a/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF Vietnam U21 vs Hoang Anh Gia Lai U21 (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-37ba807f238d9d81a0a0/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Preston Lions vs Newcastle Jets (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/4ea3271077602ee4d29f99073f8014ba/playlist.m3u8
@@ -794,32 +803,11 @@ https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/07 Manila Batang Quiapo vs Rizal Xentro Mall Golden Coolers (Okocha) [hls]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BEN 10) [geo]
-https://live.inplyr.com/room/612098.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784625235-0-0-0ae584631b5a6760317d32137a3c768e
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV LUCAS) [geo]
-https://live.inplyr.com/room/304148.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV NOVA) [geo]
-https://live.inplyr.com/room/619108.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV YONE) [geo]
-https://live.inplyr.com/room/372746.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV Củ Cải) [geo]
-https://live.inplyr.com/room/360663.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (HÀ DUY KIÊN) [geo]
-https://live.inplyr.com/room/607400.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (BLV TOMMY) [geo]
 https://live.inplyr.com/room/414317.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784624995-0-0-3d670662ca986f9c2017a5a479768d26
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784625835-0-0-f3ccce1377b2f19c94f8bf1c97074734
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (BLV PEWPEW) [geo]
 https://live.inplyr.com/room/109053.m3u8
@@ -840,7 +828,7 @@ https://live.inplyr.com/room/603255.m3u8
 https://live.inplyr.com/room/558264.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 21/07 Fujian Jinlan W vs Sichuan Jinqiang W (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784625235-0-0-50e30c72a7ce00426bb1981ae2f7b07b
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784626195-0-0-9ec2d4205aad81a0fa58bc9cad5af875
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 21/07 Fujian Jinlan W vs Sichuan Jinqiang W (BRIAN) [geo]
 https://live.inplyr.com/room/122591.m3u8
@@ -858,7 +846,28 @@ https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784625115-0-0-0b1e
 https://live.inplyr.com/room/515530.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Basilan Steel vs Sarangani Marlins (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784625235-0-0-ed707b03e78f1df4a7a0990711d05261
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784626195-0-0-cc80afb88715d993351234847fed2eac
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BEN 10) [geo]
+https://live.inplyr.com/room/612098.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BEN 10)
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784626195-0-0-44d6822a62be1505bb81eac3b13d0d78
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV LUCAS) [geo]
+https://live.inplyr.com/room/304148.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV NOVA) [geo]
+https://live.inplyr.com/room/619108.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV YONE) [geo]
+https://live.inplyr.com/room/372746.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (BLV Củ Cải) [geo]
+https://live.inplyr.com/room/360663.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF U21 vs LPBank HAGL U21 (HÀ DUY KIÊN) [geo]
+https://live.inplyr.com/room/607400.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 21/07 Kalmar vs Malmo FF (BLV RAMBO) [geo]
 https://live.inplyr.com/room/534055.m3u8
@@ -1023,10 +1032,10 @@ https://live.inplyr.com/room/618546.m3u8
 https://live.inplyr.com/room/602019.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/07 TPS Turku vs Ilves Tampere (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1784625235-0-0-3cae74dfa1cf694e167d61345297c4a8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1784626075-0-0-6bf406d972f2d6a914f496167e124b4f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/07 Jelgava vs Rigas Futbola Skola (BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1784625235-0-0-ecf678eed43d09a64a2e2389411781c7
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1784626195-0-0-97b23c2d2d6287c422a5c220f2c48039
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 20/07 Jelgava vs Rigas Futbola Skola (SAO LA) [geo]
 https://live.inplyr.com/room/462413.m3u8
@@ -1074,7 +1083,7 @@ https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784585415-0-0-5038
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=755fabd64e1650803b26b2dabf4c75ad&txTime=6a5e4f9b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 21/07 Patronato Parana vs Atletico Atlanta (BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784625475-0-0-03837e311d0282144e4855931df9e07f
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784626315-0-0-54aaa4c29e7b9d27069f87943734d5f9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 21/07 Quilmes vs Gimnasia Jujuy (BLV VOI)
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784555635-0-0-d8d8312fa03d032b63ba2bf9e5e90a70
@@ -1086,7 +1095,7 @@ https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784622704-0-0-079
 https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784573722-0-0-7c56a7c00194702996987c7471c2b75d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/07 Central Norte Salta vs Deportivo Moron (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1784625115-0-0-bcd5a74a27cd8aaee70987ffc80d7795
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1784626195-0-0-fe6db07457ea7fd06ff04933ca9ef0fb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:15 21/07 Meralco Bolts vs Blackwater Bossing (BLV HENRY) [geo]
 https://live.inplyr.com/room/428392.m3u8
@@ -1094,12 +1103,12 @@ https://live.inplyr.com/room/428392.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/07 Bayswater City vs Sydney FC (BÒ TƯƠI) [geo]
 https://live.inplyr.com/room/620797.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 21/07 Los Angeles Angels vs St.Louis Cardinals (Số 9) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1784599346_hd/1784599346_hd@720p.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Basilan Viva Portmasters vs Sarangani Province (Số 9) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784600390_hd/1784600390_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (Số 2) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784618146_hd/1784618146_hd@720p.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Preston Lions vs Newcastle Jets (Số 17) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1784599931_hd/1784599931_hd@720p.m3u8
 

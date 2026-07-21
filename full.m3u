@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80",02:00 | Seattle Storm vs Minnesota Lynx
-https://live05.meung.app/live/19919577.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80",08:00 | Dalian Kewei vs Beijing Guoan
 https://live05.meung.app/live/08552895.m3u8
 
@@ -13,6 +10,9 @@ https://live05.meung.app/live/82054853.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",09:30 | Preston Lions vs Newcastle Jets
 https://live05.meung.app/live/41943555.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",09:30 | CLB Queensland Lions SC vs CLB Perth Glory
+https://live05.meung.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80",10:30 | Jeju Utd vs Gangwon
 https://live05.meung.app/live/99121525.m3u8
@@ -74,12 +74,6 @@ https://live05.meung.app/live/19919577.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm vs Minnesota Lynx (BLV POCARI) [hls 2]
 https://live05.miekgo.app/live/19919577.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Golden State Valkyries vs Washington Mystics (BLV 247) [flv]
-https://live05.meung.app/live/90865415.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Golden State Valkyries vs Washington Mystics (BLV 247) [hls 2]
-https://live05.miekgo.app/live/90865415.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (BLV C2) [flv]
 https://live05.meung.app/live/08552895.flv
 
@@ -121,6 +115,12 @@ https://live05.meung.app/live/75915087.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/07 Shanghai Port vs Shenzhen Peng City (BLV MONSTER) [hls 2]
 https://live05.miekgo.app/live/75915087.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 21/07 Phoenix Fuel Masters vs Rain or Shine Elasto Painters (BLV 247) [flv]
+https://live05.meung.app/live/90865415.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 21/07 Phoenix Fuel Masters vs Rain or Shine Elasto Painters (BLV 247) [hls 2]
+https://live05.miekgo.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 21/07 Tongliangloong Trùng Khánh vs Qingdao West Coast (BLV MOUNTAIN DEW) [flv]
 https://live05.meung.app/live/87547578.flv
@@ -407,20 +407,17 @@ https://hls.lauthaitv.cc/live/neftci-dinamo-c3qual/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 22/07 FC Neftci Baku vs Dinamo Minsk (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/neftci-dinamo-c3qual.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Nữ Golden State vs Nữ Mystics (STEP)
-https://live2.streambylivepulse.com/live/channel26.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Nữ Golden State vs Nữ Mystics (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001784605535-0-0-17dca0ee547bad1365f7ca61d1a7c923
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Nữ Seattle Storm vs Nữ Minnesota Lynx (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Nữ Seattle Storm vs Nữ Minnesota Lynx (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001784605542-0-0-5a835f323cd7ba95d6d29cdb20215181
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001784607339-0-0-9b217f82e6be97da0cd1642ac9ccf897
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (FILIP)
-https://live2.pro2cdnlive.com/live/channel19.flv
+https://live2.streambylivepulse.com/live/channel19.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan (HD FILIP) [HD]
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001784607345-0-0-26690db25c098f02739e76d450f0b959
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 21/07 PVF Việt Nam U21 vs HAGL U21 (JEAN)
 https://live2.pro2cdnlive.com/live/channel7.flv
@@ -449,32 +446,23 @@ https://live2.pro2cdnlive.com/live/channel20.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/07 Shanghai Port vs Shenzhen Peng City (TOM)
 https://live2.pro2cdnlive.com/live/channel4.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 21/07 Wuhan Three Towns vs Shandong Taishan (FELIX)
-https://live2.pro2cdnlive.com/live/channel24.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 21/07 Shanghai Shenhua vs Qingdao Manatee (RAVEN)
-https://live2.pro2cdnlive.com/live/channel21.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 21/07 Tongliang Long FC vs Qingdao Island (ASTRA)
-https://live2.pro2cdnlive.com/live/channel11.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/07 Henan FC vs Dalian Yingbo (MAX)
-https://live2.pro2cdnlive.com/live/channel6.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/07 Yunnan Yukun vs Chengdu Rongcheng (NICK)
-https://live2.pro2cdnlive.com/live/channel5.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 21/07 Nữ Fujian Zhongteng vs Nữ SiChuan JinQiang (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001784605568-0-0-bf85848b22b67f2adea2564038d0a676
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001784607361-0-0-686b921dd342cf3f5784de5314822a04
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Basilan Viva Portmasters vs Sarangani (ALAN)
-https://live2.pro2cdnlive.com/live/channel25.flv
+https://live2.streambylivepulse.com/live/channel25.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Basilan Viva Portmasters vs Sarangani (HD ALAN) [HD]
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001784607368-0-0-b4413c9e94a1c9b37cb37a9dcd21915f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/07 Manila Batang Quiapo vs Rizal Xentro Golden (STEP)
 https://live2.pro2cdnlive.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 21/07 Nữ Liaoning Hengye vs Nữ ShangHai BaoShan (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 21/07 Bataan Risers vs Paranaque Patriots (ALAN)
+https://live2.pro2cdnlive.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 21/07 Jan-Lennard Struff vs Alexander Shevchenko (VIC)
 https://live2.pro2cdnlive.com/live/channel32.flv
@@ -486,15 +474,18 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 21/07 Gen.G Esports vs Hanwha Life Esports (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784605600-0-0-6d3287070573bd055938bb9c2877f090
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784607386-0-0-70bcb227ba74bcf564213b5bef3bf7d4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:45 21/07 BNK FearX vs Dplus (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784605612-0-0-df77a2d7adac930b387de3d27a3ea6b3
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784607392-0-0-ca026fd0a8510e37383ba5ada9c84b61
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:30 21/07 Gen.G Esports vs T1 (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784605617-0-0-0f84047d19c3da5d9c229460b3a9e0c4
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784607400-0-0-375fa36e74d205c3964b7c3456b2050e
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:15 21/07 KT Rolster vs Dplus (MARTY)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:15 21/07 KT Rolster vs Dplus (HD MARTY) [HD]
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784607406-0-0-5f8e69570f8a96489ab81fa17be9ca7e
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 21/07 Fredit BRION vs Gen.G Esports (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Preston Lions vs Newcastle Jets (BLV TRẠNG TÍ) [geo]
@@ -602,6 +593,90 @@ https://cdnflv.xbdbotv.live/live/ur00759ypn542nkmcy0rdm9m.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Buxoro vs Bunyodkor (TRÂU GÁC BẾP) [hls]
 https://cdnhls.xbdbotv.live/live/ur00759ypn542nkmcy0rdm9m/index.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm vs Minnesota Lynx (Titan) [flv]
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm vs Minnesota Lynx (Titan) [hls]
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Mjallby AIF vs Lincoln Red Imps (Saitama) [flv]
+https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Mjallby AIF vs Lincoln Red Imps (Saitama) [hls]
+https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Sabah Baku vs KuPs (Cris) [flv]
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Sabah Baku vs KuPs (Cris) [hls]
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (Blv đình bắc) [flv]
+https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (Blv đình bắc) [hls]
+https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan FC (Rio) [flv]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 21/07 Dalian Kewei vs Beijing Guoan FC (Rio) [hls]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Canberra Juventus vs Canberra FC (Kayti) [flv]
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Canberra Juventus vs Canberra FC (Kayti) [hls]
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Queensland Lions SC vs Perth Glory (Bố phan hải) [flv]
+https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 21/07 Queensland Lions SC vs Perth Glory (Bố phan hải) [hls]
+https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/07 Jeonbuk Hyundai Motors vs Daejeon Citizen (Người kiến) [flv]
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/07 Jeonbuk Hyundai Motors vs Daejeon Citizen (Người kiến) [hls]
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/07 Bayswater City vs Sydney FC (Siêu quậy) [flv]
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 21/07 Bayswater City vs Sydney FC (Siêu quậy) [hls]
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/07 Shanghai Port FC vs Shenzhen Peng City FC (Meomeo) [flv]
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 21/07 Shanghai Port FC vs Shenzhen Peng City FC (Meomeo) [hls]
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 21/07 Shanghai Shenhua FC vs Qingdao Hainiu FC (Blv đoàn dự) [flv]
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 21/07 Shanghai Shenhua FC vs Qingdao Hainiu FC (Blv đoàn dự) [hls]
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Buxoro FK vs Kuruvchi Bunyodkor (A long) [flv]
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Buxoro FK vs Kuruvchi Bunyodkor (A long) [hls]
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Pakhtakor vs Xorazm Urganch (Cá mập) [flv]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Pakhtakor vs Xorazm Urganch (Cá mập) [hls]
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/07 Manila Batang Quiapo vs Rizal Xentro Mall Golden Coolers (Okocha) [flv]
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 21/07 Manila Batang Quiapo vs Rizal Xentro Mall Golden Coolers (Okocha) [hls]
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 21/07 Central Norte Salta vs Deportivo Moron (BLV TOMMY) [geo]
 https://live.inplyr.com/room/414317.m3u8
 
@@ -621,13 +696,13 @@ https://live.inplyr.com/room/118206.m3u8
 https://live.inplyr.com/room/558264.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Golden State Valkyries W vs Washington Mystics W (HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784610055-0-0-a25c69816964b3b564e52571555d9631
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784610475-0-0-5361671ffc2391591958659e6c9e984b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm W vs Minnesota Lynx W (BRIAN) [geo]
 https://live.inplyr.com/room/122591.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm W vs Minnesota Lynx W (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784610055-0-0-654fb5a82e9bbd03cb6dbb0cc94eb223
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784610715-0-0-407a40b5ab0e64a3f7ff87881b92cae4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm W vs Minnesota Lynx W (A CHÈ) [geo]
 https://live.inplyr.com/room/356042.m3u8
@@ -873,7 +948,7 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784509225-0-0-da2f
 https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784555635-0-0-d8d8312fa03d032b63ba2bf9e5e90a70
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/07 Dallas Wings W vs New York Liberty W (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784610055-0-0-00798d54ea66d868662c9fc4267b22df
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784610955-0-0-73afa2ec1e9c243a1d327db76ab9f962
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 21/07 Toronto Tempo W vs Las Vegas Aces W (CHAN SENA) [geo]
 https://live.inplyr.com/room/515530.m3u8
@@ -898,9 +973,6 @@ https://live.inplyr.com/room/620797.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:10 21/07 bongchay] Los Angeles Angels vs St.Louis Cardinals (Số 9) [bongchay]
 https://eqr2hdarxfliv.vcdn.cloud/1784599346_hd/1784599346_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Golden State Valkyries vs Washington Mystics (Số 16) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1784561625_hd/1784561625_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 21/07 Seattle Storm vs Minnesota Lynx (Số 12) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784561683_hd/1784561683_hd@720p.m3u8

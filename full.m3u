@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3656d046d7ca027ff1aa38d4b5e4b6bb.png!w80",00:30 | Universidad Central vs Santos
-https://live05.meung.app/live/59444581.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",01:00 | Cruz Azul vs CLB Puebla
 https://live05.meung.app/live/19919577.m3u8
 
@@ -40,6 +37,9 @@ https://live05.meung.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/389edeb25bb666f52d15f67db8247bdf.png!w80",18:30 | Spartak Trnava vs CSKA 1948 Sofia
 https://live05.meung.app/live/41943555.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png!w80",22:00 | Medellin Independiente vs Vasco
+https://live05.meung.app/live/59444581.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/16a410c5355aed84a9ca41b15073db49.png!w80",17:00 | Tromso vs Hradec Kralove
 https://live05.meung.app/live/07808742.m3u8
@@ -113,18 +113,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1784609085_hd/1784609085_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ir62tptkknfo_ecb4e8ea_20260722.png?v=ecb4e8ea",Formula 1 vs Belgian Grand Prix | 22:00 24/07
 https://eqr2hdarxfliv.vcdn.cloud/1784611124_hd/1784611124_hd@720p.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV NGƯỜI THÉP) [hls]
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV NGƯỜI THÉP) [flv]
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 CDSyC Cruz Azul vs Puebla (BLV YẾN THANH) [hls]
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 CDSyC Cruz Azul vs Puebla (BLV YẾN THANH) [flv]
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos (BLV LƯU BỊ) [hls]
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
@@ -137,7 +125,19 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos (BLV KAKA) [flv]
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 22/07 Toluca vs Pumas U.N.A.M. (BLV KAKA) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV NGƯỜI THÉP) [hls]
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV NGƯỜI THÉP) [flv]
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 CDSyC Cruz Azul vs Puebla (BLV YẾN THANH) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 CDSyC Cruz Azul vs Puebla (BLV YẾN THANH) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 22/07 Toluca vs Pumas U.N.A.M. (BLV LƯU BỊ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central vs Santos (BLV PEPSI) [flv]
@@ -515,35 +515,29 @@ https://hls.lauthaitv.cc/live/qarabag-cska-c2qual/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 23/07 Qarabag vs CSKA Sofia (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/qarabag-cska-c2qual.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (LOGAN)
-https://live2.streambylivepulse.com/live/channel23.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (HD LOGAN) [HD]
-https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001784684733-0-0-8c80d70c6f76deb074dd162bc8793067
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 America de Cali vs Real Cartagena (SILVA)
 https://live2.streambylivepulse.com/live/channel20.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 America de Cali vs Real Cartagena (HD SILVA) [HD]
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001784684740-0-0-b574e07424f13664fedc6ffd3b21f6bd
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001784686540-0-0-b21993ed51d0f7874ad845afe123888f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 U.C.V FC vs Santos (RIO)
 https://live2.streambylivepulse.com/live/channel16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 U.C.V FC vs Santos (HD RIO) [HD]
-https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001784684745-0-0-5ea370d4020736f20236fbb4af9126b1
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001784686546-0-0-bb744541cec01fb7691f2395aada8242
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (FILIP)
 https://live2.streambylivepulse.com/live/channel19.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (HD FILIP) [HD]
-https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001784684756-0-0-3c72141ca1e60e00cc6340f9bdeaf325
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001784686552-0-0-070ef7bf01c8c28bd67d16e86550efca
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas U.N.A.M. (ASTRA)
 https://live2.streambylivepulse.com/live/channel11.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas U.N.A.M. (HD ASTRA) [HD]
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001784684762-0-0-eda380a28832517fc5a2aae180f8a957
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001784686565-0-0-9ab893b651d1d466a3230132c16259aa
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:30 22/07 East Coast Bays vs Auckland City (POLO)
 https://live2.pro2cdnlive.com/live/channel10.flv
@@ -557,23 +551,17 @@ https://live2.pro2cdnlive.com/live/channel6.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Nữ Athlone Town AFC vs Nữ ZFK Skopje (TONI)
 https://live2.pro2cdnlive.com/live/channel9.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (HIRO)
-https://live2.pro2cdnlive.com/live/channel14.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (XMEN)
-https://live2.pro2cdnlive.com/live/channel13.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (OLER)
-https://live2.pro2cdnlive.com/live/channel28.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (JEAN)
-https://live2.pro2cdnlive.com/live/channel7.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 22/07 Whai vs Otago Nuggets (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Negros Muscovados vs Pasay Voyagers (ALAN)
 https://live2.pro2cdnlive.com/live/channel25.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Quentin Halys vs Valentin Vacherot (VIC)
+https://live2.pro2cdnlive.com/live/channel32.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Ayla Aksu vs Daria Snigur (LUCAS)
+https://live2.pro2cdnlive.com/live/channel31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Nữ Italy vs Nữ Hà Lan (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -722,12 +710,6 @@ https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&si
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (Lữ Bố (Giàng Phụng Tiên)) [flv]
 https://flv.cdnfaster-b.site/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (GIÀNG A MÂY) [hls]
-https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (GIÀNG A MÂY) [flv]
-https://flv.cdnfaster-b.site/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United vs Central Coast Mariners (SAPPORO) [flv]
 https://cdnflv.xbdbotv.live/live/kpuzbm9pxvz3p3ut6jpr3bl2.flv
 
@@ -858,7 +840,7 @@ https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
 https://live.inplyr.com/room/273736.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (CHÍ PHÈO)
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784689195-0-0-7f0f1b51be765c823e60a927d6b38039
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784690035-0-0-c3807f091ee7f4cab9221d5a99c684dd
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (HÀ DUY KIÊN) [geo]
 https://live.inplyr.com/room/607400.m3u8
@@ -873,7 +855,7 @@ https://live.inplyr.com/room/619108.m3u8
 https://live.inplyr.com/room/548860.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ebf5e1f82937163d534084fdec703368&txTime=6a60778b
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=cffeede8e19885753952d86bc3a4e814&txTime=6a607bc3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (BLV CUỘI) [geo]
 https://live.inplyr.com/room/256080.m3u8
@@ -933,7 +915,7 @@ https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784688715-0-0-4889
 https://live.inplyr.com/room/612098.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos Fc _ SP (HÀ DUY KIÊN)
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784688955-0-0-c28d112fffd0fc6b64787f33cb3b27dc
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784690155-0-0-9bd20a60c21cd9f7bcea490b3acd6a9d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos Fc _ SP (BLV A WIN) [geo]
 https://live.inplyr.com/room/536185.m3u8
@@ -942,13 +924,13 @@ https://live.inplyr.com/room/536185.m3u8
 https://live.inplyr.com/room/598119.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=faad76be2e2378b3f3bb6105c60c4865&txTime=6a60787b
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7cde6387a1cafef40fe5f4df4befb5ea&txTime=6a607c3b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 22/07 America de Cali vs Real Cartagena (BLV CHIVAS) [geo]
 https://live.inplyr.com/room/485739.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:30 22/07 America de Cali vs Real Cartagena (BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2a62992b605998b80403046148a74606&txTime=6a607803
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8a8c5aff3b7d03ddc17e85ed096a1d99&txTime=6a607c3b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (NGƯỜI CÁ) [geo]
 https://live.inplyr.com/room/595335.m3u8
@@ -984,7 +966,7 @@ https://live.inplyr.com/room/622093.m3u8
 https://live.inplyr.com/room/582342.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Mjallby AIF vs Lincoln Red Imps FC (BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784689195-0-0-39704b80d0113e44d27054be325d608e
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784690155-0-0-cbe6703b2bb6e4819c7244017bd357df
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Mjallby AIF vs Lincoln Red Imps FC (LOKA) [geo]
 https://live.inplyr.com/room/589848.m3u8
@@ -1147,9 +1129,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1784608745_hd/1784608745_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (Số 6) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784608852_hd/1784608852_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogotá (Số 13) [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1784647032_hd/1784647032_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:00 22/07 Toluca vs Pumas UNAM (Số 2) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784608889_hd/1784608889_hd@720p.m3u8

@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png!w80",12:45 | Lào Nữ vs Indonesia Nữ
 https://live05.meung.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/9326a0b2b27585608d632a37df63307f.png!w80",11:30 | San Miguel Beermen vs Converge FiberXers
-https://live05.meung.app/live/19919577.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80",12:00 | Lanzhou Longyuan Athletic vs Shaanxi Union
 https://live05.meung.app/live/99121525.m3u8
 
@@ -28,6 +25,9 @@ https://live05.meung.app/live/41943555.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png!w80",22:00 | Medellin Independiente vs Vasco
 https://live05.meung.app/live/59444581.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",23:00 | New York Liberty vs Chicago Sky
+https://live05.meung.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80",23:30 | Washington Mystics vs Las Vegas Aces
 https://live05.meung.app/live/82054853.m3u8
@@ -126,6 +126,12 @@ https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29
 https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs Heidenheimer (BLV LÝ ỨNG) [hls]
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs Heidenheimer (BLV LÝ ỨNG) [flv]
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Risaleh Toura vs Trables Sports Club (BLV PHI HỔ) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Lào Nữ vs Indonesia Nữ (BLV C2) [flv]
@@ -293,12 +299,6 @@ https://station1-global.ebaclofen.org/live/477c7a83e750cffbe6e7b370f6db8cc6/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Laos Women vs Indonesia Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-36211dbaf36125459d44/master.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Edgeworth Eagles Reserves vs Kahibah FC Reserves (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/7f4f40f3746852cd8fbb5ec7e57c0b49/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Edgeworth Eagles Reserves vs Kahibah FC Reserves (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-da402840bce2812b0b44/master.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Metalist 1925 Kharkiv vs Schalke 04 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/2956255efd98333dc8148f0145086138/playlist.m3u8
 
@@ -310,6 +310,12 @@ https://station1-global.ebaclofen.org/live/be2b07f5e86d0598c95e5b05bff82011/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Boca Juniors Women vs CA Talleres de Cordoba Women (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/66268b6a1021e90846d9c806a1c95840/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Edgeworth Eagles Reserves vs Kahibah FC Reserves (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/7f4f40f3746852cd8fbb5ec7e57c0b49/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Edgeworth Eagles Reserves vs Kahibah FC Reserves (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-da402840bce2812b0b44/master.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 22/07 Tottenham Hotspur vs Milton Keynes Dons (Lưu Triệt)
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
@@ -572,12 +578,6 @@ https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Laos Women vs Indonesia Women (Giàng A Páo) [flv]
 https://flv.cdnfaster-b.site/live/APAO.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Seoul vs Pohang Steelers (TRÂU GÁC BẾP) [flv]
-https://cdnflv.xbdbotv.live/live/v6ig0k7rkhenm0cxabn58n3e.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Seoul vs Pohang Steelers (TRÂU GÁC BẾP) [hls]
-https://cdnhls.xbdbotv.live/live/v6ig0k7rkhenm0cxabn58n3e/index.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 22/07 Kokand-1912 vs OKMK (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/vi08595syxbupan8c81hehxm.flv
 
@@ -608,42 +608,6 @@ https://cdnflv.xbdbotv.live/live/v0x8mwzwuxg8bed8hcwc5pcs.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 23/07 Egnatia Rrogozhinë vs Celje (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/v0x8mwzwuxg8bed8hcwc5pcs/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (Rio) [flv]
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (Rio) [hls]
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (Meomeo) [flv]
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (Meomeo) [hls]
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 University Azzurri FC vs FC Macarthur (A long) [flv]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 University Azzurri FC vs FC Macarthur (A long) [hls]
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 FC Seoul vs Pohang Steelers (Saitama) [flv]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 FC Seoul vs Pohang Steelers (Saitama) [hls]
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Gwangju FC vs Gimcheon Sangmu FC (Blv đình bắc) [flv]
-https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Gwangju FC vs Gimcheon Sangmu FC (Blv đình bắc) [hls]
-https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Bucheon FC 1995 vs FC Anyang (Cris) [flv]
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Bucheon FC 1995 vs FC Anyang (Cris) [hls]
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 22/07 Lanzhou Longyuan Athletics vs Shaanxi Union (Blv đoàn dự) [flv]
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc.flv
 
@@ -656,35 +620,11 @@ https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 Meycauayan vs Pasig City (Okocha) [hls]
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (TRÀ ĐÁ) [geo]
-https://live.inplyr.com/room/603914.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 22/07 Lokomotiv Tashkent vs FK Andijon (Rio) [flv]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784717902-0-0-cab6bdac8a1caa789ae3e5a9d956ab91
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (BLV ALEX) [geo]
-https://live.inplyr.com/room/532081.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (BLV BÉO) [geo]
-https://live.inplyr.com/room/459401.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (BLV NOVA) [geo]
-https://live.inplyr.com/room/619108.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (GRAP) [geo]
-https://live.inplyr.com/room/622093.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (GRAP)
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784722924-0-0-450d02e15a8464a1e70611252b96d650
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (BÒ TƯƠI) [geo]
-https://live.inplyr.com/room/620797.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (NGƯỜI CÁ) [geo]
-https://live.inplyr.com/room/595335.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (BLV CÁP) [geo]
-https://live.inplyr.com/room/610677.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 22/07 Lokomotiv Tashkent vs FK Andijon (Rio) [hls]
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 University Azzurri FC vs Macarthur FC (BLV LION) [geo]
 https://live.inplyr.com/room/603255.m3u8
@@ -767,24 +707,6 @@ https://live.inplyr.com/room/291277.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 FC Seoul vs Pohang Steelers (BLV ENZO) [geo]
 https://live.inplyr.com/room/380460.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (A PÁO) [geo]
-https://live.inplyr.com/room/235232.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784723455-0-0-af57ca0c9bbb13620f69f4f6ae866d04
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (BLV VIP) [geo]
-https://live.inplyr.com/room/491873.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (BEN 10) [geo]
-https://live.inplyr.com/room/612098.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784722855-0-0-3841c416c9a2738d730ce78b2330c7fe
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (BLV KAN) [geo]
-https://live.inplyr.com/room/283501.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 Meycauayan vs Pasig City (CHAN SENA) [geo]
 https://live.inplyr.com/room/515530.m3u8
 
@@ -798,13 +720,13 @@ https://live.inplyr.com/room/168964.m3u8
 https://live.inplyr.com/room/122591.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 22/07 San Miguel Beermen vs Converge FiberXers (BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784729755-0-0-749731123133477a33400ab098b5df31
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1784730415-0-0-2e24979344a76b53d2e42b4ca2422691
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 22/07 Lanzhou Longyuan Athletic vs Shaanxi Union (QUỐC KHÁNH) [geo]
 https://live.inplyr.com/room/602153.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 22/07 Lanzhou Longyuan Athletic vs Shaanxi Union (QUỐC KHÁNH)
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1784729695-0-0-df7cfb06ec225c888fcac1ed358d8636
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1784730595-0-0-ea65f17084bb02c6d4a29ef6c6d6c5ba
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 22/07 Lanzhou Longyuan Athletic vs Shaanxi Union (HẢI THANH) [geo]
 https://live.inplyr.com/room/599634.m3u8
@@ -822,13 +744,13 @@ https://live.inplyr.com/room/557845.m3u8
 https://live.inplyr.com/room/356042.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 22/07 Bulacan Kuyas vs Quezon Huskers (A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784729815-0-0-41237f873783b2cbef520ccdadc9db8e
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1784730595-0-0-4b7cae7961de96db69e3c20b39ded131
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Laos Women vs Indonesia Women (TUẤN CÙI) [geo]
 https://live.inplyr.com/room/400722.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Laos Women vs Indonesia Women (TUẤN CÙI)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1784729815-0-0-4e51c8a1cd671c94026ee45dec4cc3c9
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1784730595-0-0-38f63f9992d8b20243b2c6440b145d09
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Laos Women vs Indonesia Women (BLV ANH TÀI) [geo]
 https://live.inplyr.com/room/406865.m3u8
@@ -839,8 +761,26 @@ https://live.inplyr.com/room/617313.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 22/07 Laos Women vs Indonesia Women (BLV CÁO) [geo]
 https://live.inplyr.com/room/597929.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs 1. FC Heidenheim 1846 (VƯƠNG ANH) [geo]
+https://live.inplyr.com/room/548860.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs 1. FC Heidenheim 1846 (BLV KAN) [geo]
+https://live.inplyr.com/room/283501.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs 1. FC Heidenheim 1846 (BLV ROBBEN) [geo]
+https://live.inplyr.com/room/527383.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs 1. FC Heidenheim 1846 (BLV ALEX) [geo]
+https://live.inplyr.com/room/532081.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (NGƯỜI CÁ) [geo]
+https://live.inplyr.com/room/595335.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (NGƯỜI CÁ)
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1784722915-0-0-6bc52ba7158b607e43bfd74a595732b8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (BLV CÁP) [geo]
+https://live.inplyr.com/room/610677.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (BLV A WIN) [geo]
 https://live.inplyr.com/room/536185.m3u8
@@ -857,8 +797,8 @@ https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=91e2569dfd8e49d0f3cd
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 FC Iberia 1999 Tbilisi vs Slovan Bratislava (KENCHU) [geo]
 https://live.inplyr.com/room/622602.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 FC Iberia 1999 Tbilisi vs Slovan Bratislava (BLV ROBBEN) [geo]
-https://live.inplyr.com/room/527383.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 FC Iberia 1999 Tbilisi vs Slovan Bratislava (GRAP) [geo]
+https://live.inplyr.com/room/622093.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Mjallby AIF vs Lincoln Red Imps FC (BLV CUỘI) [geo]
 https://live.inplyr.com/room/256080.m3u8
@@ -870,10 +810,13 @@ https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784692855-0-0-818e
 https://live.inplyr.com/room/589848.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Sabah Baku vs KuPs (BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=201bdd20a6fea052f25e5ce849ff366c&txTime=6a611727
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fb85053901c5305166fade76db842c9c&txTime=6a611a6f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 22/07 Aarhus AGF vs Lech Poznan (BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1784729695-0-0-5242f26756b9c86cfb9aa7de922617b7
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1784730595-0-0-d1a1313cb4221f10b6814e70c4a2efa2
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 22/07 Aarhus AGF vs Lech Poznan (BLV BÉO) [geo]
+https://live.inplyr.com/room/459401.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 22/07 Aarhus AGF vs Lech Poznan (BLV FIREMAN) [geo]
 https://live.inplyr.com/room/250874.m3u8
@@ -882,7 +825,10 @@ https://live.inplyr.com/room/250874.m3u8
 https://live.inplyr.com/room/321443.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 22/07 Fenerbahce vs Gornik Zabrze (BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1784729815-0-0-9cf9f61769af739cd211ca379050c2fb
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1784730415-0-0-94e20dca37607827d3b4a926d94353a4
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 22/07 Fenerbahce vs Gornik Zabrze (BLV VIP) [geo]
+https://live.inplyr.com/room/491873.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:00 22/07 Thun vs Dinamo Zagreb (ĐỖ TÚ TÀI) [geo]
 https://live.inplyr.com/room/607552.m3u8
@@ -899,8 +845,8 @@ https://live.inplyr.com/room/607400.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (HÀ DUY KIÊN)
 https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784690635-0-0-2e008164b01b9b243a9c2aeb8ef1bf3c
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (VƯƠNG ANH) [geo]
-https://live.inplyr.com/room/548860.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (BLV NOVA) [geo]
+https://live.inplyr.com/room/619108.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (VƯƠNG ANH)
 https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=214921e10e9c8b4319955940c8cda878&txTime=6a6086c7
@@ -909,13 +855,28 @@ https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=214921e10e9c8b431995
 https://live.inplyr.com/room/327159.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas U.N.A.M. (BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784729815-0-0-982658a9f41c24a5e78c1f0bd5f242cb
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784730655-0-0-089c887d4011aef7a1dbfa0010ea2673
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas U.N.A.M. (CR Bưởi) [geo]
 https://live.inplyr.com/room/387694.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas U.N.A.M. (ZIDANE) [geo]
 https://live.inplyr.com/room/168740.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (TRÀ ĐÁ) [geo]
+https://live.inplyr.com/room/603914.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (TRÀ ĐÁ)
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784717902-0-0-cab6bdac8a1caa789ae3e5a9d956ab91
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (GRAP)
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784722924-0-0-450d02e15a8464a1e70611252b96d650
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (BÒ TƯƠI) [geo]
+https://live.inplyr.com/room/620797.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 22/07 Tottenham Hotspur vs Milton Keynes Dons (BEN 10) [geo]
+https://live.inplyr.com/room/612098.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 22/07 Tottenham Hotspur vs Milton Keynes Dons (BLV A TINH) [geo]
 https://live.inplyr.com/room/598119.m3u8
@@ -926,11 +887,11 @@ https://live.inplyr.com/room/187579.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Buxoro FK vs Bunyodkor (BLV KAN)
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=bbefe9768f4486aba09caeaa779a15d6&txTime=6a60fce7
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Pakhtakor vs Xorazm Urganch (ZIDANE)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1784700415-0-0-cf40a30e774e616cd84189dd942699cc
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Pakhtakor vs Xorazm Urganch (BEN 10)
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784722855-0-0-3841c416c9a2738d730ce78b2330c7fe
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Sogdiana Jizak vs Neftchi Fergana (BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784729695-0-0-6a37443818cddb2dd299c74219c8e236
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784730655-0-0-25b6e16846499b7c0f00ce3c10ca2b28
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Sogdiana Jizak vs Neftchi Fergana (XUÂN SON) [geo]
 https://live.inplyr.com/room/501412.m3u8
@@ -939,10 +900,13 @@ https://live.inplyr.com/room/501412.m3u8
 https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0b935ef01cb2b62dd17d8f5359e933e5&txTime=6a60f2d3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:30 22/07 Sturm Graz vs Heart of Midlothian (VINFAST)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1784729695-0-0-0ccfa31ae2aef953045ac50662ab4659
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1784730715-0-0-c65f4fbda71b6fa85d2a76ebea017df2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 22/07 KI Klaksvik vs Kauno Zalgiris (PEANUT)
 https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784727060-0-0-5c15a1205072590fe973bfe2c238ddf6
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 22/07 KI Klaksvik vs Kauno Zalgiris (A PÁO) [geo]
+https://live.inplyr.com/room/235232.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 22/07 Vikingur Reykjavik vs Hapoel Beer Sheva (BLV FIREMAN)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1784671315-0-0-2b922c9696f78bdb4215d5ecb2da7209
@@ -1003,6 +967,9 @@ https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1784721115-0-0-ad26
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:15 22/07 TNT Tropang 5G vs Titan Ultra Giant Risers (BLV HENRY)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784722315-0-0-69b3bb0c88410895a8a1fa5858a76136
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784723455-0-0-af57ca0c9bbb13620f69f4f6ae866d04
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 23/07 Levski Sofia vs CS Universitatea Craiova (BLV THÓC) [geo]
 https://live.inplyr.com/room/606448.m3u8

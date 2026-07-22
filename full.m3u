@@ -275,17 +275,17 @@ https://hls.lauthaitv.cc/live/camw-sinw-affw/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:45 22/07 Cambodia (w) vs Singapore (w) (NGƯỜI SẮT) [flv]
 https://flv.lauthaitv.cc/live/camw-sinw-affw.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (NGƯỜI CHÈ) [hls]
-https://hls.lauthaitv.cc/live/sydnet58-mariners-ausffa/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (NGƯỜI CHÈ) [flv]
-https://flv.lauthaitv.cc/live/sydnet58-mariners-ausffa.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City FC (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/maitland-fremantle-ausffa/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City FC (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/maitland-fremantle-ausffa.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (NGƯỜI CHÈ) [hls]
+https://hls.lauthaitv.cc/live/sydnet58-mariners-ausffa/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (NGƯỜI CHÈ) [flv]
+https://flv.lauthaitv.cc/live/sydnet58-mariners-ausffa.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Bucheon FC 1995 vs FC Anyang (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/buncheon-anyang-kork1/index.m3u8
@@ -323,18 +323,6 @@ https://hls.lauthaitv.cc/live/neftci-dinamo-c3qual/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 22/07 FC Neftci Baku vs Dinamo Minsk (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/neftci-dinamo-c3qual.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Bodo Glimt vs Ham-Kam (NGƯỜI TIỀN SỬ) [hls]
-https://hls.lauthaitv.cc/live/bodo-hamkam-norelite/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Bodo Glimt vs Ham-Kam (NGƯỜI TIỀN SỬ) [flv]
-https://flv.lauthaitv.cc/live/bodo-hamkam-norelite.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Dynamo Kyiv vs PAOK Saloniki (NGƯỜI CAT) [hls]
-https://hls.lauthaitv.cc/live/dynamokyiv-paok-c2qual/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Dynamo Kyiv vs PAOK Saloniki (NGƯỜI CAT) [flv]
-https://flv.lauthaitv.cc/live/dynamokyiv-paok-c2qual.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Omonia Nicosia FC vs FC Kairat Almaty (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/omonia-kairat-c1qual/index.m3u8
 
@@ -346,6 +334,18 @@ https://hls.lauthaitv.cc/live/lillestrom-viking-norelite/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Lillestrom vs Viking (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/lillestrom-viking-norelite.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Dynamo Kyiv vs PAOK Saloniki (NGƯỜI CAT) [hls]
+https://hls.lauthaitv.cc/live/dynamokyiv-paok-c2qual/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Dynamo Kyiv vs PAOK Saloniki (NGƯỜI CAT) [flv]
+https://flv.lauthaitv.cc/live/dynamokyiv-paok-c2qual.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Bodo Glimt vs Ham-Kam (NGƯỜI TIỀN SỬ) [hls]
+https://hls.lauthaitv.cc/live/bodo-hamkam-norelite/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Bodo Glimt vs Ham-Kam (NGƯỜI TIỀN SỬ) [flv]
+https://flv.lauthaitv.cc/live/bodo-hamkam-norelite.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 23/07 Levski Sofia vs CS Universitatea Craiova (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/levski-craiova-c1qual/index.m3u8
@@ -453,49 +453,61 @@ https://flv.lauthaitv.cc/live/qarabag-cska-c2qual.flv
 https://live2.streambylivepulse.com/live/channel10.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:30 22/07 East Coast Bays vs Auckland City (HD POLO) [HD]
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001784697330-0-0-958eb3fe8edf96ad60251ce96ffab151
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001784699131-0-0-529615b05fb6546aa8989a6d34ff6364
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Nữ Neftchi Baku vs Nữ Buducnost Podgorica (FELIX)
 https://live2.streambylivepulse.com/live/channel24.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Nữ Neftchi Baku vs Nữ Buducnost Podgorica (HD FELIX) [HD]
-https://live3.procdnlive.com/livecdn/channel24.flv?auth_key=3000001784697337-0-0-877bf0d4dc556114c4e90a64f73be687
+https://live3.procdnlive.com/livecdn/channel24.flv?auth_key=3000001784699137-0-0-d93495707ed75b64c62297d886c5d8f2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:45 22/07 Nữ Campuchia vs Nữ Singapore (MAX)
 https://live2.streambylivepulse.com/live/channel6.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:45 22/07 Nữ Campuchia vs Nữ Singapore (HD MAX) [HD]
-https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001784697343-0-0-6d1f0bcc107c34e5875071caadd02bea
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001784699143-0-0-8e6d01e9fb8e692b45571bf415b93f8b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Nữ Athlone Town AFC vs Nữ ZFK Skopje (TONI)
 https://live2.streambylivepulse.com/live/channel9.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Nữ Athlone Town AFC vs Nữ ZFK Skopje (HD TONI) [HD]
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001784697357-0-0-5802c214cb21deb002039c1686255f8e
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001784699159-0-0-f4c167fb42637f5b8b0c95c508180173
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (HIRO)
-https://live2.pro2cdnlive.com/live/channel14.flv
+https://live2.streambylivepulse.com/live/channel14.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Cooma Tigers vs Western Sydney (HD HIRO) [HD]
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001784699165-0-0-c96baef7770233af572adee7833ac0cc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (XMEN)
-https://live2.pro2cdnlive.com/live/channel13.flv
+https://live2.streambylivepulse.com/live/channel13.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Maitland vs Fremantle City (HD XMEN) [HD]
+https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001784699172-0-0-aeca8a412abd9f4f98567113f22ad3be
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (OLER)
-https://live2.pro2cdnlive.com/live/channel28.flv
+https://live2.streambylivepulse.com/live/channel28.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (HD OLER) [HD]
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001784699185-0-0-a7769240bead09f85c6b3c523bf9f896
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (JEAN)
-https://live2.pro2cdnlive.com/live/channel7.flv
+https://live2.streambylivepulse.com/live/channel7.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Tuggeranong United vs Canberra White Eagles (HD JEAN) [HD]
+https://live3.procdnlive.com/livecdn/channel7.flv?auth_key=3000001784699192-0-0-905d0cf3358bf6eccf60d66ecbc8912e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 22/07 Whai vs Otago Nuggets (TOMMY)
 https://live2.streambylivepulse.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 22/07 Whai vs Otago Nuggets (HD TOMMY) [HD]
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001784697368-0-0-3fea04e0487ae07f56ef35e6d9e7d1e6
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001784699199-0-0-1b5b74218904ed3053d3eee4d98ae943
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Negros Muscovados vs Pasay Voyagers (ALAN)
 https://live2.streambylivepulse.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Negros Muscovados vs Pasay Voyagers (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001784697375-0-0-f8fd2613720b291fecb365535bd75e24
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001784699204-0-0-465e5c9b2509b093bf97799dff67fde6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 22/07 Nữ DongGuan vs Nữ Shanghai Jiao Tong Uni (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -507,13 +519,13 @@ https://live2.pro2cdnlive.com/live/channel25.flv
 https://live2.streambylivepulse.com/live/channel32.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Quentin Halys vs Valentin Vacherot (HD VIC) [HD]
-https://live3.procdnlive.com/livecdn/channel32.flv?auth_key=3000001784697387-0-0-ee32645408033e4123ed3f4689350e09
+https://live3.procdnlive.com/livecdn/channel32.flv?auth_key=3000001784699225-0-0-cf281bd79b9092a7580d5370a6b129ad
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Ayla Aksu vs Daria Snigur (LUCAS)
 https://live2.streambylivepulse.com/live/channel31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 Ayla Aksu vs Daria Snigur (HD LUCAS) [HD]
-https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001784697393-0-0-e25fdc3f5df90c3fd228e826ee480e8a
+https://live3.procdnlive.com/livecdn/channel31.flv?auth_key=3000001784699232-0-0-a105aa88d28777d4b62b89de97b2c397
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:10 22/07 Jan-Lennard Struff vs Mariano Navone (VIC)
 https://live2.pro2cdnlive.com/live/channel32.flv
@@ -525,7 +537,7 @@ https://live2.pro2cdnlive.com/live/channel31.flv
 https://live2.streambylivepulse.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:00 22/07 Nữ Italy vs Nữ Hà Lan (HD TYSON) [HD]
-https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001784697404-0-0-afb7eb14a8fc926f770419f88e7925d8
+https://live3.procdnlive.com/livecdn/channel33.flv?auth_key=3000001784699243-0-0-278187c5f0d64eded1b140a5c6b9e340
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 22/07 Nữ Brazil vs Nữ Nhật Bản (TYSON)
 https://live2.pro2cdnlive.com/live/channel33.flv
@@ -534,7 +546,7 @@ https://live2.pro2cdnlive.com/live/channel33.flv
 https://live2.streambylivepulse.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 22/07 LGD Gaming vs EDward Gaming (HD MARTY) [HD]
-https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784697413-0-0-c29c70ddc8be930d719201585ea03fac
+https://live3.procdnlive.com/livecdn/channel30.flv?auth_key=3000001784699255-0-0-41f316b5cef4e204d91f4a4b4863900e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 22/07 Top Esports vs Team WE (MARTY)
 https://live2.pro2cdnlive.com/live/channel30.flv
@@ -599,6 +611,12 @@ https://pull.asynccdn.com/live/ac40a9ed9434454e8eba50169bdaf9b3/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 24/07 Phong Phu Ha Nam Women vs Thai Nguyen T&T Women (BLV TRẠNG TÈO) [geo]
 https://pull.asynccdn.com/live/0c3c19b4e2d64d41ac6c8fb66bc66f56/index.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:59 22/07 BỈ vs Tây ban nha (Lữ Bố (Giàng Phụng Tiên)) [hls]
+https://hls.cdnfaster-b.site/live/GIANGASAN/index.m3u8?expire=1894192380&sign=86d58eb22372cbd647bb5a66d2049934
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:59 22/07 BỈ vs Tây ban nha (Lữ Bố (Giàng Phụng Tiên)) [flv]
+https://flv.cdnfaster-b.site/live/GIANGASAN.flv?expire=1894192380&sign=86d58eb22372cbd647bb5a66d2049934
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United vs Central Coast Mariners (SAPPORO) [flv]
 https://cdnflv.xbdbotv.live/live/kpuzbm9pxvz3p3ut6jpr3bl2.flv
 
@@ -652,12 +670,6 @@ https://cdnflv.xbdbotv.live/live/v0x8mwzwuxg8bed8hcwc5pcs.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 23/07 Egnatia Rrogozhinë vs Celje (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/v0x8mwzwuxg8bed8hcwc5pcs/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas (Kayti) [flv]
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:05 22/07 Toluca vs Pumas (Kayti) [hls]
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United 58 FC vs Central Coast Mariners (Rio) [flv]
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv

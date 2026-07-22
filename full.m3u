@@ -2,12 +2,6 @@
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",22:30 | Atletico Mineiro vs Bahia
 https://live05.meung.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aa97d18606e06696fd770ed04a5d040b.png!w80",22:00 | Nacional vs Club Atletico Tigre
-https://live05.meung.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6038ad3b4367e35e235f6bdd24282c52.png!w80",00:00 | Universidad Catolica vs Barcelona SC
-https://live05.meung.app/live/90865415.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3656d046d7ca027ff1aa38d4b5e4b6bb.png!w80",00:30 | Universidad Central vs Santos
 https://live05.meung.app/live/59444581.m3u8
 
@@ -17,6 +11,9 @@ https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",07:00 | Tauranga Whai vs Otago Nuggets
 https://live05.meung.app/live/82054853.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/1098946691d1d0d1148043ab0e39f075.png!w80",09:15 | TNT Tropang Giga vs Titan Ultra Giant Risers
+https://live05.meung.app/live/90865415.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",09:30 | Sydney Utd vs Central Coast
 https://live05.meung.app/live/75915087.m3u8
 
@@ -25,6 +22,9 @@ https://live05.meung.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/c9bf281eb0f1cf13975e39dbe45c4c5e.png!w80",10:00 | Azzurri United vs Macarthur
 https://live05.meung.app/live/16226575.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80",10:00 | Nottingham Forest vs Blackburn Rovers
+https://live05.meung.app/live/99121525.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",10:30 | Seoul vs Pohang Steelers
 https://live05.meung.app/live/14830711.m3u8
@@ -113,11 +113,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1784609085_hd/1784609085_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ir62tptkknfo_ecb4e8ea_20260722.png?v=ecb4e8ea",Formula 1 vs Belgian Grand Prix | 22:00 24/07
 https://eqr2hdarxfliv.vcdn.cloud/1784611124_hd/1784611124_hd@720p.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Independiente Petrolero vs Real Potosi (BLV MÃ SIÊU) [hls]
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (BLV YẾN THANH) [hls]
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Independiente Petrolero vs Real Potosi (BLV MÃ SIÊU) [flv]
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (BLV YẾN THANH) [flv]
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atletico Mineiro vs Bahia (BLV VÕ TÒNG) [hls]
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -125,23 +125,17 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atletico Mineiro vs Bahia (BLV VÕ TÒNG) [flv]
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (BLV LƯU BỊ) [hls]
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (BLV LƯU BỊ) [flv]
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Deportes Tolima vs Deportes Quindio (BLV PELE) [hls]
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Deportes Tolima vs Deportes Quindio (BLV PELE) [flv]
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (BLV YẾN THANH) [hls]
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Independiente Petrolero vs Real Potosi (BLV MÃ SIÊU) [hls]
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (BLV YẾN THANH) [flv]
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Independiente Petrolero vs Real Potosi (BLV MÃ SIÊU) [flv]
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Universidad Catolica vs Barcelona SC(ECU) (BLV TÂY MÔN KHÁNH) [hls]
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
@@ -150,6 +144,24 @@ https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos (BLV LƯU BỊ) [hls]
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos (BLV LƯU BỊ) [flv]
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos (BLV KAKA) [hls]
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos (BLV KAKA) [flv]
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV NGƯỜI THÉP) [hls]
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:35 22/07 Vila Nova vs Fortaleza (BLV NGƯỜI THÉP) [flv]
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 CDSyC Cruz Azul vs Puebla (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atletico Mineiro vs Bahia (BLV C2) [flv]
@@ -212,12 +224,6 @@ https://live05.meung.app/live/14830711.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Seoul vs Pohang Steelers (BLV GIÀ LÀNG) [hls 2]
 https://live05.miekgo.app/live/14830711.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional vs Tigre (Chuối To) [FHD1] [FHD1]
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional vs Tigre (Chuối To) [FHD2] [FHD2]
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 UCV vs Santos (Chuối Tây) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
@@ -230,23 +236,41 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (Chuối Bơ) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 CD Universidad Católica vs Barcelona SC(ECU) (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/2ed53100170f1be1751d63dfc13db5c2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 Uni Azzurri vs Macarthur (Chuối Chao) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Internacional de Bogota vs Inter Palmira (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/d02debf3c18e1bbf36c7249de5465915/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 22/07 Uni Azzurri vs Macarthur (Chuối Chao) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Internacional de Bogota vs Inter Palmira (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-44aaf0b6c9a16936c6cd/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Gwangju FC vs Gimcheon Sangmu FC (Chuối Nhỏ) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (Doanh Chính)
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Gwangju FC vs Gimcheon Sangmu FC (Chuối Nhỏ) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/fa057131f0c80f5f3f7b04463aadf955/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs 1. FC Heidenheim (Trốc Tru) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-f6420faa7ff37744de43/master.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 22/07 Bologna vs 1. FC Heidenheim (Trốc Tru) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 22/07 PKKU vs VJS (Chuối Tiêu) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 22/07 PKKU vs VJS (Chuối Tiêu) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Bodo/Glimt vs Ham-Kam (Chuối Già) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 23/07 Bodo/Glimt vs Ham-Kam (Chuối Già) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 23/07 Independiente Medellin vs Vasco DA Gama (Chuối To) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 23/07 Independiente Medellin vs Vasco DA Gama (Chuối To) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/fb7eb2d1ec9fc643e101d40f63f7bfaa/playlist.m3u8
@@ -281,6 +305,12 @@ https://station1-global.ebaclofen.org/live/221c42fcbe04eaca7ba97ce5d9f1ceb2/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Deportes Tolima vs Deportes Quindio (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-41fa9643b69447eea334/master.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 CD Universidad Católica vs Barcelona SC(ECU) (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/2ed53100170f1be1751d63dfc13db5c2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 CD Universidad Católica vs Barcelona SC(ECU) (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-faf1e56e70f2542cfe52/master.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos Fc _ SP (Doanh Chính)
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 
@@ -307,6 +337,9 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 22/07 Gwangju Football Club vs Gimcheon Sangmu Football Club (Lưu Bang)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 22/07 Lanzhou Longyuan Athletic vs Shaanxi Union (Tào Duệ)
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 22/07 PAOK Saloniki Women vs Hapoel Jerusalem Women (Phổ Nghi)
 https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
@@ -488,17 +521,17 @@ https://hls.lauthaitv.cc/live/jaiyq-khantengri-kazdiv1/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 23/07 Jaiyq FC vs Khan Tengri FC (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/jaiyq-khantengri-kazdiv1.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 23/07 FK Gazalkent vs Metallurg Bekobod (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/gazalkent-bekabad-uzbpro/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 23/07 FK Gazalkent vs Metallurg Bekobod (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/gazalkent-bekabad-uzbpro.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 23/07 Malisheva vs Hibernian (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/malisheva-hibernian-c3qual/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 23/07 Malisheva vs Hibernian (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/malisheva-hibernian-c3qual.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 23/07 FK Gazalkent vs Metallurg Bekobod (NGƯỜI PHÁO) [hls]
+https://hls.lauthaitv.cc/live/gazalkent-bekabad-uzbpro/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 23/07 FK Gazalkent vs Metallurg Bekobod (NGƯỜI PHÁO) [flv]
+https://flv.lauthaitv.cc/live/gazalkent-bekabad-uzbpro.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 23/07 Alashkert vs CFR Cluj (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/alashkert-cfrcluj-c3qual/index.m3u8
@@ -659,12 +692,6 @@ https://pull.asynccdn.com/live/a8979f4788664b72b672e6e0298161e2/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 24/07 Cordoba vs Sevilla FC (BLV TRẠNG QUỶ) [geo]
 https://pull.asynccdn.com/live/ac40a9ed9434454e8eba50169bdaf9b3/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (Giàng A Lỏ) [hls]
-https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (Giàng A Lỏ) [flv]
-https://flv.cdnfaster-b.site/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro - MG vs Bahia - BA (Lữ Bố (Giàng Phụng Tiên)) [hls]
 https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 
@@ -688,6 +715,12 @@ https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 CD Universidad Católica vs Barcelona SC(ECU) (GIÀNG A MÂY) [flv]
 https://flv.cdnfaster-b.site/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos Fc - SP (Giàng A Lỏ) [hls]
+https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos Fc - SP (Giàng A Lỏ) [flv]
+https://flv.cdnfaster-b.site/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:30 22/07 Sydney United vs Central Coast Mariners (SAPPORO) [flv]
 https://cdnflv.xbdbotv.live/live/kpuzbm9pxvz3p3ut6jpr3bl2.flv
@@ -743,38 +776,11 @@ https://cdnflv.xbdbotv.live/live/v0x8mwzwuxg8bed8hcwc5pcs.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 23/07 Egnatia Rrogozhinë vs Celje (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/v0x8mwzwuxg8bed8hcwc5pcs/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Esporte Clube Bahia (Kayti) [flv]
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Esporte Clube Bahia (Kayti) [hls]
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Avaí FC vs America MG (Siêu quậy) [flv]
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Avaí FC vs America MG (Siêu quậy) [hls]
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (BLV YONE) [geo]
-https://live.inplyr.com/room/372746.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784680975-0-0-1ab0abb80f6abb30108235f7d8db9800
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (KÉP) [geo]
-https://live.inplyr.com/room/560690.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportiva Once Caldas vs Envigado FC (LOGAN) [geo]
-https://live.inplyr.com/room/552832.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportiva Once Caldas vs Envigado FC (LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784681095-0-0-229d8d3e72ab486cdb9f25f0a3679641
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (CHÍ PHÈO) [geo]
 https://live.inplyr.com/room/273736.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (CHÍ PHÈO)
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784680975-0-0-95a57e6b1c8e848c1ee1079246df53fc
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784681695-0-0-8d291cd2122b0dfc80d92fe325c73cf4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atlético Mineiro _ MG vs Bahia _ BA (HÀ DUY KIÊN) [geo]
 https://live.inplyr.com/room/607400.m3u8
@@ -789,7 +795,10 @@ https://live.inplyr.com/room/619108.m3u8
 https://live.inplyr.com/room/598119.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=37b0ae83a390c2ef91355c6aee84a8f1&txTime=6a6058d7
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=b6700665762e448b9d37b167680a3ff1&txTime=6a605be3
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (BLV YONE) [geo]
+https://live.inplyr.com/room/372746.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 22/07 Nacional Montevideo vs Club Atletico Tigre (BLV COZY) [geo]
 https://live.inplyr.com/room/531989.m3u8
@@ -801,7 +810,7 @@ https://live.inplyr.com/room/485739.m3u8
 https://live.inplyr.com/room/603914.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Avaí FC vs America MG (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784680975-0-0-d4b24d28db8ee5e3283640ca8c89357a
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784681815-0-0-f774d1b951b825d55464f269b0acd18c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Avaí FC vs America MG (BLV FOX) [geo]
 https://live.inplyr.com/room/620003.m3u8
@@ -810,7 +819,7 @@ https://live.inplyr.com/room/620003.m3u8
 https://live.inplyr.com/room/534055.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=81c822be50d8e10e05b9c6b29d69b91a&txTime=6a60589b
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=19ccd797acbc550475c2bbb047d0721a&txTime=6a605c5b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Gremio Novorizontino vs Criciuma (BLV KAN) [geo]
 https://live.inplyr.com/room/283501.m3u8
@@ -819,10 +828,25 @@ https://live.inplyr.com/room/283501.m3u8
 https://live.inplyr.com/room/552716.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Deportes Tolima vs Deportes Quindio (BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784681095-0-0-b19f84d9ec0f98c49f1e1bbf00112d67
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784681875-0-0-1453440062bd6599172b89e2c50c4219
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 22/07 Deportes Tolima vs Deportes Quindio (BLV CÒ) [geo]
 https://live.inplyr.com/room/582342.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784681875-0-0-d7f79e1b6e4393a7a988c2ceaf8f9470
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportivo Pasto vs Bogota FC (KÉP) [geo]
+https://live.inplyr.com/room/560690.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportiva Once Caldas vs Envigado FC (LOGAN) [geo]
+https://live.inplyr.com/room/552832.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 22/07 Deportiva Once Caldas vs Envigado FC (LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784681695-0-0-518cdc5ad655f77e21dfc46b27868393
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 Universidad Central de Venezuela vs Santos Fc _ SP (BLV A WIN) [geo]
+https://live.inplyr.com/room/536185.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (NGƯỜI CÁ) [geo]
 https://live.inplyr.com/room/595335.m3u8
@@ -832,9 +856,6 @@ https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1784667175-0-0-8f2b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (BLV CÁP) [geo]
 https://live.inplyr.com/room/610677.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (BLV A WIN) [geo]
-https://live.inplyr.com/room/536185.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 21/07 Ararat-Armenia FC vs Shamrock Rovers (BLV A TÚ) [geo]
 https://live.inplyr.com/room/557845.m3u8
@@ -978,13 +999,13 @@ https://live.inplyr.com/room/527384.m3u8
 https://live.inplyr.com/room/380460.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Buxoro FK vs Bunyodkor (BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6a34466badbee918c29d58cd5fa44625&txTime=6a6058d7
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=aec1d3b9cda8a113db272c5db18474ec&txTime=6a605cd3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Pakhtakor vs Xorazm Urganch (BEN 10) [geo]
 https://live.inplyr.com/room/612098.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Pakhtakor vs Xorazm Urganch (BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784681095-0-0-3f7b347d33b86543301e984d3baa7267
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784681875-0-0-9eca42576257fdfa58c9b327c2daeb4f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 21/07 Sogdiana Jizak vs Neftchi Fergana (BLV ANH TÀI)
 https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784667115-0-0-00ec7a8b0545909245e830c0a2f15d3b
@@ -1036,6 +1057,9 @@ https://eqr2hdarxfliv.vcdn.cloud/1784647032_hd/1784647032_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:30 22/07 América de Cali vs Real Cartagena (Số 17) [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784608745_hd/1784608745_hd@720p.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 22/07 Cruz Azul vs Puebla (Số 6) [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1784608852_hd/1784608852_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:30 22/07 Atletico-MG vs Bahia (BLV Giàng A Tũn)
 https://customer-ylm2ghjeey27nfvw.cloudflarestream.com/55a92815bba9afa7377f3e484d5a6a5a/manifest/video.m3u8

@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f83a93401d7a60595338bae0337d344c.png!w80",23:10 | Llaneros FC vs Pereira
 https://live05.meung.app/live/82054853.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",00:15 | Huracan vs CLB Banfield
-https://live05.meung.app/live/78905744.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/918216791a55f9785f385c94c34cda51.png!w80",01:00 | Tepatitlan de Morelos vs Alacranes de Durango
 https://live05.meung.app/live/90865415.m3u8
 
@@ -13,6 +10,9 @@ https://live05.meung.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",03:00 | CLB Atlante vs Club America
 https://live05.meung.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",03:00 | Club Tijuana vs Club Leon
+https://live05.meung.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/4024dec852e8e27a4078cce29d93657f.png!w80",05:00 | Melbourne City NPL vs Avondale FC
 https://live05.meung.app/live/07808742.m3u8
@@ -113,11 +113,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1784882102_hd/1784882102_hd@720p.m3u8
 #EXTINF:-1 group-title="GIỜ VÀNG" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/v5gyjdrrvdtt_ecb4e8ea_20260725.png?v=ecb4e8ea",Formula 1 vs Belgian Grand Prix | 20:00 26/07
 https://eqr2hdarxfliv.vcdn.cloud/1784171115_hd/1784171115_hd@720p.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia La Plata (BLV KAKA) [hls]
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto AC Cordoba (BLV VÕ TÒNG) [hls]
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia La Plata (BLV KAKA) [flv]
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto AC Cordoba (BLV VÕ TÒNG) [flv]
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 25/07 Aurora vs Academia del Balompie Boliviano (BLV PELE) [hls]
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -125,23 +125,29 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 25/07 Aurora vs Academia del Balompie Boliviano (BLV PELE) [flv]
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (BLV LÝ QUỲ) [hls]
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (BLV LÝ QUỲ) [flv]
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia La Plata (BLV KAKA) [hls]
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia La Plata (BLV KAKA) [flv]
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 25/07 New York Red Bulls B vs Crown Legacy FC (BLV MÃ SIÊU) [hls]
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 25/07 New York Red Bulls B vs Crown Legacy FC (BLV MÃ SIÊU) [flv]
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto AC Cordoba (BLV VÕ TÒNG) [hls]
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (BLV HEINEKEN) [hls]
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto AC Cordoba (BLV VÕ TÒNG) [flv]
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (BLV LÝ QUỲ) [hls]
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (BLV LÝ QUỲ) [flv]
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (BLV HEINEKEN) [flv]
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 25/07 Myanmar vs Malaysia (BLV YẾN THANH) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -212,6 +218,12 @@ https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 25/07 Gimcheon Sangmu FC vs Daejeon (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (Chuối Tây) [FHD1] [FHD1]
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (Chuối Tây) [FHD2] [FHD2]
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia L.P. (Trốc Tru) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
@@ -223,12 +235,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto Cordoba (Chuối To) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (Chuối Tây) [FHD1] [FHD1]
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (Chuối Tây) [FHD2] [FHD2]
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 Huracan vs Banfield (Chuối Chao) [FHD1] [FHD1]
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
@@ -253,6 +259,15 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 25/07 Wuhan Three Towns vs Chongqing Tongliang Long (Chuối Nhỏ) [FHD2] [FHD2]
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Pottu Via Ho vs Dep. Santo Domingo (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/9bfe38200afc1a898d5eb00cd62a1400/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Houston Dash Women vs Bay FC (w) (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8d7e2ddd026dbde00b490955e96349f7/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Orlando Pride Women vs Chicago Red Stars Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/11d3578bebe069716a1fb57ae2fc39d7/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",04:55 25/07 Montevideo City Torque vs Danubio FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/91dceb3fd9d0c9c5ebddc7f3219e457b/playlist.m3u8
@@ -319,18 +334,6 @@ https://station1-global.ebaclofen.org/live/cdc318461e06e59f9a5a71961028653e/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:15 25/07 Mighty Avengers vs Sagicor South East (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-e5c0585f5da569bc8b0d/master.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Pottu Via Ho vs Dep. Santo Domingo (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9bfe38200afc1a898d5eb00cd62a1400/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Birmingham Legion vs New Mexico United (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/c5a336204c9c8e5a63212f99103c922b/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Houston Dash Women vs Bay FC (w) (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/8d7e2ddd026dbde00b490955e96349f7/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Orlando Pride Women vs Chicago Red Stars Women (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/11d3578bebe069716a1fb57ae2fc39d7/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (Doanh Chính)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
@@ -401,17 +404,26 @@ https://station1-global.ebaclofen.org/live/cb389b4e83c098d31ef780fd5f9c844b/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Polissya Zhytomyr B vs UCSA (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/d468fd9e4e704b0218debc4197189483/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 FK Arendal vs Vidar (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/fc3014f1959cc59007a01a0f0168cdb5/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 FK Isloch Minsk vs FC Baranovichi (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/20e3027da311d9ae773558692bf17687/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Degerfors IF vs Djurgardens (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/f7c1ef409f7867d8178afcbb5bb7f063/playlist.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Eik-Tonsberg vs Sandvikens (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/2be339d85e2cc2e87e3300a89ffc9b91/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Laos vs Thailand (Triệu Hằng)
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Laos vs Thailand (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/5b1f69c5680d055e39e23fc8671d6f5a/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 S.L. Benfica de Macau vs Hang Sai (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/b0356e1a45856a7e3d4f04adc5b94733/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Degerfors IF vs Djurgardens (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/f7c1ef409f7867d8178afcbb5bb7f063/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Niva Dolbizno vs Ostrowitz (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/8f93ca9556690aef91b1e6f6fe443743/playlist.m3u8
@@ -422,8 +434,17 @@ https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:15 25/07 Akron Togliatti vs Zenit St. Petersburg (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/90127b6db76756d611c40863349dadd5/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 25/07 Notodden FK vs Sotra (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/a10eb0d255320017078d9e10be1649f9/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 25/07 SV Wals-Grunau vs SV Austria Salzburg (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/bd00986b90942559e19e56a81b0f67a5/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 25/07 Lechia Gdansk vs Pogon Grodzisk Mazowiecki (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f99bc4e7cd1831afffc622e0fda9c638/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 25/07 Melhus vs SK Herd (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/3662a048a557d2d1fa3976a946340887/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 25/07 IFK Mariehamn vs AC Oulu (Trần Hoàng)
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
@@ -434,14 +455,35 @@ https://station1-global.ebaclofen.org/live/8b9266ec4d34413b7a04cb5cd540c45f/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:30 25/07 Stal Rzeszow vs Chrobry Glogow (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/af17346153a1ec28d0a9aac3cb055d9c/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Celtic FC vs AC Milan (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/03df4d1bdcb8c3daaf684994ef3517d2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Bolton Wanderers vs Everton (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/c4a27543c71adf89b60da0fe6e11068f/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Schalke 04 vs Fagiano Okayama (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/8a465f52e5d2afe55d2428bac4a686a6/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 IR Reykjavik vs Fylkir (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/935a9219160739e36a75f9fbe54725be/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Humenne vs Tatran Presov (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/bd680f4c1b3ecf3b5befbd1ee73536d0/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Zenit St Petersburg Women vs Zvezda 2005 Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/939661506fe563b4e1b6a4fc488e4856/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Kristiansund BK vs Start Kristiansand (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3fefd7c4a0846ca721c53e07a886b4ba/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 KuPs vs Vaasa VPS (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/44655b4f4b21811b810b3f52bc27e8d9/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Stabaek B vs Viking B (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/9c347a016dc40c3fd7cd9ce32319d6f4/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Queens Park Rangers vs Fiorentina (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/719d66265e057d08cca6d9402207b2ac/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 Shakhter Soligorsk vs Slutsksakhar Slutsk (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/fab5bea4aa60a6053fbae7e6eec03232/playlist.m3u8
@@ -460,6 +502,9 @@ https://station1-global.ebaclofen.org/live/0c00cc830beb1a2fea1e7580ca8a424c/play
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 25/07 Lustenau vs FC Kitzbuhel (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/59460f1f28862529296d591a89616bd1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 25/07 Bologna vs Iraklis (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/ee93164cf1a3f0d678c9535999228ac8/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 25/07 FC Viktoria Plzen vs Slovan Liberec (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/e3101747dd20e51939d09003f11fea3f/playlist.m3u8
@@ -497,11 +542,11 @@ https://station1-global.ebaclofen.org/live/d41fd380cf3d91b7f5ec1e0f64c4c88f/play
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 NS Mura vs NK Olimpija Ljubljana (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/cef4f6220fec7ab01f586d242f494ae0/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 VfB Hohenems vs FC HOGO Hertha Wels (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/2e05c4cfe437499c57cc295a6c82c5cd/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Wiener Viktoria vs Parndorf (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6099422385593198e90dc369e714a32e/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 VfB Hohenems vs FC HOGO Hertha Wels (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/2e05c4cfe437499c57cc295a6c82c5cd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 PSV Eindhoven vs Villarreal CF (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/ec75e7c658562a4962bef49de19f5c81/playlist.m3u8
@@ -599,17 +644,17 @@ https://hls.lauthaitv.cc/live/ningbo-guangdong-chnl1/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 25/07 Ningbo Professional FC vs Guangdong Guangzhou Power (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/ningbo-guangdong-chnl1.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Shanghai Port FC vs Shanghai Shenhua FC (NGƯỜI TIỀN SỬ) [hls]
-https://hls.lauthaitv.cc/live/port-shenhua-csl/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Shanghai Port FC vs Shanghai Shenhua FC (NGƯỜI TIỀN SỬ) [flv]
-https://flv.lauthaitv.cc/live/port-shenhua-csl.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Liaoning Tieren vs Qingdao West Coast FC (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/liaoning-qingdao-csl/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Liaoning Tieren vs Qingdao West Coast FC (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/liaoning-qingdao-csl.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Shanghai Port FC vs Shanghai Shenhua FC (NGƯỜI TIỀN SỬ) [hls]
+https://hls.lauthaitv.cc/live/port-shenhua-csl/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Shanghai Port FC vs Shanghai Shenhua FC (NGƯỜI TIỀN SỬ) [flv]
+https://flv.lauthaitv.cc/live/port-shenhua-csl.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 25/07 Ulytau Zhezkazgan vs Irtysh Pavlodar (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/ulytau-irtysh-kazprem/index.m3u8
@@ -617,17 +662,17 @@ https://hls.lauthaitv.cc/live/ulytau-irtysh-kazprem/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 25/07 Ulytau Zhezkazgan vs Irtysh Pavlodar (NGƯỜI PHÁO) [flv]
 https://flv.lauthaitv.cc/live/ulytau-irtysh-kazprem.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Degerfors IF vs Djurgardens (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/deger-djur-sweal/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Degerfors IF vs Djurgardens (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/deger-djur-sweal.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Laos vs Thailand (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/lao-thai-asean/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Laos vs Thailand (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/lao-thai-asean.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Degerfors IF vs Djurgardens (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/deger-djur-sweal/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 25/07 Degerfors IF vs Djurgardens (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/deger-djur-sweal.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/07 KuPs vs Vaasa VPS (NGƯỜI TIỀN SỬ) [hls]
 https://hls.lauthaitv.cc/live/kups-vaasa-finveik/index.m3u8
@@ -647,17 +692,17 @@ https://hls.lauthaitv.cc/live/kalmar-mjallby-sweeall/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 25/07 Kalmar vs Mjallby AIF (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/kalmar-mjallby-sweeall.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Aarhus AGF vs Brondby IF (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/gornik-slask-eks/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Aarhus AGF vs Brondby IF (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/gornik-slask-eks.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Servette vs FC Basel 1893 (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/servertte-basel-swisu/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Servette vs FC Basel 1893 (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/servertte-basel-swisu.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Aarhus AGF vs Brondby IF (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/gornik-slask-eks/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/07 Aarhus AGF vs Brondby IF (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/gornik-slask-eks.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:30 26/07 FC Dinamo 1948 vs CS Universitatea Craiova (NGƯỜI TIỀN SỬ) [hls]
 https://hls.lauthaitv.cc/live/dinamo1948-craiova-rom/index.m3u8
@@ -749,17 +794,17 @@ https://hls.lauthaitv.cc/live/shanghai-taian-chnl2/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",15:30 26/07 Shanghai Port B vs Tai'an Tiankuang (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/shanghai-taian-chnl2.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 26/07 Incheon United vs Bucheon FC 1995 (NGƯỜI SẮT) [hls]
-https://hls.lauthaitv.cc/live/incheon-bucheon-kork1/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 26/07 Incheon United vs Bucheon FC 1995 (NGƯỜI SẮT) [flv]
-https://flv.lauthaitv.cc/live/incheon-bucheon-kork1.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 26/07 Football Club Seoul vs Ulsan HD FC (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/seoul-ulsan-kork1/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 26/07 Football Club Seoul vs Ulsan HD FC (NGƯỜI BẠC) [flv]
 https://flv.lauthaitv.cc/live/seoul-ulsan-kork1.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 26/07 Incheon United vs Bucheon FC 1995 (NGƯỜI SẮT) [hls]
+https://hls.lauthaitv.cc/live/incheon-bucheon-kork1/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:30 26/07 Incheon United vs Bucheon FC 1995 (NGƯỜI SẮT) [flv]
+https://flv.lauthaitv.cc/live/incheon-bucheon-kork1.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 26/07 Yunnan Yukun vs Shenzhen Peng City (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/yunnan-shenzhen-csl/index.m3u8
@@ -773,17 +818,17 @@ https://hls.lauthaitv.cc/live/chengdu-beijing-csl/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 26/07 Chengdu Rongcheng FC vs Beijing Guoan FC (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/chengdu-beijing-csl.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 26/07 Young Boys vs FC Sion (NGƯỜI PHÁO) [hls]
-https://hls.lauthaitv.cc/live/young-sion-swisup/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 26/07 Young Boys vs FC Sion (NGƯỜI PHÁO) [flv]
-https://flv.lauthaitv.cc/live/young-sion-swisup.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 26/07 IK Sirius FK vs IFK Goteborg (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/sirius-goteborg-sweall/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 26/07 IK Sirius FK vs IFK Goteborg (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/sirius-goteborg-sweall.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 26/07 Young Boys vs FC Sion (NGƯỜI PHÁO) [hls]
+https://hls.lauthaitv.cc/live/young-sion-swisup/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 26/07 Young Boys vs FC Sion (NGƯỜI PHÁO) [flv]
+https://flv.lauthaitv.cc/live/young-sion-swisup.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:35 26/07 Brann vs Valerenga Fotbal Elite (NGƯỜI BẠC) [hls]
 https://hls.lauthaitv.cc/live/brann-valerenga-norelite/index.m3u8
@@ -797,17 +842,17 @@ https://hls.lauthaitv.cc/live/rakow-wisla-eks/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:45 26/07 Rakow Czestochowa vs Wisla Plock (NGƯỜI TIỀN SỬ) [flv]
 https://flv.lauthaitv.cc/live/rakow-wisla-eks.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 26/07 HJK Helsinki vs TPS Turku (NGƯỜI NẶN) [hls]
-https://hls.lauthaitv.cc/live/hjk-tps-finveik/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 26/07 HJK Helsinki vs TPS Turku (NGƯỜI NẶN) [flv]
-https://flv.lauthaitv.cc/live/hjk-tps-finveik.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 26/07 FC Copenhagen vs Lyngby (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/copehagen-lyngby-densup/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 26/07 FC Copenhagen vs Lyngby (NGƯỜI CAT) [flv]
 https://flv.lauthaitv.cc/live/copehagen-lyngby-densup.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 26/07 HJK Helsinki vs TPS Turku (NGƯỜI NẶN) [hls]
+https://hls.lauthaitv.cc/live/hjk-tps-finveik/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 26/07 HJK Helsinki vs TPS Turku (NGƯỜI NẶN) [flv]
+https://flv.lauthaitv.cc/live/hjk-tps-finveik.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 26/07 St. Gallen vs FC Zurich (NGƯỜI PHÁO) [hls]
 https://hls.lauthaitv.cc/live/gallen-zurich-swisup/index.m3u8
@@ -827,59 +872,65 @@ https://hls.lauthaitv.cc/live/sande-bodo-norelite/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 26/07 Sandefjord vs Bodo Glimt (NGƯỜI TIỀN SỬ) [flv]
 https://flv.lauthaitv.cc/live/sande-bodo-norelite.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 26/07 NK Bravo vs NK Nafta (NGƯỜI BẠC) [hls]
-https://hls.lauthaitv.cc/live/bravo-nafta-slo1liga/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 26/07 NK Bravo vs NK Nafta (NGƯỜI BẠC) [flv]
-https://flv.lauthaitv.cc/live/bravo-nafta-slo1liga.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 26/07 AC Horsens vs Nordsjaelland (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/horsens-nordsjaelland-densup/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 26/07 AC Horsens vs Nordsjaelland (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/horsens-nordsjaelland-densup.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 26/07 NK Bravo vs NK Nafta (NGƯỜI BẠC) [hls]
+https://hls.lauthaitv.cc/live/bravo-nafta-slo1liga/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 26/07 NK Bravo vs NK Nafta (NGƯỜI BẠC) [flv]
+https://flv.lauthaitv.cc/live/bravo-nafta-slo1liga.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 HFX Wanderers vs Supra Du Quebec (TAGE)
 https://live2.streambylivepulse.com/live/channel27.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 HFX Wanderers vs Supra Du Quebec (HD TAGE) [HD]
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001784934939-0-0-714e853c3fbed9e21048b6389a517882
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001784936737-0-0-2d5495787822efe9a98d36ce3efc338d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto (RAVEN)
 https://live2.streambylivepulse.com/live/channel21.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Velez Sarsfield vs Instituto (HD RAVEN) [HD]
-https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001784934945-0-0-008450a9862d8fb0fa2c2a92af2448a1
+https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001784936744-0-0-ed653b679cdda80c0a65a8ad25fbe9c4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia La Plata (HIRO)
 https://live2.streambylivepulse.com/live/channel14.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",05:00 25/07 Racing Club vs Gimnasia La Plata (HD HIRO) [HD]
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001784934952-0-0-1eb588b23e796b0f6d079c1ad5add00b
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001784936749-0-0-33d7a329ec414eb4d978a094eeaa1d90
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 25/07 NY Red Bulls B vs Crown Legacy FC (LOGAN)
 https://live2.streambylivepulse.com/live/channel23.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:00 25/07 NY Red Bulls B vs Crown Legacy FC (HD LOGAN) [HD]
-https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001784934972-0-0-de4abcb79727495060f526d625e22ef1
+https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001784936762-0-0-aaeffa5b68220ccc7ff643d5ec236fa0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (XMEN)
 https://live2.streambylivepulse.com/live/channel13.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (HD XMEN) [HD]
-https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001784934979-0-0-711b1c00859b4c0d85544f521b9f1fea
+https://live3.procdnlive.com/livecdn/channel13.flv?auth_key=3000001784936768-0-0-fd1022d80f1dcea1827188c97bf87a84
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (JOHAN)
+https://live2.streambylivepulse.com/live/channel12.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (HD JOHAN) [HD]
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001784936774-0-0-0c9cc7ea5a7b1fb1e8f6debc55cb50dd
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 25/07 Nữ Jiangxi Ganxing vs Nữ Wuhan Sheng (ALAN)
 https://live2.streambylivepulse.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 25/07 Nữ Jiangxi Ganxing vs Nữ Wuhan Sheng (HD ALAN) [HD]
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001784934985-0-0-96ec658d47bbc38a6b8d62d4963e74dc
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001784936786-0-0-0df32bbab546a62abcd4151f0a8264b6
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 25/07 Diablos Rojos del México vs Panteras de Aguascalientes (STEP)
 https://live2.streambylivepulse.com/live/channel26.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:15 25/07 Diablos Rojos del México vs Panteras de Aguascalientes (HD STEP) [HD]
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001784934996-0-0-6d8eb9f168be2209ea657a61b4a0bff0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001784936792-0-0-1100f9b5c2b9b853ce62c5b1dbe9c95b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/07 Wellington Saints vs Southland Sharks (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -910,6 +961,18 @@ https://hls.cdnfaster-b.site/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (Giàng A Mèo) [flv]
 https://flv.cdnfaster-b.site/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Antigua GFC vs Marquense (GIÀNG A MÂY) [hls]
+https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Antigua GFC vs Marquense (GIÀNG A MÂY) [flv]
+https://flv.cdnfaster-b.site/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (GIÀNG A MIKE) [hls]
+https://hls.cdnfaster-b.site/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (GIÀNG A MIKE) [flv]
+https://flv.cdnfaster-b.site/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 25/07 Myanmar vs Malaysia (TIGER) [flv]
 https://cdnflv.xbdbotv.live/live/fzxh36exm5ko1o2toos6ae40.flv
@@ -989,14 +1052,8 @@ https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (Kayti) [hls]
 https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:45 25/07 Gimnasia y Esgrima de Mendoza vs Central Cordoba SDE (CACAO) [geo]
-https://live.inplyr.com/room/620661.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:45 25/07 Gimnasia y Esgrima de Mendoza vs Central Cordoba SDE (SEVEN) [geo]
-https://live.inplyr.com/room/618546.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:45 25/07 Gimnasia y Esgrima de Mendoza vs Central Cordoba SDE (TRÀ ĐÁ) [geo]
-https://live.inplyr.com/room/603914.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Criollos de Caguas vs Vaqueros de Bayamon (KING) [geo]
+https://live.inplyr.com/room/168964.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 25/07 Vikingur Reykjavik vs Keflavik (VINFAST) [geo]
 https://live.inplyr.com/room/617313.m3u8
@@ -1040,8 +1097,14 @@ https://live.inplyr.com/room/372746.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",06:10 25/07 Llaneros FC vs Deportivo Pereira (BLV LUCAS) [geo]
 https://live.inplyr.com/room/304148.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 25/07 Criollos de Caguas vs Vaqueros de Bayamon (KING) [geo]
-https://live.inplyr.com/room/168964.m3u8
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (A PÁO) [geo]
+https://live.inplyr.com/room/235232.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (BLV TAP) [geo]
+https://live.inplyr.com/room/147801.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Platense vs Club Atlético Unión (T REX) [geo]
+https://live.inplyr.com/room/619672.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 24/07 Rosenborg vs Manchester United (THOMAS) [geo]
 https://live.inplyr.com/room/414317.m3u8
@@ -1097,15 +1160,6 @@ https://live.inplyr.com/room/321443.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 25/07 CSKA Moscow vs Baltika Kaliningrad (BLV RYO) [geo]
 https://live.inplyr.com/room/602019.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (A PÁO) [geo]
-https://live.inplyr.com/room/235232.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Huracan vs Banfield (BLV TAP) [geo]
-https://live.inplyr.com/room/147801.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:15 25/07 CA Platense vs Club Atlético Unión (T REX) [geo]
-https://live.inplyr.com/room/619672.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",08:00 25/07 Tepatitlan FC vs CD Alacranes de Durango (HẢI THANH) [geo]
 https://live.inplyr.com/room/599634.m3u8
 
@@ -1154,6 +1208,9 @@ https://live.inplyr.com/room/459401.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 25/07 Fortuna Dusseldorf vs Borussia Dortmund (BLV RÔSI) [geo]
 https://live.inplyr.com/room/139384.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Liaoning Tieren vs Qingdao West Coast (SEVEN) [geo]
+https://live.inplyr.com/room/618546.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:35 25/07 Liaoning Tieren vs Qingdao West Coast (BLV ROBBEN) [geo]
 https://live.inplyr.com/room/527383.m3u8
 
@@ -1169,8 +1226,14 @@ https://live.inplyr.com/room/109053.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 24/07 UTA Arad vs FC Otelul Galati (QUỐC KHÁNH) [geo]
 https://live.inplyr.com/room/602153.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 24/07 Radomiak Radom vs KS Wieczysta Krakow (TRÀ ĐÁ) [geo]
+https://live.inplyr.com/room/603914.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 24/07 Radomiak Radom vs KS Wieczysta Krakow (XUÂN SON) [geo]
 https://live.inplyr.com/room/501412.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 24/07 Polonia Bytom vs Warta Poznan (CACAO) [geo]
+https://live.inplyr.com/room/620661.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 25/07 Viborg vs Odense BK (ĐỖ TÚ TÀI) [geo]
 https://live.inplyr.com/room/607552.m3u8

@@ -388,7 +388,7 @@ if __name__ == "__main__":
     # HỘI QUÁN 1
     data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
     # HỘI QUÁN 2
-    data += process_hoiquan2("https://raw.githubusercontent.com/Bacbenny/freetvco/refs/heads/main/output/cotivi_sports.m3u", "HỘI QUÁN 2")
+    data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/output.json", "HỘI QUÁN 2")
     # THIÊN ĐÌNH
     data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
     # XAY CON
@@ -402,7 +402,7 @@ if __name__ == "__main__":
     # GIỜ VÀNG TV
     data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
     # QUE CHOA TV
-    data += process_quechoa_tv("https://raw.githubusercontent.com/huybuonvp/xem_football/refs/heads/main/All_CHANNEL_live.m3u", "QUÊ CHOA")
+    data += process_quechoa_tv("https://raw.githubusercontent.com/jasminliu98/loc-stream/refs/heads/main/raw_playlist.m3u", "QUÊ CHOA")
     # FPT SPORT
     data += load_fpt_sport("https://tinhlagi.pro/s.m3u", "SPORT-TV")
     

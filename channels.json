@@ -224,56 +224,6 @@
           ]
         },
         {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Saudi Arabia vs Nhật Bản",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/74598b2e0e004c9a8c87e221e8f65996.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Saudi Arabia vs Nhật Bản",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-110000",
           "name": "⚽ 11:00 | SHB Đà Nẵng vs Nam Định",
           "type": "single",
@@ -5022,6 +4972,56 @@
               ]
             }
           ]
+        },
+        {
+          "id": "CO LA TV-090000",
+          "name": "⚽ 09:00 | Tokyo Verdy vs Chiba",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-090000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-090000",
+                  "name": "09:00 | Tokyo Verdy vs Chiba",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-090000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/07428422.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -5033,7 +5033,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Ninh Bình FC vs Thanh Hóa | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5056,15 +5056,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Ninh Bình FC vs Thanh Hóa | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5083,7 +5083,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ SHB Đà Nẵng vs Thép Xanh Nam Định | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5106,15 +5106,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "SHB Đà Nẵng vs Thép Xanh Nam Định | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5133,7 +5133,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ TDTT Bac Ninh vs TP Hồ Chí Minh | 18:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5156,15 +5156,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "TDTT Bac Ninh vs TP Hồ Chí Minh | 18:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5183,7 +5183,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Ratchaburi FC vs Bangkok United FC | 19:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5206,15 +5206,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Ratchaburi FC vs Bangkok United FC | 19:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5233,7 +5233,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Adhyaksa vs Bali United | 15:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5256,15 +5256,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Adhyaksa vs Bali United | 15:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5275,7 +5275,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Johor Darul Takzim vs Negeri Sembilan | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5298,15 +5298,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Johor Darul Takzim vs Negeri Sembilan | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5317,7 +5317,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Tanzania U20 vs Canada U20 | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5340,15 +5340,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Tanzania U20 vs Canada U20 | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5359,7 +5359,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Al Arabi vs Al Urooba | 21:55 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5382,15 +5382,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Al Arabi vs Al Urooba | 21:55 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5401,7 +5401,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Parma U20 vs Genoa U20 | 22:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5424,15 +5424,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Parma U20 vs Genoa U20 | 22:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5443,7 +5443,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Krylya Sovetov Samara vs Rodina Moscow | 22:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5466,15 +5466,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Krylya Sovetov Samara vs Rodina Moscow | 22:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5485,7 +5485,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Al-Qadasiya vs Al-Ettifaq | 22:25 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5508,15 +5508,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Al-Qadasiya vs Al-Ettifaq | 22:25 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5527,7 +5527,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ New Mexico United vs Indy Eleven | 08:30 12/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5550,15 +5550,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "New Mexico United vs Indy Eleven | 08:30 12/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5569,7 +5569,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Colorado Springs Switchbacks FC vs San Antonio | 09:00 12/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5592,15 +5592,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Colorado Springs Switchbacks FC vs San Antonio | 09:00 12/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5611,7 +5611,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Saudi Arabia vs Japan | 17:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5634,15 +5634,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Saudi Arabia vs Japan | 17:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5653,7 +5653,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Nhật Bản vs Ấn Độ | 17:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5676,15 +5676,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Nhật Bản vs Ấn Độ | 17:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5695,7 +5695,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Ukraine vs North Macedonia | 20:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5718,15 +5718,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Ukraine vs North Macedonia | 20:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5737,7 +5737,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ Nedtherlands vs Belgium | 21:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5760,15 +5760,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "Nedtherlands vs Belgium | 21:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5779,7 +5779,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ FURIA vs G2 | 16:00 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5802,15 +5802,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "FURIA vs G2 | 16:00 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5821,7 +5821,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ ONE Friday Fights 170 & The Inner Circle 30 vs ONE Friday Fights 170 & The Inner Circle 30 | 18:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5844,15 +5844,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "ONE Friday Fights 170 & The Inner Circle 30 vs ONE Friday Fights 170 & The Inner Circle 30 | 18:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5863,7 +5863,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-114610",
+          "id": "GIỜ VÀNG-120119",
           "name": "⚽ F1 vs F1 | 18:30 11/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5886,15 +5886,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-114610",
+              "id": "GIỜ VÀNG-120119",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-114610",
+                  "id": "GIỜ VÀNG-120119",
                   "name": "F1 vs F1 | 18:30 11/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-114610",
+                      "id": "GIỜ VÀNG-120119",
                       "name": "Mặc định",
                       "stream_links": []
                     }
@@ -5914,57 +5914,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "QUÊ CHOA-114610",
-          "name": "⚽ WU Kun Lin vs Aloysius YAPP | GIÀNG A PHỌ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-a21f045dd4_6ff620c8_20260911.png?v=6ff620c8",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "QUÊ CHOA-114610",
-              "name": "QUÊ CHOA",
-              "contents": [
-                {
-                  "id": "QUÊ CHOA-114610",
-                  "name": "WU Kun Lin vs Aloysius YAPP | GIÀNG A PHỌ",
-                  "streams": [
-                    {
-                      "id": "QUÊ CHOA-114610",
-                      "name": "ChoangTV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7663/index.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "QUÊ CHOA-114610",
+          "id": "QUÊ CHOA-120120",
           "name": "⚽ LIU Shasha vs WANG Xiaotong | GIÀNG A PHỌ",
           "type": "single",
           "display": "thumbnail-only",
@@ -5987,15 +5937,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-114610",
+              "id": "QUÊ CHOA-120120",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-114610",
+                  "id": "QUÊ CHOA-120120",
                   "name": "LIU Shasha vs WANG Xiaotong | GIÀNG A PHỌ",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-114610",
+                      "id": "QUÊ CHOA-120120",
                       "name": "ChoangTV",
                       "stream_links": [
                         {
@@ -6014,157 +5964,7 @@
           ]
         },
         {
-          "id": "QUÊ CHOA-114610",
-          "name": "⚽ Jeffrey IGNACIO vs Casper MATIKAINEN | SÊ KÔÔ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-a67b6b9d91_c0d40971_20260911.png?v=c0d40971",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "QUÊ CHOA-114610",
-              "name": "QUÊ CHOA",
-              "contents": [
-                {
-                  "id": "QUÊ CHOA-114610",
-                  "name": "Jeffrey IGNACIO vs Casper MATIKAINEN | SÊ KÔÔ",
-                  "streams": [
-                    {
-                      "id": "QUÊ CHOA-114610",
-                      "name": "ChoangTV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7655/index.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "QUÊ CHOA-114610",
-          "name": "⚽ SHI Tianqi vs SEO Seoa | Thập Cẩm",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-578fe1c995_6177a88f_20260911.png?v=6177a88f",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "QUÊ CHOA-114610",
-              "name": "QUÊ CHOA",
-              "contents": [
-                {
-                  "id": "QUÊ CHOA-114610",
-                  "name": "SHI Tianqi vs SEO Seoa | Thập Cẩm",
-                  "streams": [
-                    {
-                      "id": "QUÊ CHOA-114610",
-                      "name": "ChoangTV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7659/index.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "QUÊ CHOA-114610",
-          "name": "⚽ MI Le vs Ruslan CHINAKHOV | Thập Cẩm",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-678dbf406b_969f1a19_20260911.png?v=969f1a19",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "QUÊ CHOA-114610",
-              "name": "QUÊ CHOA",
-              "contents": [
-                {
-                  "id": "QUÊ CHOA-114610",
-                  "name": "MI Le vs Ruslan CHINAKHOV | Thập Cẩm",
-                  "streams": [
-                    {
-                      "id": "QUÊ CHOA-114610",
-                      "name": "ChoangTV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7661/index.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "QUÊ CHOA-114610",
+          "id": "QUÊ CHOA-120120",
           "name": "⚽ Fedor GORST vs Mieszko FORTUNSKI | Kèn Kèn",
           "type": "single",
           "display": "thumbnail-only",
@@ -6187,15 +5987,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-114610",
+              "id": "QUÊ CHOA-120120",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-114610",
+                  "id": "QUÊ CHOA-120120",
                   "name": "Fedor GORST vs Mieszko FORTUNSKI | Kèn Kèn",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-114610",
+                      "id": "QUÊ CHOA-120120",
                       "name": "ChoangTV",
                       "stream_links": [
                         {
@@ -6214,7 +6014,107 @@
           ]
         },
         {
-          "id": "QUÊ CHOA-114610",
+          "id": "QUÊ CHOA-120120",
+          "name": "⚽ WU Kun Lin vs Aloysius YAPP | GIÀNG A PHỌ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-a21f045dd4_6ff620c8_20260911.png?v=6ff620c8",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "QUÊ CHOA-120120",
+              "name": "QUÊ CHOA",
+              "contents": [
+                {
+                  "id": "QUÊ CHOA-120120",
+                  "name": "WU Kun Lin vs Aloysius YAPP | GIÀNG A PHỌ",
+                  "streams": [
+                    {
+                      "id": "QUÊ CHOA-120120",
+                      "name": "ChoangTV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7663/index.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "QUÊ CHOA-120120",
+          "name": "⚽ Jeffrey IGNACIO vs Casper MATIKAINEN | SÊ KÔÔ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-a67b6b9d91_c0d40971_20260911.png?v=c0d40971",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "QUÊ CHOA-120120",
+              "name": "QUÊ CHOA",
+              "contents": [
+                {
+                  "id": "QUÊ CHOA-120120",
+                  "name": "Jeffrey IGNACIO vs Casper MATIKAINEN | SÊ KÔÔ",
+                  "streams": [
+                    {
+                      "id": "QUÊ CHOA-120120",
+                      "name": "ChoangTV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7655/index.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "QUÊ CHOA-120120",
           "name": "⚽ Joshua FILLER vs CAPITO | Đại Kê",
           "type": "single",
           "display": "thumbnail-only",
@@ -6237,15 +6137,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-114610",
+              "id": "QUÊ CHOA-120120",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-114610",
+                  "id": "QUÊ CHOA-120120",
                   "name": "Joshua FILLER vs CAPITO | Đại Kê",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-114610",
+                      "id": "QUÊ CHOA-120120",
                       "name": "ChoangTV",
                       "stream_links": [
                         {

@@ -74,6 +74,56 @@
           ]
         },
         {
+          "id": "CO LA TV-163000",
+          "name": "⚽ 16:30 | Calcio Como vs CLB Parma",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-163000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-163000",
+                  "name": "16:30 | Calcio Como vs CLB Parma",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-163000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | CLB Al Ahli vs Tractor",
           "type": "single",
@@ -164,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/97885009_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Calcio Como vs CLB Parma",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-163000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Calcio Como vs CLB Parma",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-163000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
                         }
                       ]
                     }
@@ -3333,7 +3333,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Al-Shamal vs Al Ittihad Jeddah | 23:00 14/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3342,7 +3342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7865d02aeccba005276_38600369_20260914.png?v=38600369",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7865d02aeccba005276_38600369_20260915.png?v=38600369",
             "width": 1600,
             "height": 1200
           },
@@ -3356,15 +3356,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Al-Shamal vs Al Ittihad Jeddah | 23:00 14/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3383,7 +3383,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Shabab Al Ahli vs Teraktor-Sazi | 23:00 14/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3392,7 +3392,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7865d02aeccba005275_f5bf2825_20260914.png?v=f5bf2825",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7865d02aeccba005275_f5bf2825_20260915.png?v=f5bf2825",
             "width": 1600,
             "height": 1200
           },
@@ -3406,15 +3406,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Shabab Al Ahli vs Teraktor-Sazi | 23:00 14/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3433,7 +3433,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Torino vs AS Roma | 23:30 14/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3442,7 +3442,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a9f501524d46db8702d35d2_587cea50_20260914.png?v=587cea50",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a9f501524d46db8702d35d2_587cea50_20260915.png?v=587cea50",
             "width": 1600,
             "height": 1200
           },
@@ -3456,15 +3456,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Torino vs AS Roma | 23:30 14/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3483,7 +3483,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Como vs Parma | 23:30 14/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3492,7 +3492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a9f501524d46db8702d35c9_5c7e7479_20260914.png?v=5c7e7479",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a9f501524d46db8702d35c9_5c7e7479_20260915.png?v=5c7e7479",
             "width": 1600,
             "height": 1200
           },
@@ -3506,15 +3506,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Como vs Parma | 23:30 14/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3533,8 +3533,8 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
-          "name": "⚽ Inter Milan vs Udinese | 01:45 15/09",
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Gaziantep vs Fenerbahce | 00:00 15/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3542,7 +3542,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/s2ea5354y2qs_2ac8d8ed_20260914.png?v=2ac8d8ed",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/grc247up0o5t_01050f8d_20260915.png?v=01050f8d",
             "width": 1600,
             "height": 1200
           },
@@ -3556,15 +3556,65 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
+                  "name": "Gaziantep vs Fenerbahce | 00:00 15/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-171609",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789322705_hd/1789322705_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Inter Milan vs Udinese | 01:45 15/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/s2ea5354y2qs_2ac8d8ed_20260915.png?v=2ac8d8ed",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-171609",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Inter Milan vs Udinese | 01:45 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3583,7 +3633,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Red Star vs Metz | 01:45 15/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3592,7 +3642,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/19mf1odb87bn_0ad976e7_20260914.png?v=0ad976e7",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/19mf1odb87bn_0ad976e7_20260915.png?v=0ad976e7",
             "width": 1600,
             "height": 1200
           },
@@ -3606,15 +3656,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Red Star vs Metz | 01:45 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3633,7 +3683,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Villarreal vs Betis | 02:00 15/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3642,7 +3692,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/p2tqjuxg19bu_ddbd53ab_20260914.png?v=ddbd53ab",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/p2tqjuxg19bu_ddbd53ab_20260915.png?v=ddbd53ab",
             "width": 1600,
             "height": 1200
           },
@@ -3656,15 +3706,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Villarreal vs Betis | 02:00 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3683,7 +3733,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Leeds United vs Newcastle United | 02:00 15/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3692,7 +3742,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/5aftkomko4e0_3d6c56ca_20260914.png?v=3d6c56ca",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/5aftkomko4e0_3d6c56ca_20260915.png?v=3d6c56ca",
             "width": 1600,
             "height": 1200
           },
@@ -3706,15 +3756,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Leeds United vs Newcastle United | 02:00 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3733,7 +3783,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Union La Calera vs Deportes Limache | 06:30 15/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3742,7 +3792,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa7633824d46db870405ea8_f51040c2_20260914.png?v=f51040c2",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa7633824d46db870405ea8_f51040c2_20260915.png?v=f51040c2",
             "width": 1600,
             "height": 1200
           },
@@ -3756,15 +3806,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Union La Calera vs Deportes Limache | 06:30 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3783,8 +3833,8 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
-          "name": "⚽ Bulgaria vs Israel | 23:00 14/09",
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ U23 Uzbekistan vs U23 Philippines | 13:30 15/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3792,7 +3842,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/bjgoz8y4koan_540a2712_20260914.png?v=540a2712",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/fig3yvqcuu1a_c56968d9_20260915.png?v=c56968d9",
             "width": 1600,
             "height": 1200
           },
@@ -3806,15 +3856,65 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
+                  "name": "U23 Uzbekistan vs U23 Philippines | 13:30 15/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-171609",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789405084_hd/1789405084_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Bulgaria vs Israel | 23:00 14/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/bjgoz8y4koan_540a2712_20260915.png?v=540a2712",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-171609",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Bulgaria vs Israel | 23:00 14/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3833,8 +3933,8 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
-          "name": "⚽ Slovenia vs Hy Lạp | 02:00 15/09",
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Estonia vs Bỉ | 00:00 15/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3842,7 +3942,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/f04ahxps0mjl_0069fc10_20260914.png?v=0069fc10",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/e369naqrv7f7_d7d95ae8_20260915.png?v=d7d95ae8",
             "width": 1600,
             "height": 1200
           },
@@ -3856,15 +3956,65 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
+                  "name": "Estonia vs Bỉ | 00:00 15/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-171609",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789324446_hd/1789324446_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Slovenia vs Hy Lạp | 02:00 15/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/f04ahxps0mjl_0069fc10_20260915.png?v=0069fc10",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-171609",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Slovenia vs Hy Lạp | 02:00 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3883,8 +4033,8 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
-          "name": "⚽ Dana White's Contender Series: Season 10, Week 6 vs Dana White's Contender Series: Season 10, Week 6 | 06:00 16/09",
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Kansas City Chiefs vs Denver Broncos | 07:15 15/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3892,7 +4042,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/d6sg7zij72d1_d44c562f_20260914.png?v=d44c562f",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/08ld8pil7rwk_19f00652_20260915.png?v=19f00652",
             "width": 1600,
             "height": 1200
           },
@@ -3906,15 +4056,65 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
+                  "name": "Kansas City Chiefs vs Denver Broncos | 07:15 15/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-171609",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789405256_hd/1789405256_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Dana White's Contender Series: Season 10, Week 6 vs Dana White's Contender Series: Season 10, Week 6 | 06:00 16/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/d6sg7zij72d1_d44c562f_20260915.png?v=d44c562f",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-171609",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Dana White's Contender Series: Season 10, Week 6 vs Dana White's Contender Series: Season 10, Week 6 | 06:00 16/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3933,7 +4133,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3942,7 +4142,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/larx8mie0sk2_87a9d6fb_20260914.png?v=87a9d6fb",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/larx8mie0sk2_87a9d6fb_20260915.png?v=87a9d6fb",
             "width": 1600,
             "height": 1200
           },
@@ -3956,15 +4156,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -3983,7 +4183,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Van vs Pantoja 2 | 04:00 20/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -3992,7 +4192,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260914.png?v=f8d4c999",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260915.png?v=f8d4c999",
             "width": 1600,
             "height": 1200
           },
@@ -4006,15 +4206,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Van vs Pantoja 2 | 04:00 20/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4033,7 +4233,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4042,7 +4242,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260914.png?v=9f063d9a",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260915.png?v=9f063d9a",
             "width": 1600,
             "height": 1200
           },
@@ -4056,15 +4256,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4083,7 +4283,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4092,7 +4292,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260914.png?v=dc760bd5",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260915.png?v=dc760bd5",
             "width": 1600,
             "height": 1200
           },
@@ -4106,15 +4306,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4133,7 +4333,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Rosas Jr. vs Barcelos | 02:00 27/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4142,7 +4342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260914.png?v=db1b1409",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260915.png?v=db1b1409",
             "width": 1600,
             "height": 1200
           },
@@ -4156,15 +4356,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Rosas Jr. vs Barcelos | 02:00 27/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4183,7 +4383,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4192,7 +4392,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260914.png?v=a0d829ba",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260915.png?v=a0d829ba",
             "width": 1600,
             "height": 1200
           },
@@ -4206,15 +4406,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4233,7 +4433,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-170128",
+          "id": "GIỜ VÀNG-171609",
           "name": "⚽ Los Angeles Dodgers vs Cincinnati Reds | 05:40 15/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4242,7 +4442,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/s70t0vhgnu5z_c2725eb1_20260914.png?v=c2725eb1",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/s70t0vhgnu5z_c2725eb1_20260915.png?v=c2725eb1",
             "width": 1600,
             "height": 1200
           },
@@ -4256,15 +4456,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-170128",
+              "id": "GIỜ VÀNG-171609",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-170128",
+                  "id": "GIỜ VÀNG-171609",
                   "name": "Los Angeles Dodgers vs Cincinnati Reds | 05:40 15/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-170128",
+                      "id": "GIỜ VÀNG-171609",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4273,6 +4473,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://eqr2hdarxfliv.vcdn.cloud/1789323563_hd/1789323563_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-171609",
+          "name": "⚽ Los Angeles Angels vs Seattle Mariners | 08:38 15/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/2ewywqq0rhf6_f541706e_20260915.png?v=f541706e",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-171609",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-171609",
+                  "name": "Los Angeles Angels vs Seattle Mariners | 08:38 15/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-171609",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789405133_hd/1789405133_hd@720p.m3u8"
                         }
                       ]
                     }
@@ -4292,7 +4542,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "QUÊ CHOA-170128",
+          "id": "QUÊ CHOA-171609",
           "name": "⚽ ALBERT JANUARTA vs RYAN S +6 | Kèn Kèn",
           "type": "single",
           "display": "thumbnail-only",
@@ -4301,7 +4551,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-82e981347a_c8ea161b_20260914.png?v=c8ea161b",
+            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-82e981347a_c8ea161b_20260915.png?v=c8ea161b",
             "width": 1600,
             "height": 1200
           },
@@ -4315,15 +4565,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-170128",
+              "id": "QUÊ CHOA-171609",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-170128",
+                  "id": "QUÊ CHOA-171609",
                   "name": "ALBERT JANUARTA vs RYAN S +6 | Kèn Kèn",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-170128",
+                      "id": "QUÊ CHOA-171609",
                       "name": "ChoangTV",
                       "stream_links": [
                         {
@@ -4342,7 +4592,7 @@
           ]
         },
         {
-          "id": "QUÊ CHOA-170128",
+          "id": "QUÊ CHOA-171609",
           "name": "⚽ YURI TUBO vs RAVEN MAGABO | Thập Cẩm",
           "type": "single",
           "display": "thumbnail-only",
@@ -4351,7 +4601,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-4a71fc9d66_11a156b8_20260914.png?v=11a156b8",
+            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-4a71fc9d66_11a156b8_20260915.png?v=11a156b8",
             "width": 1600,
             "height": 1200
           },
@@ -4365,15 +4615,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-170128",
+              "id": "QUÊ CHOA-171609",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-170128",
+                  "id": "QUÊ CHOA-171609",
                   "name": "YURI TUBO vs RAVEN MAGABO | Thập Cẩm",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-170128",
+                      "id": "QUÊ CHOA-171609",
                       "name": "ChoangTV",
                       "stream_links": [
                         {

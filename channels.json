@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-040000",
-          "name": "⚽ 04:00 | Iran vs Bahrain",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/77418e1cfd63306bf63717d76c23e910.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-040000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-040000",
-                  "name": "04:00 | Iran vs Bahrain",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-040000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-070000",
           "name": "⚽ 07:00 | Thái Lan U23 vs Kyrgyzstan U23",
           "type": "single",
@@ -4483,7 +4433,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ U23 UAE vs U23 Iran | 12:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4506,15 +4456,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "U23 UAE vs U23 Iran | 12:00 16/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4533,7 +4483,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ U23 Thái Lan vs U23 Kyrgyzstan | 14:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4556,15 +4506,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "U23 Thái Lan vs U23 Kyrgyzstan | 14:00 16/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4583,7 +4533,157 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
+          "name": "⚽ Borneo FC Samarinda vs Dewa United FC | 15:30 16/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19324d46db8705362982_2528f7a4_20260916.png?v=2528f7a4",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-061617",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-061617",
+                  "name": "Borneo FC Samarinda vs Dewa United FC | 15:30 16/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-061617",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789539118_hd/1789539118_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-061617",
+          "name": "⚽ U23 Trung Quốc vs U23 Triều Tiên | 17:00 16/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/4ub8zr9b7cbk_50bf13ef_20260916.png?v=50bf13ef",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-061617",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-061617",
+                  "name": "U23 Trung Quốc vs U23 Triều Tiên | 17:00 16/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-061617",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789539187_hd/1789539187_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-061617",
+          "name": "⚽ Jeonbuk Hyundai Motors vs Kashiwa Reysol | 17:00 16/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7865d02aeccba00525f_46f58a91_20260916.png?v=46f58a91",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-061617",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-061617",
+                  "name": "Jeonbuk Hyundai Motors vs Kashiwa Reysol | 17:00 16/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-061617",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789539310_hd/1789539310_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Iran vs Bahrain | 11:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4606,15 +4706,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Iran vs Bahrain | 11:00 16/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4633,7 +4733,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Chinese vs Saudi Arabia | 14:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4656,15 +4756,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Chinese vs Saudi Arabia | 14:00 16/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4683,7 +4783,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Thái Lan vs Mông Cổ | 14:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4706,15 +4806,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Thái Lan vs Mông Cổ | 14:00 16/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4733,7 +4833,57 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
+          "name": "⚽ Hàn Quốc vs Hồng Kông | 14:00 16/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/3ne9tyay88mn_927de649_20260916.png?v=927de649",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "GIỜ VÀNG-061617",
+              "name": "GIỜ VÀNG",
+              "contents": [
+                {
+                  "id": "GIỜ VÀNG-061617",
+                  "name": "Hàn Quốc vs Hồng Kông | 14:00 16/09",
+                  "streams": [
+                    {
+                      "id": "GIỜ VÀNG-061617",
+                      "name": "Mặc định",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789538717_hd/1789538717_hd@720p.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4756,15 +4906,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "ONE Friday Fights 171 vs The Inner Circle 31 | 18:30 18/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4783,7 +4933,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Van vs Pantoja 2 | 04:00 20/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4806,15 +4956,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Van vs Pantoja 2 | 04:00 20/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4833,7 +4983,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4856,15 +5006,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | 06:00 23/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4883,7 +5033,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4906,15 +5056,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4933,7 +5083,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Rosas Jr. vs Barcelos | 02:00 27/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -4956,15 +5106,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Rosas Jr. vs Barcelos | 02:00 27/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -4983,7 +5133,7 @@
           ]
         },
         {
-          "id": "GIỜ VÀNG-060114",
+          "id": "GIỜ VÀNG-061617",
           "name": "⚽ Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5006,15 +5156,15 @@
           ],
           "sources": [
             {
-              "id": "GIỜ VÀNG-060114",
+              "id": "GIỜ VÀNG-061617",
               "name": "GIỜ VÀNG",
               "contents": [
                 {
-                  "id": "GIỜ VÀNG-060114",
+                  "id": "GIỜ VÀNG-061617",
                   "name": "Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | 06:00 30/09",
                   "streams": [
                     {
-                      "id": "GIỜ VÀNG-060114",
+                      "id": "GIỜ VÀNG-061617",
                       "name": "Mặc định",
                       "stream_links": [
                         {
@@ -5042,7 +5192,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "QUÊ CHOA-060114",
+          "id": "QUÊ CHOA-061617",
           "name": "⚽ Quần đỏ vs Áo đen | Thập Cẩm",
           "type": "single",
           "display": "thumbnail-only",
@@ -5065,15 +5215,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-060114",
+              "id": "QUÊ CHOA-061617",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-060114",
+                  "id": "QUÊ CHOA-061617",
                   "name": "Quần đỏ vs Áo đen | Thập Cẩm",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-060114",
+                      "id": "QUÊ CHOA-061617",
                       "name": "ChoangTV",
                       "stream_links": [
                         {
@@ -5092,7 +5242,7 @@
           ]
         },
         {
-          "id": "QUÊ CHOA-060114",
+          "id": "QUÊ CHOA-061617",
           "name": "⚽ Hoàng PT vs PIJUS LABUTIS | Bỉm Sữa",
           "type": "single",
           "display": "thumbnail-only",
@@ -5115,15 +5265,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-060114",
+              "id": "QUÊ CHOA-061617",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-060114",
+                  "id": "QUÊ CHOA-061617",
                   "name": "Hoàng PT vs PIJUS LABUTIS | Bỉm Sữa",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-060114",
+                      "id": "QUÊ CHOA-061617",
                       "name": "ChoangTV",
                       "stream_links": [
                         {
@@ -5142,7 +5292,57 @@
           ]
         },
         {
-          "id": "QUÊ CHOA-060114",
+          "id": "QUÊ CHOA-061617",
+          "name": "⚽ khầy nam vs linh tq | Lee Min Hoo",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/thumbs/chtv-14d41b9a76_e464635a_20260916.png?v=e464635a",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "QUÊ CHOA-061617",
+              "name": "QUÊ CHOA",
+              "contents": [
+                {
+                  "id": "QUÊ CHOA-061617",
+                  "name": "khầy nam vs linh tq | Lee Min Hoo",
+                  "streams": [
+                    {
+                      "id": "QUÊ CHOA-061617",
+                      "name": "ChoangTV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn.sports-cas889abxfileposo.site/live/live7894/index.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "QUÊ CHOA-061617",
           "name": "⚽ Hoàng Sao(105w) vs Shaw Béo(120w) | 17:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5165,15 +5365,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-060114",
+              "id": "QUÊ CHOA-061617",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-060114",
+                  "id": "QUÊ CHOA-061617",
                   "name": "Hoàng Sao(105w) vs Shaw Béo(120w) | 17:00 16/09",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-060114",
+                      "id": "QUÊ CHOA-061617",
                       "name": "ChoangTV",
                       "stream_links": [
                         {
@@ -5192,7 +5392,7 @@
           ]
         },
         {
-          "id": "QUÊ CHOA-060114",
+          "id": "QUÊ CHOA-061617",
           "name": "⚽ Hoàng Sao(120w) vs Shaw Béo(115w) | 17:00 16/09",
           "type": "single",
           "display": "thumbnail-only",
@@ -5215,15 +5415,15 @@
           ],
           "sources": [
             {
-              "id": "QUÊ CHOA-060114",
+              "id": "QUÊ CHOA-061617",
               "name": "QUÊ CHOA",
               "contents": [
                 {
-                  "id": "QUÊ CHOA-060114",
+                  "id": "QUÊ CHOA-061617",
                   "name": "Hoàng Sao(120w) vs Shaw Béo(115w) | 17:00 16/09",
                   "streams": [
                     {
-                      "id": "QUÊ CHOA-060114",
+                      "id": "QUÊ CHOA-061617",
                       "name": "ChoangTV",
                       "stream_links": [
                         {

@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | Mobis Phoebus vs KCC Egis",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-050000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-050000",
-                  "name": "05:00 | Mobis Phoebus vs KCC Egis",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-050000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-063000",
           "name": "⚽ 06:30 | Ecuador vs Panama",
           "type": "single",
@@ -114,6 +64,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-050000",
+          "name": "⚽ 05:00 | Mobis Phoebus vs KCC Egis",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-050000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-050000",
+                  "name": "05:00 | Mobis Phoebus vs KCC Egis",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-050000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
                         }
                       ]
                     }
@@ -175,7 +175,7 @@
         },
         {
           "id": "CO LA TV-090000",
-          "name": "⚽ 09:00 | Malaysia vs ĐTQG Việt Nam",
+          "name": "⚽ 09:00 | Malaysia vs Việt Nam",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -202,7 +202,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-090000",
-                  "name": "09:00 | Malaysia vs ĐTQG Việt Nam",
+                  "name": "09:00 | Malaysia vs Việt Nam",
                   "streams": [
                     {
                       "id": "CO LA TV-090000",
@@ -225,7 +225,7 @@
         },
         {
           "id": "CO LA TV-103000",
-          "name": "⚽ 10:30 | Đội tuyển Bóng đá Quốc gia Nhật Bản vs New Zealand",
+          "name": "⚽ 10:30 | Nhật Bản vs New Zealand",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -252,7 +252,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-103000",
-                  "name": "10:30 | Đội tuyển Bóng đá Quốc gia Nhật Bản vs New Zealand",
+                  "name": "10:30 | Nhật Bản vs New Zealand",
                   "streams": [
                     {
                       "id": "CO LA TV-103000",
@@ -875,7 +875,7 @@
         },
         {
           "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | ĐTQG Ukraine vs ĐTQG Hungary",
+          "name": "⚽ 18:45 | Ukraine vs Hungary",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -902,7 +902,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-184500",
-                  "name": "18:45 | ĐTQG Ukraine vs ĐTQG Hungary",
+                  "name": "18:45 | Ukraine vs Hungary",
                   "streams": [
                     {
                       "id": "CO LA TV-184500",
@@ -975,7 +975,7 @@
         },
         {
           "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | ĐTQG Bosnia Herzegovina vs ĐTQG Ba Lan",
+          "name": "⚽ 18:45 | Bosnia Herzegovina vs Ba Lan",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1002,7 +1002,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-184500",
-                  "name": "18:45 | ĐTQG Bosnia Herzegovina vs ĐTQG Ba Lan",
+                  "name": "18:45 | Bosnia Herzegovina vs Ba Lan",
                   "streams": [
                     {
                       "id": "CO LA TV-184500",

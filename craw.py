@@ -388,7 +388,7 @@ if __name__ == "__main__":
     # HỘI QUÁN 1
     data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
     # HỘI QUÁN 2
-    data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/loc-stream/refs/heads/main/raw_playlist.m3u", "HỘI QUÁN 2")
+    data += process_hoiquan2("https://raw.githubusercontent.com/yukihana2k3/IPTV_Auto_Update/refs/heads/main/vn.m3u", "HỘI QUÁN 2")
     # THIÊN ĐÌNH
     data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
     # XAY CON
@@ -400,11 +400,11 @@ if __name__ == "__main__":
     # TAM QUOC TV
     data += process_tamquoc_tv()
     # GIỜ VÀNG TV
-    data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
+    data += process_hoiquan2("", "GIỜ VÀNG")
     # QUE CHOA TV
-    data += process_quechoa_tv("https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/output.json", "QUÊ CHOA")
+    data += process_quechoa_tv("https://raw.githubusercontent.com/huybuonvp/xem_football/refs/heads/main/All_CHANNEL_live.m3u", "QUÊ CHOA")
     # FPT SPORT
-    data += load_fpt_sport("https://tinhlagi.pro/s.m3u", "SPORT-TV")
+    data += load_fpt_sport("https://raw.githubusercontent.com/phuongnm7/Iptv-phuongnm7/refs/heads/main/sports-auto.m3u", "SPORT-TV")
     
     # WRITE
     live_data = write_files(data)

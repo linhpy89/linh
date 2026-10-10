@@ -5,12 +5,6 @@ https://live05.meung.app/live/07428422_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f378eb1ea04e53999b89051aa3244de6.png!w80",16:30 | FC Barcelona vs Getafe CF
 https://live05.meung.app/live/75915087_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80",16:00 | Inter Milan vs CLB Parma
-https://live05.meung.app/live/75748097_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/41140c6f793b378e8cad7087ebce5066.png!w80",16:00 | IFK Mariehamn vs Ilves
-https://live05.meung.app/live/90865415_tsc.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",16:30 | RB Leipzig vs Eintracht Frankfurt
 https://live05.meung.app/live/59444581_tsc.m3u8
 
@@ -22,6 +16,9 @@ https://live05.meung.app/live/99121525_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/07a555616afab7be32e00150eacf4197.png!w80",18:00 | Al Hilal vs Al-Ittihad FC
 https://live05.meung.app/live/07808742_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/37ed13d27edccd30e053167962c02b3a.png!w80",18:45 | S.S.C. Napoli vs Frosinone
+https://live05.meung.app/live/75748097_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",18:45 | Paris Saint-Germain vs Le Mans
 https://live05.meung.app/live/14707124_tsc.m3u8
@@ -43,6 +40,9 @@ https://live05.meung.app/live/87379114_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",00:00 | Miami Heat vs Minnesota Timberwolves
 https://live05.meung.app/live/19919577_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",00:30 | Golden State Warriors vs Sacramento Kings
+https://live05.meung.app/live/90865415_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/2d874c6a14447ac110695b300849ca7c.png!w80",01:30 | Colorado Rapids vs San Jose Earthquakes
 https://live05.meung.app/live/02456966_tsc.m3u8
@@ -80,16 +80,16 @@ https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 00:00 11/10 ⚽ Maritimo vs FC Porto (Nguyễn Ánh)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:00 11/10 ⚽ Al Hilal vs Al Ittihad Club (Ngô Quyền)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al Ittihad Club (Ngô Quyền)
 https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ AS Monaco vs Toulouse FC (Lê Lợi)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ AS Monaco vs Toulouse FC (Lê Lợi)
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Lorient vs Paris FC (Lê Hoàn)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Lorient vs Paris FC (Lê Hoàn)
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Stade Brestois 29 vs Angers SCO (Tôn Quyền)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Stade Brestois 29 vs Angers SCO (Tôn Quyền)
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ IFK Mariehamn vs Ilves (BLV 247) [flv]
@@ -152,29 +152,23 @@ https://live05.meung.app/live/07808742_tsc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al-Ittihad FC (BLV SAMURAI) [hls 2]
 https://live05.miekgo.app/live/07808742_tsc.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Barracas Central vs Huracan (BLV STING) [flv]
-https://live05.meung.app/live/14707124_tsc.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Barracas Central vs Huracan (BLV STING) [hls 2]
-https://live05.miekgo.app/live/14707124_tsc.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ FC Lorient vs Paris FC (BLV FANTA) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ FC Lorient vs Paris FC (BLV FANTA) [flv]
 https://live05.meung.app/live/16226575_tsc.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ FC Lorient vs Paris FC (BLV FANTA) [hls 2]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ FC Lorient vs Paris FC (BLV FANTA) [hls 2]
 https://live05.miekgo.app/live/16226575_tsc.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV 7UP) [flv]
-https://live05.meung.app/live/78905744_tsc.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV 7UP) [hls 2]
-https://live05.miekgo.app/live/78905744_tsc.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV SODA) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV SODA) [flv]
 https://live05.meung.app/live/02456966_tsc.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV SODA) [hls 2]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV SODA) [hls 2]
 https://live05.miekgo.app/live/02456966_tsc.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV STING) [flv]
+https://live05.meung.app/live/14707124_tsc.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (BLV STING) [hls 2]
+https://live05.miekgo.app/live/14707124_tsc.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Câu lạc bộ AFC Ajax vs CLB NEC Nijmegen (BLV REVIVE) [flv]
 https://live05.meung.app/live/33982309_tsc.flv
@@ -200,18 +194,6 @@ https://live05.meung.app/live/87379114_tsc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 11/10 🏀 Đội bóng rổ Boston Celtics vs Philadelphia 76ers (BLV Cozy) [hls 2]
 https://live05.miekgo.app/live/87379114_tsc.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter vs Parma (Người Kiến) [flv]
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter vs Parma (Người Kiến) [hls]
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (Saitama) [flv]
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (Saitama) [hls]
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Man Utd vs Spurs (Giàng A Dân) [flv]
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.flv
 
@@ -230,77 +212,65 @@ https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Man Utd vs Spurs (Lữ Bố.Vip) [hls]
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (Cá Mập) [flv]
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (Cá Mập) [hls]
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 00:00 11/10 ⚽ Maritimo vs FC Porto (A Long) [flv]
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 00:00 11/10 ⚽ Maritimo vs FC Porto (A Long) [hls]
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ FC Zurich vs Thun (HD NEMO)
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001791653857-0-0-b057fce66af030f25a38cad483c905c2
+https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001791654763-0-0-459423999bbee03e20bb93ca3d9223be
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ FC Zurich vs Thun (NEMO)
-https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=2d0dacaa2e175b4172be52bfbf55d5b7&wsABSTime=1791697054
+https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=6441bff51003e7eb656de7e3aedc419c&wsABSTime=1791697960
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (FILIP)
-https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=5ef6fd59bc8b66017b08738906edce26&wsABSTime=1791696946
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=d99a70016a82e1b84ec8f6ffb3c04471&wsABSTime=1791697849
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (HD FILIP)
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001791653748-0-0-961b7d99f1af6551a61219d65535a6d8
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001791654652-0-0-63c82656888e4e6302092fc88edbc790
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Servette vs FC Sion (HD XMEN)
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001791653843-0-0-a12e2b2acb2fff55d3289e21d0f32dab
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001791654756-0-0-1daa601b68decd3e22d9c3bd3876f2b3
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Servette vs FC Sion (XMEN)
-https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=237f759b7d05c8471667dd7c5f28fd0a&wsABSTime=1791697028
+https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=1a8e784ef854858c1a226de9802aabec&wsABSTime=1791697936
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 🎮 MIBR.LOS vs FURIA Esports (HD MARTY)
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001791653868-0-0-e45aeda6b2e1957316888494ffe31763
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001791654775-0-0-516d734c688cdf7d6c7282240728c86e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 🎮 MIBR.LOS vs FURIA Esports (MARTY)
 https://live2.jorvakstreamcache.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (FABIO)
-https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=2d2605770f0dc22f395d38a56f895d96&wsABSTime=1791697018
+https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=7c64e3dc63e7d361e9f3e173f3591a39&wsABSTime=1791697926
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (FELIX)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001791653820-0-0-0240ded4652b49d1c856579a2f19a20c
+https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001791654727-0-0-ae4473e376adef1595918e5fd5953d4e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (FELIX)
 https://live2.jorvakstreamcache.com/live/channel24.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (FULL HD FABIO)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001791653826-0-0-731a9deed0bc21b556cff5eeb29cd377
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001791654731-0-0-362f5f25c5c30c37256b39b149a0a3fe
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (BRADY)
 https://live2.jorvakstreamcache.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (HD BRADY)
-https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=47979d687d6cb3e3330992088ae0e3fb&wsABSTime=1791697001
+https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=7d10bcb47d21752b8be150f8b5e27526&wsABSTime=1791697904
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (HD MAX)
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001791653814-0-0-d7bb88faa4313f49423a95e36e36ff69
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001791654723-0-0-8cc62efce9696fa41340430e93ab16ae
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (HD NICK)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001791653795-0-0-82a3c690b42933a51f606dcdd073db46
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001791654698-0-0-e6a14541b9bdf1f004db5600c489b3f0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (HD RIO)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001791653805-0-0-211c731487322bd2ea94071ad03723c0
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001791654708-0-0-98f484161bc3abe2babf6dc92a0511c2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (HD ROY)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001791653787-0-0-c0d0e42929b3bad88a04505b87361d84
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001791654689-0-0-d957a8a80516166a07cdcc11ab0beee5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (MAX)
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=66f28bd8c8e0fae42fc34fb0886b03c2&wsABSTime=1791697011
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=b4d1feeb09956ed87aaa13d58d591be2&wsABSTime=1791697917
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (NICK)
-https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=40fd75a5909c937f1e1814a08daecdab&wsABSTime=1791696992
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=6724e41d468cecfd21868861789ef9c7&wsABSTime=1791697895
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (RIO)
 https://live2.jorvakstreamcache.com/live/channel16.flv
@@ -309,28 +279,28 @@ https://live2.jorvakstreamcache.com/live/channel16.flv
 https://live2.pro2cdnlive.com/live/channel1.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (HD KEN)
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001791653863-0-0-00ef8a5d5d74cdce27403ec1554e5c88
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001791654769-0-0-d0845f9c52725af5a3563edf433a9939
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (KEN)
-https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=a9c288b4045cf1bee4c334d8cfbcc31f&wsABSTime=1791697061
+https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=2595e886207327139e014da6607ed9ef&wsABSTime=1791697967
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:30 11/10 🏐 Nữ Imoco Volley vs Nữ UYBA Volleyball (HD TYSON)
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001791653901-0-0-f6a827e7a5cb8393ab405bab4fde892f
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001791654808-0-0-eb4f0d7f8998526a106dcfd6eff6b250
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:30 11/10 🏐 Nữ Imoco Volley vs Nữ UYBA Volleyball (TYSON)
 https://live2.jorvakstreamcache.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (FULL HD NICK)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001791653882-0-0-6179155e48cf9688b8096b0f3f6b29a6
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001791654787-0-0-f9a6de3bb76f64440886447ecb3c4bc5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (NICK)
 https://live2.jorvakstreamcache.com/live/channel5.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (RAVEN)
-https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=23ba86030b03633ff1cf88c68476a55c&wsABSTime=1791697080
+https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=a2195a7a878bc4a5904ea710374a01cb&wsABSTime=1791697984
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (RAVEN)
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001791653876-0-0-e8be20de769161a4f6ce7400140134d6
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001791654782-0-0-a7859acd5b35568b31ad5fda3771a97c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",07:00 11/10 🏀 Boston Celtics vs Philadelphia 76ers (HD KOBE)
 https://live2.pro2cdnlive.com/live/channel-27.flv
@@ -398,22 +368,22 @@ https://live2.zktsva.app/live/289650.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al Ittihad (Gà Siêu Bệu) [hls]
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Lorient vs Paris FC (Gà Siêu Kiêu) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Lorient vs Paris FC (Gà Siêu Kiêu) [flv]
 https://live2.zktsva.app/live/741294.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Lorient vs Paris FC (Gà Siêu Kiêu) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Lorient vs Paris FC (Gà Siêu Kiêu) [hls]
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (Gà Siêu Tốc) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (Gà Siêu Tốc) [flv]
 https://live2.zktsva.app/live/307240.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (Gà Siêu Tốc) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (Gà Siêu Tốc) [hls]
 https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (Gà Siêu Ngố) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (Gà Siêu Ngố) [flv]
 https://live2.zktsva.app/live/301238.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (Gà Siêu Ngố) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (Gà Siêu Ngố) [hls]
 https://live2.zktsva.app/live/301238.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:30 11/10 ⚽ Viseu vs Estoril (Gà Siêu Mõm) [flv]
@@ -464,22 +434,22 @@ https://flv.lauthaitv.cc/live/mnu-tot-prem-cat.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (NGƯỜI CAT) [hls]
 https://hls.lauthaitv.cc/live/mnu-tot-prem-cat/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:00 11/10 ⚽ Al Hilal vs Al Ittihad Club (NGƯỜI THỎ) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al Ittihad Club (NGƯỜI THỎ) [flv]
 https://flv.lauthaitv.cc/live/hilal-ittihad-ksapro.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:00 11/10 ⚽ Al Hilal vs Al Ittihad Club (NGƯỜI THỎ) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al Ittihad Club (NGƯỜI THỎ) [hls]
 https://hls.lauthaitv.cc/live/hilal-ittihad-ksapro/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (NGƯỜI CHÈ) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (NGƯỜI CHÈ) [flv]
 https://flv.lauthaitv.cc/live/napoli-frosi-seriea.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (NGƯỜI CHÈ) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (NGƯỜI CHÈ) [hls]
 https://hls.lauthaitv.cc/live/napoli-frosi-seriea/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (NGƯỜI CÁO) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (NGƯỜI CÁO) [flv]
 https://flv.lauthaitv.cc/live/psg-mans-ligue1.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (NGƯỜI CÁO) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (NGƯỜI CÁO) [hls]
 https://hls.lauthaitv.cc/live/psg-mans-ligue1/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal CF (NGƯỜI SẮT) [flv]
@@ -527,7 +497,7 @@ https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (Ricky) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Tít) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Tít) [hls]
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (Bút Chì) [hls]
@@ -560,16 +530,16 @@ https://cdnflv.xbdbotv.live/live/MTk3MjIxNDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (Vịt Nướng) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm96N2kwem82Zmpvb3A3eXNrZ29sYW9qYQ/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (ASAHI) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (ASAHI) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTM1NjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpoMG1ndWpoZGd2YnAyMzNzaTcybDJzZg.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (ASAHI) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (ASAHI) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpoMG1ndWpoZGd2YnAyMzNzaTcybDJzZg/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Lẩu Ếch) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTU1ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN5cGE3bXdxazM2MmExZDg2YWR0anZwbQ.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Lẩu Ếch) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Lẩu Ếch) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MTU1ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN5cGE3bXdxazM2MmExZDg2YWR0anZwbQ/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (NEM NƯỚNG) [flv]
@@ -704,7 +674,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (Trốc Tru) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (Chuối Tây) [FHD] [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Napoli vs Frosinone (Chuối Tây) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal (Chuối Ngao) [FHD] [hls]
@@ -738,73 +708,94 @@ https://ftlh5sc02iliv.vcdn.cloud/1791340698_hd/1791340698_hd@720p.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 22:15 10/10 ⚽ LOSC Lille vs Havre Athletic Club (TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791652205-0-0-980787740956b72473e12a7646042980
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1791652985-0-0-8a51f7495faed1cc6eb53742efa2b967
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 22:15 10/10 ⚽ LOSC Lille vs Havre Athletic Club (VINFAST)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1791652205-0-0-487dce2e34cef23a08a2f309c17e1be7
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1791652985-0-0-551455d84175517f32f6915f5a8e744c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (BLV BẢY)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1791652205-0-0-21c8438fdad710d01548765917bfc32f
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1791652985-0-0-8f27e84083e63b4d6936be79aa58bcc7
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (BLV COCA)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1791652985-0-0-84fd2137f6f3d4895c0930570229073b
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (BLV LUCAS)
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1791652805-0-0-e5b621bd0e0e693c56169414259b85bd
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791651965-0-0-ce95c7b0f2dc2145e1e055890058ae43
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1791652805-0-0-59f60fe9648c0b2932994db76dec9116
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (NGƯỜI CÁ)
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1791652205-0-0-a2c96c9e88675c8ee170af3370da4b2d
+https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1791652985-0-0-b07b84a7f1195592ad2e92859c3f0171
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ FC Barcelona vs Getafe (A MÂN)
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791657665-0-0-62625833459a577840d4b006af973445
+https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1791652985-0-0-b5a7ba913e75041d25c84b22be4c6fba
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ FC Barcelona vs Getafe (BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791657605-0-0-044d10bc4ebe92e8557604b46f3744e2
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1791652985-0-0-88cf01a8a5b8b5eaed5e157f0297a16b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ FC Barcelona vs Getafe (BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1791652085-0-0-c310d2e4a343fdc3d2a114c945de9ca0
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1791652865-0-0-6611178804247d6390bd0a8bdb2dbd36
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ FC Barcelona vs Getafe (HẢI THANH)
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1791652085-0-0-d204a6110b88470ab4b8c4f42738ad12
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1791652865-0-0-94d8a7233be336f83c54a57f01e887af
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ FC Barcelona vs Getafe (LOGAN)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=69a7af1d07a59ce59ca8f824d0b9e93e&txTime=6acab7bd
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=df7deaa027394f4b6394fcbd64a08f73&txTime=6acabac9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ FC Barcelona vs Getafe (QUỐC KHÁNH)
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=1f2aad1dd644f6369a54151d1cd5e64b&txTime=6acaccd5
+https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=c8e81d9697ae82a73ebc12d8ac2de401&txTime=6acaba15
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1791652085-0-0-42196f86662079580d0640be6aaa1968
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1791652925-0-0-a1a38966798a34ae109eaea44967b101
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (RICKHANTER)
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791652085-0-0-844be19fbc2c14d5fd72bcff614a9c76
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791652925-0-0-aed1d7ea5b524595f75b82c0a793abc0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (SAO LA)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=da1c3e95c2ed85924b650072f17bdc06&txTime=6acacd11
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=b0422e69dc46331be225c44e7ad2d427&txTime=6acabac9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (THOMAS)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=53f5a58abf1ffc6e30a5f4806ac73dc6&txTime=6acacd11
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=9ebfab03cd68ba6110160d004e314c28&txTime=6acabac9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791651975-0-0-1d9c22a0fe8c6b79dec10776ac56457d
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1791652925-0-0-e74b3c4f9b97327b2da8fc4bd3c238c4
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham Hotspur (ZIDANE)
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791657665-0-0-113c1f010b165d2222382fbbe762656f
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1791652985-0-0-6e432de83e2771bc15a67c9a41d53d70
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (BOSS)
-https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1791657605-0-0-f1d069376191d877a248f47281f4084b
+https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1791652865-0-0-f77ec5cbcc96b6f8c89b287448f7ecce
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (XUÂN SON)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8463d4216b58b234605534199a0ddee4&txTime=6acabac9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1791657605-0-0-8b1c859d3ace0e98bbe6f06c59d7fe0d
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1791652985-0-0-86793746dae3238a7ba0b6ef53970a02
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:45 10/10 ⚽ Feyenoord vs AZ Alkmaar (BLV WUKONG)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1791657665-0-0-0aecb9169876f926e4123f0d36d29a4c
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1791658325-0-0-02234e1257fe42c272caf3bf2698cf19
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:45 10/10 ⚽ Feyenoord vs AZ Alkmaar (MP3)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=f4aef9ca94bb880af7cec2c635734b21&txTime=6acacd11
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=85ce08510df2edb80b1ab73b4544765b&txTime=6acacfa5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 00:00 11/10 ⚽ Maritimo vs FC Porto (BLV XO)
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=a35d9498ec832b58018cc257f72d7d57&txTime=6acab781
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=066dc39a2fd1d5c2f5128f8d49eb4227&txTime=6acaba8d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 00:00 11/10 ⚽ Maritimo vs FC Porto (KINH VÂN)
-https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791657725-0-0-b5c72904a0f0ebb2732a0d5d13796eea
+https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791649903-0-0-8b4c88fc3249e768e8392a4794369703
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al Ittihad (BLV ANH TÀI)
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1791649752-0-0-4bf7a33b00aa4f9806a98e923f1b37f1
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al Hilal vs Al Ittihad (KENCHU)
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1791649932-0-0-de28b4fdac3011000d0da7bd07749614
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Fortuna Sittard vs FC Twente Enschede (BLV FIREMAN)
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1791651671-0-0-69ca0c97a2db4d9cedd9993bb3028fc2
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Fortuna Sittard vs FC Twente Enschede (SẾU ĐẦU ĐỎ)
+https://pull.niues.live/live/stream-627318_lhd.m3u8?auth_key=1791658325-0-0-396bbf24cbfdf6d0aae4c546475de6c7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter Milan vs Parma (LÝ LIỀU LĨNH) (HD2) [geo]
 https://pull1.digitalcdn.net/live/142eede91427476b8d9a230ea52f6c42/index.m3u8
@@ -848,29 +839,29 @@ https://pull.digitalcdn.net/live/83a204b1fbf849a594f40c15d0231779/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (Nhà đài)
 https://lilive1.eu.cc/live/22112d69d694836895307f080f882f3d/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:30 11/10 🏐 Conegliano Nữ vs UYBA Busto Arsizio Nữ (LÝ LIỀU LĨNH) (HD2) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:30 11/10 🏐 Conegliano Nữ vs UYBA Busto Arsizio Nữ (LÝ LIỀU LĨNH) (HD2) [geo]
 https://pull1.digitalcdn.net/live/d4c1b0424d174dc9b80f5a132182b935/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:30 11/10 🏐 Conegliano Nữ vs UYBA Busto Arsizio Nữ (LÝ LIỀU LĨNH) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:30 11/10 🏐 Conegliano Nữ vs UYBA Busto Arsizio Nữ (LÝ LIỀU LĨNH) [geo]
 https://pull.digitalcdn.net/live/d4c1b0424d174dc9b80f5a132182b935/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (LÝ LINH LỰC) (HD2) [geo]
-https://pull1.digitalcdn.net/live/b44d7279228d49c79fcfb71177ff2426/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (LÝ LINH LỰC) [geo]
-https://pull.digitalcdn.net/live/b44d7279228d49c79fcfb71177ff2426/index.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Napoli vs Frosinone (Nhà đài)
-https://lilive1.eu.cc/live/be8140070a73dc615699154f9e7657f7/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (LÝ LONG) (HD2) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (LÝ LONG) (HD2) [geo]
 https://pull1.digitalcdn.net/live/dc7970dff7f14a9cac09060d7fdf23d2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (LÝ LONG) [geo]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (LÝ LONG) [geo]
 https://pull.digitalcdn.net/live/dc7970dff7f14a9cac09060d7fdf23d2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (Nhà đài)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 01:45 11/10 ⚽ Paris Saint Germain vs Le Mans (Nhà đài)
 https://lilive1.eu.cc/live/5953ecebe5abd87a6426edec99df6094/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:45 11/10 ⚽ Napoli vs Frosinone (LÝ LINH LỰC) (HD2) [geo]
+https://pull1.digitalcdn.net/live/b44d7279228d49c79fcfb71177ff2426/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:45 11/10 ⚽ Napoli vs Frosinone (LÝ LINH LỰC) [geo]
+https://pull.digitalcdn.net/live/b44d7279228d49c79fcfb71177ff2426/index.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:45 11/10 ⚽ Napoli vs Frosinone (Nhà đài)
+https://lilive1.eu.cc/live/be8140070a73dc615699154f9e7657f7/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",02:00 11/10 ⚽ Real Madrid vs Villarreal CF (LÝ LÀNG LÁ) (HD2) [geo]
 https://pull1.digitalcdn.net/live/e867621edf3344d0beed6bd4d336b088/index.m3u8
@@ -930,22 +921,25 @@ https://pull1.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8
 https://pull.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:00 10/10 ⚽ Inter vs Parma (Super Man)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.Fdz07L8AZ8oo.m3u8?expires=1791668128&signature=Dm2haxhUKj7qTQXzxUSQ0as-KXGaoDJ3qYYsMbFhg3c
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.Fdz07L8AZ8oo.m3u8?expires=1791669032&signature=A2YeBK7ZF0_iFxjzVz9kWrLTaJWjaYLMTlfMVBKs_I0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (Hawkeye)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.pHMyxZoVZuYo.m3u8?expires=1791668131&signature=S6I-6Ss7KWWstlH8gHSBtrlEdmgZAYQxf9tgXj6pnic
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.pHMyxZoVZuYo.m3u8?expires=1791669039&signature=zN9O_NQIjLKbUwwdymDP4KLXlQBNBvMRuNpWLHKpkOg
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (Joker)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.rxpWe2l0zjyw.m3u8?expires=1791668131&signature=wFE5UCyBOf9vRQDyWQixQjefofLlWMXrLLyPPVKygKc
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.rxpWe2l0zjyw.m3u8?expires=1791669034&signature=a7YqIgbfntignRZu71_PjQCCoD2b73VBe3FWV_bPZkw
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Barcelona vs Getafe (Venom)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.pg38am9yU9uT.m3u8?expires=1791668131&signature=4Es-ETl16sz0H5mbkLtxjp1gAwzvBtrQyxCVFIrp18E
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.pg38am9yU9uT.m3u8?expires=1791669042&signature=vf8yWZAqijsTHfWi2fvOKNPsuOEAFBS5t1-17_PMjmY
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ Manchester United vs Tottenham (Deal Pool)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.1AeZPLEMokaL.m3u8?expires=1791668141&signature=QpMLaocgj2nx-wTI18LqwOF4-r0K8rWY8zMn-jBF-60
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.1AeZPLEMokaL.m3u8?expires=1791669044&signature=wklskTDwsriuWRdkX7tygb8LHU23yzMKbne2haSlVHk
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 23:30 10/10 ⚽ RB Leipzig vs Eintracht Frankfurt (Black Panther)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.7TldhrXCQYEo.m3u8?expires=1791668131&signature=nYkBWp0hFWYcfwBhQrR5D2JOAzojJnx4hP1nPU-BsZ8
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.7TldhrXCQYEo.m3u8?expires=1791669037&signature=viTBn1-luxwMKylLOep3IQZLx531uMaEJBfTz_7k_8U
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 01:00 11/10 ⚽ Al-Hilal Saudi FC vs Al-Ittihad FC (Phan Đậu)
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.u1qdbrPRSEJz.m3u8?expires=1791669047&signature=W0xEHCHodSgcJvWNhBhDlTSKXwm8zqHbFuMKhhE4fPg
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",##### F1 - SKY SPORTS F1 #####
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457

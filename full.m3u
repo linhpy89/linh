@@ -92,12 +92,6 @@ https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 11/10 ⚽ Southampton vs Portsmouth (Trần Cảnh)
 https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 11/10 🏀 Golden State Warriors vs Sacramento Kings (BLV 247) [flv]
-https://live05.meung.app/live/90865415_tsc.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 11/10 🏀 Golden State Warriors vs Sacramento Kings (BLV 247) [hls 2]
-https://live05.miekgo.app/live/90865415_tsc.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:40 11/10 ⚽ Colorado Rapids vs San Jose Earthquakes (BLV SODA) [flv]
 https://live05.meung.app/live/02456966_tsc.flv
 
@@ -139,6 +133,12 @@ https://live05.meung.app/live/07428422_tsc.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 11/10 ⚽ Tokyo Verdy vs Sanfrecce Hiroshima (BLV HỔ VẰN) [hls 2]
 https://live05.miekgo.app/live/07428422_tsc.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 11/10 🏀 Illawarra Hawks vs Cairns Taipans (BLV 247) [flv]
+https://live05.meung.app/live/90865415_tsc.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 11/10 🏀 Illawarra Hawks vs Cairns Taipans (BLV 247) [hls 2]
+https://live05.miekgo.app/live/90865415_tsc.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 11/10 ⚽ Diên Biên Hải Lan Giang vs Nantong Zhiyun (BLV BÍ ĐAO) [flv]
 https://live05.meung.app/live/99121525_tsc.flv
@@ -194,71 +194,86 @@ https://live05.meung.app/live/75915087_tsc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 11/10 ⚽ Crystal Palace vs Câu lạc bộ Bóng đá Nottingham Forest (BLV MONSTER) [hls 2]
 https://live05.miekgo.app/live/75915087_tsc.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 11/10 ⚽ Liverpool vs Câu lạc bộ bóng đá thành phố Manchester (BLV GIÀ LÀNG) [flv]
+https://live05.meung.app/live/14830711_tsc.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:30 11/10 ⚽ Liverpool vs Câu lạc bộ bóng đá thành phố Manchester (BLV GIÀ LÀNG) [hls 2]
+https://live05.miekgo.app/live/14830711_tsc.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (Titan) [flv]
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (Titan) [hls]
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 11/10 🏀 Golden State Warriors vs Sacramento Kings (HD TOMMY)
-https://live2.pro2cdnlive.com/live/channel-29.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:40 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (Khang Hi) [flv]
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 11/10 🏀 Golden State Warriors vs Sacramento Kings (TOMMY)
-https://live2.jorvakstreamcache.com/live/channel29.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 11/10 ⚽ Atlas vs Club Guadalajara (HD RIO)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001791687937-0-0-14fcbc5f7dc77562f94a497c65cfb839
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 11/10 ⚽ Atlas vs Club Guadalajara (RIO)
-https://live2.jorvakstreamcache.com/live/channel16.flv
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:40 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (Khang Hi) [hls]
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 11/10 ⚽ Colorado Rapids vs SJ Earthquakes (FABIO)
 https://live2.jorvakstreamcache.com/live/channel2.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 11/10 ⚽ Colorado Rapids vs SJ Earthquakes (HD FABIO)
-https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001791687959-0-0-a974fd26fb260809c600c95d0fca32b4
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001791688831-0-0-5820cdc69d1c10e22d2c3831c8c4e315
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (BRADY)
-https://live2.pro2cdnlive.com/live/channel15.flv
+https://live2.jorvakstreamcache.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (HD BRADY)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001791688037-0-0-d22bd0935ba164939bca8b73d3411ac5
+https://live2.pro2cdnlive.com/live/channel-15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (ALAN)
 https://live2.jorvakstreamcache.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791688086-0-0-f0efe7ac3911d31ef58fa4a4859f763c
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791688968-0-0-a740373c824ffd47a702d3a21d1da437
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:10 11/10 ⚽ Club America vs Rayados de Monterrey (HD MAX)
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001791688927-0-0-0950f4007c90fe8f38f9226f74cd292b
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:10 11/10 ⚽ Club America vs Rayados de Monterrey (MAX)
+https://live2.pro2cdnlive.com/live/channel6.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:00 11/10 🏀 Sydney Kings vs Adelaide 36ers (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791688092-0-0-3340082dd208698a6a871e5e83f08d80
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791688980-0-0-e6ae7e0e261e4daeda0f60ef6a4543b7
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:00 11/10 🏀 Sydney Kings vs Adelaide 36ers (TOMMY)
+https://live2.jorvakstreamcache.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:00 11/10 🥎 Ben Shelton vs Arthur Gea (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001791688168-0-0-6ed677282efb7c0d34133dfeb3b51a30
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001791689052-0-0-6f60a51aa1b59f31d0c9f26a8411a2cb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:00 11/10 🥎 Ben Shelton vs Arthur Gea (VIC)
 https://live2.jorvakstreamcache.com/live/channel32.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:00 11/10 🥎 Karen Khachanov vs Adrian Mannarino (HD LUCAS)
-https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001791688159-0-0-cc4b28a0ff771d3b591051b8b047926d
+https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001791689046-0-0-41f102f06f25e73dfd920a94aa13e429
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:00 11/10 🥎 Karen Khachanov vs Adrian Mannarino (LUCAS)
 https://live2.jorvakstreamcache.com/live/channel31.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:05 11/10 ⚽ M. Yamagata vs Vegalta Sendai (HD KEN)
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001791688973-0-0-55c8d002ecd72ddcb79f2f85fc7ce88b
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 11:05 11/10 ⚽ M. Yamagata vs Vegalta Sendai (KEN)
+https://live2.jorvakstreamcache.com/live/channel18.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:10 11/10 🥎 Hubert Hurkacz vs Zhou Yi (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001791688176-0-0-7917da0a6b6fc9b36eae53235eeedeaa
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001791689058-0-0-fa77a1c73bfe180057b336df91fb5675
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 11/10 🏀 lllawarra Hawks vs Cairns Taipans (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791688099-0-0-0817c4e42ed350aa31bf61750642a286
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001791688996-0-0-bfde63c7e9f37bcc9322d5260f217f7b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 11/10 🏀 Ningbo Rockets vs Zhejiang Chouzhou (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001791688104-0-0-09768037be201057f843af14040c8927
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001791689027-0-0-a234b5bc28ea28348ac12d1aefcf3569
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 11/10 🏀 Ningbo Rockets vs Zhejiang Chouzhou (KOBE)
 https://live2.jorvakstreamcache.com/live/channel27.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 11/10 🏀 Shandong Hi-Speed vs Guangzhou Lions (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791688142-0-0-397973740beb56961543bd21ddbd6e46
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001791689020-0-0-4b173a6efb1394750da2c67aa3f18c2a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 11/10 🎮 Saigon Warriors vs MVK Academy (HD MARTY)
 https://live2.pro2cdnlive.com/live/channel-30.flv
@@ -283,6 +298,9 @@ https://live2.pro2cdnlive.com/live/channel-31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",17:00 11/10 🥎 Alexander Zverev vs Quentin Halys (LUCAS)
 https://live2.pro2cdnlive.com/live/channel31.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 11/10 🏀 Beijing Royal vs Shanxi Loongs Fenjiu (HD TOMMY)
+https://live2.pro2cdnlive.com/live/channel-29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 11/10 🏀 Beijing Royal vs Shanxi Loongs Fenjiu (TOMMY)
 https://live2.pro2cdnlive.com/live/channel29.flv
@@ -707,9 +725,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 11/10 ⚽ Crystal Palace vs Nottingham Forest (Trốc Tru) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 11/10 🏀 Golden State Warriors vs Sacramento Kings (Tôm) [hls]
-https://ftlh5sc02iliv.vcdn.cloud/1791645742_hd/1791645742_hd@720p.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (Vịt) [hls]
 https://ftlh5sc02iliv.vcdn.cloud/1791616419_hd/1791616419_hd@720p.m3u8
 
@@ -717,37 +732,37 @@ https://ftlh5sc02iliv.vcdn.cloud/1791616419_hd/1791616419_hd@720p.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 11/10 ⚽ Colorado Rapids vs San Jose Earthquakes (BLV MESSI)
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791685265-0-0-00eb6e30ae60e6c944f5a7ef2ebbdad6
+https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1791692405-0-0-6ed56afb921170133f08db1748aebca9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 11/10 ⚽ Colorado Rapids vs San Jose Earthquakes (BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=10cded9583d3fdec6d44e91ba4c3d94b&txTime=6acb5141
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=076916585d46e2ec855a23f053c6d99a&txTime=6acb54c5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 11/10 ⚽ Colorado Rapids vs San Jose Earthquakes (CHAN ĐÊ)
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791691505-0-0-e3b1203302ffd87cc43d882f079536c5
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1791692405-0-0-492af9f097ed08297c6d7a06daea615a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (CÔNG CHẤT)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8b552efb8999cc169c1fc2302364f735&txTime=6acb5141
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=9f66a19e52c2ff0e534c6a0f78f6d2a8&txTime=6acb54c5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (SAO LA)
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=4fac69bccbdeb9520cb3bb4712e5f4f4&txTime=6acb5141
+https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=89b09ec929875d261280e7e740316511&txTime=6acb54c5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (THOMAS)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=09df6354db15c37f5d9e0b0722026155&txTime=6acb5141
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5155fa4ac8c89c7147ee9ba1bd0de4d0&txTime=6acb54c5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1791691505-0-0-d51dad2762dca1e51bc6c1864c8bdd11
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1791692465-0-0-3af39bc54091324bcc020a7dc02aa043
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 🏀 Phoenix Suns vs San Antonio Spurs (CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791691505-0-0-13a457ce34843fcbaf4de818698389db
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1791692405-0-0-eb447afea595f3c9590546a72c712236
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:10 11/10 ⚽ Club America vs Rayados de Monterrey (A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791691565-0-0-d2ab51b5c214de3a3f7415389ce08cea
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1791692465-0-0-90dc4ad77c655bfeaa69f99245518366
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:10 11/10 ⚽ Club America vs Rayados de Monterrey (LOGAN)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=fae2780c42e7103cd4c328f92bbaf673&txTime=6acb517d
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=17a1e644adc55f3e5bf6cb8f8f0e30cb&txTime=6acb5501
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:10 11/10 ⚽ Club America vs Rayados de Monterrey (RICKHANTER)
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791691565-0-0-86f953e8e6e1c8f243f43f60680f8ae1
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1791692465-0-0-3dc73649e6d5a7eb6e97c5285514a00a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",16:00 11/10 🏐 Hisamitsu Springs Nữ vs Body Queenseis Nữ (LÝ LIỀU LĨNH) [geo]
 https://pull1.digitalcdn.net/live/d27fc87adc13494ebf9b730dfe4309df/index.m3u8
@@ -825,7 +840,10 @@ https://pull1.digitalcdn.net/live/56cdb05d809c411c983542f3887b534d/index.m3u8
 https://pull1.digitalcdn.net/live/1606d71546ef4aad87a31aeafa396166/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 11/10 ⚽ Los Angeles FC vs Vancouver Whitecaps (Groot)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.I2TE8wXkwWwd.m3u8?expires=1791702325&signature=ft1y1e0B5gXzDi_YNwOpX39ro7dIwgrtHuSdRpy5iFQ
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.I2TE8wXkwWwd.m3u8?expires=1791703227&signature=Bn1MENCUWvATgFnZXNLAWvGITQl00MVsPxbrKeRsz7Y
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:10 11/10 ⚽ Club America vs Monterrey (Joker)
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.fc40rIM9ztj1.m3u8?expires=1791703229&signature=tpOSOj2aWtOHvgEJRIZxeV5AhSiTw8imPbfdi4o7x3M
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",##### F1 - SKY SPORTS F1 #####
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457

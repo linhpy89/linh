@@ -404,7 +404,7 @@ if __name__ == "__main__":
     # QUE CHOA TV
     data += process_quechoa_tv("https://raw.githubusercontent.com/huybuonvp/xem_football/refs/heads/main/All_CHANNEL_live.m3u", "QUÊ CHOA")
     # FPT SPORT
-    data += load_fpt_sport("https://raw.githubusercontent.com/phuongnm7/Iptv-phuongnm7/refs/heads/main/sports-auto.m3u", "SPORT-TV")
+    data += load_fpt_sport("https://raw.githubusercontent.com/cnktvpc/Iptv-phuongnm7/refs/heads/main/sports-auto.m3u", "SPORT-TV")
     
     # WRITE
     live_data = write_files(data)

@@ -5,9 +5,6 @@ https://live05.yefpwmc.app/live/14830711_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",02:40 | Portland Timbers vs Charlotte FC
 https://live05.yefpwmc.app/live/87547578_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",00:30 | Atlanta Hawks vs Houston Rockets
-https://live05.yefpwmc.app/live/87379114_tsc.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",01:00 | Denver Nuggets vs New Orleans Pelicans
 https://live05.yefpwmc.app/live/89756030_tsc.m3u8
 
@@ -22,6 +19,9 @@ https://live05.yefpwmc.app/live/82054853_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",05:00 | Nagoya Grampus vs Yokohama F. Marinos
 https://live05.yefpwmc.app/live/49572724_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80",06:00 | Melbourne Tigers vs Sydney
+https://live05.yefpwmc.app/live/87379114_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",06:00 | Cerezo Osaka vs Chiba
 https://live05.yefpwmc.app/live/18812304_tsc.m3u8
@@ -101,12 +101,6 @@ https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:30 25/10 ⚽ Inter Milan vs Fiorentina (Ngô Quyền)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Dallas Mavericks vs San Antonio Spurs (BLV ROCKSTAR) [flv]
-https://live05.yefpwmc.app/live/82054853_tsc.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Dallas Mavericks vs San Antonio Spurs (BLV ROCKSTAR) [hls 2]
-https://live05.miekgo.app/live/82054853_tsc.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 🏀 Atlanta Hawks vs Houston Rockets (BLV Cozy) [flv]
 https://live05.yefpwmc.app/live/87379114_tsc.flv
 
@@ -131,10 +125,10 @@ https://live05.yefpwmc.app/live/19919577_tsc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🏀 Phoenix suns vs Golden State Warriors (BLV POCARI) [hls 2]
 https://live05.miekgo.app/live/19919577_tsc.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ Portland Timbers vs Charlotte FC (BLV MOUNTAIN DEW) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:40 25/10 ⚽ Portland Timbers vs Charlotte FC (BLV MOUNTAIN DEW) [flv]
 https://live05.yefpwmc.app/live/87547578_tsc.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ Portland Timbers vs Charlotte FC (BLV MOUNTAIN DEW) [hls 2]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:40 25/10 ⚽ Portland Timbers vs Charlotte FC (BLV MOUNTAIN DEW) [hls 2]
 https://live05.miekgo.app/live/87547578_tsc.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 🏀 Cairns Taipans vs New Zealand Breakers (BLV 247) [flv]
@@ -148,6 +142,12 @@ https://live05.yefpwmc.app/live/49572724_tsc.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 25/10 ⚽ Nagoya Grampus vs Yokohama F. Marinos (BLV REDBULL) [hls 2]
 https://live05.miekgo.app/live/49572724_tsc.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 25/10 🏀 Anyang KGC vs Wonju Dongbu Promy (BLV ROCKSTAR) [flv]
+https://live05.yefpwmc.app/live/82054853_tsc.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 25/10 🏀 Anyang KGC vs Wonju Dongbu Promy (BLV ROCKSTAR) [hls 2]
+https://live05.miekgo.app/live/82054853_tsc.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 25/10 ⚽ Cerezo Osaka vs Chiba (BLV AQUA) [flv]
 https://live05.yefpwmc.app/live/18812304_tsc.flv
@@ -227,23 +227,29 @@ https://live05.yefpwmc.app/live/08552895_tsc.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/10 ⚽ Manchester United vs Bournemouth (BLV C2) [hls 2]
 https://live05.miekgo.app/live/08552895_tsc.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 ⚽ Rayados de Monterrey vs Chivas Guadalajara (Meomeo) [flv]
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 ⚽ Rayados de Monterrey vs Chivas Guadalajara (Meomeo) [hls]
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (Wem By) [flv]
 https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (Wem By) [hls]
 https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:40 25/10 ⚽ Colorado Rapids vs Vancouver Whitecaps (Siêu Quậy) [flv]
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:40 25/10 ⚽ Colorado Rapids vs Vancouver Whitecaps (Siêu Quậy) [hls]
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🏀 Phoenix Suns vs Golden State Warriors (Titan) [flv]
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🏀 Phoenix Suns vs Golden State Warriors (Titan) [hls]
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/10 ⚽ Crystal Palace vs Newcastle (Meomeo) [flv]
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/10 ⚽ Crystal Palace vs Newcastle (Meomeo) [hls]
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/10 ⚽ Crystal Palace vs Newcastle (Mán Núi) [flv]
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
@@ -305,89 +311,74 @@ https://playback.livetl002.com/live/6ad087284c3981dd68475913.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 25/10 ⚽ Sunderland vs Leeds United (Simonz) [hls]
 https://playback.livetl002.com/live/6ad087284c3981dd68475913.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Rayados de Monterrey vs Club Guadalajara (HD NEMO)
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001792895762-0-0-b104010b1e407e3c89bf2abd8c60ce5a
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Rayados de Monterrey vs Club Guadalajara (NEMO)
-https://live2.jorvakstreamcache.com/live/channel17.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Chicago Bulls vs Washington Wizards (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792895786-0-0-8f452be92ee65c023dadb487a774cdbe
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Chicago Bulls vs Washington Wizards (KOBE)
-https://live2.jorvakstreamcache.com/live/channel27.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 ⚽ FC Dallas vs SJ Earthquakes (HD JOHAN)
-https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001792895756-0-0-beeaba295f7c15e5cc57c8bd458e93e0
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 ⚽ FC Dallas vs SJ Earthquakes (JOHAN)
-https://live2.jorvakstreamcache.com/live/channel12.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 ⚽ Houston Dynamo vs Minnesota United FC (FELIX)
-https://live2.jorvakstreamcache.com/live/channel24.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 ⚽ Houston Dynamo vs Minnesota United FC (HD FELIX)
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001792895749-0-0-d8e4280d5a73e72e81894f180d8ef20e
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 ⚽ Sporting Kansas vs Austin FC (HD ZANE)
-https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001792895733-0-0-fe405e1fb3e982cd3485cb1181e77a70
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 ⚽ Sporting Kansas vs Austin FC (ZANE)
-https://live2.jorvakstreamcache.com/live/channel22.flv
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (ALAN)
 https://live2.jorvakstreamcache.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792895790-0-0-36e8030a850dcc4f13c5e381c0b0c0ed
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792896679-0-0-4dcf34fb97af7aa4d32edabc86f1a1eb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 25/10 ⚽ Colorado Rapids vs Vancouver Whitecaps (HD TOM)
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001792895776-0-0-4bf22739a633c6cd09992cfab5ea5db9
+https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001792896653-0-0-cca3daeae34d14bc2c584be8db7a0a34
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 25/10 ⚽ Colorado Rapids vs Vancouver Whitecaps (TOM)
 https://live2.jorvakstreamcache.com/live/channel4.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 25/10 ⚽ Real Salt Lake vs St. Louis City (HD LOGAN)
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792895769-0-0-3bdb835e0290fc1a0d8dad95fb31d83a
+https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792896646-0-0-2481857c7543b80c8bb060818131a86d
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 25/10 ⚽ Real Salt Lake vs St. Louis City (LOGAN)
 https://live2.jorvakstreamcache.com/live/channel23.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 ⚽ Wellington Phoenix vs Central Coast Mariners (HD RAVEN)
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792895781-0-0-3fea043ebbc773654702e6ca0f7fe290
+https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792896660-0-0-8e2111c84f1b3c26965e37615fc446b9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 ⚽ Wellington Phoenix vs Central Coast Mariners (RAVEN)
 https://live2.jorvakstreamcache.com/live/channel21.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🏀 Phoenix Suns vs Golden State Warriors (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792895795-0-0-57a7558b78ff7b49dbf209295fc13a1c
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792896684-0-0-773aa7fa01b4927585b877adb9c5cf75
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🏀 Phoenix Suns vs Golden State Warriors (TOMMY)
 https://live2.jorvakstreamcache.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🥎 Mai Hontama vs Maya Joint (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001792895801-0-0-7bdfe65325e531c7665883e051e8d67a
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001792896690-0-0-89fe5d5bcbfa6aedf647d1c96573a1f5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 🥎 Mai Hontama vs Maya Joint (VIC)
 https://live2.jorvakstreamcache.com/live/channel32.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ Portland Timbers vs Charlotte FC (BRADY)
+https://live2.jorvakstreamcache.com/live/channel15.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ Portland Timbers vs Charlotte FC (HD BRADY)
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001792896672-0-0-791cd0f96e8166c6688d64fa49999090
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ San Diego FC vs Seattle Sounders (ASTRA)
+https://live2.jorvakstreamcache.com/live/channel11.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ San Diego FC vs Seattle Sounders (HD ASTRA)
+https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792896665-0-0-f5f30b41597e5a74472b0322ada67971
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 🏀 Cairns Taipans vs New Zealand Breakers (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792895808-0-0-3d1795a43b16cdd440457d7f54b89686
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792896696-0-0-d3b8e52fefbff911876d7110c40bfcfc
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 🏀 Cairns Taipans vs New Zealand Breakers (KOBE)
+https://live2.jorvakstreamcache.com/live/channel27.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:05 25/10 🏐 Nữ Green Wings vs Nữ Prestige Aranmare (HD TYSON)
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792895846-0-0-3dfe9fc5e4205a2ea17e5de457445074
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792896732-0-0-8bc83df25f1a2b467c92b6e179d3011a
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:05 25/10 🏐 Nữ Green Wings vs Nữ Prestige Aranmare (TYSON)
 https://live2.jorvakstreamcache.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",12:00 25/10 🏀 Anyang JungKwanJang vs Wonju Dongbu Promy (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792895812-0-0-77043035bb93b0e1ce8996aec3091f0f
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792896703-0-0-5a30f225b22249f69f571411bfbf89e7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:00 25/10 🏀 Melbourne United vs Sydney Kings (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792895820-0-0-d5471b3d00218b77b54b2399582cb354
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792896712-0-0-577b497b4341dc47ca7cac7a824dbe66
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",13:30 25/10 🥎 Cristina Bucsa vs Desirae Krawczyk (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001792895832-0-0-3185ccf4da823b0c308998bcccd421b6
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001792896721-0-0-b0a73cb7bda8ea500d7be9c21a495108
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",14:00 25/10 🥎 Lucas Miedler vs Yuki Bhambri (HD LUCAS)
 https://live2.pro2cdnlive.com/live/channel-31.flv
@@ -431,10 +422,10 @@ https://live2.zktsva.app/live/306290.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 ⚽ Wellington Phoenix vs Central Coast Mariners (Gà Siêu Son) [hls]
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ Portland Timbers vs Charlotte FC (Gà Siêu Tốc) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:40 25/10 ⚽ Portland Timbers vs Charlotte FC (Gà Siêu Tốc) [flv]
 https://live2.zktsva.app/live/307240.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:30 25/10 ⚽ Portland Timbers vs Charlotte FC (Gà Siêu Tốc) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:40 25/10 ⚽ Portland Timbers vs Charlotte FC (Gà Siêu Tốc) [hls]
 https://live2.zktsva.app/live/307240.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 ⚽ Sydney FC vs Adelaide United (Gà Siêu Bệu) [flv]
@@ -749,12 +740,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 25/10 ⚽ Liverpool vs Brighton (Trốc Tru) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚾ Tampa Bay Rays vs Milwaukee Brewers (Riko) [hls]
-https://ftlh5sc02iliv.vcdn.cloud/1792881308_hd/1792881308_hd@720p.m3u8
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Chicago Bulls vs Washington Wizards (Tôm) [hls]
-https://ftlh5sc02iliv.vcdn.cloud/1792880727_hd/1792880727_hd@720p.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 🏀 Atlanta Hawks vs Houston Rockets (Điếc) [hls]
 https://ftlh5sc02iliv.vcdn.cloud/1792880824_hd/1792880824_hd@720p.m3u8
 
@@ -767,8 +752,11 @@ https://ftlh5sc02iliv.vcdn.cloud/1792880945_hd/1792880945_hd@720p.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 10:00 25/10 ⚽ Pumas UNAM vs Tigres UANL (Trĩ) [hls]
 https://ftlh5sc02iliv.vcdn.cloud/1792881490_hd/1792881490_hd@720p.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 ⚽ Sydney FC vs Adelaide United FC (blv-ty) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 🏀 Cairns Taipans vs New Zealand Breakers (blv-diec) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 11:00 25/10 ⚽ Sydney FC vs Adelaide United FC (Tỵ) [hls]
+https://ftlh5sc02iliv.vcdn.cloud/1792881538_hd/1792881538_hd@720p.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 🏐 Gunma Bank Green Wings Women vs Prestige Aranmare Women (LÝ LIỀU LĨNH) [geo]
 https://pull1.digitalcdn.net/live/b2fec8adc4e148a5a44b7b6e218c4583/index.m3u8
@@ -848,17 +836,17 @@ https://pull1.digitalcdn.net/live/71a798f3876f40468f77661bfb0cb66a/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:30 25/10 ⚽ Freiburg vs Bayern Munich (LÝ LONG) [geo]
 https://pull1.digitalcdn.net/live/2e580826b23d467aaf3b48ae8c677a41/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos vs Bahia (BLV Khô Mật) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (The Flash)
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.4EfWiVuluTgu.m3u8?expires=1792911034&signature=nl1WPFiCX_VJOkUUSs72RSajGz48gkgm7Vi1FyZvWxI
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 ⚽ Wellington Phoenix vs Central Coast Mariners (BLV Khô Mật) [flv]
 https://live.khoga.space/live/livehub13.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos vs Bahia (BLV Khô Mật) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 ⚽ Wellington Phoenix vs Central Coast Mariners (BLV Khô Mật) [hls]
 https://khogalive.b-cdn.net/bcdn_token=2s7I168olNPU6vVKWV6SfASXbWkPwQ27KoV9g69eolg&expires=1855579061&token_path=%2Flive%2Flivehub13/live/livehub13/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (The Flash)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.4EfWiVuluTgu.m3u8?expires=1792910128&signature=mNTev8yITJ67GsOqd3NgA22pPP_bVCQ5Mv4akz6p8RE
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 09:00 25/10 ⚽ Wellington Phoenix vs Central Coast Mariners (Hawkeye)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.t9bOC1Jbs9Nu.m3u8?expires=1792910131&signature=EyKqrPs9sTtrccUZkgJTU7zQubhMLLBgKCTqnxlp2Fs
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.t9bOC1Jbs9Nu.m3u8?expires=1792911036&signature=hJIFP4fLEzDjUjzpDzAuPKwvOZ9lXoAwO8P4E-4BJlU
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",##### F1 - SKY SPORTS F1 #####
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457

@@ -101,12 +101,6 @@ https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 25/10 ⚽ SHB Da Nang vs Hanoi FC (Lưu Triệt)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:00 25/10 🏀 Charlotte Hornets vs Miami Heat (BLV Cozy) [flv]
-https://live05.yefpwmc.app/live/87379114_tsc.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:00 25/10 🏀 Charlotte Hornets vs Miami Heat (BLV Cozy) [hls 2]
-https://live05.miekgo.app/live/87379114_tsc.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 🏀 Philadelphia 76ers vs Milwaukee Bucks (BLV 247) [flv]
 https://live05.yefpwmc.app/live/90865415_tsc.flv
 
@@ -124,6 +118,12 @@ https://live05.yefpwmc.app/live/82054853_tsc.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Dallas Mavericks vs San Antonio Spurs (BLV ROCKSTAR) [hls 2]
 https://live05.miekgo.app/live/82054853_tsc.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 🏀 Atlanta Hawks vs Houston Rockets (BLV Cozy) [flv]
+https://live05.yefpwmc.app/live/87379114_tsc.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:30 25/10 🏀 Atlanta Hawks vs Houston Rockets (BLV Cozy) [hls 2]
+https://live05.miekgo.app/live/87379114_tsc.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (BLV LIPTON) [flv]
 https://live05.yefpwmc.app/live/89756030_tsc.flv
@@ -215,26 +215,20 @@ https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 🏀 Philadelphia 76ers vs Milwaukee Bucks (Titan) [hls]
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (Wem By) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (Wem By) [flv]
 https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (Wem By) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (Wem By) [hls]
 https://playback.livetl002.com/live/6ad310e0f72fb30b98548582.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:00 25/10 🏀 Charlotte Hornets vs Miami Heat (ALAN)
-https://live2.jorvakstreamcache.com/live/channel25.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:00 25/10 🏀 Charlotte Hornets vs Miami Heat (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792888576-0-0-9f232d4db2647c0ac756982062491bb2
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:00 25/10 ⚽ Club Leon vs Toluca (HD LOGAN)
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792888535-0-0-9f58889056e8ed927ffde849a3ae15b6
+https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792889450-0-0-a5267eb0a7745e3433455171bdc9f672
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:00 25/10 ⚽ Club Leon vs Toluca (LOGAN)
 https://live2.jorvakstreamcache.com/live/channel23.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ Atlanta United vs Chicago Fire (HD JEAN)
-https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001792888561-0-0-7124d74cdf16e6201f3922754739f0c4
+https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001792889474-0-0-7b72516b721693dbe03026c9f6558662
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ Atlanta United vs Chicago Fire (JEAN)
 https://live2.jorvakstreamcache.com/live/channel7.flv
@@ -243,61 +237,64 @@ https://live2.jorvakstreamcache.com/live/channel7.flv
 https://live2.jorvakstreamcache.com/live/channel8.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ DC United vs FC Cincinnati (HD BEE)
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001792888542-0-0-be4ce719c2ee392807bd15bb7d2ac413
+https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001792889456-0-0-05839b30a3cbf66442323a9f47ac4293
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ Orlando City vs New York City (HD KEN)
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792888555-0-0-430462599ee39101d13e090d430ad1a7
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792889468-0-0-cca7ee9e2fed9dad5cb9e4c3aabc26f2
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ Orlando City vs New York City (KEN)
 https://live2.jorvakstreamcache.com/live/channel18.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ Philadelphia Union vs New England (HD POLO)
-https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001792888548-0-0-544638d02f1c5451470523c074b9ca46
+https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001792889461-0-0-4181ccb5a8cc15e511afe3b6e63769bd
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 ⚽ Philadelphia Union vs New England (POLO)
 https://live2.jorvakstreamcache.com/live/channel10.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 🏀 Philadelphia 76ers vs Milwaukee Bucks (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792888584-0-0-46dec164ef89dbfd231bb6c6a4a9e775
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792889485-0-0-5135b4efda3f95ed7d7c9e9e3e4ff4eb
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 🏀 Philadelphia 76ers vs Milwaukee Bucks (TOMMY)
 https://live2.jorvakstreamcache.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos vs Bahia BA (HD OLER)
-https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001792888570-0-0-6e5897e3cf536b45408c20aaef947101
+https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001792889481-0-0-a06f36a6ed729654591fd85cf36d9222
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos vs Bahia BA (OLER)
 https://live2.jorvakstreamcache.com/live/channel28.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🎮 Team Liquid vs Bilibili Gaming (HD MARTY)
-https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001792888595-0-0-5518eac0ab3260619552897957ac4a3a
+https://live2.domaincdn.cc/livecdn/channel-30.flv?auth_key=3000001792889497-0-0-88d128a703f3d2f246ee47fa8807df7b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🎮 Team Liquid vs Bilibili Gaming (MARTY)
 https://live2.jorvakstreamcache.com/live/channel30.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Chicago Bulls vs Washington Wizards (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792888590-0-0-0a0f7a77891083f03c372a89a81cc31a
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792889491-0-0-a4690169ce6bab3360534185d25917db
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 🏀 Chicago Bulls vs Washington Wizards (KOBE)
 https://live2.jorvakstreamcache.com/live/channel27.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792888601-0-0-9e51ff4b1521171ebaf0956b10efd6ee
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (ALAN)
+https://live2.jorvakstreamcache.com/live/channel25.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (HD ALAN)
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001792889441-0-0-4868666bc4daae2cb7c8e2b6cacfd5ac
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 25/10 🏀 Phoenix Suns vs Golden State Warriors (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792888608-0-0-7e08ec56f2f90b69f91008361bbb3ba9
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001792889503-0-0-c92686a02cfcbfccc7520b12deaa798e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 25/10 🥎 Mai Hontama vs Maya Joint (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001792888624-0-0-a0cd270ab9fa3ab01b2e1627e3e357cb
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001792889523-0-0-e9586538eb62e64d18592119f6707b9f
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",09:00 25/10 🥎 Mai Hontama vs Maya Joint (VIC)
 https://live2.jorvakstreamcache.com/live/channel32.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:00 25/10 🏀 Cairns Taipans vs New Zealand Breakers (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792888613-0-0-538af1324aefe3bc59615d2c6caa53f7
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001792889511-0-0-0e6123b9f85dec26934c1348f9452666
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:05 25/10 🏐 Nữ Green Wings vs Nữ Prestige Aranmare (HD TYSON)
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792888638-0-0-a4613f91b1d78e6564a62c6b290a8546
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792889538-0-0-f7bd67f08e42ee9426f80a61d4b9ae99
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",11:05 25/10 🏐 Nữ Green Wings vs Nữ Prestige Aranmare (TYSON)
 https://live2.jorvakstreamcache.com/live/channel33.flv
@@ -398,22 +395,16 @@ https://live2.zktsva.app/live/741294.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",18:00 25/10 ⚽ Wuxi Wugo vs Shaanxi Union (Gà Siêu Kiêu) [hls]
 https://live2.zktsva.app/live/741294.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:30 25/10 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI) [flv]
-https://flv.lauthaitv.cc/live/chape-flumi-brasa.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:30 25/10 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI) [hls]
-https://hls.lauthaitv.cc/live/chape-flumi-brasa/index.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos FC vs Bahia (NGƯỜI NẶN) [flv]
 https://flv.lauthaitv.cc/live/santos-bahia-brasa.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos FC vs Bahia (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/santos-bahia-brasa/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 08:30 25/10 ⚽ Real Salt Lake vs St.Louis City (NGƯỜI SÓI) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 25/10 ⚽ Real Salt Lake vs St.Louis City (NGƯỜI SÓI) [flv]
 https://flv.lauthaitv.cc/live/realsalt-louis-mls.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 08:30 25/10 ⚽ Real Salt Lake vs St.Louis City (NGƯỜI SÓI) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:30 25/10 ⚽ Real Salt Lake vs St.Louis City (NGƯỜI SÓI) [hls]
 https://hls.lauthaitv.cc/live/realsalt-louis-mls/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",10:10 25/10 ⚽ Pumas U.N.A.M. vs Tigres UANL (NGƯỜI NHỆN) [flv]
@@ -650,9 +641,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",23:00 25/10 🏐 Gunma Bank Green Wings W vs Prestige Aranmare W (Chuối Kem) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 05:00 25/10 🏀 Charlotte Hornets vs Miami Heat (Chồn) [hls]
-https://ftlh5sc02iliv.vcdn.cloud/1792821909_hd/1792821909_hd@720p.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:30 25/10 🏀 Cleveland Cavaliers vs Brooklyn Nets (Vịt) [hls]
 https://ftlh5sc02iliv.vcdn.cloud/1792821969_hd/1792821969_hd@720p.m3u8
 
@@ -743,6 +731,9 @@ https://lilive1.eu.cc/live/95acea3fc91f70e935a00aa824377eb1/playlist.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 25/10 ⚽ Hoffenheim vs Bayer Leverkusen (LÝ LINH LỰC) [geo]
 https://pull1.digitalcdn.net/live/b9ccf93305dc477e969365eb8b0efe24/index.m3u8
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 25/10 ⚽ Hoffenheim vs Bayer Leverkusen (Nhà đài)
+https://lilive1.eu.cc/live/7ad6785d84d957ccd973e591b4bb57ee/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:15 25/10 ⚽ Celta vs Real Betis (LÝ LÀNG LÁ) [geo]
 https://pull1.digitalcdn.net/live/e829c802ea1f43a98c4bdc6f56f99faf/index.m3u8
 
@@ -750,7 +741,7 @@ https://pull1.digitalcdn.net/live/e829c802ea1f43a98c4bdc6f56f99faf/index.m3u8
 https://pull1.digitalcdn.net/live/71a798f3876f40468f77661bfb0cb66a/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 06:00 25/10 ⚽ Leon vs Toluca (Raccoon)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.gQNnEUvt0rcD.m3u8?expires=1792902929&signature=TZOaKQSRCvjQLJmznoKTYdjJu9uboEfKMHu_hh7crFo
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.gQNnEUvt0rcD.m3u8?expires=1792903835&signature=aCqwTkeQpoygBOB_4vPCutGA3TR-oJqLKBva2Y8z2m8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos vs Bahia (BLV Khô Mật) [flv]
 https://live.khoga.space/live/livehub13.flv
@@ -759,10 +750,10 @@ https://live.khoga.space/live/livehub13.flv
 https://khogalive.b-cdn.net/bcdn_token=2s7I168olNPU6vVKWV6SfASXbWkPwQ27KoV9g69eolg&expires=1855579061&token_path=%2Flive%2Flivehub13/live/livehub13/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 07:00 25/10 ⚽ Santos vs Bahia (Venom)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.wQMybBTAmoPg.m3u8?expires=1792902931&signature=medfuQAqj1ktZETHpq3Ivnx-iAdw-wuEzbkAeii-4uA
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.wQMybBTAmoPg.m3u8?expires=1792903838&signature=JLaqcTso6Wh9JHP2top09AcqLHRkOrw48WY5XVrIjes
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 08:00 25/10 🏀 Denver Nuggets vs New Orleans Pelicans (The Flash)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.4EfWiVuluTgu.m3u8?expires=1792902933&signature=7oe8-23P8AseXjV51hszm2sEAYOBPVt9BbgrJzUdkbM
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.4EfWiVuluTgu.m3u8?expires=1792903840&signature=UUOAKlfiH1vP7kuiBw78cUTTxIO5ubUMzuuZy1ogzew
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",##### F1 - SKY SPORTS F1 #####
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457

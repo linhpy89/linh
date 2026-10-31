@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/bc5db4dd418cb566a4475649876b55bb.png!w80",11:00 | Nam Định vs Thể Công - Viettel
 https://live05.miekgo.app/live/16226575.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/7f95b001711ce3978d498602e1d2c9fd.png!w80",11:00 | Sông Lam Nghệ An vs Cong An Ha Noi FC
-https://live05.miekgo.app/live/18812304.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1a02b3bb5ec75b6ca8430c57915ac922.png!w80",10:30 | Erzurum BB vs CLB Corum Belediyespor
 https://live05.miekgo.app/live/75915087.m3u8
 
@@ -31,6 +28,9 @@ https://live05.miekgo.app/live/07808742.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80",14:30 | FC Augsburg vs SC Freiburg
 https://live05.miekgo.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80",14:30 | Borussia Mönchengladbach vs Paderborn
+https://live05.miekgo.app/live/18812304.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80",14:30 | FC Schalke 04 vs RB Leipzig
 https://live05.miekgo.app/live/75748097.m3u8
@@ -80,7 +80,7 @@ https://wncdnhls-global.ebaclofen.org/live/vsc-channel-15.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ XM Hai Phong FC vs Truong Tuoi Dong Nai (Tôn Quyền)
 https://wncdnhls-global.ebaclofen.org/live/vsc-channel-17.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ 1. FC Kaiserslautern vs Hertha Berlin (Huyền Diệp)
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ 1. FC Kaiserslautern vs Hertha Berlin (Huyền Diệp)
 https://wncdnhls-global.ebaclofen.org/live/vsc-channel-4.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (18+)
@@ -146,16 +146,16 @@ https://live05.miekgo.app/live/18812304.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Sông Lam Nghệ An vs Cong An Ha Noi FC (BLV AQUA) [hls 2]
 https://live05.yefpwmc.app/live/18812304_tsc.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ CLB Kaiserslautern vs Hertha BSC (BLV TEPPY) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ CLB Kaiserslautern vs Hertha BSC (BLV TEPPY) [flv]
 https://live05.miekgo.app/live/33860426.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ CLB Kaiserslautern vs Hertha BSC (BLV TEPPY) [hls 2]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ CLB Kaiserslautern vs Hertha BSC (BLV TEPPY) [hls 2]
 https://live05.yefpwmc.app/live/33860426_tsc.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ VfL Wolfsburg vs VfL Osnabruck (BLV SODA) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ VfL Wolfsburg vs VfL Osnabruck (BLV SODA) [flv]
 https://live05.miekgo.app/live/02456966.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ VfL Wolfsburg vs VfL Osnabruck (BLV SODA) [hls 2]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ VfL Wolfsburg vs VfL Osnabruck (BLV SODA) [hls 2]
 https://live05.yefpwmc.app/live/02456966_tsc.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (BLV C2) [flv]
@@ -303,31 +303,49 @@ https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 15:30 31/10 🥎 Sun Xinran vs Harriet Dart (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001793443845-0-0-197858ff9ed1349e02db443d0b0b3ff2
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001793444783-0-0-eaf814c798aa772ebcb40ef03b06236b
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 15:30 31/10 🥎 Sun Xinran vs Harriet Dart (VIC)
 https://live2.jorvakstreamcache.com/live/channel32.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 16:00 31/10 ⚽ Sabah vs Terengganu FC (HD LOGAN)
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793443829-0-0-758440d8f07257357cbe66e34b881b52
+https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001793444728-0-0-17358083eb5b46062eb53f0ea771bc67
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 16:00 31/10 ⚽ Sabah vs Terengganu FC (LOGAN)
 https://live2.jorvakstreamcache.com/live/channel23.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 17:00 31/10 ⚽ Thép Cần Thơ vs Lâm Đồng (HD KEN)
+https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001793444766-0-0-d752cd87be324ea0c580a5a01a2cb414
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 17:00 31/10 ⚽ Thép Cần Thơ vs Lâm Đồng (KEN)
+https://live2.jorvakstreamcache.com/live/channel18.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 17:30 31/10 ⚽ Erzurumspor FK vs Corum FK (HD XMEN)
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793443838-0-0-c4b7f11a6ddd47a191aef60a36d58ac0
+https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001793444760-0-0-614fab030a12885f46c7aa42ef80d4b5
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 17:30 31/10 ⚽ Erzurumspor FK vs Corum FK (XMEN)
 https://live2.jorvakstreamcache.com/live/channel13.flv
 
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Nam Định vs Thể Công Viettel (FELIX)
+https://live2.jorvakstreamcache.com/live/channel24.flv
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Nam Định vs Thể Công Viettel (HD FELIX)
+https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793444777-0-0-5d75558d6491d29d62f9cbdd6441e4b5
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Xuân Thiện Phú Thọ vs Becamex Hồ Chí Minh (HD JOHAN)
+https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001793444771-0-0-19417de5d2412370fb4ad711a7605b67
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Xuân Thiện Phú Thọ vs Becamex Hồ Chí Minh (JOHAN)
+https://live2.jorvakstreamcache.com/live/channel12.flv
+
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 18:35 31/10 🏀 Beijing Royal vs Xinjiang Flying Tigers (HD TOMMY)
-https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001793443890-0-0-f64763ef91540d63948716ce762cf1d9
+https://live2.domaincdn.cc/livecdn/channel-29.flv?auth_key=3000001793444800-0-0-60507a2b97a5c623f79260eefc1cf340
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 18:35 31/10 🏀 Beijing Royal vs Xinjiang Flying Tigers (TOMMY)
 https://live2.jorvakstreamcache.com/live/channel29.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 18:35 31/10 🏀 Fujian Jinjiang Tourism vs Qingdao Guoxin (HD KOBE)
-https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001793443898-0-0-56863df9d24588dfb7280c9dd405b0bb
+https://live2.domaincdn.cc/livecdn/channel-27.flv?auth_key=3000001793444806-0-0-35a092aca91825c6e45e4f3504fb3139
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 18:35 31/10 🏀 Fujian Jinjiang Tourism vs Qingdao Guoxin (KOBE)
 https://live2.jorvakstreamcache.com/live/channel27.flv
@@ -336,94 +354,88 @@ https://live2.jorvakstreamcache.com/live/channel27.flv
 https://live2.jorvakstreamcache.com/live/channel25.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 18:35 31/10 🏀 Shandong Hi-Speed vs Guangdong Sunshine (HD ALAN)
-https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001793443885-0-0-b6154077b5877e3a58a5a2e733bbd98e
+https://live2.domaincdn.cc/livecdn/channel-25.flv?auth_key=3000001793444794-0-0-0f070881203d557466ad7ef221725146
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (BRADY)
 https://live2.jorvakstreamcache.com/live/channel15.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (HD BRADY)
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793443866-0-0-e509c41a7972e12572fcb661f836e796
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793444821-0-0-c7ff999f6a3a4939b532e3a8f639dc8e
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (HD MAX)
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=2dc48690ddb0e8cc4cc24603bd3ea8fd&wsABSTime=1793487074
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=8e7ec5e8b954a640a2967393d216abbf&wsABSTime=1793488028
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (HD NICK)
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793443861-0-0-4bd9006edf08a58aac34ebe0394ac1fb
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793444817-0-0-03e01bca551830121b92fbcf456c95a0
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (HD RIO)
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793443870-0-0-ce3cb2fa20bc865143490ad132b834b9
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793444825-0-0-32b0a7b6f456a746b37895619cefd124
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (HD ROY)
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793443856-0-0-05d7ac5e785112f8bed6ca7f57027097
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793444812-0-0-e10ca6a1af951973df30cfe681030d91
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (MAX)
 https://live2.jorvakstreamcache.com/live/channel6.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (NICK)
-https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=a99157fd54d0359097e1dc0f2922995e&wsABSTime=1793487058
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=64822004e754ae44bb041c0fd09ca1c6&wsABSTime=1793488015
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (RIO)
-https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=bd96b8518f053f35faafcef068bd4cbe&wsABSTime=1793487067
+https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=27d6eb3cb9692998deda28e417e7223c&wsABSTime=1793488023
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (ROY)
 https://live2.jorvakstreamcache.com/live/channel1.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 🏐 Sanest Khánh Hòa vs Biên Phòng MB (HD TYSON)
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001793443924-0-0-4babd78ea5d0ffa7731d6733ae69e970
+https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001793444889-0-0-4e74e9adc5b61a22ffa593e474aacbc7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 🏐 Sanest Khánh Hòa vs Biên Phòng MB (TYSON)
 https://live2.jorvakstreamcache.com/live/channel33.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 31/10 🥎 Daniil Medvedev vs Carlos Alcaraz Garfia (HD VIC)
-https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001793443919-0-0-41aaef1f21e5d93107260c460c52dffa
+https://live2.domaincdn.cc/livecdn/channel-32.flv?auth_key=3000001793444882-0-0-510e64d6dca5133162ffbfbb39dfc165
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 31/10 🥎 Valentin Vacherot vs Taylor Fritz (HD LUCAS)
-https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001793443915-0-0-0a1797ed76d3c0deae28745ad3da9b29
+https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001793444877-0-0-7932640c6c2934b62a0dfef6b731110c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:00 31/10 🥎 Valentin Vacherot vs Taylor Fritz (LUCAS)
 https://live2.jorvakstreamcache.com/live/channel31.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ AFC Bournemouth vs Leeds United (FULL HD MAX)
-https://live2.pro2cdnlive.com/live/channel-6.flv
+https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001793444839-0-0-e8098ad50030eab08cb708a5ac87a9de
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ AFC Bournemouth vs Leeds United (MAX)
-https://live2.pro2cdnlive.com/live/channel6.flv
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=774141ad6aad96dff5c1100cd749112e&wsABSTime=1793488032
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ AFC Bournemouth vs Leeds United (RIO)
-https://live2.pro2cdnlive.com/live/channel-16.flv
+https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001793444833-0-0-364396fbb3bab5e048ecc6c2799ecaab
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ AFC Bournemouth vs Leeds United (RIO)
-https://live2.pro2cdnlive.com/live/channel16.flv
+https://live2.jorvakstreamcache.com/live/channel16.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Brentford vs Nottingham Forest (FELIX)
-https://live2.pro2cdnlive.com/live/channel-24.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Brentford vs Nottingham Forest (FELIX)
-https://live2.pro2cdnlive.com/live/channel24.flv
+https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001793444856-0-0-6693796c405b99c569521b6f578491e7
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Brentford vs Nottingham Forest (FULL HD NICK)
-https://live2.pro2cdnlive.com/live/channel-5.flv
+https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001793444860-0-0-510829ad753ecf033659a0334b4190ff
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Brentford vs Nottingham Forest (NICK)
-https://live2.pro2cdnlive.com/live/channel5.flv
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=7e472bed706d34426ccc20bb4ed8d3ef&wsABSTime=1793488054
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Manchester City vs Brighton (FABIO)
-https://live2.pro2cdnlive.com/live/channel2.flv
+https://live2.jorvakstreamcache.com/live/channel2.flv
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Manchester City vs Brighton (FILIP)
-https://live2.pro2cdnlive.com/live/channel19.flv
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=6f729cd2f93d43e46043737ee450f32d&wsABSTime=1793488047
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Manchester City vs Brighton (HD FABIO)
-https://live2.pro2cdnlive.com/live/channel-2.flv
+https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001793444851-0-0-eff35ffb1477a333cc854d21c0854ec9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Manchester City vs Brighton (HD FILIP)
-https://live2.pro2cdnlive.com/live/channel-19.flv
+https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001793444848-0-0-c296d8b351b97c8af80a2208564ab6d9
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Manchester City vs Brighton (HD ROY)
-https://live2.pro2cdnlive.com/live/channel-1.flv
-
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Manchester City vs Brighton (ROY)
-https://live2.pro2cdnlive.com/live/channel1.flv
+https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793444844-0-0-32279ac9df04cdb23a90aa73d9ccc44c
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",00:00 01/11 🎮 LOS vs Lyon Gaming (HD MARTY)
 https://live2.pro2cdnlive.com/live/channel-30.flv
@@ -533,10 +545,10 @@ https://flv.lauthaitv.cc/live/namdinh-thecong-vleague.flv
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Thep Xanh Nam Dinh vs The Cong Viettel (NGƯỜI NẶN) [hls]
 https://hls.lauthaitv.cc/live/namdinh-thecong-vleague/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ Dewa United FC vs Persija Jakarta (NGƯỜI DÊ) [flv]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ Dewa United FC vs Persija Jakarta (NGƯỜI DÊ) [flv]
 https://flv.lauthaitv.cc/live/dewa-persijia-idnsup.flv
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:00 31/10 ⚽ Dewa United FC vs Persija Jakarta (NGƯỜI DÊ) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ Dewa United FC vs Persija Jakarta (NGƯỜI DÊ) [hls]
 https://hls.lauthaitv.cc/live/dewa-persijia-idnsup/index.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",19:30 31/10 ⚽ Chelsea vs Manchester United (NGƯỜI RÂM) [flv]
@@ -806,9 +818,6 @@ https://cdnflv.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmV
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (Vịt Nướng) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 16:00 31/10 🏐 Osaka Marvelous W vs Prestige Aranmare W (Chuối Kem) [FHD] [hls]
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Hai Phong vs Trường Tươi Đồng Nai (Chuối Già) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 
@@ -826,6 +835,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",20:00 31/10 ⚽ Levante vs Atletico Madrid (Chuối Lá) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",21:30 31/10 ⚽ Bayer Leverkusen vs VfB Stuttgart (Chuối Kem) [FHD] [hls]
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",22:00 31/10 ⚽ Brentford vs Nottingham Forest (Trốc Tru) [FHD] [hls]
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
@@ -845,7 +857,13 @@ https://pzhgifbkllliv.vcdn.cloud/1793283768_hd/1793283768_hd@720p.m3u8
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 🏓 Hina HAYATA vs SUN Yingsha (Dory) [hls]
 https://pzhgifbkllliv.vcdn.cloud/1793432044_hd/1793432044_hd@720p.m3u8
 
-#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 18:35 31/10 🏀 Beijing Royal Fighters vs Xinjiang Flying Tigers (blv-cay) [hls]
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:35 31/10 🏀 Beijing Royal Fighters vs Xinjiang Flying Tigers (Cầy) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1793431892_hd/1793431892_hd@720p.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:35 31/10 🏀 Shandong Hi-Speed Kirin vs Guangdong Southern Tigers (Điếc) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1793431924_hd/1793431924_hd@720p.m3u8
+
+#EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟡 19:00 31/10 ⚽ Bangkok United FC vs Uthai Thani FC (daucaumu) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 17:00 31/10 🏐 LP Bank Ninh Bình vs TP. Hồ Chí Minh (LÃM LÀNG) (HD2) [geo]
@@ -996,10 +1014,10 @@ https://lilive1.eu.cc/live/6c024cc9bfd36e4c451367d17247cff5/playlist.m3u8
 https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 17:30 31/10 ⚽ Erzurumspor FK vs Çorum FK (Raccoon)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.KIbwPD9vTWrG.m3u8?expires=1793458224&signature=CksuXVezH3QdfUNxwnmVmcjBT992bWFFhmjDeNHj7QU
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.KIbwPD9vTWrG.m3u8?expires=1793459123&signature=0E5LNRvYMOl3-zOnlFmH5u5Be-xovZpHFpdxLPd_g1s
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Hai Phong vs Bình Phước (Super Man)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.8gquqCBevP3j.m3u8?expires=1793458226&signature=S_F4CxMSszRU-0BF0w9oK5RgBMRIMWyXOzQ0K6iW-eQ
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.8gquqCBevP3j.m3u8?expires=1793459126&signature=7nZ_1trWNWb45zH5Q48COJbaSFR2J1sI-TpuUIKVQ6U
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Nam Dinh vs Viettel (BLV Xôi Gấc) [flv]
 https://live.khoga.space/live/livehub11.flv
@@ -1008,16 +1026,16 @@ https://live.khoga.space/live/livehub11.flv
 https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Nam Dinh vs Viettel (Deal Pool)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.FW55mp62PQ5B.m3u8?expires=1793458231&signature=iMESTem3-DbD4ob97aWecm18C2euMDqlDkxEA_EJi2A
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.FW55mp62PQ5B.m3u8?expires=1793459131&signature=QcWLeK4JiylM5H-euU8CsKe5AFLulMgbAcxOA_8eejA
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Nam Dinh vs Viettel (Venom)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.wBZeO1v4VBBX.m3u8?expires=1793458229&signature=H4aHIGZrFTyanr0DzsXIqb66N6tcKctJ7vVAKH9_gDo
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.wBZeO1v4VBBX.m3u8?expires=1793459128&signature=KdIazMX2jLSFSYlbrnT5oH5_GefrvsOIhCGvBFzTmdc
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Song Lam Nghe An vs Công An Nhân Dân (Black Panther)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.6TKb6Favu99x.m3u8?expires=1793458236&signature=N5ZPDvXK9OzGlZjmRZXBZwhjJUOJGFLkbvkAF7cRBPE
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.6TKb6Favu99x.m3u8?expires=1793459136&signature=1YbaYFUYJjb4CXsASRzP9BvhTrHRpCj6Fe3anvwPoeU
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",🟢 18:00 31/10 ⚽ Song Lam Nghe An vs Công An Nhân Dân (Moon Kight)
-https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.5WWPr6WuHOvc.m3u8?expires=1793458234&signature=8S9P_F1C2iAcXShvU0fRoIG_aepiXy9bVXKHbvKpLD0
+https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.5WWPr6WuHOvc.m3u8?expires=1793459133&signature=DIAXlGpvDFVaA2PtYqIkuE2PxzWwY1_ozssR1pa-_W8
 
 #EXTINF:-1 group-title="SPORT-TV" tvg-logo="",##### F1 - SKY SPORTS F1 #####
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457

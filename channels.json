@@ -274,56 +274,6 @@
           ]
         },
         {
-          "id": "CO LA TV-123500",
-          "name": "⚽ 12:35 | Dhamk vs Al-Okhdood",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5f0fa2c7f5502f43700281d32ee636d2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-123500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-123500",
-                  "name": "12:35 | Dhamk vs Al-Okhdood",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-123500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | Manchester United U19 vs AS Roma Youth",
           "type": "single",
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-113000",
+          "name": "⚽ 11:30 | Churchill Brothers vs North East Utd",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/0be01f850871a2273ca03ce2d085ab47.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-113000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-113000",
+                  "name": "11:30 | Churchill Brothers vs North East Utd",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-113000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/16226575.m3u8"
                         }
                       ]
                     }

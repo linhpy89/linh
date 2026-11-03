@@ -174,106 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-113500",
-          "name": "⚽ 11:35 | Shanghai vs Jiutai Rural Commercial Bank",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-113500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-113500",
-                  "name": "11:35 | Shanghai vs Jiutai Rural Commercial Bank",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-113500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Villarreal U19 vs Paris Saint Germain U19",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Villarreal U19 vs Paris Saint Germain U19",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/82054853.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | Feyenoord U19 vs Inter Milan Youth",
           "type": "single",
@@ -625,7 +525,7 @@
         },
         {
           "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Học viện Viseu U23 vs Torreense U23",
+          "name": "⚽ 15:00 | Academico Viseu U23 vs Torreense U23",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -652,7 +552,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-150000",
-                  "name": "15:00 | Học viện Viseu U23 vs Torreense U23",
+                  "name": "15:00 | Academico Viseu U23 vs Torreense U23",
                   "streams": [
                     {
                       "id": "CO LA TV-150000",
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/02456966.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-121500",
+          "name": "⚽ 12:15 | Kuching City FC vs Gangwon",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-121500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-121500",
+                  "name": "12:15 | Kuching City FC vs Gangwon",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-121500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/87547578.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-121500",
+          "name": "⚽ 12:15 | Vikingur Reykjavik Nữ vs CLB Tampines",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-121500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-121500",
+                  "name": "12:15 | Vikingur Reykjavik Nữ vs CLB Tampines",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-121500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/07428422.m3u8"
                         }
                       ]
                     }

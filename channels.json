@@ -125,56 +125,6 @@
         },
         {
           "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | Virginia vs Drexel",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | Virginia vs Drexel",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-003000",
           "name": "⚽ 00:30 | Alabama vs Sam Houston St.",
           "type": "single",
           "display": "thumbnail-only",
@@ -214,6 +164,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-003000",
+          "name": "⚽ 00:30 | Virginia vs Drexel",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-003000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-003000",
+                  "name": "00:30 | Virginia vs Drexel",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-003000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
                         }
                       ]
                     }
@@ -525,7 +525,7 @@
         },
         {
           "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | 四二五女足 vs Hồ Chí Minh Nữ",
+          "name": "⚽ 08:30 | April (W) vs Hồ Chí Minh W",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -552,7 +552,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-083000",
-                  "name": "08:30 | 四二五女足 vs Hồ Chí Minh Nữ",
+                  "name": "08:30 | April (W) vs Hồ Chí Minh W",
                   "streams": [
                     {
                       "id": "CO LA TV-083000",
@@ -575,7 +575,7 @@
         },
         {
           "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | CLB PSS Sleman vs PSGC Ciamis",
+          "name": "⚽ 08:30 | PSS Sleman vs PSGC Ciamis",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -602,7 +602,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-083000",
-                  "name": "08:30 | CLB PSS Sleman vs PSGC Ciamis",
+                  "name": "08:30 | PSS Sleman vs PSGC Ciamis",
                   "streams": [
                     {
                       "id": "CO LA TV-083000",
@@ -925,7 +925,7 @@
         },
         {
           "id": "CO LA TV-103000",
-          "name": "⚽ 10:30 | Kaya Fc Women vs Melbourne City Nữ",
+          "name": "⚽ 10:30 | Kaya Fc W vs Melbourne City W",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -952,7 +952,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-103000",
-                  "name": "10:30 | Kaya Fc Women vs Melbourne City Nữ",
+                  "name": "10:30 | Kaya Fc W vs Melbourne City W",
                   "streams": [
                     {
                       "id": "CO LA TV-103000",

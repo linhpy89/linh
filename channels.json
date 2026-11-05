@@ -225,6 +225,56 @@
         },
         {
           "id": "CO LA TV-174500",
+          "name": "⚽ 17:45 | Crystal Palace vs TSG 1899 Hoffenheim",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-174500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-174500",
+                  "name": "17:45 | Crystal Palace vs TSG 1899 Hoffenheim",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-174500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-174500",
           "name": "⚽ 17:45 | Anderlecht vs FC Red Bull Salzburg",
           "type": "single",
           "display": "thumbnail-only",
@@ -414,56 +464,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-174500",
-          "name": "⚽ 17:45 | Crystal Palace vs TSG 1899 Hoffenheim",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-174500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-174500",
-                  "name": "17:45 | Crystal Palace vs TSG 1899 Hoffenheim",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-174500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/08552895.m3u8"
                         }
                       ]
                     }
@@ -724,8 +724,8 @@
           ]
         },
         {
-          "id": "CO LA TV-184500",
-          "name": "⚽ 18:45 | Hapoel Tel-Aviv vs FC Barcelona",
+          "id": "CO LA TV-180000",
+          "name": "⚽ 18:00 | Fenerbahce vs Saski Baskonia",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -733,7 +733,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/ca224b11d94be0f26e2043aa8584db09.png!w80",
+            "url": "https://img.cltvap.cc/basketball/team/9b0fab2fcb670f18c7b275159b44cb48.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -747,15 +747,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-184500",
+              "id": "CO LA TV-180000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-184500",
-                  "name": "18:45 | Hapoel Tel-Aviv vs FC Barcelona",
+                  "id": "CO LA TV-180000",
+                  "name": "18:00 | Fenerbahce vs Saski Baskonia",
                   "streams": [
                     {
-                      "id": "CO LA TV-184500",
+                      "id": "CO LA TV-180000",
                       "name": "Chính",
                       "stream_links": [
                         {

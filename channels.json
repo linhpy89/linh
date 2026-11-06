@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-123000",
-          "name": "⚽ 12:30 | Smouha vs El Minya",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2859c6dc44290631fe151b7d306dfde6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-123000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-123000",
-                  "name": "12:30 | Smouha vs El Minya",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-123000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/18812304.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-133000",
           "name": "⚽ 13:30 | CLB Sogdiana Jizak vs Din. Samarkand",
           "type": "single",
@@ -914,56 +864,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33860426.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | Willem II vs PEC Zwolle",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/7b10a020a3acd1ed95d783a1dfa3498e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-190000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-190000",
-                  "name": "19:00 | Willem II vs PEC Zwolle",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-190000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/88508431.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-013000",
+          "name": "⚽ 01:30 | Golden State Warriors vs Orlando Magic",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-013000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-013000",
+                  "name": "01:30 | Golden State Warriors vs Orlando Magic",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-013000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-020000",
+          "name": "⚽ 02:00 | Phoenix suns vs Houston Rockets",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-020000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-020000",
+                  "name": "02:00 | Phoenix suns vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-020000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/89756030.m3u8"
                         }
                       ]
                     }

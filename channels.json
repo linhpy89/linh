@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-140000",
-          "name": "⚽ 14:00 | Sunderland vs Chelsea",
+          "id": "CO LA TV-163000",
+          "name": "⚽ 16:30 | Manchester United vs Aston Villa",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",
+            "url": "https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-140000",
+              "id": "CO LA TV-163000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-140000",
-                  "name": "14:00 | Sunderland vs Chelsea",
+                  "id": "CO LA TV-163000",
+                  "name": "16:30 | Manchester United vs Aston Villa",
                   "streams": [
                     {
-                      "id": "CO LA TV-140000",
+                      "id": "CO LA TV-163000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
+                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }
@@ -275,6 +275,56 @@
         },
         {
           "id": "CO LA TV-161500",
+          "name": "⚽ 16:15 | Le Havre vs FC Lorient",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-161500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-161500",
+                  "name": "16:15 | Le Havre vs FC Lorient",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-161500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/78905744.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-161500",
           "name": "⚽ 16:15 | Le Mans vs AS Monaco",
           "type": "single",
           "display": "thumbnail-only",
@@ -374,56 +424,6 @@
           ]
         },
         {
-          "id": "CO LA TV-161500",
-          "name": "⚽ 16:15 | Le Havre vs FC Lorient",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-161500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-161500",
-                  "name": "16:15 | Le Havre vs FC Lorient",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-161500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-163000",
           "name": "⚽ 16:30 | SC Freiburg vs 1. FC Union Berlin",
           "type": "single",
@@ -464,56 +464,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-163000",
-          "name": "⚽ 16:30 | Manchester United vs Aston Villa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-163000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-163000",
-                  "name": "16:30 | Manchester United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-163000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
                         }
                       ]
                     }

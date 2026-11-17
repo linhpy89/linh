@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-141000",
-          "name": "⚽ 14:10 | United Arab Emirates vs Syria",
+          "id": "CO LA TV-160000",
+          "name": "⚽ 16:00 | Nga vs Venezuela",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/1b141c19b8516ff9a26065d66ecd7146.png!w80",
+            "url": "https://img.cltvap.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-141000",
+              "id": "CO LA TV-160000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-141000",
-                  "name": "14:10 | United Arab Emirates vs Syria",
+                  "id": "CO LA TV-160000",
+                  "name": "16:00 | Nga vs Venezuela",
                   "streams": [
                     {
-                      "id": "CO LA TV-141000",
+                      "id": "CO LA TV-160000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/14830711.m3u8"
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
                         }
                       ]
                     }
@@ -124,56 +124,6 @@
           ]
         },
         {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Litva U19 vs Đức U19",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Litva U19 vs Đức U19",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/88508431.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | Jordan vs ĐTQG Úc",
           "type": "single",
@@ -214,6 +164,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Litva U19 vs Đức U19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/f2b6806d6ed60d2d87b0dd5ae62e6f20.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Litva U19 vs Đức U19",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/88508431.m3u8"
                         }
                       ]
                     }
@@ -375,56 +375,6 @@
         },
         {
           "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | Nga vs Venezuela",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ca3445d71de0ef386033037868c58d92.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | Nga vs Venezuela",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | Sierra Leone vs D.R. Congo",
           "type": "single",
           "display": "thumbnail-only",
@@ -525,56 +475,6 @@
         },
         {
           "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | ĐTQG Libya vs Tunisia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/da97f65bd113e490a5fab20c4a69f586.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | ĐTQG Libya vs Tunisia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07808742.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | dubai vs Anadolu Efes S.K.",
           "type": "single",
           "display": "thumbnail-only",
@@ -614,6 +514,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/90865415.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-161000",
+          "name": "⚽ 16:10 | ĐTQG Libya vs Tunisia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/da97f65bd113e490a5fab20c4a69f586.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-161000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-161000",
+                  "name": "16:10 | ĐTQG Libya vs Tunisia",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-161000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/07808742.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/88508431.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-130000",
+          "name": "⚽ 13:00 | Duhok vs Erbil",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/7befd62affd9e077714c9942164be43c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-130000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-130000",
+                  "name": "13:00 | Duhok vs Erbil",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-130000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/18812304.m3u8"
                         }
                       ]
                     }

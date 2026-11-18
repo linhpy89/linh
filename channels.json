@@ -74,56 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-015000",
-          "name": "⚽ 01:50 | America de Cali vs La Equidad",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-015000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-015000",
-                  "name": "01:50 | America de Cali vs La Equidad",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-015000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-030000",
           "name": "⚽ 03:00 | Nicaragua vs Montserrat",
           "type": "single",
@@ -474,8 +424,8 @@
           ]
         },
         {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Suwon FMC Nữ vs Gyeongju FC Nữ",
+          "id": "CO LA TV-095500",
+          "name": "⚽ 09:55 | Suwon FMC Nữ vs Gyeongju FC Nữ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -497,15 +447,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-100000",
+              "id": "CO LA TV-095500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Suwon FMC Nữ vs Gyeongju FC Nữ",
+                  "id": "CO LA TV-095500",
+                  "name": "09:55 | Suwon FMC Nữ vs Gyeongju FC Nữ",
                   "streams": [
                     {
-                      "id": "CO LA TV-100000",
+                      "id": "CO LA TV-095500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/14830711.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | Singapore U17 vs Palestine U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | Singapore U17 vs Palestine U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/82054853.m3u8"
                         }
                       ]
                     }

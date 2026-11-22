@@ -25,56 +25,6 @@
       "channels": [
         {
           "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | Gwangju FC vs Bucheon FC 1995",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-050000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-050000",
-                  "name": "05:00 | Gwangju FC vs Bucheon FC 1995",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-050000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-050000",
           "name": "⚽ 05:00 | Gimcheon Sangmu FC vs Jeju Utd",
           "type": "single",
           "display": "thumbnail-only",
@@ -124,8 +74,8 @@
           ]
         },
         {
-          "id": "CO LA TV-040000",
-          "name": "⚽ 04:00 | South East Melbourne vs Cairns Taipans",
+          "id": "CO LA TV-050000",
+          "name": "⚽ 05:00 | Gwangju FC vs Bucheon FC 1995",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -133,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/fb957ad093d309e8c337aeb83ebe7857.png!w80",
+            "url": "https://img.cltvap.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -147,15 +97,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-040000",
+              "id": "CO LA TV-050000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-040000",
-                  "name": "04:00 | South East Melbourne vs Cairns Taipans",
+                  "id": "CO LA TV-050000",
+                  "name": "05:00 | Gwangju FC vs Bucheon FC 1995",
                   "streams": [
                     {
-                      "id": "CO LA TV-040000",
+                      "id": "CO LA TV-050000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -163,7 +113,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/56998120.m3u8"
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-193000",
+          "name": "⚽ 19:30 | Ceuta vs CLB Almeria",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/cb76c8ffac95e7e5429aca574aab5deb.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-193000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-193000",
+                  "name": "19:30 | Ceuta vs CLB Almeria",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-193000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/97885009.m3u8"
                         }
                       ]
                     }

@@ -325,56 +325,6 @@
         },
         {
           "id": "CO LA TV-143000",
-          "name": "⚽ 14:30 | Al Riffa vs Al Zawraa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/bd2f7046b89c07c685e79343f976ec9e.jpg!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-143000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-143000",
-                  "name": "14:30 | Al Riffa vs Al Zawraa",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-143000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-143000",
           "name": "⚽ 14:30 | Cộng hòa Dominican U17 vs Chilê U17",
           "type": "single",
           "display": "thumbnail-only",
@@ -424,8 +374,8 @@
           ]
         },
         {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Brazil U17 vs Tanzania U17",
+          "id": "CO LA TV-144000",
+          "name": "⚽ 14:40 | Al Riffa vs Al Zawraa",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -433,7 +383,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
+            "url": "https://img.cltvap.cc/football/team/bd2f7046b89c07c685e79343f976ec9e.jpg!w80",
             "width": 1600,
             "height": 1200
           },
@@ -447,15 +397,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-150000",
+              "id": "CO LA TV-144000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Brazil U17 vs Tanzania U17",
+                  "id": "CO LA TV-144000",
+                  "name": "14:40 | Al Riffa vs Al Zawraa",
                   "streams": [
                     {
-                      "id": "CO LA TV-150000",
+                      "id": "CO LA TV-144000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -463,7 +413,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
                         }
                       ]
                     }
@@ -625,6 +575,56 @@
         },
         {
           "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Brazil U17 vs Tanzania U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Brazil U17 vs Tanzania U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
           "name": "⚽ 15:00 | Real Madrid U19 vs PSV U19",
           "type": "single",
           "display": "thumbnail-only",
@@ -714,56 +714,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Manchester City U19 vs Napoli U19",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f2c086fbf1d76565658571e7e9bccf2b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Manchester City U19 vs Napoli U19",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07428422.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4964,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/59444581.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-232000",
+          "name": "⚽ 23:20 | CLB Santa Fe vs CLB Once Caldas",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-232000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-232000",
+                  "name": "23:20 | CLB Santa Fe vs CLB Once Caldas",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-232000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/33860426.m3u8"
                         }
                       ]
                     }

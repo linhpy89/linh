@@ -74,106 +74,6 @@
           ]
         },
         {
-          "id": "CO LA TV-123000",
-          "name": "⚽ 12:30 | Costa Rica U17 vs Ireland U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-123000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-123000",
-                  "name": "12:30 | Costa Rica U17 vs Ireland U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-123000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-123000",
-          "name": "⚽ 12:30 | Venezuela U17 vs Romania U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/dfa3dc7c4d56d73f925a782bc6063a4b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-123000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-123000",
-                  "name": "12:30 | Venezuela U17 vs Romania U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-123000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-130000",
           "name": "⚽ 13:00 | Arsenal U19 vs Dortmund U19",
           "type": "single",
@@ -425,6 +325,56 @@
         },
         {
           "id": "CO LA TV-143000",
+          "name": "⚽ 14:30 | Al Riffa vs Al Zawraa",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/bd2f7046b89c07c685e79343f976ec9e.jpg!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-143000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-143000",
+                  "name": "14:30 | Al Riffa vs Al Zawraa",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-143000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/14707124.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-143000",
           "name": "⚽ 14:30 | Cộng hòa Dominican U17 vs Chilê U17",
           "type": "single",
           "display": "thumbnail-only",
@@ -474,8 +424,8 @@
           ]
         },
         {
-          "id": "CO LA TV-143000",
-          "name": "⚽ 14:30 | Al Riffa vs Al Zawraa",
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Brazil U17 vs Tanzania U17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -483,7 +433,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/bd2f7046b89c07c685e79343f976ec9e.jpg!w80",
+            "url": "https://img.cltvap.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -497,15 +447,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-143000",
+              "id": "CO LA TV-150000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-143000",
-                  "name": "14:30 | Al Riffa vs Al Zawraa",
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Brazil U17 vs Tanzania U17",
                   "streams": [
                     {
-                      "id": "CO LA TV-143000",
+                      "id": "CO LA TV-150000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -513,7 +463,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/14707124.m3u8"
+                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -664,56 +614,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/87547578.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Brazil U17 vs Tanzania U17",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Brazil U17 vs Tanzania U17",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
                         }
                       ]
                     }
@@ -5014,6 +4914,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/97885009.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-220000",
+          "name": "⚽ 22:00 | Philadelphia 76ers vs Miami Heat",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-220000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-220000",
+                  "name": "22:00 | Philadelphia 76ers vs Miami Heat",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-220000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-230000",
+          "name": "⚽ 23:00 | CLB Atletico Mineiro vs CLB Corinthians Paulista",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-230000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-230000",
+                  "name": "23:00 | CLB Atletico Mineiro vs CLB Corinthians Paulista",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-230000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/59444581.m3u8"
                         }
                       ]
                     }
